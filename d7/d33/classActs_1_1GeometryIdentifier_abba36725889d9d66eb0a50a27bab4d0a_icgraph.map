@@ -1,0 +1,24 @@
+<map id="Acts::GeometryIdentifier::setBits" name="Acts::GeometryIdentifier::setBits">
+<area shape="rect" id="node2" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ad8026c444eca861f1048624ef65c2134" title="Set the approach identifier." alt="" coords="243,229,432,273"/>
+<area shape="rect" id="node10" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ad16dff2f099c193e28416cd4d8ae4f13" title="Set the boundary identifier." alt="" coords="243,161,432,205"/>
+<area shape="rect" id="node11" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a78646d595690eed970f9de63db924590" title="Set the layer identifier." alt="" coords="243,365,432,409"/>
+<area shape="rect" id="node19" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a2251b0859f703d093338cb9afa1c73a1" title="Set the sensitive identifier." alt="" coords="243,297,432,341"/>
+<area shape="rect" id="node20" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a2fe70f2ef38b9a25d0a4b2cf8714c7b1" title="Set the volume identifier." alt="" coords="243,454,432,498"/>
+<area shape="rect" id="node3" href="$da/d28/classActs_1_1Layer.html#ab6d60981de89b4a5c85c45e10d10ecc1" title="Acts::Layer::closeGeometry" alt="" coords="501,57,709,85"/>
+<area shape="rect" id="node5" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#a61aa6839773e76847de7303ca65594f1" title="Acts::JsonGeometryConverter\l::jsonToMaterialMaps" alt="" coords="493,109,716,153"/>
+<area shape="rect" id="node8" href="$de/dc7/classActsExamples_1_1RootMaterialDecorator.html#a00027dacf9f561b0fbb1528709d91f29" title="ActsExamples::RootMaterial\lDecorator::RootMaterialDecorator" alt="" coords="480,297,729,341"/>
+<area shape="rect" id="node9" href="$de/d4a/classActsExamples_1_1RootMaterialTrackWriter.html#a79c1f0311920af6f8b762abc414228af" title="ActsExamples::RootMaterial\lTrackWriter::writeT" alt="" coords="499,229,710,273"/>
+<area shape="rect" id="node4" href="$dd/dcd/classActs_1_1TrackingVolume.html#ac6de1d95c699a6b3540a660de7467395" title="Acts::TrackingVolume\l::closeGeometry" alt="" coords="802,169,969,213"/>
+<area shape="rect" id="node6" href="$d7/db9/classActs_1_1JsonMaterialDecorator.html#a79ab506f5c49a643394182f7395d4a93" title="Acts::JsonMaterialDecorator\l::JsonMaterialDecorator" alt="" coords="780,49,991,93"/>
+<area shape="rect" id="node7" href="$db/d4a/MaterialMapJsonConverterTests_8cpp.html#ac6ee917aaf5ca1636fb950055005e27b" title="BOOST_AUTO_TEST_CASE" alt="" coords="787,117,983,145"/>
+<area shape="rect" id="node12" href="$df/dd4/namespaceActsExamples.html#a5d961f053cac8b1e1ebf373b9f31b9a0" title="Select all elements within the given layer." alt="" coords="503,589,707,617"/>
+<area shape="rect" id="node15" href="$dd/d7e/namespaceActs_1_1Test.html#a50b256557b44fa320e69f5606fec03e0" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="511,365,699,409"/>
+<area shape="rect" id="node16" href="$dd/d7e/namespaceActs_1_1Test.html#ad387949a0a6e1337c5da9be92b69cddd" title="Acts::Test::makeId" alt="" coords="532,485,677,513"/>
+<area shape="rect" id="node13" href="$dd/de5/classActsExamples_1_1PrintHits.html#acc4898b3a9ef4f0c20322c9f61a33682" title="ActsExamples::PrintHits\l::execute" alt="" coords="794,624,977,668"/>
+<area shape="rect" id="node14" href="$df/dd4/namespaceActsExamples.html#a26e8aa34f8cef7099e0ac5e63009f4cd" title="ActsExamples::selectLayer" alt="" coords="783,572,987,600"/>
+<area shape="rect" id="node17" href="$de/d9e/GeometryHierarchyMapTests_8cpp.html#a502876c301a2d027900878ee712e1ecb" title="BOOST_AUTO_TEST_CASE" alt="" coords="787,442,983,470"/>
+<area shape="rect" id="node18" href="$dd/d7e/namespaceActs_1_1Test.html#a15c45d9e89f33891295ed8665471ce5a" title="Unit test for CombinatorialKalmanFilter with measurements along the x&#45;axis." alt="" coords="791,494,979,538"/>
+<area shape="rect" id="node21" href="$df/dd4/namespaceActsExamples.html#a4fc10faa4562fc6b1871698519c13b13" title="Select all elements within the given volume." alt="" coords="497,641,713,669"/>
+<area shape="rect" id="node23" href="$d7/d3f/classActs_1_1GeometryHierarchyMapJsonConverter.html#a321a8225948693af1b2892c08fd984ce" title="Acts::GeometryHierarchyMap\lJsonConverter::decodeIdentifier" alt="" coords="486,693,723,737"/>
+<area shape="rect" id="node22" href="$df/dd4/namespaceActsExamples.html#a9dd4e5332db2cd1ef9c939ab82d08cd3" title="ActsExamples::selectVolume" alt="" coords="777,692,993,720"/>
+</map>

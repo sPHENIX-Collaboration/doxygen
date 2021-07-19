@@ -1,0 +1,51 @@
+<map id="coresoftware/blob/master/simulation/g4simulation/g4eval/BaseTruthEval.h" name="coresoftware/blob/master/simulation/g4simulation/g4eval/BaseTruthEval.h">
+<area shape="rect" id="node2" href="$dd/dc8/BaseTruthEval_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/BaseTruthEval.cc" alt="" coords="2387,113,2581,173"/>
+<area shape="rect" id="node3" href="$d0/d8a/CaloTruthEval_8h.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/CaloTruthEval.h" alt="" coords="2605,113,2800,173"/>
+<area shape="rect" id="node30" href="$d7/d20/SvtxTruthEval_8h.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/SvtxTruthEval.h" alt="" coords="5091,437,5285,497"/>
+<area shape="rect" id="node49" href="$dc/ddc/SvtxTruthEval_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/SvtxTruthEval.cc" alt="" coords="6583,545,6777,605"/>
+<area shape="rect" id="node4" href="$d1/d35/EMCalAna_8C.html" title="analysis/blob/master\l/EMCal&#45;analysis/EMCalAna\l/EMCalAna.C" alt="" coords="3895,545,4095,605"/>
+<area shape="rect" id="node5" href="$df/da3/EMCalLikelihood_8C.html" title="analysis/blob/master\l/EMCal&#45;analysis/EMCalAna\l/EMCalLikelihood.C" alt="" coords="3167,545,3367,605"/>
+<area shape="rect" id="node6" href="$db/d74/EMCalCalib_8C.html" title="analysis/blob/master\l/EMCal&#45;calibration/EMCalCalib\l/EMCalCalib.C" alt="" coords="591,545,817,605"/>
+<area shape="rect" id="node7" href="$db/dee/EMCalCalib__TestBeam_8C.html" title="analysis/blob/master\l/Prototype2/EMCal/EMCalCalib\l_TestBeam/EMCalCalib_TestBeam.C" alt="" coords="61,545,323,605"/>
+<area shape="rect" id="node8" href="$d1/dda/Proto4SampleFrac_8C.html" title="analysis/blob/master\l/Prototype4/HCal/SampleFrac\l/Proto4SampleFrac.C" alt="" coords="347,545,567,605"/>
+<area shape="rect" id="node9" href="$d0/d0b/CaloRawTowerEval_8h.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/CaloRawTowerEval.h" alt="" coords="1512,221,1728,281"/>
+<area shape="rect" id="node15" href="$d8/dc0/CaloRawClusterEval_8h.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/CaloRawClusterEval.h" alt="" coords="2327,329,2551,389"/>
+<area shape="rect" id="node19" href="$dc/da9/CaloEvalStack_8h.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/CaloEvalStack.h" alt="" coords="2121,437,2316,497"/>
+<area shape="rect" id="node22" href="$d0/d13/CaloEvaluator_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/CaloEvaluator.cc" alt="" coords="841,545,1036,605"/>
+<area shape="rect" id="node23" href="$dd/d51/EventEvaluator_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/EventEvaluator.cc" alt="" coords="1571,545,1770,605"/>
+<area shape="rect" id="node26" href="$da/dbb/JetTruthEval_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/JetTruthEval.cc" alt="" coords="4212,653,4407,713"/>
+<area shape="rect" id="node27" href="$d5/d54/CaloRawClusterEval_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/CaloRawClusterEval.cc" alt="" coords="2882,437,3113,497"/>
+<area shape="rect" id="node28" href="$d1/def/CaloRawTowerEval_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/CaloRawTowerEval.cc" alt="" coords="2957,329,3179,389"/>
+<area shape="rect" id="node29" href="$db/dc5/CaloTruthEval_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/CaloTruthEval.cc" alt="" coords="3304,221,3499,281"/>
+<area shape="rect" id="node10" href="$d7/d51/DISKinematicsReco_8C.html" title="analysis/blob/master\l/EICAnalysis/DISKinematicsReco.C" alt="" coords="1061,553,1313,597"/>
+<area shape="rect" id="node11" href="$d0/dfd/LeptoquarksReco_8C.html" title="analysis/blob/master\l/EICAnalysis/LeptoquarksReco.C" alt="" coords="1293,337,1531,381"/>
+<area shape="rect" id="node12" href="$dd/d4c/TrackProjectionTools_8C.html" title="analysis/blob/master\l/EICAnalysis/TrackProjection\lTools.C" alt="" coords="1337,545,1548,605"/>
+<area shape="rect" id="node13" href="$d0/dd3/SimpleTrackingAnalysis_8C.html" title="analysis/blob/master\l/SimpleTrackingAnalysis\l/SimpleTrackingAnalysis.C" alt="" coords="3391,545,3591,605"/>
+<area shape="rect" id="node14" href="$dd/d68/STACalorimeterCharacterization_8C.html" title="analysis/blob/master\l/SimpleTrackingAnalysis\l/STACalorimeterCharacterization.C" alt="" coords="3615,545,3871,605"/>
+<area shape="rect" id="node25" href="$d2/da2/JetRecoEval_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/JetRecoEval.cc" alt="" coords="2007,653,2201,713"/>
+<area shape="rect" id="node16" href="$dc/d0a/SynRadAna_8cc.html" title="analysis/blob/master\l/EIC&#45;SynRad/SynRadAna\l/SynRadAna.cc" alt="" coords="4119,545,4305,605"/>
+<area shape="rect" id="node17" href="$da/d1b/QAG4SimulationCalorimeter_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lCalorimeter.cc" alt="" coords="2820,545,3092,605"/>
+<area shape="rect" id="node18" href="$d4/d11/QAG4SimulationCalorimeterSum_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lCalorimeterSum.cc" alt="" coords="2524,545,2796,605"/>
+<area shape="rect" id="node20" href="$dc/dd5/ExclusiveReco_8C.html" title="analysis/blob/master\l/EICAnalysis/ExclusiveReco.C" alt="" coords="1844,553,2063,597"/>
+<area shape="rect" id="node21" href="$d0/dcc/CaloEvalStack_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/CaloEvalStack.cc" alt="" coords="2087,545,2281,605"/>
+<area shape="rect" id="node24" href="$de/d49/JetTruthEval_8h.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/JetTruthEval.h" alt="" coords="2305,545,2500,605"/>
+<area shape="rect" id="node31" href="$dc/d3d/SvtxSimPerformanceCheckReco_8C.html" title="analysis/blob/master\l/SvtxSimPerformanceCheckReco\l/SvtxSimPerformanceCheckReco.C" alt="" coords="5767,545,6022,605"/>
+<area shape="rect" id="node32" href="$df/dd2/RecoInfoExport_8C.html" title="analysis/blob/master\l/Test/RecoInfoExport\l/RecoInfoExport.C" alt="" coords="6047,545,6209,605"/>
+<area shape="rect" id="node33" href="$d6/d9d/TrackingPerformanceCheck_8C.html" title="analysis/blob/master\l/TPC/TrackingPerformance\l/TrackingPerformanceCheck.C" alt="" coords="6233,545,6457,605"/>
+<area shape="rect" id="node34" href="$de/de1/FastTrackingEval_8cc.html" title="Evaluation module for PHG4TrackFastSim output." alt="" coords="6083,769,6283,829"/>
+<area shape="rect" id="node35" href="$d9/da3/AnaSvtxTracksForGenFit_8cc.html" title="analysis/blob/master\l/Tracking/GenFitTest\l/AnaSvtxTracksForGenFit\l/AnaSvtxTracksForGenFit.cc" alt="" coords="5187,761,5395,837"/>
+<area shape="rect" id="node36" href="$da/d48/GenFitTrackProp_8cc.html" title="Example module to extrapolate SvtxTrack with GenFit swiming." alt="" coords="4354,769,4550,829"/>
+<area shape="rect" id="node37" href="$d6/dd4/KFParticle__truthAndDetTools_8h.html" title="coresoftware/blob/master\l/offline/packages/KFParticle\l_sPHENIX/KFParticle_truthAndDetTools.h" alt="" coords="4574,769,4866,829"/>
+<area shape="rect" id="node41" href="$dd/da2/QAG4SimulationTpc_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lTpc.cc" alt="" coords="4891,769,5163,829"/>
+<area shape="rect" id="node42" href="$d8/d04/QAG4SimulationTracking_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lTracking.cc" alt="" coords="4532,545,4804,605"/>
+<area shape="rect" id="node43" href="$dc/dcd/QAG4SimulationUpsilon_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lUpsilon.cc" alt="" coords="4828,545,5100,605"/>
+<area shape="rect" id="node44" href="$d7/d98/SvtxHitEval_8h.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/SvtxHitEval.h" alt="" coords="5225,545,5420,605"/>
+<area shape="rect" id="node46" href="$d7/dbf/SvtxClusterEval_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/SvtxClusterEval.cc" alt="" coords="5419,769,5621,829"/>
+<area shape="rect" id="node47" href="$d7/dd1/SvtxEvaluator_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/SvtxEvaluator.cc" alt="" coords="5645,769,5840,829"/>
+<area shape="rect" id="node48" href="$d5/d71/SvtxTrackEval_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/SvtxTrackEval.cc" alt="" coords="5864,769,6059,829"/>
+<area shape="rect" id="node50" href="$d3/de1/SvtxVertexEval_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/SvtxVertexEval.cc" alt="" coords="5495,545,5692,605"/>
+<area shape="rect" id="node38" href="$dc/df7/KFParticle__DST_8cc.html" title="coresoftware/blob/master\l/offline/packages/KFParticle\l_sPHENIX/KFParticle_DST.cc" alt="" coords="4377,885,4586,945"/>
+<area shape="rect" id="node39" href="$d9/dd5/KFParticle__nTuple_8h.html" title="coresoftware/blob/master\l/offline/packages/KFParticle\l_sPHENIX/KFParticle_nTuple.h" alt="" coords="4610,885,4830,945"/>
+<area shape="rect" id="node40" href="$d1/d46/KFParticle__truthAndDetTools_8cc.html" title="coresoftware/blob/master\l/offline/packages/KFParticle\l_sPHENIX/KFParticle_truthAndDetTools.cc" alt="" coords="4855,885,5153,945"/>
+<area shape="rect" id="node45" href="$d7/dcd/SvtxClusterEval_8h.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4eval/SvtxClusterEval.h" alt="" coords="5293,653,5489,713"/>
+</map>

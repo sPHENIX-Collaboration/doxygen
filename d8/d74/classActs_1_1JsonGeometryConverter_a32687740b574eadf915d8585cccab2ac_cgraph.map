@@ -1,0 +1,13 @@
+<map id="Acts::JsonGeometryConverter::convertToRep" name="Acts::JsonGeometryConverter::convertToRep">
+<area shape="rect" id="node2" href="$d7/d33/classActs_1_1GeometryIdentifier.html#af844a7c6ef60a5c3118d95f563ca3b0f" title="Return the approach identifier." alt="" coords="311,5,500,49"/>
+<area shape="rect" id="node5" href="$da/d28/classActs_1_1Layer.html#a60dfe967e40e13f1fda38471c2a244a3" title="Return method for the approach descriptor, can be nullptr." alt="" coords="285,73,525,101"/>
+<area shape="rect" id="node6" href="$d5/db4/classActs_1_1ApproachDescriptor.html#ace7cc582d550b3d94d2c5eba54436bdb" title="Acts::ApproachDescriptor\l::containedSurfaces" alt="" coords="308,125,503,169"/>
+<area shape="rect" id="node7" href="$d3/d07/classActs_1_1GeometryObject.html#abc805e37f184d25c4d25b5f99330125c" title="Acts::GeometryObject\l::geometryId" alt="" coords="319,193,491,237"/>
+<area shape="rect" id="node8" href="$d7/d33/classActs_1_1GeometryIdentifier.html#afb698536104f96ff92d3c8bdb7aaa3a7" title="Return the sensitive identifier." alt="" coords="311,261,500,305"/>
+<area shape="rect" id="node9" href="$da/d28/classActs_1_1Layer.html#aeaafcf3e3f697e4d2df6a1808905ed24" title="Return the entire SurfaceArray, returns a nullptr if no SurfaceArray." alt="" coords="309,329,501,357"/>
+<area shape="rect" id="node10" href="$de/d7d/classActs_1_1Surface.html#a1078beb10771d55a7b35d623eafcb6b5" title="Acts::Surface::surfaceMaterial" alt="" coords="293,381,518,409"/>
+<area shape="rect" id="node11" href="$da/d28/classActs_1_1Layer.html#a43b7c36c2aac940f5bd8fd89d4a2fa89" title="Acts::Layer::surfaceRepresentation" alt="" coords="276,433,535,461"/>
+<area shape="rect" id="node12" href="$d5/dd2/classActs_1_1SurfaceArray.html#aa3939ab2ab74cccea500073db6008bed" title="Get all surfaces attached to this SurfaceArray." alt="" coords="331,485,479,529"/>
+<area shape="rect" id="node3" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a5fc08ada52c3da4d9b255e0454739e1d" title="Extract the masked bits from the encoded value." alt="" coords="583,133,772,177"/>
+<area shape="rect" id="node4" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ac13065798464cc86b747086eea9020e2" title="Extract the bit shift necessary to access the masked values." alt="" coords="820,133,1009,177"/>
+</map>

@@ -1,0 +1,27 @@
+var classReadMLPnew =
+[
+    [ "ReadMLPnew", "d7/d56/classReadMLPnew.html#a35ab2f88e1449f0458d1b4db992295c9", null ],
+    [ "~ReadMLPnew", "d7/d56/classReadMLPnew.html#a7bdb0380455b6b521a7ec89492a31293", null ],
+    [ "ActivationFnc", "d7/d56/classReadMLPnew.html#aa0eb3496bdc2d6eb5447890b11236faa", null ],
+    [ "Clear", "d7/d56/classReadMLPnew.html#a17a082d12a379aa8cb63bc16e8ff4e4e", null ],
+    [ "GetMvaValue", "d7/d56/classReadMLPnew.html#add643469c5db915a3301214932dec921", null ],
+    [ "GetMvaValue__", "d7/d56/classReadMLPnew.html#a180725ca45b9b7eb4a21b556cfb42e00", null ],
+    [ "GetNvar", "d7/d56/classReadMLPnew.html#a8936f6d7a8f48b7a8a1cf7fc9c2827b0", null ],
+    [ "GetType", "d7/d56/classReadMLPnew.html#a0d4dc7b7505f85e52a52acc090cffc6b", null ],
+    [ "Initialize", "d7/d56/classReadMLPnew.html#af28674f17f447da275c964cd3e45c123", null ],
+    [ "InitTransform", "d7/d56/classReadMLPnew.html#abbc91842915953ba8c6f16ddec28d8c1", null ],
+    [ "InitTransform_1", "d7/d56/classReadMLPnew.html#a80931d43f6c47c9062eca16546336a04", null ],
+    [ "NormVariable", "d7/d56/classReadMLPnew.html#a005e21ebdf29817083dfb05b229a7364", null ],
+    [ "OutputActivationFnc", "d7/d56/classReadMLPnew.html#aa5e37037e40b8da68f4ae08961de08b8", null ],
+    [ "Transform", "d7/d56/classReadMLPnew.html#a6f48408fe44b099d88775fae6eb157eb", null ],
+    [ "Transform_1", "d7/d56/classReadMLPnew.html#a82b21bde37b36fe3061ae3cc7a398650", null ],
+    [ "fClassName", "d7/d56/classReadMLPnew.html#acc5f9fc9b7fb8f35f51137b884ed1faa", null ],
+    [ "fNvars", "d7/d56/classReadMLPnew.html#a92d3003342a78d16e3144c635c9febad", null ],
+    [ "fOff_1", "d7/d56/classReadMLPnew.html#a1b28ffb13c42cd480cd1ac158d92a320", null ],
+    [ "fScal_1", "d7/d56/classReadMLPnew.html#a21d51790675c02ecfe3326d86d1f51cb", null ],
+    [ "fType", "d7/d56/classReadMLPnew.html#a859454c14796b8f00bf52cb27570bfcb", null ],
+    [ "fVmax", "d7/d56/classReadMLPnew.html#a895f52b33211462d2618564a9bc09616", null ],
+    [ "fVmin", "d7/d56/classReadMLPnew.html#a18e96ff8d5708c67276da61a7800b673", null ],
+    [ "fWeightMatrix0to1", "d7/d56/classReadMLPnew.html#a15380bca68d9cf3fcde9066671169376", null ],
+    [ "fWeightMatrix1to2", "d7/d56/classReadMLPnew.html#a35522d866adc2b48cf0b676ac9a5d797", null ]
+];

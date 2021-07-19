@@ -1,0 +1,51 @@
+<map id="PHG4Hit::get_z" name="PHG4Hit::get_z">
+<area shape="rect" id="node2" href="$db/dca/classSetupDualRICHAnalyzer.html#a2950176f0459cff50b883ecca6a29373" title="SetupDualRICHAnalyzer\l::calculate_emission_angle" alt="" coords="189,79,391,123"/>
+<area shape="rect" id="node3" href="$d8/dea/classRICHEvaluator.html#a6f910e41350cb9b89acc8029e5769762" title="RICHEvaluator::process\l_event" alt="" coords="474,19,653,63"/>
+<area shape="rect" id="node5" href="$d3/d5f/classCylinderGeomMicromegas.html#af79eff31b968879a026b8730f1d79202" title="convert g4hit coordinates from cylinder Micromegas to planar" alt="" coords="190,147,390,191"/>
+<area shape="rect" id="node6" href="$d3/d9e/classPHG4Hit.html#a9849ab6aeb1834f2d57461f2a5cd093d" title="PHG4Hit::CopyFrom" alt="" coords="213,215,367,243"/>
+<area shape="rect" id="node9" href="$de/da4/classEMCalCalib.html#ac80fa52a42070fa6210a5c69f9c10fed" title="project a photon to calorimeters and collect towers around it" alt="" coords="196,747,384,775"/>
+<area shape="rect" id="node12" href="$db/d4b/classEMCalAna.html#a058c1f2ec1ef8b8f7786737eb6e3151b" title="EMCalAna::eval_trk" alt="" coords="214,1039,366,1067"/>
+<area shape="rect" id="node16" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a0fd261422264aedc22d0506ef5e897c4" title="dump the evaluator information into ntuple for external analysis" alt="" coords="476,335,651,379"/>
+<area shape="rect" id="node18" href="$d8/d98/classpsTOFTimezeroEval.html#ae9fd1570652089bed4ec7eb81009b318" title="dump the evaluator information into ntuple for external analysis" alt="" coords="482,455,645,499"/>
+<area shape="rect" id="node20" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="972,855,1160,899"/>
+<area shape="rect" id="node22" href="$d3/d9e/classPHG4Hit.html#a7dce2f1e781d7c94af5b27400165d76c" title="PHG4Hit::get_avg_z" alt="" coords="213,833,367,861"/>
+<area shape="rect" id="node29" href="$d9/d24/classPHTruthClustering.html#aee80526d7f36911ddba2c734845e6eea" title="PHTruthClustering::\lLayerClusterG4Hits" alt="" coords="487,1343,639,1387"/>
+<area shape="rect" id="node31" href="$d4/de4/classSvtxTruthEval.html#a6bfd9cc85d5e568a114876331998d84b" title="SvtxTruthEval::LayerCluster\lG4Hits" alt="" coords="459,1275,668,1319"/>
+<area shape="rect" id="node36" href="$df/d26/classProto4SampleFrac.html#a0233b792645a661433b6874cfd589e96" title="Standard function called at each event." alt="" coords="461,1411,665,1455"/>
+<area shape="rect" id="node40" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a25f5176857128e2009be02655d32dabe" title="print out the ancestry information for detailed diagnosis" alt="" coords="203,267,377,311"/>
+<area shape="rect" id="node41" href="$d8/d98/classpsTOFTimezeroEval.html#a506f1d899507a34d445b7c1bbf514fb0" title="print out the ancestry information for detailed diagnosis" alt="" coords="209,335,371,379"/>
+<area shape="rect" id="node42" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="176,1091,404,1119"/>
+<area shape="rect" id="node43" href="$d8/dc7/classMomentumEvaluator.html#a57a5a38c5590636286793eadcacddbad" title="MomentumEvaluator::\lprocess_event" alt="" coords="205,1143,375,1187"/>
+<area shape="rect" id="node44" href="$d6/d5c/classPHG4MicromegasHitReco.html#af30c57b241621866a33dab76ccbadbaa" title="event processing" alt="" coords="194,1211,386,1255"/>
+<area shape="rect" id="node45" href="$dd/d9d/classPHG4TruthEventAction.html#ae3f2e6fb721a5bf18566688160ccc273" title="PHG4TruthEventAction\l::ProcessShowers" alt="" coords="203,1279,377,1323"/>
+<area shape="rect" id="node47" href="$dc/d04/classPHG4TpcSteppingAction.html#a07949d3df0d1a4345675bc7fc2787333" title="stepping action" alt="" coords="197,1347,383,1391"/>
+<area shape="rect" id="node48" href="$db/d97/classPHG4HcalSteppingAction.html#a8e7f7455c1bd0131036f960d54fdc973" title="stepping action" alt="" coords="195,1415,385,1459"/>
+<area shape="rect" id="node49" href="$da/d58/classPHG4CylinderSteppingAction.html#a36deff66c7ba2e6ae97d234ec1efce2d" title="stepping action" alt="" coords="181,1483,399,1527"/>
+<area shape="rect" id="node50" href="$de/dea/classPHG4SpacalSteppingAction.html#ad27b2325877c9d504389c79a338d25fe" title="stepping action" alt="" coords="187,1551,393,1595"/>
+<area shape="rect" id="node4" href="$dc/d11/classRICHParticleID.html#a6a405f148fafb5d7a36c60626507e5f7" title="RICHParticleID::process\l_event" alt="" coords="474,87,653,131"/>
+<area shape="rect" id="node7" href="$d5/d60/classPHG4HitEval.html#aa047ef4c978433f49e1b6f39050cc075" title="PHG4HitEval::CopyFrom" alt="" coords="472,180,655,208"/>
+<area shape="rect" id="node8" href="$d5/d60/classPHG4HitEval.html#a01e507ac99396484a9e138e92bf2cead" title="PHG4HitEval::PHG4HitEval" alt="" coords="723,180,924,208"/>
+<area shape="rect" id="node10" href="$de/da4/classEMCalCalib.html#a8d33bc88a464878c873f29c9230ce7fe" title="EMCalCalib::process\l_event_MCPhoton" alt="" coords="485,523,642,567"/>
+<area shape="rect" id="node11" href="$de/da4/classEMCalCalib.html#aa70da6270813e434e35da37b6ec2a350" title="EMCalCalib::process\l_event" alt="" coords="745,659,902,703"/>
+<area shape="rect" id="node13" href="$db/d4b/classEMCalAna.html#a2e20101b8705ea086e2c7de88e95767d" title="EMCalAna::process_event_Trk" alt="" coords="452,1479,675,1507"/>
+<area shape="rect" id="node15" href="$db/d4b/classEMCalAna.html#a9647db89feef6823b38bbdeaf7de06c2" title="EMCalAna::process_event\l_UpslisonTrig" alt="" coords="465,1531,661,1575"/>
+<area shape="rect" id="node14" href="$db/d4b/classEMCalAna.html#a3b829b80df0fd8625130f3d9c11f5d3d" title="EMCalAna::process_event" alt="" coords="725,1479,921,1507"/>
+<area shape="rect" id="node17" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="736,240,911,284"/>
+<area shape="rect" id="node19" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="742,325,905,369"/>
+<area shape="rect" id="node21" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1208,855,1384,899"/>
+<area shape="rect" id="node23" href="$d1/d1e/classSvtxClusterEval.html#ae03ae27b5a477c3c426d6a5033c359b2" title="SvtxClusterEval::all\l_truth_hits_by_nhit" alt="" coords="487,727,639,771"/>
+<area shape="rect" id="node24" href="$dc/dbd/classTimingNtuple.html#a4ba7779ae5f04d79a0ec873455c1c2cd" title="TimingNtuple::get_dtotal" alt="" coords="469,915,658,943"/>
+<area shape="rect" id="node26" href="$d7/d34/classSigmaTimingNtuple.html#a5705380f296b48d620d11ed3bc205a96" title="SigmaTimingNtuple::\lget_dtotal" alt="" coords="482,967,645,1011"/>
+<area shape="rect" id="node28" href="$d1/d1e/classSvtxClusterEval.html#abd7851ec294047271ce26d8824d2af81" title="SvtxClusterEval::gtrackid\l_and_layer_by_nhit" alt="" coords="468,1087,659,1131"/>
+<area shape="rect" id="node33" href="$d5/dc4/PHG4Hit_8cc.html#afbcbcb188457ac445ab8006d1f886cca" title="operator\&lt;\&lt;" alt="" coords="513,1155,614,1183"/>
+<area shape="rect" id="node34" href="$d9/d91/classPHG4TrackFastSim.html#a8719b0f3dfc22c2f7f347acd248ef0e7" title="PHG4TrackFastSim::PHG4Hit\lToMeasurementCylinder" alt="" coords="457,1207,670,1251"/>
+<area shape="rect" id="node35" href="$d9/d91/classPHG4TrackFastSim.html#af6bcba5ddd7141124c6dae02aa7ee673" title="PHG4TrackFastSim::PHG4Hit\lToMeasurementVerticalPlane" alt="" coords="455,591,672,635"/>
+<area shape="rect" id="node37" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a5b70cca03633b9708a6aea0b57e21272" title="QAG4SimulationCalorimeter\l::process_event_G4Hit" alt="" coords="457,659,669,703"/>
+<area shape="rect" id="node38" href="$db/d4b/classEMCalAna.html#ab478dd11f24604db6fece30078120c73" title="EMCalAna::process_event_SF" alt="" coords="454,1035,673,1063"/>
+<area shape="rect" id="node39" href="$de/da4/classEMCalCalib.html#af3ce97ca1edf6391105d268935e2872f" title="EMCalCalib::process\l_event_SF" alt="" coords="485,795,642,839"/>
+<area shape="rect" id="node25" href="$dc/dbd/classTimingNtuple.html#adf24fa2fd8c06ba951db5b39c1b00a56" title="event processing method" alt="" coords="736,915,911,959"/>
+<area shape="rect" id="node27" href="$d7/d34/classSigmaTimingNtuple.html#a65024b521bbe857fcd13511817f89865" title="event processing method" alt="" coords="742,983,905,1027"/>
+<area shape="rect" id="node30" href="$d9/d24/classPHTruthClustering.html#a8fb52ae244819fcfc7e7530f2beaddc9" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="748,1343,899,1387"/>
+<area shape="rect" id="node32" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="754,1163,893,1207"/>
+<area shape="rect" id="node46" href="$dd/d9d/classPHG4TruthEventAction.html#a6e21705bda487e9e4110fb8c7910240d" title="PHG4TruthEventAction\l::EndOfEventAction" alt="" coords="477,1599,650,1643"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="genfit::GFTracksToTracks" name="genfit::GFTracksToTracks">
+<area shape="rect" id="node2" href="$dc/d22/namespacegenfit.html#a16248965fc33843bb4f2d9bd8b0a7ce7" title="genfit::GFTrackToTrack" alt="" coords="240,368,413,396"/>
+<area shape="rect" id="node3" href="$d6/d8a/classgenfit_1_1Track.html#ad06e7a012624bdb03960826b5c9fcd93" title="Get FitStatus for a AbsTrackRep. Per default, return FitStatus for cardinalRep." alt="" coords="477,26,672,54"/>
+<area shape="rect" id="node5" href="$d0/d8d/classgenfit_1_1FitStatus.html#a56371ce504bee72fcf2f9324ddcb91a8" title="Did the fit converge (in all Points or only partially)?" alt="" coords="507,137,643,181"/>
+<area shape="rect" id="node6" href="$d6/d8a/classgenfit_1_1Track.html#abf156957d701a9a10a02fef8ac54e4d9" title="Shortcut to get FittedStates." alt="" coords="488,205,661,249"/>
+<area shape="rect" id="node11" href="$d2/d74/classgenfit_1_1MeasuredStateOnPlane.html#a3aab44a6c7155b8258fa34469bc45bc0" title="genfit::MeasuredStateOnPlane\l::getPosMomCov" alt="" coords="461,325,688,369"/>
+<area shape="rect" id="node14" href="$d0/d8d/classgenfit_1_1FitStatus.html#a7e8ed1d97eec3e3164dc2dd782f5cb85" title="Get the fitted charge." alt="" coords="507,393,643,437"/>
+<area shape="rect" id="node15" href="$d0/d8d/classgenfit_1_1FitStatus.html#abbeeda61574c284f1d762088b3644770" title="Get chi^2 of the fit." alt="" coords="507,461,643,505"/>
+<area shape="rect" id="node16" href="$d0/d8d/classgenfit_1_1FitStatus.html#aa73b3566657ea37bf8ab5102d465025d" title="Get the degrees of freedom of the fit." alt="" coords="507,529,643,573"/>
+<area shape="rect" id="node17" href="$de/d82/namespacerelease.html#ac63a4e24ae2a10afe15fb33e11a485c2" title="release.tag" alt="" coords="527,614,623,642"/>
+<area shape="rect" id="node4" href="$d6/d8a/classgenfit_1_1Track.html#a402b35300e81a48c7f0b9eb082b1cf24" title="Get cardinal track representation." alt="" coords="984,48,1201,76"/>
+<area shape="rect" id="node7" href="$d6/d8a/classgenfit_1_1Track.html#ad8961b1ff4809ccde5f6f100ffbccb9d" title="genfit::Track::getPointWith\lFitterInfo" alt="" coords="736,69,936,113"/>
+<area shape="rect" id="node8" href="$d8/db3/classgenfit_1_1Exception.html#a13619975a1e1be5c1bd504b254e01f7a" title="Set fatal flag." alt="" coords="764,137,908,181"/>
+<area shape="rect" id="node9" href="$db/d40/classgenfit_1_1TrackPoint.html#ae8b3e743fb436dd6689e0dad4c35ffd9" title="Get fitterInfo for rep. Per default, use cardinal rep." alt="" coords="767,205,905,249"/>
+<area shape="rect" id="node10" href="$d9/d8c/classgenfit_1_1AbsFitterInfo.html#a985d0203f46dfbd5dc253bb03b21d76f" title="genfit::AbsFitterInfo\l::getFittedState" alt="" coords="759,273,913,317"/>
+<area shape="rect" id="node12" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a14f25e4575846dcb14bd91ddb2a534d2" title="genfit::StateOnPlane\l::getRep" alt="" coords="755,341,917,385"/>
+<area shape="rect" id="node13" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#ae6f4c4eeb3e4fbadcc930f53e2ca4ad7" title="Translates MeasuredStateOnPlane into 3D position, momentum and 6x6 covariance." alt="" coords="758,409,914,453"/>
+<area shape="rect" id="node18" href="$de/d82/namespacerelease.html#a44eacb239a3470341e19e7cef690bcbf" title="release.get_current\l_branch" alt="" coords="759,477,913,521"/>
+<area shape="rect" id="node19" href="$de/d82/namespacerelease.html#a23ccb4765230c4db38ba2dd5320597ce" title="release.split_version" alt="" coords="757,545,915,573"/>
+<area shape="rect" id="node20" href="$de/d82/namespacerelease.html#ade2f0fa1de108c5a0879b42a5876362e" title="release.format_version" alt="" coords="748,597,924,625"/>
+<area shape="rect" id="node21" href="$d6/d72/namespaceutil.html#ac8015eb2508544e525f64f4bd01fd5d8" title="util.Spinner" alt="" coords="1043,678,1143,706"/>
+<area shape="rect" id="node22" href="$de/d82/namespacerelease.html#a6389d77b4d19ef3218eec0ddc3b0db0f" title="release.check_branch\l_exists" alt="" coords="752,701,920,745"/>
+<area shape="rect" id="node23" href="$dc/d11/Prototype2_2EMCal_2macros_2SaveCanvas_8m.html#a8efe7494567713c8ec7a6803834a0bb6" title="print" alt="" coords="809,769,863,797"/>
+<area shape="rect" id="node24" href="$de/d82/namespacerelease.html#a831d8ad05fd79f8b6986a6bcea97c138" title="release.confirm" alt="" coords="773,821,899,849"/>
+</map>

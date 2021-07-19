@@ -1,0 +1,51 @@
+<map id="RecoConversionEval::process_event" name="RecoConversionEval::process_event">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="799,7,910,35"/>
+<area shape="rect" id="node4" href="$d7/d8b/classSvtxTrackMap.html#ad2331baa3dff9acb452f5329334e2803" title="SvtxTrackMap::begin" alt="" coords="774,59,935,87"/>
+<area shape="rect" id="node5" href="$df/d9b/classRecoConversionEval.html#a7de16e316b2ebedef53f336a9c568c14" title="Uses the TMVA method to correct the vtx radius." alt="" coords="227,783,419,827"/>
+<area shape="rect" id="node14" href="$d2/db8/classSvtxTrack.html#af6f03ad537260f2ceef84cf876e22deb" title="SvtxTrack::get_pt" alt="" coords="785,475,924,503"/>
+<area shape="rect" id="node19" href="$df/d9b/classRecoConversionEval.html#ab5e60cc47b4b3d33f9fdb4a83c2ff775" title="RecoConversionEval\l::doNodePointers" alt="" coords="243,271,402,315"/>
+<area shape="rect" id="node22" href="$d7/d8b/classSvtxTrackMap.html#a0f55635c85de394ace238061dfe38736" title="SvtxTrackMap::end" alt="" coords="780,631,929,659"/>
+<area shape="rect" id="node30" href="$d6/d17/classSVReco.html#aa7be1346727f584c539cf568a7d36999" title="SVReco::findSecondaryVertex" alt="" coords="212,1192,433,1220"/>
+<area shape="rect" id="node34" href="$d2/db8/classSvtxTrack.html#ab9907f4eeea5d9889dd99805ac4f00d5" title="SvtxTrack::get_cal\l_cluster_id" alt="" coords="251,1244,394,1288"/>
+<area shape="rect" id="node35" href="$d2/db8/classSvtxTrack.html#ab6a08270648338e6acee123ddbeea833" title="SvtxTrack::get_charge" alt="" coords="237,1312,408,1340"/>
+<area shape="rect" id="node36" href="$d6/dc7/group__getters.html#ga2b9509c325aa9df836187a2b79770c61" title="cluster template probability for EM shower" alt="" coords="240,1364,405,1392"/>
+<area shape="rect" id="node37" href="$d6/d12/classRawClusterContainer.html#afb6d1f100edc4ecf309efec781d5b436" title="RawClusterContainer\l::getCluster" alt="" coords="241,1416,405,1460"/>
+<area shape="rect" id="node38" href="$df/d9b/classRecoConversionEval.html#a2e900269740606b5a5931ad276271868" title="RecoConversionEval\l::pairCuts" alt="" coords="243,416,402,460"/>
+<area shape="rect" id="node41" href="$df/d9b/classRecoConversionEval.html#a1d4e3828e80f946976129ff703606cbe" title="cut on the reconstructed photon mass and pT" alt="" coords="243,1484,402,1528"/>
+<area shape="rect" id="node42" href="$df/d9b/classRecoConversionEval.html#a12ebe20454a733f0e7174dd6d7e8d540" title="Adds." alt="" coords="243,1552,402,1596"/>
+<area shape="rect" id="node47" href="$df/d9b/classRecoConversionEval.html#ae0025d84438ba3f29cc99ec09cbb9f5b" title="Uses _vertexer to refit." alt="" coords="243,1659,402,1703"/>
+<area shape="rect" id="node49" href="$df/d9b/classRecoConversionEval.html#a281e1c4cfe9434791930c7b0f3006f3e" title="RecoConversionEval\l::vtxCuts" alt="" coords="243,1124,402,1168"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1015,7,1191,35"/>
+<area shape="rect" id="node6" href="$db/da0/classgenfit_1_1GFRaveVertex.html#aa226bc70ee2447569467de599e6d05e7" title="genfit::GFRaveVertex\l::getChi2" alt="" coords="505,682,671,726"/>
+<area shape="rect" id="node7" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a25d5cd4f3c081231c4d77f80fefbade1" title="get 3x3 covariance (error) of position." alt="" coords="505,750,671,794"/>
+<area shape="rect" id="node8" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a6bd2509053f9d4a654c3a53ace075937" title="genfit::GFRaveVertex\l::getId" alt="" coords="505,818,671,862"/>
+<area shape="rect" id="node9" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a49fda0bfc9f1bd338c21ca973e8552b9" title="genfit::GFRaveVertex\l::getNdf" alt="" coords="505,886,671,930"/>
+<area shape="rect" id="node10" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a47ada7742989e3e294a3cc9f1342fee7" title="Number of tracks the vertex is made of." alt="" coords="505,954,671,998"/>
+<area shape="rect" id="node11" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a14875bcfb7c0b9373ec2bb6010c78d8d" title="genfit::GFRaveVertex\l::getParameters" alt="" coords="505,562,671,606"/>
+<area shape="rect" id="node12" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a4818bdeb821d19b283ae026af388e92b" title="get Position" alt="" coords="772,1014,937,1058"/>
+<area shape="rect" id="node13" href="$d7/dd4/classVtxRegressor.html#a9fcfebeb181524d256aad8d06b00d621" title="VtxRegressor::regress" alt="" coords="503,510,673,538"/>
+<area shape="rect" id="node18" href="$d0/d34/tracks_8C.html#ac926d763061c5568ecb5f5e062e9c778" title="tracks" alt="" coords="557,630,619,658"/>
+<area shape="rect" id="node15" href="$d2/db8/classSvtxTrack.html#a8ffb0c9b9181cc2dedd6e21f4b462129" title="SvtxTrack::get_phi" alt="" coords="782,683,927,711"/>
+<area shape="rect" id="node16" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="762,579,947,607"/>
+<area shape="rect" id="node17" href="$d2/db8/classSvtxTrack.html#a991a05caa213e0922d00c76568dade57" title="SvtxTrack::get_eta" alt="" coords="782,527,927,555"/>
+<area shape="rect" id="node20" href="$d6/d17/classSVReco.html#a19081506d2161465fdf3f36527aa0e18" title="Initialization, called for initialization at each event." alt="" coords="517,283,659,311"/>
+<area shape="rect" id="node21" href="$d6/d17/classSVReco.html#a94442e8e291c58f8f9fc2dcaefb9b129" title="Get all the nodes." alt="" coords="781,267,928,295"/>
+<area shape="rect" id="node23" href="$d2/db8/classSvtxTrack.html#a65bd7f7464194995552b517c05183067" title="SvtxTrack::get_ndf" alt="" coords="781,319,928,347"/>
+<area shape="rect" id="node24" href="$d2/db8/classSvtxTrack.html#ab0dfef96ff528427922596ca5b2fb3c7" title="SvtxTrack::get_chisq" alt="" coords="775,371,934,399"/>
+<area shape="rect" id="node25" href="$d2/db8/classSvtxTrack.html#ada3467dfb56c3a0596d2cbf4f36502de" title="SvtxTrack::get_dca3d_xy" alt="" coords="761,423,949,451"/>
+<area shape="rect" id="node26" href="$d2/db8/classSvtxTrack.html#a9b6cb11fc21e0232ea2ec34a991c3a36" title="SvtxTrack::get_dca3d_z" alt="" coords="765,163,945,191"/>
+<area shape="rect" id="node27" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="743,111,967,139"/>
+<area shape="rect" id="node28" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="749,215,960,243"/>
+<area shape="rect" id="node29" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="787,1162,923,1190"/>
+<area shape="rect" id="node31" href="$d1/d19/classgenfit_1_1GFRaveVertexFactory.html#a405d099f45ba265292a301c29f27d685" title="genfit::GFRaveVertexFactory\l::setMethod" alt="" coords="481,1295,695,1339"/>
+<area shape="rect" id="node32" href="$d7/dd5/classPHGenFit_1_1Track.html#a8cc267bf5a0014b5ba7e057a3b45ba3e" title="PHGenFit::Track::getGenFit\lTrack" alt="" coords="487,1363,689,1407"/>
+<area shape="rect" id="node33" href="$d1/d19/classgenfit_1_1GFRaveVertexFactory.html#a12b2a1abd879414950206ffac162b88e" title="genfit::GFRaveVertexFactory\l::findVertices" alt="" coords="481,1431,695,1475"/>
+<area shape="rect" id="node39" href="$df/d9b/classRecoConversionEval.html#a549928dd5c423a81195fe810d62bc37a" title="RecoConversionEval\l::detaCut" alt="" coords="509,442,667,486"/>
+<area shape="rect" id="node40" href="$df/d9b/classRecoConversionEval.html#ac7e014fdf47223bef41f1db285534f1c" title="RecoConversionEval\l::hitCuts" alt="" coords="509,111,667,155"/>
+<area shape="rect" id="node43" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="517,1499,659,1527"/>
+<area shape="rect" id="node44" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="517,1551,659,1579"/>
+<area shape="rect" id="node45" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="518,1603,658,1631"/>
+<area shape="rect" id="node46" href="$d2/db8/classSvtxTrack.html#aa455c367aed4671a5d34330cad61f7dc" title="SvtxTrack::get_p" alt="" coords="521,1655,655,1683"/>
+<area shape="rect" id="node48" href="$d6/d17/classSVReco.html#aed33c3da67bd3f1b7c3c73127b8187ea" title="SVReco::refitTrack" alt="" coords="516,1707,660,1735"/>
+<area shape="rect" id="node50" href="$df/d9b/classRecoConversionEval.html#a9eb164bce5c1183e1d7ebcab3fa1b22e" title="vtx radius must be greater than the cut" alt="" coords="509,1124,667,1168"/>
+</map>

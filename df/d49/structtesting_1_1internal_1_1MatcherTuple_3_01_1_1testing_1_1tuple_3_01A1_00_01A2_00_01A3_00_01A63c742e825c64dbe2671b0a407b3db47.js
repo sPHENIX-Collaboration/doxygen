@@ -1,0 +1,4 @@
+var structtesting_1_1internal_1_1MatcherTuple_3_01_1_1testing_1_1tuple_3_01A1_00_01A2_00_01A3_00_01A63c742e825c64dbe2671b0a407b3db47 =
+[
+    [ "type", "df/d49/structtesting_1_1internal_1_1MatcherTuple_3_01_1_1testing_1_1tuple_3_01A1_00_01A2_00_01A3_00_01A63c742e825c64dbe2671b0a407b3db47.html#a733b8ef9996b7f465e9018393bec5cc4", null ]
+];

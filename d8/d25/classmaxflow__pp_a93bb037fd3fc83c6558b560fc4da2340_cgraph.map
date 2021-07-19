@@ -1,0 +1,18 @@
+<map id="maxflow_pp::hide_unreachable_nodes" name="maxflow_pp::hide_unreachable_nodes">
+<area shape="rect" id="node2" href="$dd/d9b/classgraph.html#a4f0177ffe8eaddd9c5bec73078bed873" title="graph::hide_node" alt="" coords="309,211,449,239"/>
+<area shape="rect" id="node11" href="$da/d9f/classnode.html#a54186407a96a1a5e2abf8e820aaac3ba" title="node::in_edges_begin" alt="" coords="526,339,695,367"/>
+<area shape="rect" id="node12" href="$da/d9f/classnode.html#a1efa402fbaedef4b2300bf70118fd7bc" title="node::in_edges_end" alt="" coords="533,391,689,419"/>
+<area shape="rect" id="node13" href="$dd/d9b/classgraph.html#a67c41218463bb4348e92017f2148e863" title="graph::nodes_begin" alt="" coords="302,553,457,581"/>
+<area shape="rect" id="node14" href="$dd/d9b/classgraph.html#a1e54ca72d4dfd4598bb18d3a877ad5c5" title="graph::nodes_end" alt="" coords="308,605,451,633"/>
+<area shape="rect" id="node15" href="$da/d9f/classnode.html#a44c46615b9b13991a128910bb9df7c47" title="node::out_edges_begin" alt="" coords="521,444,700,472"/>
+<area shape="rect" id="node16" href="$da/d9f/classnode.html#a3862ec65f14b3404018cb5b21d473a5f" title="node::out_edges_end" alt="" coords="528,499,693,527"/>
+<area shape="rect" id="node17" href="$d8/d25/classmaxflow__pp.html#abb23812a3e8bca1955b835d3c41836e1" title="maxflow_pp::store_temp\l_unvisible_edges" alt="" coords="285,383,473,427"/>
+<area shape="rect" id="node3" href="$dd/d9b/classgraph.html#ab2f8520bcac080d73c55228fecc61825" title="graph::hide_edge" alt="" coords="541,99,681,127"/>
+<area shape="rect" id="node8" href="$da/d9f/classnode.html#a3b99faf3a3b0d276779ecaee20dc1958" title="node::is_hidden" alt="" coords="547,151,675,179"/>
+<area shape="rect" id="node9" href="$dd/d9b/classgraph.html#a89cd4d0acb9a82a85ba7845a92a68044" title="graph::post_hide_node\l_handler" alt="" coords="523,203,699,247"/>
+<area shape="rect" id="node10" href="$dd/d9b/classgraph.html#a96e6fadc8e77bde74448d4ba4b873628" title="graph::pre_hide_node\l_handler" alt="" coords="526,271,695,315"/>
+<area shape="rect" id="node4" href="$dc/dc8/classedge.html#ac34fb0fa24087002d4465d8fca6cd23d" title="edge::is_hidden" alt="" coords="772,5,900,33"/>
+<area shape="rect" id="node5" href="$dd/d9b/classgraph.html#a7554deb5a22be446b2b423f2ce481c64" title="graph::post_hide_edge\l_handler" alt="" coords="748,57,924,101"/>
+<area shape="rect" id="node6" href="$dd/d9b/classgraph.html#ad755188a78a38f733cf362d4e8dd47f8" title="graph::pre_hide_edge\l_handler" alt="" coords="751,125,921,169"/>
+<area shape="rect" id="node7" href="$dc/dc8/classedge.html#a89de14fa65ad3a7c01278ffc32eb3889" title="edge::remove_from" alt="" coords="759,193,913,221"/>
+</map>

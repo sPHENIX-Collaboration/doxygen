@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a273f0f885e02d740befd1d3b18489a16" title="Add new event." alt="" coords="138,140,297,184"/>
+<area shape="rect" id="node3" href="$d3/da2/classgenfit_1_1TrackCand.html#a1d8d9a483d2df76d12bc83380aed3103" title="genfit::TrackCand::\laddHit" alt="" coords="143,208,291,252"/>
+<area shape="rect" id="node4" href="$d9/d01/classgenfit_1_1MeasurementFactory.html#a87c76d46b13692691ae5429a3ea6b54c" title="Register a producer module to the factory." alt="" coords="112,597,323,641"/>
+<area shape="rect" id="node7" href="$d6/d8a/classgenfit_1_1Track.html#aee4eab9e952ee6f0e0c1f1d980552759" title="genfit::Track::checkConsistency" alt="" coords="800,1461,1035,1489"/>
+<area shape="rect" id="node12" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a15a93d367165ade368e6caec713d0934" title="genfit::MaterialEffects\l::getInstance" alt="" coords="132,336,303,380"/>
+<area shape="rect" id="node14" href="$d4/d1a/classgenfit_1_1EventDisplay.html#acc398c4fb9fce23fbc106453d5a55718" title="genfit::EventDisplay\l::getInstance" alt="" coords="593,268,752,312"/>
+<area shape="rect" id="node16" href="$de/d8e/classgenfit_1_1FieldManager.html#aaf0b56fea4f0deb428de8749febf792d" title="Get singleton instance." alt="" coords="137,420,298,464"/>
+<area shape="rect" id="node18" href="$da/de9/classgenfit_1_1HelixTrackModel.html#ab73be76efad20b30c11eda1d67e062a3" title="genfit::HelixTrackModel\l::getPos" alt="" coords="128,665,307,709"/>
+<area shape="rect" id="node19" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a9c604002cb66d43e99da8802e3b8918e" title="set the material interface here. Material interface classes must be derived from AbsMaterialInterface..." alt="" coords="132,520,303,564"/>
+<area shape="rect" id="node21" href="$de/d8e/classgenfit_1_1FieldManager.html#a0360198b189d2d5acaebfca7a468437e" title="set the magnetic field here. Magnetic field classes must be derived from AbsBField." alt="" coords="137,801,298,845"/>
+<area shape="rect" id="node22" href="$d4/d1a/classgenfit_1_1EventDisplay.html#ae4db6c8ff56045f6c9d7aee52d3dd695" title="Open the event display." alt="" coords="138,733,297,777"/>
+<area shape="rect" id="node26" href="$d8/db3/classgenfit_1_1Exception.html#a5cb44accc5d69d5742ed883a2d4ff88a" title="Standard error message handling for exceptions. use like &quot;std::cerr &lt;&lt; e.what();&quot;." alt="" coords="828,1185,1007,1213"/>
+<area shape="rect" id="node45" href="$d0/dba/classgenfit_1_1AbsFitter.html#a03e279c67ca889f5fe6480eb8a1691cf" title="genfit::AbsFitter::\lprocessTrack" alt="" coords="604,1229,741,1273"/>
+<area shape="rect" id="node47" href="$d3/da2/classgenfit_1_1TrackCand.html#a67f9607d8b709c7fe1fcdb068be14933" title="set the covariance matrix seed (6D)." alt="" coords="143,1285,291,1329"/>
+<area shape="rect" id="node48" href="$d3/da2/classgenfit_1_1TrackCand.html#ad13b659b223ae8f2515e3316de2f88f9" title="This function works the same as setPosMomSeed but instead of a charge hypothesis you can set a pdg co..." alt="" coords="108,1353,327,1397"/>
+<area shape="rect" id="node50" href="$d4/de2/classgenfit_1_1MeasurementCreator.html#ac89bf98ffa3ccbd8e78ff698fdd677a5" title="Takes ownership!" alt="" coords="111,1421,324,1465"/>
+<area shape="rect" id="node5" href="$d8/db3/classgenfit_1_1Exception.html#a13619975a1e1be5c1bd504b254e01f7a" title="Set fatal flag." alt="" coords="1381,325,1525,369"/>
+<area shape="rect" id="node6" href="$d8/db3/classgenfit_1_1Exception.html#a165783a567ff69bc528e6a53bc24e405" title="Set list of numbers with description." alt="" coords="388,516,532,560"/>
+<area shape="rect" id="node8" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#ab74f13ab4f4f1ac99a29e1fa55b83413" title="genfit::KalmanFitterInfo\l::hasReferenceState" alt="" coords="1118,768,1298,812"/>
+<area shape="rect" id="node9" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#a580ecd10b0c09b257533ca04f2ba460b" title="genfit::KalmanFitterInfo\l::getReferenceState" alt="" coords="1118,1255,1298,1299"/>
+<area shape="rect" id="node10" href="$d2/d6a/classgenfit_1_1ReferenceStateOnPlane.html#abcae7586bd838e27b384e4e001c9b3d3" title="genfit::ReferenceStateOn\lPlane::getForwardSegmentLength" alt="" coords="1083,1453,1333,1497"/>
+<area shape="rect" id="node11" href="$d6/d8a/classgenfit_1_1Track.html#aae3d3066dbd7ab39d87b56e17db5adf9" title="This is used when streaming TrackPoints." alt="" coords="1111,333,1305,361"/>
+<area shape="rect" id="node13" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a0cab227e2f45bd20ba63cf1b2ad260be" title="genfit::MaterialEffects\l::MaterialEffects" alt="" coords="375,328,545,372"/>
+<area shape="rect" id="node15" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a3aa96da8f0486f3420b620cebb6b9f00" title="genfit::EventDisplay\l::EventDisplay" alt="" coords="838,5,997,49"/>
+<area shape="rect" id="node17" href="$de/d8e/classgenfit_1_1FieldManager.html#a01194f10c4efe8d19286492ba01e104e" title="genfit::FieldManager\l::FieldManager" alt="" coords="379,396,541,440"/>
+<area shape="rect" id="node20" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="391,464,529,492"/>
+<area shape="rect" id="node23" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a1b1544012896871ee09cdb954ce4dde4" title="Get the total number of events stored." alt="" coords="381,704,539,748"/>
+<area shape="rect" id="node24" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a294470305559030667e010db718d3f3a" title="Draw an event." alt="" coords="593,764,752,808"/>
+<area shape="rect" id="node43" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a493a1ff074a94d20fb52ec58e121aa9f" title="Go to event with index id." alt="" coords="381,824,539,868"/>
+<area shape="rect" id="node44" href="$d4/d1a/classgenfit_1_1EventDisplay.html#aab151dae9bfe4998add390ffa953d536" title="Build the buttons for event navigation." alt="" coords="381,584,539,628"/>
+<area shape="rect" id="node25" href="$d8/db3/classgenfit_1_1Exception.html#abde43dfbf230385d9a91d58e84bbcc4c" title="genfit::Exception::\lgetExcString" alt="" coords="845,621,989,665"/>
+<area shape="rect" id="node27" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="883,689,951,717"/>
+<area shape="rect" id="node28" href="$d6/d8a/classgenfit_1_1Track.html#a402b35300e81a48c7f0b9eb082b1cf24" title="Get cardinal track representation." alt="" coords="1099,627,1317,655"/>
+<area shape="rect" id="node29" href="$d6/d8a/classgenfit_1_1Track.html#a366154650c41b0ad4d43ec51e28208d9" title="genfit::Track::getNumReps" alt="" coords="817,1289,1017,1317"/>
+<area shape="rect" id="node30" href="$d6/d8a/classgenfit_1_1Track.html#ae4148c577b790e5e7d5a1a85c5bcd43a" title="genfit::Track::getTrackRep" alt="" coords="819,1237,1016,1265"/>
+<area shape="rect" id="node31" href="$d6/d8a/classgenfit_1_1Track.html#aad0fa4a5a87ef0b19fd15bc86255968e" title="genfit::Track::Print" alt="" coords="845,125,990,153"/>
+<area shape="rect" id="node32" href="$d6/d8a/classgenfit_1_1Track.html#ad06e7a012624bdb03960826b5c9fcd93" title="Get FitStatus for a AbsTrackRep. Per default, return FitStatus for cardinalRep." alt="" coords="820,569,1015,597"/>
+<area shape="rect" id="node33" href="$d0/d8d/classgenfit_1_1FitStatus.html#a4eac27b6413522d8a422cd11cf805231" title="genfit::FitStatus::\lPrint" alt="" coords="849,793,985,837"/>
+<area shape="rect" id="node34" href="$d0/d8d/classgenfit_1_1FitStatus.html#a91e5099623f99dffc4811549776325ae" title="Has the track been fitted?" alt="" coords="849,861,985,905"/>
+<area shape="rect" id="node35" href="$d6/d8a/classgenfit_1_1Track.html#abf156957d701a9a10a02fef8ac54e4d9" title="Shortcut to get FittedStates." alt="" coords="831,929,1004,973"/>
+<area shape="rect" id="node36" href="$d2/d74/classgenfit_1_1MeasuredStateOnPlane.html#af7fb7f4101eb24f1b97f20aaefa51d16" title="genfit::MeasuredStateOnPlane\l::Print" alt="" coords="804,997,1031,1041"/>
+<area shape="rect" id="node37" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#a6ab24657168d34266cf73301cfd66794" title="Set propagation direction. (&#45;1, 0, 1) &#45;&gt; (backward, auto, forward)." alt="" coords="839,1065,995,1109"/>
+<area shape="rect" id="node38" href="$d6/d8a/classgenfit_1_1Track.html#a2aea787962258c48230c6714884827d1" title="genfit::Track::getNumPoints\lWithMeasurement" alt="" coords="813,177,1021,221"/>
+<area shape="rect" id="node39" href="$d6/d8a/classgenfit_1_1Track.html#a900763f8b4e4498227851fc51be819c7" title="genfit::Track::getPointWith\lMeasurement" alt="" coords="817,245,1017,289"/>
+<area shape="rect" id="node40" href="$db/d40/classgenfit_1_1TrackPoint.html#ada7b4d8c988a1798e455fb70929f88b7" title="genfit::TrackPoint\l::hasRawMeasurements" alt="" coords="826,313,1009,357"/>
+<area shape="rect" id="node41" href="$db/d40/classgenfit_1_1TrackPoint.html#a2999fc0669beb86b6309f86e040bcdef" title="genfit::TrackPoint\l::getRawMeasurement" alt="" coords="831,381,1004,425"/>
+<area shape="rect" id="node42" href="$d5/d1f/classgenfit_1_1AbsMeasurement.html#adc9ba619141378f1c7e379c6ed4a8048" title="genfit::AbsMeasurement\l::getDim" alt="" coords="823,449,1011,493"/>
+<area shape="rect" id="node46" href="$d0/dba/classgenfit_1_1AbsFitter.html#a78e589db9e548b60ad129ec631ce9a8e" title="genfit::AbsFitter::\lprocessTrackWithRep" alt="" coords="835,1393,1000,1437"/>
+<area shape="rect" id="node49" href="$d3/da2/classgenfit_1_1TrackCand.html#ad5c3293cea3ccf42bcb2257299a9b803" title="Set a particle hypothesis in form of a PDG code. This will also set the charge attribute." alt="" coords="386,1353,534,1397"/>
+</map>

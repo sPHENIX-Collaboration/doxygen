@@ -1,0 +1,51 @@
+<map id="signal" name="signal">
+<area shape="rect" id="node2" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#ad7eecc5744c14e250ed6bf2506e15435" title="ExtractRejCurve" alt="" coords="181,308,311,336"/>
+<area shape="rect" id="node14" href="$d0/d48/GenFit_2blob_2master_2test_2fitterTests_2main_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="219,653,273,681"/>
+<area shape="rect" id="node15" href="$dc/db4/mongoose_8h.html#a2b1b8bd86c01ee6dae737670e870f44c" title="mg_mgr_init" alt="" coords="193,705,299,733"/>
+<area shape="rect" id="node17" href="$d9/d3f/mongoose_8cc.html#ac0648b2d6b1169ded962d11c24b9d654" title="mg_start_process" alt="" coords="176,757,316,785"/>
+<area shape="rect" id="node19" href="$d0/dc0/classPHG4MicromegasDigitizer.html#a4aa5f53d284e5ffbd447698cd933da52" title="event processing" alt="" coords="147,809,345,853"/>
+<area shape="rect" id="node20" href="$dd/d1c/minBiasRecoAna_8C.html#af8d961de4f4a507d1e9326eac5e76680" title="reportBackground" alt="" coords="175,877,317,905"/>
+<area shape="rect" id="node21" href="$dd/d1c/minBiasRecoAna_8C.html#a5531aab9902c98c8ae5111432445211b" title="reportCuts" alt="" coords="200,929,292,957"/>
+<area shape="rect" id="node23" href="$d3/d17/classhcal.html#ace9f45ddbe7cae23e11457ba6d4b691f" title="hcal::SignalShape" alt="" coords="175,1033,317,1061"/>
+<area shape="rect" id="node25" href="$d1/ded/hcalUtil_8h.html#a33f331fb5be17a06936e29f910014973" title="signalShape" alt="" coords="194,1085,298,1113"/>
+<area shape="rect" id="node34" href="$d4/def/namespacePROTOTYPE4__FEM.html#ae65737748da7972bbcb34ae7688c89ae" title="PROTOTYPE4_FEM::SignalShape\l_PowerLawDoubleExp" alt="" coords="127,1249,365,1293"/>
+<area shape="rect" id="node38" href="$da/dda/namespaceTpcPrototypeDefs_1_1FEEv2.html#a5ce61c4b2ca6229f0eacd2c766a9f8ff" title="TpcPrototypeDefs::FEEv2\l::SignalShape_PowerLawDoubleExp" alt="" coords="115,1453,377,1497"/>
+<area shape="rect" id="node39" href="$d8/dde/namespaceTPCDaqDefs_1_1FEEv1.html#abd2061ecda45294b4af7a576942bdec5" title="TPCDaqDefs::FEEv1::\lSignalShape_PowerLawDoubleExp" alt="" coords="119,1181,373,1225"/>
+<area shape="rect" id="node40" href="$d3/d75/namespacePROTOTYPE3__FEM.html#a9164c03d8db0490dbf7a64e228ec13a9" title="PROTOTYPE3_FEM::SignalShape\l_PowerLawExp" alt="" coords="127,1521,365,1565"/>
+<area shape="rect" id="node41" href="$d9/db3/namespacePROTOTYPE2__FEM.html#a694ddc98e18edb9b5e75b7909328a585" title="PROTOTYPE2_FEM::SignalShape\l_PowerLawExp" alt="" coords="127,1589,365,1633"/>
+<area shape="rect" id="node42" href="$d4/def/namespacePROTOTYPE4__FEM.html#a0ee2e9e248f6628ea4696ce89fee609d" title="PROTOTYPE4_FEM::SignalShape\l_PowerLawExp" alt="" coords="127,1385,365,1429"/>
+<area shape="rect" id="node46" href="$d8/dde/namespaceTPCDaqDefs_1_1FEEv1.html#a47c72b7f30d93c45803dab7b7a2adb53" title="TPCDaqDefs::FEEv1::\lSignalShape_PowerLawExp" alt="" coords="143,1317,349,1361"/>
+<area shape="rect" id="node47" href="$da/dda/namespaceTpcPrototypeDefs_1_1FEEv2.html#a1a484f9ff3a36c1183a3fdf4c541b45f" title="TpcPrototypeDefs::FEEv2\l::SignalShape_PowerLawExp" alt="" coords="139,1657,353,1701"/>
+<area shape="rect" id="node48" href="$d3/d17/classhcal.html#acabdf165843583128cb5d6786068c050" title="hcal::SignalShapeNegative" alt="" coords="145,981,347,1009"/>
+<area shape="rect" id="node49" href="$d4/d39/classSimX.html#a56835a98f54d841f0945bb236612a9c9" title="SimX::Simulator" alt="" coords="181,1725,311,1753"/>
+<area shape="rect" id="node3" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#ab4c7fad09c2d32b9693095f30946f154" title="RejectionCurve" alt="" coords="491,125,614,153"/>
+<area shape="rect" id="node4" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#a10794eb9c33eb666c23551f2975408e2" title="RejectionCurve_AuAuSummary" alt="" coords="437,177,669,205"/>
+<area shape="rect" id="node5" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#a966098ef5e712a9c8f68bb2c79c7c07c" title="RejectionCurve_AuAuSummaryPos" alt="" coords="425,229,680,257"/>
+<area shape="rect" id="node6" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#a447c9664f593dec3584b64424e933192" title="RejectionCurve_PIDComparison" alt="" coords="436,281,669,309"/>
+<area shape="rect" id="node7" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#a63834a7fe7f5990b4efe7bfe6eda0d04" title="RejectionCurve_PiProton" alt="" coords="461,333,645,361"/>
+<area shape="rect" id="node8" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#a4192875d4b1e85f7dae0c67dca392797" title="RejectionCurve_PiProtonPos" alt="" coords="449,385,657,413"/>
+<area shape="rect" id="node9" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#a27864c97cf30ba249dd468334b5fcb45" title="RejectionCurve_ppSummary" alt="" coords="446,437,659,465"/>
+<area shape="rect" id="node10" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#a9e6db315a6f3870e662dd72f92c64e6c" title="RejectionCurve_ppSummaryPos" alt="" coords="435,489,671,517"/>
+<area shape="rect" id="node11" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#afeb7139394f9a80b91d848f54a9e9921" title="RejectionCurve_RejMethod\lComparison" alt="" coords="452,541,653,585"/>
+<area shape="rect" id="node12" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#aac81aa8dda6af1b20b0703146bb676cc" title="RejectionCurve_RejMethod\lComparison_AntiProton" alt="" coords="452,5,653,49"/>
+<area shape="rect" id="node13" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#a9a91eb02394da4c404f4f786b8ef15fa" title="RejectionCurvePos" alt="" coords="479,73,626,101"/>
+<area shape="rect" id="node16" href="$d6/d30/rcdaq__mg__server_8cc.html#a1aa5f050afb13373748c8107a5650929" title="mg_server" alt="" coords="506,609,599,637"/>
+<area shape="rect" id="node18" href="$d9/d3f/mongoose_8cc.html#a1631d91715eec9f81a748f24f4ad458a" title="mg_handle_cgi" alt="" coords="491,661,614,689"/>
+<area shape="rect" id="node22" href="$dd/d1c/minBiasRecoAna_8C.html#a94090734199e16689ca83a662f57cf4d" title="minBiasRecoAna" alt="" coords="486,713,619,741"/>
+<area shape="rect" id="node24" href="$d3/d17/classhcal.html#ad43920203997e0315007fa7d4fcb4453" title="hcal::Initialize" alt="" coords="495,765,610,793"/>
+<area shape="rect" id="node26" href="$d9/d9e/evDisplay_8C.html#ae571f8f83a8039ae9cb4c2fd4d462786" title="fitShape" alt="" coords="514,921,591,949"/>
+<area shape="rect" id="node27" href="$d1/dc2/classstack.html#ad05d8aad046b3fa75e2f504ecf561282" title="stack::stack" alt="" coords="501,973,604,1001"/>
+<area shape="rect" id="node28" href="$d6/d91/classtower.html#a8e609f1c5feb0f96951cad181da09bb7" title="tower::tower" alt="" coords="499,1025,606,1053"/>
+<area shape="rect" id="node29" href="$d7/d5d/structtileHelper_1_1eventtilesummary.html#a02d033761f5f1ef1e10bda9b643c8db0" title="tileHelper::eventtilesummary\l::eventtilesummary" alt="" coords="443,1077,662,1121"/>
+<area shape="rect" id="node30" href="$db/d04/hcalUtilDict_8cxx.html#ac2dafd070bd22db46389ca0da2f0a8b4" title="G__hcalUtilDict__0_1608" alt="" coords="459,1145,646,1173"/>
+<area shape="rect" id="node31" href="$db/de1/classhLabHelper.html#a97f81588f97fbe76de68880f6f7761fa" title="hLabHelper::hLabHelper" alt="" coords="459,1197,646,1225"/>
+<area shape="rect" id="node32" href="$db/de1/classhLabHelper.html#a1d3d5f28a99ebe7958d24cc7e61c987c" title="hLabHelper::initPRDFRun" alt="" coords="458,817,647,845"/>
+<area shape="rect" id="node33" href="$db/de1/classhLabHelper.html#ae7ba9bf3f59c8e3525a25f1277d05e90" title="hLabHelper::fitShape" alt="" coords="471,869,635,897"/>
+<area shape="rect" id="node35" href="$d8/dde/namespaceTPCDaqDefs_1_1FEEv1.html#a42bf9a7bb6181e2df0b95778841815a3" title="Power law double exp fit." alt="" coords="435,1249,670,1293"/>
+<area shape="rect" id="node36" href="$d4/def/namespacePROTOTYPE4__FEM.html#a326b922b6e178b23a0802e77932602ba" title="Power law double exp fit." alt="" coords="442,1317,663,1361"/>
+<area shape="rect" id="node37" href="$da/dda/namespaceTpcPrototypeDefs_1_1FEEv2.html#af0ba9165d6cb4aad7432af33788ef084" title="Power law double exp fit." alt="" coords="431,1385,675,1429"/>
+<area shape="rect" id="node43" href="$d9/db3/namespacePROTOTYPE2__FEM.html#ab30e022f6c700747e2f8e42be0443524" title="Abhisek&#39;s power&#45;law + exp fit." alt="" coords="442,1453,663,1497"/>
+<area shape="rect" id="node44" href="$d3/d75/namespacePROTOTYPE3__FEM.html#a783fc0ae340a67d4d9e0c32e6f8fcc7f" title="Abhisek&#39;s power&#45;law + exp fit." alt="" coords="442,1521,663,1565"/>
+<area shape="rect" id="node45" href="$d4/def/namespacePROTOTYPE4__FEM.html#aa6ebbde278c2d8123773d8e92986dc29" title="Abhisek&#39;s power&#45;law + exp fit." alt="" coords="442,1589,663,1633"/>
+<area shape="rect" id="node50" href="$d4/d39/classSimX.html#a066071c5dbd3aa41be96b74937061933" title="SimX::SimX" alt="" coords="503,1725,603,1753"/>
+</map>

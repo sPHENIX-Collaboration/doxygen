@@ -1,0 +1,11 @@
+<map id="CylinderGeomMicromegas::get_local_from_world_coords" name="CylinderGeomMicromegas::get_local_from_world_coords">
+<area shape="rect" id="node2" href="$d3/d5f/classCylinderGeomMicromegas.html#af79eff31b968879a026b8730f1d79202" title="convert g4hit coordinates from cylinder Micromegas to planar" alt="" coords="253,5,453,49"/>
+<area shape="rect" id="node3" href="$d3/d5f/classCylinderGeomMicromegas.html#a15de02f2c475be9386c660d191b496ea" title="get strip for a give world location and tile" alt="" coords="253,73,453,133"/>
+<area shape="rect" id="node4" href="$d3/d5f/classCylinderGeomMicromegas.html#a7e548b961c7884b1d28f81a6d687f48d" title="get tile for a given world location assuming tiles are planes centered on tile center and tengent to ..." alt="" coords="253,157,453,201"/>
+<area shape="rect" id="node5" href="$da/db1/classMakeActsGeometry.html#a703340410b4232c39800ede2f3bb1ff9" title="bind micromegas surfaces to hitset id" alt="" coords="501,157,724,201"/>
+<area shape="rect" id="node6" href="$da/db1/classMakeActsGeometry.html#a6c06c33bcf0b960a5848047dfc80e54e" title="MakeActsGeometry::unpack\lVolumes" alt="" coords="772,157,983,201"/>
+<area shape="rect" id="node7" href="$da/db1/classMakeActsGeometry.html#a0a3e4f327303d53117efefac7463c669" title="Function that mimics ActsFW::GeometryExampleBase." alt="" coords="1031,165,1296,193"/>
+<area shape="rect" id="node8" href="$da/db1/classMakeActsGeometry.html#a6f8433331336def2c6ea713b281da9ed" title="Silicon layers made by BuildSiliconLayers and its helper functions." alt="" coords="1344,157,1567,201"/>
+<area shape="rect" id="node9" href="$da/db1/classMakeActsGeometry.html#aa809a1c2b47d8c089a0dc4a6a96d1cc8" title="Main function to build all acts geometry for use in the fitting modules." alt="" coords="1615,157,1825,201"/>
+<area shape="rect" id="node10" href="$da/db1/classMakeActsGeometry.html#a5938929f364b98db92fa809a54a635c6" title="MakeActsGeometry::InitRun" alt="" coords="1873,165,2081,193"/>
+</map>

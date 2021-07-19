@@ -1,0 +1,25 @@
+var Core_2include_2Acts_2Utilities_2Helpers_8hpp =
+[
+    [ "ACTS_CHECK_BIT", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a67d99e00f8657693a391178d057edb32", null ],
+    [ "has_phi_method", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#aaad86eb89cdf2b74ee1bc7252cdb68cc", null ],
+    [ "phi_method_t", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#ad43704e12ce3e7b96f20ce9e24454278", null ],
+    [ "bitsetToMatrix", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a1faa0708be032bfc6c3a725525972191", null ],
+    [ "cast", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a06888bb2387068ac58953575df449482", null ],
+    [ "cross", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a6e1abd01ea4cac3276aba94096c85dae", null ],
+    [ "eta", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#afc1703c2fa7adfd6517e5e16df2e5df4", null ],
+    [ "makeVector4", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#aee596cee9f20711ff9548f38973c2e1b", null ],
+    [ "matrixToBitset", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a3dcc6435e936f830c8ce3e2c67122fd5", null ],
+    [ "perp", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a9d0d7e35444d5f4a0ae7accb0a2c70db", null ],
+    [ "phi", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a397d5e8143b34171258deef4f9cca9ad", null ],
+    [ "phi", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a2fbd97b5d1f818aea2840f6d795a31e9", null ],
+    [ "position", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a55c39f48968d9e4b4b4fb12b227cea22", null ],
+    [ "position", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a01038c7e1d281f264fe6a4751db1077d", null ],
+    [ "roundWithPrecision", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a2ed6f052d32367c84aafacdd30703adc", null ],
+    [ "template_switch", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a9bbe277a3b3f4aac7e75293f75ec5e36", null ],
+    [ "theta", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a1c1a90bc524259263f553410691dd9ad", null ],
+    [ "toString", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#aef35ba4d3ecf18e501cc6af9145f44a7", null ],
+    [ "toString", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a98a5be2f6767003a812a063be96f6731", null ],
+    [ "toString", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a3e201dea6a98b148f01aa1fabae9062e", null ],
+    [ "unpack_shared_vector", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a337992aec16b459064f9bba326128657", null ],
+    [ "unpack_shared_vector", "d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html#a0642295db841a2d964982388411bf79d", null ]
+];

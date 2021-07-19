@@ -1,0 +1,21 @@
+<map id="EmcCluster::GetECoreCorrected" name="EmcCluster::GetECoreCorrected">
+<area shape="rect" id="node2" href="$df/d23/classBEmcRec.html#ac9389b1b3f51ae99609871bca589b262" title="BEmcRec::CorrectECore" alt="" coords="289,135,471,163"/>
+<area shape="rect" id="node3" href="$d9/d04/classEmcCluster.html#af0d5e9d5210331c6333a68e051ff2dee" title="Returns the cluster energy taking into account towers with E&gt;Ethresh." alt="" coords="295,187,465,215"/>
+<area shape="rect" id="node5" href="$df/d23/classBEmcRec.html#a62ebc73494b5ae131186b8afcfe85d6d" title="BEmcRec::Momenta" alt="" coords="534,239,690,267"/>
+<area shape="rect" id="node4" href="$df/d23/classBEmcRec.html#a076636e1f88a3585429f1822ca14a3c7" title="BEmcRec::GetNx" alt="" coords="545,187,679,215"/>
+<area shape="rect" id="node9" href="$df/d23/classBEmcRec.html#a98e49a2e854a71a7c56ff4a2c9daeae6" title="BEmcRec::PredictEnergy" alt="" coords="519,123,705,151"/>
+<area shape="rect" id="node6" href="$df/d23/classBEmcRec.html#a4bd50aa9b08ec11f0dbc65fd9f10a099" title="BEmcRec::iTowerDist" alt="" coords="1061,265,1223,293"/>
+<area shape="rect" id="node7" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1362,148,1473,176"/>
+<area shape="rect" id="node8" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1581,148,1757,176"/>
+<area shape="rect" id="node10" href="$df/d23/classBEmcRec.html#a6c1fae589914f01ab293cafabd2c433f" title="BEmcRec::fTowerDist" alt="" coords="1060,5,1224,33"/>
+<area shape="rect" id="node12" href="$df/d23/classBEmcRec.html#a71c746ef3aa29ab463352ff177330f6f" title="BEmcRec::PredictEnergyParam" alt="" coords="753,109,983,137"/>
+<area shape="rect" id="node13" href="$df/d23/classBEmcRec.html#a27562d25417207a7f823d99f000bf265" title="BEmcRec::PredictEnergyProb" alt="" coords="760,161,976,189"/>
+<area shape="rect" id="node11" href="$d1/d24/namespacecentrality.html#a78957542206b2fc7b74d88cfed409426" title="centrality.dist" alt="" coords="1361,5,1474,33"/>
+<area shape="rect" id="node14" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="1073,57,1211,85"/>
+<area shape="rect" id="node15" href="$df/d23/classBEmcRec.html#aec8a463bf0612ad6b943658edf806fca" title="BEmcRec::GetImpactThetaPhi" alt="" coords="1031,109,1253,137"/>
+<area shape="rect" id="node16" href="$d1/dc6/classBEmcProfile.html#aa054fc47bbc9802ac9013021b555fba8" title="BEmcProfile::PredictEnergy" alt="" coords="1040,161,1244,189"/>
+<area shape="rect" id="node17" href="$d1/dc6/classBEmcProfile.html#a1261be391047e52b7d774f400382141c" title="BEmcProfile::PredictEnergyR" alt="" coords="1035,213,1249,241"/>
+<area shape="rect" id="node18" href="$df/d23/classBEmcRec.html#ac115997c94dd0b83b134d54b052d9031" title="BEmcRec::Tower2Global" alt="" coords="1050,317,1234,345"/>
+<area shape="rect" id="node19" href="$df/d23/classBEmcRec.html#acf2da5a9fd023639d89c4e63c4e0d099" title="BEmcRec::CorrectShowerDepth" alt="" coords="1301,291,1533,319"/>
+<area shape="rect" id="node20" href="$df/d23/classBEmcRec.html#a8b3cf9ce5eaa158a9793e350809d7a4b" title="BEmcRec::GetTowerGeometry" alt="" coords="1305,343,1529,371"/>
+</map>

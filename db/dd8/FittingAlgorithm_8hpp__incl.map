@@ -1,0 +1,40 @@
+<map id="acts/blob/sPHENIX/Examples/Algorithms/Fitting/include/ActsExamples/Fitting/FittingAlgorithm.hpp" name="acts/blob/sPHENIX/Examples/Algorithms/Fitting/include/ActsExamples/Fitting/FittingAlgorithm.hpp">
+<area shape="rect" id="node2" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="1724,305,2002,333"/>
+<area shape="rect" id="node13" href="$d5/de4/KalmanFitter_8hpp.html" title="Acts/TrackFitting/Kalman\lFitter.hpp" alt="" coords="2466,113,2654,157"/>
+<area shape="rect" id="node37" href="$dc/d89/SimSourceLink_8hpp.html" title="ActsExamples/EventData\l/SimSourceLink.hpp" alt="" coords="314,297,506,341"/>
+<area shape="rect" id="node41" href="$d3/da4/Track_8hpp.html" title="All track&#45;related shared types." alt="" coords="674,113,866,157"/>
+<area shape="rect" id="node43" href="$dd/d9b/BareAlgorithm_8hpp.html" title="ActsExamples/Framework\l/BareAlgorithm.hpp" alt="" coords="1577,389,1773,433"/>
+<area shape="rect" id="node46" href="$da/da8/BFieldOptions_8hpp.html" title="ActsExamples/Plugins\l/BField/BFieldOptions.hpp" alt="" coords="4593,389,4789,433"/>
+<area shape="rect" id="node3" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2280,397,2558,425"/>
+<area shape="rect" id="node5" href="$d5/d67/GeometryIdentifier_8hpp.html" title="Acts/Geometry/GeometryIdentifier.hpp" alt="" coords="321,489,605,517"/>
+<area shape="rect" id="node9" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="3884,581,4098,609"/>
+<area shape="rect" id="node14" href="$d0/d75/ReferenceWrapperAnyCompat_8hpp.html" title="Acts/Utilities/detail\l/ReferenceWrapperAnyCompat.hpp" alt="" coords="3336,389,3598,433"/>
+<area shape="rect" id="node15" href="$d7/d77/Measurement_8hpp.html" title="Acts/EventData/Measurement.hpp" alt="" coords="1248,397,1502,425"/>
+<area shape="rect" id="node16" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="681,489,954,517"/>
+<area shape="rect" id="node17" href="$df/d90/MeasurementHelpers_8hpp.html" title="Acts/EventData/Measurement\lHelpers.hpp" alt="" coords="2392,297,2616,341"/>
+<area shape="rect" id="node19" href="$d4/d9f/MultiTrajectory_8hpp.html" title="Acts/EventData/MultiTrajectory.hpp" alt="" coords="1086,305,1344,333"/>
+<area shape="rect" id="node20" href="$dc/d2f/MultiTrajectoryHelpers_8hpp.html" title="Acts/EventData/MultiTrajectory\lHelpers.hpp" alt="" coords="1257,205,1488,249"/>
+<area shape="rect" id="node21" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="3622,389,3824,433"/>
+<area shape="rect" id="node22" href="$d0/dd1/MaterialSlab_8hpp.html" title="Acts/Material/MaterialSlab.hpp" alt="" coords="832,305,1062,333"/>
+<area shape="rect" id="node23" href="$dc/dfe/AbortList_8hpp.html" title="Acts/Propagator/AbortList.hpp" alt="" coords="2632,397,2856,425"/>
+<area shape="rect" id="node24" href="$d1/da9/ActionList_8hpp.html" title="Acts/Propagator/ActionList.hpp" alt="" coords="2880,397,3110,425"/>
+<area shape="rect" id="node25" href="$dc/d18/ConstrainedStep_8hpp.html" title="Acts/Propagator/Constrained\lStep.hpp" alt="" coords="4029,481,4244,525"/>
+<area shape="rect" id="node26" href="$d6/dce/DirectNavigator_8hpp.html" title="Acts/Propagator/DirectNavigator.hpp" alt="" coords="1950,213,2219,241"/>
+<area shape="rect" id="node27" href="$d5/d20/Propagator_8hpp.html" title="Acts/Propagator/Propagator.hpp" alt="" coords="3054,305,3291,333"/>
+<area shape="rect" id="node28" href="$dc/d81/StandardAborters_8hpp.html" title="Acts/Propagator/Standard\lAborters.hpp" alt="" coords="3899,389,4094,433"/>
+<area shape="rect" id="node29" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="1918,489,2104,517"/>
+<area shape="rect" id="node31" href="$d3/db2/Result_8hpp.html" title="Acts/Utilities/Result.hpp" alt="" coords="4220,397,4402,425"/>
+<area shape="rect" id="node32" href="$d2/de2/Navigator_8hpp.html" title="Acts/Propagator/Navigator.hpp" alt="" coords="2243,213,2472,241"/>
+<area shape="rect" id="node33" href="$d3/dc1/PointwiseMaterialInteraction_8hpp.html" title="Acts/Propagator/detail\l/PointwiseMaterialInteraction.hpp" alt="" coords="933,205,1182,249"/>
+<area shape="rect" id="node34" href="$d9/d5d/KalmanFitterError_8hpp.html" title="Acts/TrackFitting/Kalman\lFitterError.hpp" alt="" coords="2180,297,2368,341"/>
+<area shape="rect" id="node35" href="$d4/d3e/VoidKalmanComponents_8hpp.html" title="Acts/TrackFitting/detail\l/VoidKalmanComponents.hpp" alt="" coords="4130,205,4353,249"/>
+<area shape="rect" id="node36" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="3694,205,3878,249"/>
+<area shape="rect" id="node38" href="$d7/dab/GeometryContainers_8hpp.html" title="ActsExamples/EventData\l/GeometryContainers.hpp" alt="" coords="104,389,302,433"/>
+<area shape="rect" id="node39" href="$d8/d71/Hit_8hpp.html" title="ActsFatras/EventData\l/Hit.hpp" alt="" coords="326,389,493,433"/>
+<area shape="rect" id="node42" href="$d0/dc9/SimMultiTrajectory_8hpp.html" title="ActsExamples/EventData\l/SimMultiTrajectory.hpp" alt="" coords="515,205,707,249"/>
+<area shape="rect" id="node44" href="$d3/d98/IAlgorithm_8hpp.html" title="ActsExamples/Framework\l/IAlgorithm.hpp" alt="" coords="1444,481,1640,525"/>
+<area shape="rect" id="node45" href="$d1/d06/ProcessCode_8hpp.html" title="ActsExamples/Framework\l/ProcessCode.hpp" alt="" coords="1361,573,1557,617"/>
+<area shape="rect" id="node47" href="$d6/d02/AxisFwd_8hpp.html" title="Acts/Utilities/detail\l/AxisFwd.hpp" alt="" coords="5078,481,5226,525"/>
+<area shape="rect" id="node48" href="$d6/d96/GridFwd_8hpp.html" title="Acts/Utilities/detail\l/GridFwd.hpp" alt="" coords="4630,481,4778,525"/>
+<area shape="rect" id="node49" href="$d5/d78/OptionsFwd_8hpp.html" title="ActsExamples/Utilities\l/OptionsFwd.hpp" alt="" coords="4802,481,4974,525"/>
+</map>

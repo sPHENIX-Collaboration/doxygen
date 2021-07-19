@@ -1,0 +1,36 @@
+<map id="CaloEvalStack::get_rawcluster_eval" name="CaloEvalStack::get_rawcluster_eval">
+<area shape="rect" id="node2" href="$dd/d75/classJetRecoEval.html#a83e004c6c55ecf277a13a046d90790a3" title="which truth hits contributed to this reconstructed jet?" alt="" coords="222,253,419,281"/>
+<area shape="rect" id="node3" href="$dd/d75/classJetRecoEval.html#a35d98fcca277d5034d66e06d7e832e87" title="what truth particles contributed to this reconstructed jet?" alt="" coords="238,305,403,349"/>
+<area shape="rect" id="node22" href="$dd/d75/classJetRecoEval.html#a2b04ad28662aae87324971bb37e70bac" title="what truth showers contributed to this reconstructed jet?" alt="" coords="238,373,403,417"/>
+<area shape="rect" id="node23" href="$dd/d59/classCaloEvaluator.html#a5298ee9646d361a4960fc0e20f83c880" title="dump the evaluator information into ntuple for external analysis" alt="" coords="227,493,415,537"/>
+<area shape="rect" id="node25" href="$db/d22/classEventEvaluator.html#ada437671569f41f49d8efe8235d569ab" title="dump the evaluator information into ntuple for external analysis" alt="" coords="222,561,419,605"/>
+<area shape="rect" id="node27" href="$dd/d75/classJetRecoEval.html#af6356d19d3ff0ee9c9849348466e7d0e" title="what was the energy contribution to this reconstructed jet from this truth jet?" alt="" coords="786,613,973,657"/>
+<area shape="rect" id="node31" href="$db/db5/classDISKinematicsReco.html#ad801f1794841d3657aa4c0b2da334743" title="DISKinematicsReco::\lInsertCandidateFromCluster" alt="" coords="215,681,426,725"/>
+<area shape="rect" id="node34" href="$dd/d59/classCaloEvaluator.html#ab7e09466d57c5b93274f09f61c0f321e" title="print out the ancestry information for detailed diagnosis" alt="" coords="207,441,435,469"/>
+<area shape="rect" id="node35" href="$d7/ded/classSTACalorimeterCharacterization.html#aebaae010ab7828d310691192de7d16fe" title="STACalorimeterCharacterization\l::process_event" alt="" coords="203,749,439,793"/>
+<area shape="rect" id="node4" href="$dd/d75/classJetRecoEval.html#a277ecc26833b4e3e16f96018aa921702" title="what truth jets contributed to this reconstructed jet?" alt="" coords="511,313,709,341"/>
+<area shape="rect" id="node5" href="$dd/d75/classJetRecoEval.html#af4bff244a32d216f097c7fab76c9b95a" title="which truth jet contributed the most energy to this reconstructed jet?" alt="" coords="1037,305,1215,349"/>
+<area shape="rect" id="node19" href="$dd/d75/classJetRecoEval.html#aaa6df5bbed40bd8cf789d997c348d12f" title="what reconstructed jets had contributions from this truth jet?" alt="" coords="781,419,977,447"/>
+<area shape="rect" id="node6" href="$d8/de2/classJetEnergies.html#a065fee78622ed073cafb5cf172d67bef" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1289,629,1512,657"/>
+<area shape="rect" id="node8" href="$dc/d65/classPhotonJet.html#a3f9d3ec941f851bc2246ceb0c5362c9f" title="PhotonJet::process\l_event" alt="" coords="1589,100,1736,144"/>
+<area shape="rect" id="node9" href="$dc/d65/classPhotonJet.html#a9b2de7dcbd5e3bbbd26150d418b7bb44" title="PhotonJet::GetRecoHadrons\lAndJets" alt="" coords="1297,65,1505,109"/>
+<area shape="rect" id="node10" href="$d4/d28/classQAG4SimulationJet.html#a3e5c5fe2e5e5cee7fca6173ef6e6bfa2" title="QAG4SimulationJet::\lprocess_TruthMatching" alt="" coords="1575,373,1751,417"/>
+<area shape="rect" id="node12" href="$d1/df4/classJetEvaluator.html#a0c608411c03ff1de3fca80d64e93ae5d" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1312,493,1489,537"/>
+<area shape="rect" id="node14" href="$dd/d75/classJetRecoEval.html#a9775ea4a0c6e28f22da7997f4886f195" title="JetRecoEval::unique\l_reco_jet_from_truth" alt="" coords="1321,305,1481,349"/>
+<area shape="rect" id="node15" href="$dd/d75/classJetRecoEval.html#ac6030b2b14c885e19e35f86ec828d8d8" title="JetRecoEval::unique\l_truth_jet_from_reco" alt="" coords="1321,373,1481,417"/>
+<area shape="rect" id="node16" href="$d0/da9/classAnaTutorial.html#a9068984e2eafee47f54de4c802d23168" title="AnaTutorial::getReconstructedJets" alt="" coords="1275,13,1527,41"/>
+<area shape="rect" id="node18" href="$d5/d1f/classMyJetAnalysis.html#a309e9a46394353251b673514d6eb28ac" title="MyJetAnalysis::process\l_event" alt="" coords="1313,185,1488,229"/>
+<area shape="rect" id="node7" href="$d8/de2/classJetEnergies.html#a6acaa9b2ba1fe7353781d2f5d476e8d1" title="JetEnergies::process\l_event" alt="" coords="1583,621,1743,665"/>
+<area shape="rect" id="node11" href="$d4/d28/classQAG4SimulationJet.html#a98c3c0fb4d213ada3475e8fb9895bc29" title="QAG4SimulationJet::\lprocess_event" alt="" coords="1799,557,1956,601"/>
+<area shape="rect" id="node13" href="$d1/df4/classJetEvaluator.html#abd1af43deddc4ce57f0ef562c23deacb" title="JetEvaluator::process\l_event" alt="" coords="1580,493,1745,537"/>
+<area shape="rect" id="node17" href="$d0/da9/classAnaTutorial.html#a3b64c061aaffaf4a42631434fb7eb6f9" title="SubsysReco event processing method." alt="" coords="1583,5,1743,49"/>
+<area shape="rect" id="node20" href="$dd/d75/classJetRecoEval.html#a631b92837e600fbdb6b966a556fc9077" title="which reconstructed jet had the largest energy contribution from this truth jet?" alt="" coords="1025,472,1227,500"/>
+<area shape="rect" id="node21" href="$db/d4c/classBJetModule.html#a93ec29147c2d7aea52780d7370141e74" title="BJetModule::process\l_event" alt="" coords="1321,561,1480,605"/>
+<area shape="rect" id="node24" href="$dd/d59/classCaloEvaluator.html#ab0007637af39a6efee41168c44d5bbdf" title="CaloEvaluator::process\l_event" alt="" coords="522,464,698,508"/>
+<area shape="rect" id="node26" href="$db/d22/classEventEvaluator.html#a5b4dc2c7afd4f3844396f08cc9c555ad" title="EventEvaluator::process\l_event" alt="" coords="517,561,703,605"/>
+<area shape="rect" id="node28" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a3989ff17a01ba304478d558b99c3214f" title="SoftLeptonTaggingTruth\l::process_Spectrum" alt="" coords="1036,673,1216,717"/>
+<area shape="rect" id="node30" href="$d4/d28/classQAG4SimulationJet.html#ac2803dd2fafe7d6131f3311c9f1e4e27" title="QAG4SimulationJet::\lprocess_Spectrum" alt="" coords="1047,741,1205,785"/>
+<area shape="rect" id="node29" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a152a3015fe9e7c089637c981a45787fe" title="SoftLeptonTaggingTruth\l::process_event" alt="" coords="1311,681,1491,725"/>
+<area shape="rect" id="node32" href="$db/db5/classDISKinematicsReco.html#a4ea9fa36ccd955fd7cdfa7e7eaf1e534" title="DISKinematicsReco::\lCollectEmCandidatesFromCluster" alt="" coords="487,681,733,725"/>
+<area shape="rect" id="node33" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="799,681,959,725"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="CaloEvaluator::process_event" name="CaloEvaluator::process_event">
+<area shape="rect" id="node2" href="$dd/d59/classCaloEvaluator.html#a5298ee9646d361a4960fc0e20f83c880" title="dump the evaluator information into ntuple for external analysis" alt="" coords="249,1108,437,1152"/>
+<area shape="rect" id="node45" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="530,5,706,33"/>
+<area shape="rect" id="node46" href="$db/d10/classCaloEvalStack.html#a6d60a0a1ce8c1e26075065ea725e5351" title="CaloEvalStack::next\l_event" alt="" coords="265,1176,421,1220"/>
+<area shape="rect" id="node47" href="$dd/d59/classCaloEvaluator.html#ae8c514358f2bd77dab390bb3781222db" title="print out the input object information (debugging upstream components)" alt="" coords="235,161,451,189"/>
+<area shape="rect" id="node48" href="$dd/d59/classCaloEvaluator.html#ab7e09466d57c5b93274f09f61c0f321e" title="print out the ancestry information for detailed diagnosis" alt="" coords="229,697,457,725"/>
+<area shape="rect" id="node49" href="$db/d10/classCaloEvalStack.html#a392c5b157d0f80dc996f07a0241cec8e" title="CaloEvalStack::set\l_strict" alt="" coords="270,1244,417,1288"/>
+<area shape="rect" id="node50" href="$db/d10/classCaloEvalStack.html#af628e33e76a6c98f8a94e974d007fb3b" title="CaloEvalStack::set\l_verbosity" alt="" coords="270,1312,417,1356"/>
+<area shape="rect" id="node3" href="$d5/dc4/classGlobalVertexMap.html#a36c346881da7997e34fa203c523a7925" title="GlobalVertexMap::begin" alt="" coords="527,437,709,465"/>
+<area shape="rect" id="node4" href="$da/d7e/classCaloRawClusterEval.html#aadd6df22b452d89c41139c157fe9d14e" title="which cluster did this primary truth shower contribute the most energy to?" alt="" coords="541,1489,695,1533"/>
+<area shape="rect" id="node5" href="$d7/d3c/classCaloTruthEval.html#a4d2ab62ada677f474c71eaf2222bb3e8" title="what was the primary shower associated with the shower object?" alt="" coords="1037,1455,1184,1499"/>
+<area shape="rect" id="node6" href="$da/d7e/classCaloRawClusterEval.html#a1df87a8403be2e5146a922554953c4e7" title="how much energy did this primary truth shower contribute to this cluster" alt="" coords="779,1540,973,1584"/>
+<area shape="rect" id="node7" href="$de/d0b/classCaloRawTowerEval.html#a3f58f1e7d58a40bc361dcc9443c29465" title="how much energy did this primary shower contribute to this tower?" alt="" coords="1021,1739,1200,1783"/>
+<area shape="rect" id="node8" href="$d5/dc4/classGlobalVertexMap.html#a80c3c9063cfd435589959fae05d80660" title="GlobalVertexMap::empty" alt="" coords="523,697,713,725"/>
+<area shape="rect" id="node9" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="525,2281,711,2309"/>
+<area shape="rect" id="node10" href="$d9/dd8/classRawTower.html#a684d193cfa6e173242edecbf7b69d64a" title="RawTower::get_bineta" alt="" coords="534,2333,702,2361"/>
+<area shape="rect" id="node11" href="$d9/dd8/classRawTower.html#ad7b821b149c79c752ffda34821982383" title="RawTower::get_binphi" alt="" coords="534,2385,702,2413"/>
+<area shape="rect" id="node12" href="$d7/d3c/classCaloTruthEval.html#a6f4bfb82a1eb60f0d0fe65b81a4e5387" title="get the hash id for this calorimeter volume" alt="" coords="545,1557,691,1601"/>
+<area shape="rect" id="node13" href="$d8/dc4/classRawTowerGeom.html#a6ecdff55675d6cbfe0787f15e290cc1d" title="RawTowerGeom::get_center_x" alt="" coords="505,1625,731,1653"/>
+<area shape="rect" id="node14" href="$d8/dc4/classRawTowerGeom.html#a0cf5fed63e6644024bd5693cbe54b8ec" title="RawTowerGeom::get_center_y" alt="" coords="505,1729,731,1757"/>
+<area shape="rect" id="node15" href="$d8/dc4/classRawTowerGeom.html#a6549e53914d85376526aaba30c04fb1d" title="RawTowerGeom::get_center_z" alt="" coords="506,1781,730,1809"/>
+<area shape="rect" id="node16" href="$de/dc9/classPHG4Particle.html#ac4a56068140437bf45a67dae571cae48" title="PHG4Particle::get_e" alt="" coords="541,749,695,777"/>
+<area shape="rect" id="node17" href="$d7/d3c/classCaloTruthEval.html#acc021440691d410ba3b017ce742be69b" title="what was the embed flag passed with this particle?" alt="" coords="545,801,691,845"/>
+<area shape="rect" id="node18" href="$d6/dc7/group__getters.html#gaeb5c6c01b9f2f1d716e9ddaf89f64c91" title="total energy" alt="" coords="527,869,709,897"/>
+<area shape="rect" id="node19" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="531,1833,705,1861"/>
+<area shape="rect" id="node20" href="$d8/dc4/classRawTowerGeom.html#aed31c4e7b05d1f434c0cdc26fe438d46" title="RawTowerGeom::get_eta" alt="" coords="524,1885,712,1913"/>
+<area shape="rect" id="node21" href="$d6/dc7/group__getters.html#gabf760f5a6fc7742a79c3bd3bb9a87188" title="cluster ID" alt="" coords="545,921,691,949"/>
+<area shape="rect" id="node22" href="$d9/dd8/classRawTower.html#acb57721d39800bb8a23ffc10ae66d198" title="RawTower::get_id" alt="" coords="549,1937,687,1965"/>
+<area shape="rect" id="node23" href="$db/d88/classPHG4Shower.html#abb03e898df8212251ebc6463db5d6e11" title="PHG4Shower::get_nhits" alt="" coords="528,2041,708,2069"/>
+<area shape="rect" id="node24" href="$d6/dc7/group__getters.html#ga01beaccbc8f598673db35c68f5a73609" title="access to intrinsic cylindrical coordinate system" alt="" coords="541,973,695,1001"/>
+<area shape="rect" id="node25" href="$d8/dc4/classRawTowerGeom.html#a39490c6ecb489ef5a99cf26a8f25ecfc" title="RawTowerGeom::get_phi" alt="" coords="525,2093,711,2121"/>
+<area shape="rect" id="node26" href="$de/dc9/classPHG4Particle.html#a474033dbd058eea155c71fc4d17aaf4d" title="PHG4Particle::get_pid" alt="" coords="535,213,701,241"/>
+<area shape="rect" id="node27" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="537,57,699,85"/>
+<area shape="rect" id="node28" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="537,161,699,189"/>
+<area shape="rect" id="node29" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="537,1025,699,1053"/>
+<area shape="rect" id="node30" href="$db/d10/classCaloEvalStack.html#a23ea229b0fa0b23ed1ddb6902590e56d" title="CaloEvalStack::get\l_rawcluster_eval" alt="" coords="543,1077,693,1121"/>
+<area shape="rect" id="node31" href="$db/d10/classCaloEvalStack.html#a3b9436fd89a31b81522961a2ea467e5c" title="CaloEvalStack::get\l_rawtower_eval" alt="" coords="543,2145,693,2189"/>
+<area shape="rect" id="node32" href="$d7/d3c/classCaloTruthEval.html#a282bab9b4231f9160e7c2b012186558e" title="how much energy did this primary and its shower deposit in the calo volume?" alt="" coords="523,265,713,309"/>
+<area shape="rect" id="node33" href="$df/d49/classRawTowerGeomContainer.html#a46e80e9792b3323f3197a1d9af1cd049" title="RawTowerGeomContainer\l::get_tower_geometry" alt="" coords="520,2213,716,2257"/>
+<area shape="rect" id="node34" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="519,1145,717,1173"/>
+<area shape="rect" id="node35" href="$db/d10/classCaloEvalStack.html#a3999fddea3e98fcd1841ec10b6fc4354" title="CaloEvalStack::get\l_truth_eval" alt="" coords="543,1197,693,1241"/>
+<area shape="rect" id="node36" href="$d7/d3c/classCaloTruthEval.html#a59dcdec9abaa7c6e8805732fa9596ce5" title="what was particle&#39;s creation point?" alt="" coords="545,1265,691,1309"/>
+<area shape="rect" id="node37" href="$d6/d81/classPHG4VtxPoint.html#a9f885c1b879a2f1d6299b07801210a1d" title="PHG4VtxPoint::get_x" alt="" coords="537,1333,699,1361"/>
+<area shape="rect" id="node38" href="$d1/d39/classGlobalVertex.html#a97493c07f81f703dd545fe3409be10a4" title="GlobalVertex::get_x" alt="" coords="541,1385,695,1413"/>
+<area shape="rect" id="node39" href="$d6/dc7/group__getters.html#ga2426b52933d3a0e0d73a941adfddd9f3" title="access Cartesian coordinate system" alt="" coords="547,333,689,361"/>
+<area shape="rect" id="node40" href="$d6/d81/classPHG4VtxPoint.html#a2073b3294f78491a2124aea6c436d6a8" title="PHG4VtxPoint::get_y" alt="" coords="537,385,699,413"/>
+<area shape="rect" id="node41" href="$d1/d39/classGlobalVertex.html#a13edb1c021409c4a7c53bd29e6ff05e5" title="GlobalVertex::get_y" alt="" coords="541,489,695,517"/>
+<area shape="rect" id="node42" href="$d6/dc7/group__getters.html#gaf79e91927b493f47ce9508f088bb861d" title="RawCluster::get_y" alt="" coords="547,541,689,569"/>
+<area shape="rect" id="node43" href="$d6/d81/classPHG4VtxPoint.html#ae26c6d111c93795d64e3571b6f306ef9" title="PHG4VtxPoint::get_z" alt="" coords="538,593,698,621"/>
+<area shape="rect" id="node44" href="$d1/d39/classGlobalVertex.html#a46b4a0bd3afc9c251899dce7c4a0f001" title="GlobalVertex::get_z" alt="" coords="541,645,695,673"/>
+</map>

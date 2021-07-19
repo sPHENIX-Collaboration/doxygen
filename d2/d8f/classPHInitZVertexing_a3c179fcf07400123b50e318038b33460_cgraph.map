@@ -1,0 +1,51 @@
+<map id="PHInitZVertexing::cellular_automaton_zvtx_init" name="PHInitZVertexing::cellular_automaton_zvtx_init">
+<area shape="rect" id="node2" href="$de/d3e/classCellularAutomaton__v1.html#a0ec65cf3c265bfbc9117365cfe8a2597" title="CellularAutomaton_v1\l::Reset" alt="" coords="264,185,435,229"/>
+<area shape="rect" id="node3" href="$de/d3e/classCellularAutomaton__v1.html#a81156297db69bd1a2a5672b80bae3bf0" title="CellularAutomaton_v1::run" alt="" coords="248,253,451,281"/>
+<area shape="rect" id="node32" href="$de/d3e/classCellularAutomaton__v1.html#a3c8f47420d53f5ce27da65f6bdf49e4b" title="CellularAutomaton_v1\l::set_ca_chi2" alt="" coords="264,305,435,349"/>
+<area shape="rect" id="node33" href="$de/d3e/classCellularAutomaton__v1.html#a8d039836061a5f44230e7e65db89638e" title="CellularAutomaton_v1\l::set_ca_chi2_layer" alt="" coords="264,373,435,417"/>
+<area shape="rect" id="node34" href="$de/d3e/classCellularAutomaton__v1.html#a4fa65249ede985dd1792d52e6f0ee5ef" title="CellularAutomaton_v1\l::set_ca_dcaxy_cut" alt="" coords="264,441,435,485"/>
+<area shape="rect" id="node35" href="$de/d3e/classCellularAutomaton__v1.html#a149a2fe91d11ca2828275e51102ac763" title="CellularAutomaton_v1\l::set_ca_phi_cut" alt="" coords="264,509,435,553"/>
+<area shape="rect" id="node36" href="$de/d3e/classCellularAutomaton__v1.html#a4d56073231465aaa2aba854c14ae8a49" title="CellularAutomaton_v1\l::set_ca_z_cut" alt="" coords="264,577,435,621"/>
+<area shape="rect" id="node37" href="$de/d3e/classCellularAutomaton__v1.html#a7dd79ee3b69722341260eff2e2b68c0e" title="CellularAutomaton_v1\l::set_hits_map" alt="" coords="264,645,435,689"/>
+<area shape="rect" id="node38" href="$de/d3e/classCellularAutomaton__v1.html#a808df13c7ce1b11886c24165a66f2a84" title="CellularAutomaton_v1\l::set_hough_space" alt="" coords="264,713,435,757"/>
+<area shape="rect" id="node40" href="$de/d3e/classCellularAutomaton__v1.html#a756437f2e021cceabefb2a4356ada584" title="CellularAutomaton_v1\l::set_mag_field" alt="" coords="264,781,435,825"/>
+<area shape="rect" id="node41" href="$de/d3e/classCellularAutomaton__v1.html#a748bee8f8b58c74d33b91113c460435e" title="CellularAutomaton_v1\l::set_n_layers" alt="" coords="264,849,435,893"/>
+<area shape="rect" id="node42" href="$de/d3e/classCellularAutomaton__v1.html#a92baecbc7077945b429481070f14dacd" title="CellularAutomaton_v1\l::set_propagate_forward" alt="" coords="257,917,442,961"/>
+<area shape="rect" id="node43" href="$de/d3e/classCellularAutomaton__v1.html#ab84aa53d7c2ccb0940d4df0aafdc5fca" title="CellularAutomaton_v1\l::set_pt_rescale" alt="" coords="264,985,435,1029"/>
+<area shape="rect" id="node44" href="$de/d3e/classCellularAutomaton__v1.html#afbddecc384426024532b9de2ccf3b79c" title="CellularAutomaton_v1\l::set_remove_hits" alt="" coords="264,1053,435,1097"/>
+<area shape="rect" id="node45" href="$de/d3e/classCellularAutomaton__v1.html#ac357442f38f67bb08df374c533eb9a65" title="CellularAutomaton_v1\l::set_remove_inner_hits" alt="" coords="259,1121,440,1165"/>
+<area shape="rect" id="node46" href="$de/d3e/classCellularAutomaton__v1.html#af0f9a9c1d50a27497b86773e178d3f26" title="CellularAutomaton_v1\l::set_required_layers" alt="" coords="264,1189,435,1233"/>
+<area shape="rect" id="node47" href="$de/d3e/classCellularAutomaton__v1.html#aa04708efca190b6910bd6db3a2b4b74e" title="CellularAutomaton_v1\l::set_seeding_mode" alt="" coords="264,1257,435,1301"/>
+<area shape="rect" id="node48" href="$de/d3e/classCellularAutomaton__v1.html#a2400ecf75561c040a15750a8cc670517" title="CellularAutomaton_v1\l::set_triplet_mode" alt="" coords="264,1325,435,1369"/>
+<area shape="rect" id="node49" href="$de/d3e/classCellularAutomaton__v1.html#af16783caf8ee1fe2c54f7c0cf80a242c" title="CellularAutomaton_v1\l::set_verbose" alt="" coords="264,1393,435,1437"/>
+<area shape="rect" id="node50" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="261,1461,437,1489"/>
+<area shape="rect" id="node4" href="$de/d3e/classCellularAutomaton__v1.html#af7d3b041878bf88e2c36e905dd528a0c" title="CellularAutomaton_v1\l::get_ca_tracks" alt="" coords="517,313,688,357"/>
+<area shape="rect" id="node5" href="$de/d3e/classCellularAutomaton__v1.html#aad495dc8f60605089e371ac664704b3b" title="CellularAutomaton_v1\l::init" alt="" coords="517,177,688,221"/>
+<area shape="rect" id="node7" href="$de/d3e/classCellularAutomaton__v1.html#a2965a654561b4e922e34ae61cb05a850" title="CellularAutomaton_v1\l::process_tracks" alt="" coords="517,245,688,289"/>
+<area shape="rect" id="node6" href="$de/d3e/classCellularAutomaton__v1.html#a8ae021d2d45071f14e04a5af3f228dff" title="CellularAutomaton_v1\l::set_cylinder_kalman" alt="" coords="758,177,929,221"/>
+<area shape="rect" id="node8" href="$de/d3e/classCellularAutomaton__v1.html#a6f7041eada7422006c1416e6525d767d" title="CellularAutomaton_v1\l::process_single_track" alt="" coords="758,245,929,289"/>
+<area shape="rect" id="node27" href="$de/d3e/classCellularAutomaton__v1.html#a707d565fb0ceadc37e23234c2eed112f" title="CellularAutomaton_v1\l::process_single_triplet" alt="" coords="755,528,932,572"/>
+<area shape="rect" id="node9" href="$d0/d51/classHelixKalmanFilter.html#a37c367c4552d3ba018bee40842f2496a" title="HelixKalmanFilter::\laddHit" alt="" coords="1009,177,1157,221"/>
+<area shape="rect" id="node18" href="$da/d87/classSimpleHit3D.html#aee4615586ba114d652ae2f53a329af8b" title="SimpleHit3D::get_layer" alt="" coords="1465,407,1644,435"/>
+<area shape="rect" id="node21" href="$de/d3e/classCellularAutomaton__v1.html#ad67d6b9c622ca3f75e4658ec3ab7de18" title="CellularAutomaton_v1\l::calculate_kappa_tangents" alt="" coords="980,417,1187,461"/>
+<area shape="rect" id="node22" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="1049,73,1117,101"/>
+<area shape="rect" id="node23" href="$d8/d73/classSimpleTrack3D.html#a37321d4a9e452b9c8ab84c72f7fa71ce" title="SimpleTrack3D::fit\l_track" alt="" coords="1011,245,1156,289"/>
+<area shape="rect" id="node24" href="$de/d3e/classCellularAutomaton__v1.html#a83f4c08514e553e27c7266358c17afae" title="CellularAutomaton_v1\l::kappa_to_pt" alt="" coords="998,5,1169,49"/>
+<area shape="rect" id="node25" href="$de/de0/matchedfilter_8C.html#a047009512eced2866d250243e44171c7" title="nfits" alt="" coords="1058,313,1109,341"/>
+<area shape="rect" id="node26" href="$d6/db0/fjcore_8hh.html#ac71f249d840a70f8b3aaffb721843eaa" title="swap" alt="" coords="1055,365,1111,393"/>
+<area shape="rect" id="node10" href="$d0/d51/classHelixKalmanFilter.html#ae1f253fa5416a0214710197cf8cd2e68" title="HelixKalmanFilter::\lcalculateMeasurements" alt="" coords="1235,707,1417,751"/>
+<area shape="rect" id="node15" href="$d0/d51/classHelixKalmanFilter.html#a1509b630656359408778405512be96d1" title="HelixKalmanFilter::\lcalculateMSCovariance" alt="" coords="1237,177,1415,221"/>
+<area shape="rect" id="node16" href="$d9/d03/KFParticleBaseSIMD_8h.html#a4cd33935de91662c0644140e301499e5" title="Returns charge of the particle." alt="" coords="1535,131,1574,159"/>
+<area shape="rect" id="node17" href="$d0/d51/classHelixKalmanFilter.html#ad68e150b0d221ba502eff109dcb90476" title="HelixKalmanFilter::\lcalculateProjections" alt="" coords="1248,484,1404,528"/>
+<area shape="rect" id="node19" href="$d0/d51/classHelixKalmanFilter.html#ae51e2a0e4732a5e50fc6460bfbc2393f" title="HelixKalmanFilter::\lsubtractProjections" alt="" coords="1251,313,1401,357"/>
+<area shape="rect" id="node20" href="$d0/d51/classHelixKalmanFilter.html#ac512133179f94f01af00f2ad841d9971" title="HelixKalmanFilter::\lupdateIntersection" alt="" coords="1252,245,1400,289"/>
+<area shape="rect" id="node11" href="$da/d87/classSimpleHit3D.html#afedde585b37d72326a4ffd97978eec56" title="SimpleHit3D::get_size" alt="" coords="1470,744,1639,772"/>
+<area shape="rect" id="node12" href="$da/d87/classSimpleHit3D.html#a7f9d236c9f34d7b37abdf76cbcdcc325" title="SimpleHit3D::get_x" alt="" coords="1479,552,1631,580"/>
+<area shape="rect" id="node13" href="$da/d87/classSimpleHit3D.html#a004f4dc96baa6789bb599036471d1e0d" title="SimpleHit3D::get_y" alt="" coords="1479,655,1631,683"/>
+<area shape="rect" id="node14" href="$da/d87/classSimpleHit3D.html#a32bb6a50aea56d16a2b81b4e5c02ffc0" title="SimpleHit3D::get_z" alt="" coords="1479,877,1630,905"/>
+<area shape="rect" id="node28" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="1028,827,1139,855"/>
+<area shape="rect" id="node29" href="$da/d87/classSimpleHit3D.html#a6fca396cd480492078c4e640b2410973" title="SimpleHit3D::get_id" alt="" coords="1005,879,1161,907"/>
+<area shape="rect" id="node30" href="$d3/d0a/classHelixHoughSpace.html#a980f06abaa5fda222764c78fcac55e66" title="HelixHoughSpace::get\l_kappa_max" alt="" coords="997,588,1170,632"/>
+<area shape="rect" id="node31" href="$de/d3e/classCellularAutomaton__v1.html#ae053e258beeeebcceabe05681632c440" title="CellularAutomaton_v1\l::shift_phi_range" alt="" coords="998,656,1169,700"/>
+<area shape="rect" id="node39" href="$d3/d0a/classHelixHoughSpace.html#a903dfe8685eeaf71f066ee7837d0406f" title="Virtual copy constructor." alt="" coords="499,721,707,749"/>
+</map>

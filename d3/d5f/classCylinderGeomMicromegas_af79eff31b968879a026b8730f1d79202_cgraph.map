@@ -1,0 +1,23 @@
+<map id="CylinderGeomMicromegas::convert_to_planar" name="CylinderGeomMicromegas::convert_to_planar">
+<area shape="rect" id="node2" href="$d3/d5f/classCylinderGeomMicromegas.html#a41f071306b58c20a3fceada4ff249b67" title="convert world to local position coordinates in (planar) tile reference frame" alt="" coords="258,5,458,65"/>
+<area shape="rect" id="node13" href="$d3/d5f/classCylinderGeomMicromegas.html#ab7abbbe081e19dcbfd8b844393cf49fa" title="convert world to local direction coordinates in (planar) tile reference frame" alt="" coords="253,89,463,133"/>
+<area shape="rect" id="node14" href="$d8/d2b/namespaceQAG4Util.html#a61d46189a0883ae4af122eb5ef596946" title="radius" alt="" coords="295,241,421,269"/>
+<area shape="rect" id="node16" href="$d3/d5f/classCylinderGeomMicromegas.html#a07e069f19cd34bf5cbc14df8589b9d41" title="convert local to world position coordinates in (planar) tile reference frame" alt="" coords="258,157,458,217"/>
+<area shape="rect" id="node17" href="$d3/d9e/classPHG4Hit.html#a69cc7aee827e3da7cf86e87418f9211b" title="PHG4Hit::get_x" alt="" coords="296,293,420,321"/>
+<area shape="rect" id="node18" href="$d3/d9e/classPHG4Hit.html#a17de3a9c9dc84ce4a50fc89082689d55" title="PHG4Hit::get_y" alt="" coords="296,345,420,373"/>
+<area shape="rect" id="node19" href="$d3/d9e/classPHG4Hit.html#a06fcf6b2cbcc8413ca3d6a172458e94e" title="PHG4Hit::get_z" alt="" coords="297,397,419,425"/>
+<area shape="rect" id="node20" href="$d3/d9e/classPHG4Hit.html#aa91398b4546e9d099443217e1577f79b" title="PHG4Hit::set_x" alt="" coords="297,449,419,477"/>
+<area shape="rect" id="node21" href="$d3/d9e/classPHG4Hit.html#a3ab7971f354374b005f9a11fd761b53e" title="PHG4Hit::set_y" alt="" coords="297,501,419,529"/>
+<area shape="rect" id="node22" href="$d3/d9e/classPHG4Hit.html#a896d7a45139f9cbc2e429127baa61715" title="PHG4Hit::set_z" alt="" coords="297,553,419,581"/>
+<area shape="rect" id="node3" href="$d3/d5f/classCylinderGeomMicromegas.html#a2f735644ef9dd61cfe02ed3450896fb7" title="CylinderGeomMicromegas\l::transformation_matrix" alt="" coords="511,89,711,133"/>
+<area shape="rect" id="node4" href="$d2/d51/usm_8C.html#a4fc3d7a8ab8dddafe2295d65165d9cf7" title="tile" alt="" coords="759,97,801,125"/>
+<area shape="rect" id="node5" href="$d2/d51/usm_8C.html#aeb3b442c3eacc3e6c3987fcb2a7d938c" title="csNorm" alt="" coords="849,19,921,47"/>
+<area shape="rect" id="node6" href="$dd/d7a/Mat__map__detector__plot_8C.html#ac0d08f0933de5ca6053592441e00dacb" title="Fill the histograms for the detector." alt="" coords="866,71,905,99"/>
+<area shape="rect" id="node11" href="$d2/d51/usm_8C.html#a312a11f8998028abc96138b746c948bf" title="fsNorm" alt="" coords="851,123,920,151"/>
+<area shape="rect" id="node12" href="$d9/d9e/evDisplay_8C.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="863,175,907,203"/>
+<area shape="rect" id="node7" href="$dd/d7a/Mat__map__detector__plot_8C.html#ab5e879aeac6e72f1a2567331e3716b3b" title="Initialise the histograms for the detector." alt="" coords="1009,41,1119,69"/>
+<area shape="rect" id="node8" href="$d7/d33/classActs_1_1GeometryIdentifier.html#abc1ccf966fe5fc7f517c6775b5d38623" title="Return the volume identifier." alt="" coords="969,93,1159,137"/>
+<area shape="rect" id="node9" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a5fc08ada52c3da4d9b255e0454739e1d" title="Extract the masked bits from the encoded value." alt="" coords="1207,93,1396,137"/>
+<area shape="rect" id="node10" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ac13065798464cc86b747086eea9020e2" title="Extract the bit shift necessary to access the masked values." alt="" coords="1444,93,1633,137"/>
+<area shape="rect" id="node15" href="$d8/d2b/namespaceQAG4Util.html#acb654c77dcfa7a61ba444f92481283c1" title="square" alt="" coords="542,241,679,269"/>
+</map>

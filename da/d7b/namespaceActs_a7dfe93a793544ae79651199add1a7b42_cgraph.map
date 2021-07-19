@@ -1,0 +1,3 @@
+<map id="Acts::createClusters" name="Acts::createClusters">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a3a7ddeb73781ab8b7645ddf7784b8895" title="fillCluster This function is a helper function internally used by Acts::createClusters. It does connected component labelling using a hash map in order to find out which cells are neighbours. This function is called recursively by all neighbours of the current cell. The function is templated on the digitization cell type to allow users to use their own implementation inheriting from Acts::DigitizationCell." alt="" coords="211,5,336,33"/>
+</map>

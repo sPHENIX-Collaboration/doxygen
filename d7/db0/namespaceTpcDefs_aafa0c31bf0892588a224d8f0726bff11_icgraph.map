@@ -1,0 +1,15 @@
+<map id="TpcDefs::getSide" name="TpcDefs::getSide">
+<area shape="rect" id="node2" href="$d2/d8c/TpcClusterizer_8cc.html#a69c4b839779b240325d7e0089a124b2a" title="calc_cluster_parameter" alt="" coords="207,5,385,33"/>
+<area shape="rect" id="node4" href="$de/d25/classTpcClusterizer.html#ac66fda514e9c1985f3f083ef79934137" title="TpcClusterizer::process\l_event" alt="" coords="697,24,877,68"/>
+<area shape="rect" id="node5" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="197,109,395,153"/>
+<area shape="rect" id="node7" href="$dd/de6/classKFParticle__truthAndDetTools.html#a753df68f4ae1e50b41add756b07b4739" title="KFParticle_truthAndDetTools\l::fillDetectorBranch" alt="" coords="191,177,401,221"/>
+<area shape="rect" id="node10" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="202,245,390,289"/>
+<area shape="rect" id="node12" href="$d7/db0/namespaceTpcDefs.html#a5f42c6b0f4cfea43db9931d43a62be77" title="Get the side id from cluskey." alt="" coords="227,313,365,341"/>
+<area shape="rect" id="node13" href="$d6/d03/classTpcPrototypeClusterizer.html#ad790455b460f30f668670fcd15cc36fb" title="TpcPrototypeClusterizer\l::process_event" alt="" coords="203,365,389,409"/>
+<area shape="rect" id="node14" href="$d7/ddb/classPHG4TpcElectronDrift.html#aeea2d1046042fabf274bc85a6221955f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="212,433,380,477"/>
+<area shape="rect" id="node3" href="$d2/d8c/TpcClusterizer_8cc.html#a74f8414a645296778e3ef9cf612e6066" title="ProcessSector" alt="" coords="491,5,607,33"/>
+<area shape="rect" id="node6" href="$d1/dc5/classPHG4TpcDigitizer.html#a6f7cfd373e9a212b5e255e44738ea193" title="event processing" alt="" coords="449,109,649,153"/>
+<area shape="rect" id="node8" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="476,177,623,221"/>
+<area shape="rect" id="node9" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="711,177,863,221"/>
+<area shape="rect" id="node11" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="461,245,637,289"/>
+</map>

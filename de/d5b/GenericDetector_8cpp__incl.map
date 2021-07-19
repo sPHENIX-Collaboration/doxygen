@@ -1,0 +1,35 @@
+<map id="acts/blob/sPHENIX/Examples/Detectors/GenericDetector/src/GenericDetector.cpp" name="acts/blob/sPHENIX/Examples/Detectors/GenericDetector/src/GenericDetector.cpp">
+<area shape="rect" id="node2" href="$d3/dcc/GenericDetector_8hpp.html" title="ActsExamples/GenericDetector\l/GenericDetector.hpp" alt="" coords="29,297,263,341"/>
+<area shape="rect" id="node8" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="983,397,1261,425"/>
+<area shape="rect" id="node15" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="2319,489,2506,517"/>
+<area shape="rect" id="node22" href="$db/d42/IContextDecorator_8hpp.html" title="ActsExamples/Framework\l/IContextDecorator.hpp" alt="" coords="711,297,907,341"/>
+<area shape="rect" id="node25" href="$d0/d1d/BuildGenericDetector_8hpp.html" title="ActsExamples/GenericDetector\l/BuildGenericDetector.hpp" alt="" coords="2352,113,2585,157"/>
+<area shape="rect" id="node42" href="$d0/d2f/GenericDetectorElement_8hpp.html" title="ActsExamples/GenericDetector\l/GenericDetectorElement.hpp" alt="" coords="4328,389,4561,433"/>
+<area shape="rect" id="node48" href="$de/d49/GenericDetectorOptions_8hpp.html" title="ActsExamples/GenericDetector\l/GenericDetectorOptions.hpp" alt="" coords="4480,297,4713,341"/>
+<area shape="rect" id="node3" href="$d6/dfa/IBaseDetector_8hpp.html" title="ActsExamples/Detector\l/IBaseDetector.hpp" alt="" coords="83,389,263,433"/>
+<area shape="rect" id="node4" href="$d5/d78/OptionsFwd_8hpp.html" title="ActsExamples/Utilities\l/OptionsFwd.hpp" alt="" coords="35,481,207,525"/>
+<area shape="rect" id="node9" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2775,489,3053,517"/>
+<area shape="rect" id="node11" href="$d5/d67/GeometryIdentifier_8hpp.html" title="Acts/Geometry/GeometryIdentifier.hpp" alt="" coords="1033,489,1317,517"/>
+<area shape="rect" id="node13" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="3479,489,3693,517"/>
+<area shape="rect" id="node23" href="$de/d37/AlgorithmContext_8hpp.html" title="ActsExamples/Framework\l/AlgorithmContext.hpp" alt="" coords="711,389,907,433"/>
+<area shape="rect" id="node24" href="$d1/d06/ProcessCode_8hpp.html" title="ActsExamples/Framework\l/ProcessCode.hpp" alt="" coords="491,389,687,433"/>
+<area shape="rect" id="node26" href="$d1/d34/CylinderVolumeBuilder_8hpp.html" title="Acts/Geometry/CylinderVolume\lBuilder.hpp" alt="" coords="2096,389,2329,433"/>
+<area shape="rect" id="node27" href="$df/d6f/Units_8hpp.html" title="Acts/Utilities/Units.hpp" alt="" coords="3766,489,3942,517"/>
+<area shape="rect" id="node29" href="$da/d84/CylinderVolumeHelper_8hpp.html" title="Acts/Geometry/CylinderVolume\lHelper.hpp" alt="" coords="1285,389,1519,433"/>
+<area shape="rect" id="node30" href="$d7/d99/LayerArrayCreator_8hpp.html" title="Acts/Geometry/LayerArray\lCreator.hpp" alt="" coords="3056,389,3257,433"/>
+<area shape="rect" id="node31" href="$db/d26/LayerCreator_8hpp.html" title="Acts/Geometry/LayerCreator.hpp" alt="" coords="2608,305,2852,333"/>
+<area shape="rect" id="node32" href="$d8/d20/SurfaceArrayCreator_8hpp.html" title="Acts/Geometry/SurfaceArray\lCreator.hpp" alt="" coords="3333,389,3548,433"/>
+<area shape="rect" id="node33" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="1595,397,1796,425"/>
+<area shape="rect" id="node34" href="$de/db2/PassiveLayerBuilder_8hpp.html" title="Acts/Geometry/PassiveLayer\lBuilder.hpp" alt="" coords="2557,389,2773,433"/>
+<area shape="rect" id="node35" href="$d8/dbb/TrackingGeometryBuilder_8hpp.html" title="Acts/Geometry/TrackingGeometry\lBuilder.hpp" alt="" coords="1821,389,2071,433"/>
+<area shape="rect" id="node36" href="$d7/d9e/TrackingVolumeArrayCreator_8hpp.html" title="Acts/Geometry/TrackingVolume\lArrayCreator.hpp" alt="" coords="2797,389,3031,433"/>
+<area shape="rect" id="node37" href="$d9/dfe/HomogeneousSurfaceMaterial_8hpp.html" title="Acts/Material/Homogeneous\lSurfaceMaterial.hpp" alt="" coords="3538,297,3751,341"/>
+<area shape="rect" id="node38" href="$d0/d70/Material_8hpp.html" title="Acts/Material/Material.hpp" alt="" coords="3263,305,3463,333"/>
+<area shape="rect" id="node39" href="$dd/d9d/ProtoSurfaceMaterial_8hpp.html" title="Acts/Material/ProtoSurface\lMaterial.hpp" alt="" coords="1879,205,2080,249"/>
+<area shape="rect" id="node40" href="$dc/d98/LayerBuilderT_8hpp.html" title="ActsExamples/GenericDetector\l/LayerBuilderT.hpp" alt="" coords="3528,205,3761,249"/>
+<area shape="rect" id="node45" href="$d8/d72/ProtoLayerCreatorT_8hpp.html" title="ActsExamples/GenericDetector\l/ProtoLayerCreatorT.hpp" alt="" coords="3877,297,4111,341"/>
+<area shape="rect" id="node41" href="$dc/d45/DetectorElementBase_8hpp.html" title="Acts/Geometry/DetectorElement\lBase.hpp" alt="" coords="4605,573,4847,617"/>
+<area shape="rect" id="node43" href="$d4/db1/IdentifiedDetectorElement_8hpp.html" title="Acts/Plugins/Identification\l/IdentifiedDetectorElement.hpp" alt="" coords="4428,481,4664,525"/>
+<area shape="rect" id="node44" href="$d9/dec/Identifier_8hpp.html" title="Acts/Plugins/Identification\l/Identifier.hpp" alt="" coords="4357,573,4554,617"/>
+<area shape="rect" id="node49" href="$da/d67/Options_8hpp.html" title="ActsExamples/Utilities\l/Options.hpp" alt="" coords="4029,389,4201,433"/>
+</map>

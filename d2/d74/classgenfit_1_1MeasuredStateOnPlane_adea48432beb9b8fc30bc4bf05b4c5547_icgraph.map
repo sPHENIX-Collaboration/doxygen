@@ -1,0 +1,51 @@
+<map id="genfit::MeasuredStateOnPlane::getCov" name="genfit::MeasuredStateOnPlane::getCov">
+<area shape="rect" id="node2" href="$dc/d22/namespacegenfit.html#ab9be5ccf8961ab01c0401d938a1f628f" title="Calculate weighted average between two MeasuredStateOnPlanes." alt="" coords="331,432,519,460"/>
+<area shape="rect" id="node5" href="$d7/dd5/classPHGenFit_1_1Track.html#ac24ac1591f867e1e0641112d6e12f6aa" title="PHGenFit::Track::updateOne\lMeasurementKalman" alt="" coords="881,73,1092,117"/>
+<area shape="rect" id="node7" href="$d9/d91/classPHG4TrackFastSim.html#a27f5d3e1fcab6a5cc74fda92cd51359f" title="PHG4TrackFastSim::MakeSvtx\lTrack" alt="" coords="1141,881,1363,925"/>
+<area shape="rect" id="node10" href="$d5/d1b/classPHGenFit2_1_1Track.html#ae5f535943fef0b20500c65ef1b020bd0" title="PHGenFit2::Track::update\lOneMeasurementKalman" alt="" coords="891,757,1083,801"/>
+<area shape="rect" id="node16" href="$de/d25/classPHGenFitTrkFitter.html#a99d09d612858e8b8d146c26bb764e62a" title="Make SvtxTrack from PHGenFit::Track and SvtxTrack." alt="" coords="914,5,1059,49"/>
+<area shape="rect" id="node18" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a294470305559030667e010db718d3f3a" title="Draw an event." alt="" coords="907,1081,1066,1125"/>
+<area shape="rect" id="node21" href="$d0/d48/GenFit_2blob_2master_2test_2fitterTests_2main_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="1667,1061,1721,1089"/>
+<area shape="rect" id="node24" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#a6f8067ff3ebb42f7957fbde01d5c6f49" title="Get unbiased (default) or biased residual from ith measurement." alt="" coords="897,1252,1077,1296"/>
+<area shape="rect" id="node25" href="$d6/d60/classgenfit_1_1DAF.html#a13c89d100046e596ea6442bdd5d6a40c" title="Calculate and set the weights for the next fitting pass. Return if convergence is met..." alt="" coords="1159,1235,1345,1263"/>
+<area shape="rect" id="node27" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#a950783b305dbab9cb5178fe1467b9b2a" title="genfit::KalmanFitterInfo\l::getSmoothedChi2" alt="" coords="1162,1287,1342,1331"/>
+<area shape="rect" id="node29" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#a6112774ee2e5b98aa7592038ea49a52a" title="Remove referenceStates if they are too far from smoothed states." alt="" coords="880,825,1093,869"/>
+<area shape="rect" id="node31" href="$d9/d33/GenFit_2blob_2master_2test_2unitTests_2main_8cc.html#a813b5bceb138d9c56aa0b9c3922c6f11" title="checkErrorPropagation" alt="" coords="339,1353,512,1381"/>
+<area shape="rect" id="node33" href="$d9/d33/GenFit_2blob_2master_2test_2unitTests_2main_8cc.html#ae196de09f5576b24a640ca8840808b26" title="compareForthBackJacNoise" alt="" coords="323,1405,528,1433"/>
+<area shape="rect" id="node34" href="$d3/d5c/classgenfit_1_1GblFitterInfo.html#aaa28251e933bd0cb8d80ba72f5e5a05e" title="Collect all data and create a GblPoint." alt="" coords="349,1457,502,1501"/>
+<area shape="rect" id="node36" href="$d6/d83/classgenfit_1_1WirePointMeasurement.html#a3e55e421ad6879ac01504de58045d6aa" title="genfit::WirePointMeasurement\l::constructMeasurementsOnPlane" alt="" coords="301,1525,550,1569"/>
+<area shape="rect" id="node37" href="$d4/deb/classgenfit_1_1SpacepointMeasurement.html#a26b27a006325a277d5d501d3fdf25a98" title="genfit::SpacepointMeasurement\l::constructMeasurementsOnPlane" alt="" coords="301,1593,550,1637"/>
+<area shape="rect" id="node38" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#ae28fde614f4be610f7f6eecce03c4eba" title="genfit::KalmanFitterInfo\l::getAvgWeightedMeasurementOnPlane" alt="" coords="280,1661,571,1705"/>
+<area shape="rect" id="node39" href="$d2/d12/classgenfit_1_1RKTrackRep.html#adf127586f7ebe0a934dbccea77bfe2c6" title="get the variance of the absolute value of the momentum ." alt="" coords="351,1729,499,1773"/>
+<area shape="rect" id="node40" href="$d4/db7/classgenfit_1_1KalmanFitter.html#afe8b6ebb672298327052897b7c95135d" title="genfit::KalmanFitter\l::processTrackPoint" alt="" coords="347,1020,503,1064"/>
+<area shape="rect" id="node42" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#a0dffe53c54ee6afe2fc252e643b5b790" title="genfit::KalmanFitterRefTrack\l::processTrackPoint" alt="" coords="619,1819,832,1863"/>
+<area shape="rect" id="node44" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#adc865a1152d111df9d724e047decaf3e" title="genfit::KalmanFitterRefTrack\l::processTrackPointSqrt" alt="" coords="319,1849,532,1893"/>
+<area shape="rect" id="node45" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a4e0ab69f9facd54709f9f6b19e5b77e5" title="Set position and momentum and error of state." alt="" coords="351,1917,499,1961"/>
+<area shape="rect" id="node46" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a298713c11daf73717a074841db36a890" title="genfit::RKTrackRep\l::transformM6P" alt="" coords="351,1985,499,2029"/>
+<area shape="rect" id="node48" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a7f21be47e0d5032c0c9dbd1d9c3688ef" title="genfit::RKTrackRep\l::transformPM6" alt="" coords="351,2053,499,2097"/>
+<area shape="rect" id="node3" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#a2076ecca63ef159ab37fae40a38c0ea0" title="Get unbiased or biased (default) smoothed state." alt="" coords="635,536,815,580"/>
+<area shape="rect" id="node4" href="$d6/d17/classSVReco.html#a0b5b196a0467d07833fcbb0fa1e47a77" title="Uses the vertex to remake the track." alt="" coords="1161,621,1343,649"/>
+<area shape="rect" id="node6" href="$d7/dd5/classPHGenFit_1_1Track.html#a2e02a0f394b0cfe0057f2472c095f45b" title="PHGenFit::Track::get\l_charge" alt="" coords="907,689,1066,733"/>
+<area shape="rect" id="node9" href="$d7/dd5/classPHGenFit_1_1Track.html#a44e533bbe040f465aaaa1032785b543f" title="PHGenFit::Track::get_mom" alt="" coords="887,261,1086,289"/>
+<area shape="rect" id="node11" href="$d5/d1b/classPHGenFit2_1_1Track.html#a58834d073911a83c695055c8c66d96a5" title="PHGenFit2::Track::get\l_charge" alt="" coords="903,313,1071,357"/>
+<area shape="rect" id="node12" href="$d5/d1b/classPHGenFit2_1_1Track.html#a0bc5bb4690da6abc1495bf555d957be4" title="PHGenFit2::Track::get_mom" alt="" coords="883,381,1091,409"/>
+<area shape="rect" id="node13" href="$d5/d1b/classPHGenFit2_1_1Track.html#a98ad41066783048c00dccdfaa53ecd67" title="PHGenFit2::Track::get\l_track_info" alt="" coords="903,433,1071,477"/>
+<area shape="rect" id="node14" href="$d6/df6/classPHTpcTrackFollower.html#ae5673b19751dc2b5dda9851c31a80f8e" title="PHTpcTrackFollower\l::get_track_layer" alt="" coords="909,501,1065,545"/>
+<area shape="rect" id="node15" href="$d6/df6/classPHTpcTrackFollower.html#a70bab64e85da952cf935c5fa64b5022e" title="PHTpcTrackFollower\l::get_projected_coordinate" alt="" coords="886,569,1087,613"/>
+<area shape="rect" id="node22" href="$d4/db7/classgenfit_1_1KalmanFitter.html#aa44364f202ab52ca2f8fa2000e29a534" title="Hit resorting currently NOT supported." alt="" coords="900,945,1073,989"/>
+<area shape="rect" id="node23" href="$d4/db7/classgenfit_1_1KalmanFitter.html#a003f370d672562e1e5c2b345d61f211c" title="genfit::KalmanFitter\l::processTrackPartially" alt="" coords="901,1013,1073,1057"/>
+<area shape="rect" id="node28" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#ab28798fe239a0577ef7a9c254c235491" title="Prepare the track." alt="" coords="1145,707,1359,751"/>
+<area shape="rect" id="node30" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a7d58d6e2d72346f8c2eb6aa9cf897c9b" title="Make TpcPrototypeTrack from SvtxTrack, refit by &quot;excluding&quot; each cluster." alt="" coords="882,193,1091,237"/>
+<area shape="rect" id="node8" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="1411,881,1619,925"/>
+<area shape="rect" id="node17" href="$de/d25/classPHGenFitTrkFitter.html#afcdaabc6fd73922bb522d7fa7ef3a775" title="Process Event, called for each event." alt="" coords="1179,5,1325,49"/>
+<area shape="rect" id="node19" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a493a1ff074a94d20fb52ec58e121aa9f" title="Go to event with index id." alt="" coords="1173,1025,1331,1069"/>
+<area shape="rect" id="node20" href="$d4/d1a/classgenfit_1_1EventDisplay.html#ae4db6c8ff56045f6c9d7aee52d3dd695" title="Open the event display." alt="" coords="1435,1053,1594,1097"/>
+<area shape="rect" id="node26" href="$d6/d60/classgenfit_1_1DAF.html#a2bdf79750af68a02be2da0fb2442de33" title="Process a track using the DAF." alt="" coords="1419,1227,1611,1271"/>
+<area shape="rect" id="node32" href="$d9/d33/GenFit_2blob_2master_2test_2unitTests_2main_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="698,1379,753,1407"/>
+<area shape="rect" id="node35" href="$d1/dc8/classgenfit_1_1GblFitter.html#aca889cc191ff16e91cf281bde21f4eb6" title="Constructs all GBL points and returns them in vector for trajectory construction." alt="" coords="658,1457,793,1501"/>
+<area shape="rect" id="node41" href="$d4/db7/classgenfit_1_1KalmanFitter.html#ac2a327860007e886098409876504c5ba" title="genfit::KalmanFitter\l::fitTrack" alt="" coords="647,1013,803,1057"/>
+<area shape="rect" id="node43" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#affda7c9ad9495fd91828d1b43adcc904" title="Fit the track." alt="" coords="880,1819,1093,1863"/>
+<area shape="rect" id="node47" href="$d2/d12/classgenfit_1_1RKTrackRep.html#acb46bfdfe945c02a232bc219addf913e" title="Set position, momentum and covariance of state." alt="" coords="651,1985,799,2029"/>
+<area shape="rect" id="node49" href="$d2/d12/classgenfit_1_1RKTrackRep.html#adf335d9f5be6d0d9b876138cff9b381b" title="Translates MeasuredStateOnPlane into 3D position, momentum and 6x6 covariance." alt="" coords="651,2121,799,2165"/>
+<area shape="rect" id="node50" href="$d2/d12/classgenfit_1_1RKTrackRep.html#a7de37b55c08f65fc716098d32db7aa9e" title="Get the 6D covariance." alt="" coords="651,2053,799,2097"/>
+</map>

@@ -1,0 +1,44 @@
+<map id="parton" name="parton">
+<area shape="rect" id="node2" href="$de/dd7/exceptiondfe_1_1Variable.html#ad546b80a148ce91384638a73e6293e3f" title="dfe::Variable::as" alt="" coords="119,433,251,461"/>
+<area shape="rect" id="node3" href="$dc/dc6/gmre_8f.html#aa6e860c7d81623b3000169df288e5688" title="gmre" alt="" coords="157,537,213,565"/>
+<area shape="rect" id="node4" href="$de/de0/matchedfilter_8C.html#ad37474ba23a5f0af2c619aeeaad07526" title="go" alt="" coords="388,485,427,513"/>
+<area shape="rect" id="node7" href="$d3/df2/classgenfit_1_1GFRavePropagator.html#a0534e516b69488120356d8bfa53f6f5b" title="genfit::GFRavePropagator::to" alt="" coords="299,562,516,590"/>
+<area shape="rect" id="node34" href="$db/da1/classHiParnt.html#ac653b598baeeca89d06693fdf4688f38" title="HiParnt::hint1" alt="" coords="128,693,241,721"/>
+<area shape="rect" id="node38" href="$db/da1/classHiParnt.html#a28a5a24ec376a6790e610d7fcc0f5b8e" title="HiParnt::hipr1" alt="" coords="128,641,241,669"/>
+<area shape="rect" id="node40" href="$db/da1/classHiParnt.html#a0d759f134daae3226a7744c9920bd769" title="HiParnt::ihnt2" alt="" coords="128,745,241,773"/>
+<area shape="rect" id="node42" href="$db/da1/classHiParnt.html#a1c6a5924524a08fe9641adc64095c0b9" title="HiParnt::ihpr2" alt="" coords="128,797,241,825"/>
+<area shape="rect" id="node5" href="$de/de0/matchedfilter_8C.html#a3f4d763c3fdd217c038a53ba4ca5b98a" title="meanw" alt="" coords="629,485,699,513"/>
+<area shape="rect" id="node6" href="$de/de0/matchedfilter_8C.html#ac662fab4d6569f9ab320da1b95bcd663" title="round" alt="" coords="634,433,694,461"/>
+<area shape="rect" id="node8" href="$dc/d22/namespacegenfit.html#aec5c8cb927a354edfb23af80108b69d4" title="genfit::PlaneToGFDetPlane" alt="" coords="564,724,764,752"/>
+<area shape="rect" id="node11" href="$dc/d22/namespacegenfit.html#a16248965fc33843bb4f2d9bd8b0a7ce7" title="genfit::GFTrackToTrack" alt="" coords="577,537,751,565"/>
+<area shape="rect" id="node9" href="$dc/d22/namespacegenfit.html#ad8550f9eaa6237f8ddf48aefd57dfe58" title="genfit::Point3DToTVector3" alt="" coords="827,754,1023,782"/>
+<area shape="rect" id="node10" href="$dc/d22/namespacegenfit.html#ad3ecb92a152c9ea7f5290e3653910473" title="genfit::Vector3DToTVector3" alt="" coords="823,806,1028,834"/>
+<area shape="rect" id="node12" href="$d6/d8a/classgenfit_1_1Track.html#ad06e7a012624bdb03960826b5c9fcd93" title="Get FitStatus for a AbsTrackRep. Per default, return FitStatus for cardinalRep." alt="" coords="828,566,1023,594"/>
+<area shape="rect" id="node14" href="$d0/d8d/classgenfit_1_1FitStatus.html#a56371ce504bee72fcf2f9324ddcb91a8" title="Did the fit converge (in all Points or only partially)?" alt="" coords="857,618,993,662"/>
+<area shape="rect" id="node15" href="$d6/d8a/classgenfit_1_1Track.html#abf156957d701a9a10a02fef8ac54e4d9" title="Shortcut to get FittedStates." alt="" coords="839,498,1012,542"/>
+<area shape="rect" id="node20" href="$d2/d74/classgenfit_1_1MeasuredStateOnPlane.html#a3aab44a6c7155b8258fa34469bc45bc0" title="genfit::MeasuredStateOnPlane\l::getPosMomCov" alt="" coords="812,686,1039,730"/>
+<area shape="rect" id="node23" href="$d0/d8d/classgenfit_1_1FitStatus.html#a7e8ed1d97eec3e3164dc2dd782f5cb85" title="Get the fitted charge." alt="" coords="857,72,993,116"/>
+<area shape="rect" id="node24" href="$d0/d8d/classgenfit_1_1FitStatus.html#abbeeda61574c284f1d762088b3644770" title="Get chi^2 of the fit." alt="" coords="857,140,993,184"/>
+<area shape="rect" id="node25" href="$d0/d8d/classgenfit_1_1FitStatus.html#aa73b3566657ea37bf8ab5102d465025d" title="Get the degrees of freedom of the fit." alt="" coords="857,208,993,252"/>
+<area shape="rect" id="node26" href="$de/d82/namespacerelease.html#ac63a4e24ae2a10afe15fb33e11a485c2" title="release.tag" alt="" coords="877,276,973,304"/>
+<area shape="rect" id="node13" href="$d6/d8a/classgenfit_1_1Track.html#a402b35300e81a48c7f0b9eb082b1cf24" title="Get cardinal track representation." alt="" coords="1335,569,1552,597"/>
+<area shape="rect" id="node16" href="$d6/d8a/classgenfit_1_1Track.html#ad8961b1ff4809ccde5f6f100ffbccb9d" title="genfit::Track::getPointWith\lFitterInfo" alt="" coords="1087,396,1287,440"/>
+<area shape="rect" id="node17" href="$d8/db3/classgenfit_1_1Exception.html#a13619975a1e1be5c1bd504b254e01f7a" title="Set fatal flag." alt="" coords="1115,532,1259,576"/>
+<area shape="rect" id="node18" href="$db/d40/classgenfit_1_1TrackPoint.html#ae8b3e743fb436dd6689e0dad4c35ffd9" title="Get fitterInfo for rep. Per default, use cardinal rep." alt="" coords="1117,464,1256,508"/>
+<area shape="rect" id="node19" href="$d9/d8c/classgenfit_1_1AbsFitterInfo.html#a985d0203f46dfbd5dc253bb03b21d76f" title="genfit::AbsFitterInfo\l::getFittedState" alt="" coords="1109,600,1264,644"/>
+<area shape="rect" id="node21" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a14f25e4575846dcb14bd91ddb2a534d2" title="genfit::StateOnPlane\l::getRep" alt="" coords="1106,770,1267,814"/>
+<area shape="rect" id="node22" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#ae6f4c4eeb3e4fbadcc930f53e2ca4ad7" title="Translates MeasuredStateOnPlane into 3D position, momentum and 6x6 covariance." alt="" coords="1109,838,1265,882"/>
+<area shape="rect" id="node27" href="$de/d82/namespacerelease.html#a44eacb239a3470341e19e7cef690bcbf" title="release.get_current\l_branch" alt="" coords="1110,156,1263,200"/>
+<area shape="rect" id="node28" href="$de/d82/namespacerelease.html#a23ccb4765230c4db38ba2dd5320597ce" title="release.split_version" alt="" coords="1107,224,1266,252"/>
+<area shape="rect" id="node29" href="$de/d82/namespacerelease.html#ade2f0fa1de108c5a0879b42a5876362e" title="release.format_version" alt="" coords="1099,276,1275,304"/>
+<area shape="rect" id="node30" href="$d6/d72/namespaceutil.html#ac8015eb2508544e525f64f4bd01fd5d8" title="util.Spinner" alt="" coords="1393,168,1493,196"/>
+<area shape="rect" id="node31" href="$de/d82/namespacerelease.html#a6389d77b4d19ef3218eec0ddc3b0db0f" title="release.check_branch\l_exists" alt="" coords="1103,328,1271,372"/>
+<area shape="rect" id="node32" href="$dc/d11/Prototype2_2EMCal_2macros_2SaveCanvas_8m.html#a8efe7494567713c8ec7a6803834a0bb6" title="print" alt="" coords="1160,52,1213,80"/>
+<area shape="rect" id="node33" href="$de/d82/namespacerelease.html#a831d8ad05fd79f8b6986a6bcea97c138" title="release.confirm" alt="" coords="1124,104,1249,132"/>
+<area shape="rect" id="node35" href="$db/da1/classHiParnt.html#aec7bbf54e836c6b58a40be4e79292972" title="HiParnt::init" alt="" coords="357,745,458,773"/>
+<area shape="rect" id="node37" href="$db/da1/classHiParnt.html#a1074072a5774a085cecf879899a44ab3" title="HiParnt::lenHint1" alt="" coords="339,693,475,721"/>
+<area shape="rect" id="node36" href="$d4/d0f/HiParnt_8h.html#ae387711cf1ed2f3d5908e93a113f27e7" title="hiparnt_address_" alt="" coords="595,776,733,804"/>
+<area shape="rect" id="node39" href="$db/da1/classHiParnt.html#a976a341872dd6ef684a319c5e262be46" title="HiParnt::lenHipr1" alt="" coords="339,641,475,669"/>
+<area shape="rect" id="node41" href="$db/da1/classHiParnt.html#a2583f210ac7e15c429d879a65e9626b2" title="HiParnt::lenIhnt2" alt="" coords="340,797,475,825"/>
+<area shape="rect" id="node43" href="$db/da1/classHiParnt.html#aa2f216c88e3e9ec0634df4755e281c85" title="HiParnt::lenIhpr2" alt="" coords="340,849,475,877"/>
+</map>

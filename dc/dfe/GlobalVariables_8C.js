@@ -1,0 +1,27 @@
+var GlobalVariables_8C =
+[
+    [ "MACRO_GLOBALVARIABLES_C", "dc/dfe/GlobalVariables_8C.html#a2cb7cf23ab98e113b56492a2ab951765", null ],
+    [ "ABSORBER", "dc/dfe/GlobalVariables_8C.html#abe587b4d3592d66b85426d53f44386dd", null ],
+    [ "decayType", "dc/dfe/GlobalVariables_8C.html#a0fc77c62c0d9dba3e1fe7aebba0c6ddc", null ],
+    [ "DSTOUT", "dc/dfe/GlobalVariables_8C.html#ac1d2c42de10015cf32aa4d33deef493c", null ],
+    [ "DSTOUT_COMPRESS", "dc/dfe/GlobalVariables_8C.html#ac587518327565d748848c9650ec86287", null ],
+    [ "EMBED", "dc/dfe/GlobalVariables_8C.html#a1f6cdfe3a0d6dbe66a4dcedd64c3e6af", null ],
+    [ "gap", "dc/dfe/GlobalVariables_8C.html#aa74b051bafc21571e879a0a50090851b", null ],
+    [ "HEPMC", "dc/dfe/GlobalVariables_8C.html#a579fdc756a6bbeba1a7b0cf798e676c6", null ],
+    [ "magfield", "dc/dfe/GlobalVariables_8C.html#a42125108d909b1fc010936074b9b11ad", null ],
+    [ "magfield_rescale", "dc/dfe/GlobalVariables_8C.html#af1c041a0de40627d05f193a5e7123e10", null ],
+    [ "max_radius", "dc/dfe/GlobalVariables_8C.html#a779d4d654ed6502e55286299ecf9e6d0", null ],
+    [ "max_z", "dc/dfe/GlobalVariables_8C.html#a86eb0b86d267fe862f1b215a18cc72b0", null ],
+    [ "min_z", "dc/dfe/GlobalVariables_8C.html#af779a58da4f3642f80e6459cc347179c", null ],
+    [ "no_overlapp", "dc/dfe/GlobalVariables_8C.html#ab6be21fc3be44768cf9b7df1e23b2221", null ],
+    [ "OutputDir", "dc/dfe/GlobalVariables_8C.html#a3f3759c0e4953372a398c8e773ad10d9", null ],
+    [ "OutputFile", "dc/dfe/GlobalVariables_8C.html#a5733d5a9292db6a346b319a079be75ef", null ],
+    [ "OVERLAPCHECK", "dc/dfe/GlobalVariables_8C.html#ac09c9d28ae9dfc18afd5064fcec269c6", null ],
+    [ "READEIC", "dc/dfe/GlobalVariables_8C.html#a9fef717bce1a4778700c2cf95de3ecca", null ],
+    [ "SUPPORT", "dc/dfe/GlobalVariables_8C.html#a59cea5958ee36e1a39db979bb1ff6857", null ],
+    [ "TrackNodeName", "dc/dfe/GlobalVariables_8C.html#a070eecd413ab842f939d07e4e82b904f", null ],
+    [ "UPSILON", "dc/dfe/GlobalVariables_8C.html#abc6710778895d0368257ba244b696f58", null ],
+    [ "UPSILON_EmbedIds", "dc/dfe/GlobalVariables_8C.html#ad330850e9cc94cd9114fcba22149f058", null ],
+    [ "VERBOSITY", "dc/dfe/GlobalVariables_8C.html#a9f419aebe235bd7d810396994cd005db", null ],
+    [ "visible", "dc/dfe/GlobalVariables_8C.html#a9661608d8250e26c4e114fd1238ab34e", null ]
+];

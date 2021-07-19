@@ -1,0 +1,25 @@
+<map id="MvtxClusterizer::process_event" name="MvtxClusterizer::process_event">
+<area shape="rect" id="node2" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="242,500,458,528"/>
+<area shape="rect" id="node22" href="$dc/d12/classMvtxClusterizer.html#aa6d99eeea4cc652f359be97eb6d7bb21" title="MvtxClusterizer::PrintClusters" alt="" coords="240,947,460,975"/>
+<area shape="rect" id="node3" href="$d7/d4f/classTrkrClusterHitAssoc.html#a0314201abed284e81c000137451628cc" title="Add association between cluster and hit." alt="" coords="542,5,695,49"/>
+<area shape="rect" id="node4" href="$d0/d2c/classTrkrClusterContainer.html#a1ecb0af9b226d3d8c58e68528be73108" title="add a cluster" alt="" coords="537,73,700,117"/>
+<area shape="rect" id="node5" href="$dc/d12/classMvtxClusterizer.html#ac82d44e07a520b09cdff0225f3604827" title="MvtxClusterizer::are\l_adjacent" alt="" coords="541,193,697,237"/>
+<area shape="rect" id="node6" href="$d8/df1/namespaceMvtxDefs.html#a1168eb31a2fe1f73988744e3bdedd24f" title="Get the column index from hitkey." alt="" coords="797,173,933,201"/>
+<area shape="rect" id="node7" href="$d8/df1/namespaceMvtxDefs.html#a8c10f1bd18a4e4eb490f2809ed6ad9aa" title="Get the row index from hitkey." alt="" coords="793,229,937,257"/>
+<area shape="rect" id="node8" href="$d8/df1/namespaceMvtxDefs.html#a9205343fdba72e5ac8b44946102af8ae" title="Generate a cluster key from indeces." alt="" coords="533,313,705,341"/>
+<area shape="rect" id="node11" href="$d8/df1/namespaceMvtxDefs.html#abfd7b6c5fe579370c360924854579283" title="Get the chip id from hitsetkey." alt="" coords="540,365,697,393"/>
+<area shape="rect" id="node12" href="$d9/dc1/classTrkrHitSet.html#a2a362e326ba49a53a7675dc4c9b39c2a" title="Get all hits." alt="" coords="545,417,692,445"/>
+<area shape="rect" id="node13" href="$d9/dc1/classTrkrHitSet.html#acffcc2223e9568b469109de4790fd734" title="Get the key for this object." alt="" coords="525,469,712,497"/>
+<area shape="rect" id="node14" href="$d5/d76/classTrkrHitSetContainer.html#a0e347bd66bf03e9a34651410a79d5cab" title="return all HitSets matching a given detid" alt="" coords="541,521,697,565"/>
+<area shape="rect" id="node15" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="545,589,693,617"/>
+<area shape="rect" id="node16" href="$d4/de7/classPHG4CylinderGeomContainer.html#a08321019aaff5f57cd416b64d0f536bf" title="PHG4CylinderGeomContainer\l::GetLayerGeom" alt="" coords="508,641,729,685"/>
+<area shape="rect" id="node17" href="$d8/df1/namespaceMvtxDefs.html#a0d6fee920baed2f17bed6f7990bb88c3" title="Get the stave id from hitsetkey." alt="" coords="536,709,701,737"/>
+<area shape="rect" id="node18" href="$d9/d24/classPHObject.html#a83a7b0e5681a0f4f92814692f1bf3375" title="PHObject::identify" alt="" coords="547,761,691,789"/>
+<area shape="rect" id="node19" href="$d9/dc1/classTrkrHitSet.html#a9d937d04f3e4ac5e296cb2844fdca5d1" title="TObject functions." alt="" coords="544,813,693,841"/>
+<area shape="rect" id="node20" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="585,865,652,893"/>
+<area shape="rect" id="node21" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="531,917,707,945"/>
+<area shape="rect" id="node9" href="$d6/d9e/namespaceInttDefs.html#af41991588b294d4a9a89cfe7cf00439e" title="Generate a hitsetkey for the intt." alt="" coords="777,313,952,341"/>
+<area shape="rect" id="node10" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="1000,313,1179,341"/>
+<area shape="rect" id="node23" href="$d0/d2c/classTrkrClusterContainer.html#a67fb27265ebbe882136b61cfeb1ea85a" title="identify object" alt="" coords="537,969,700,1013"/>
+<area shape="rect" id="node24" href="$d0/d2c/classTrkrClusterContainer.html#a2afed9b08029c94a400bdcfe998eb7d9" title="total number of clusters" alt="" coords="537,1037,700,1081"/>
+</map>

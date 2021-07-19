@@ -1,0 +1,21 @@
+<map id="MvtxClusterizer::ClusterMvtx" name="MvtxClusterizer::ClusterMvtx">
+<area shape="rect" id="node2" href="$d7/d4f/classTrkrClusterHitAssoc.html#a0314201abed284e81c000137451628cc" title="Add association between cluster and hit." alt="" coords="303,5,457,49"/>
+<area shape="rect" id="node3" href="$d0/d2c/classTrkrClusterContainer.html#a1ecb0af9b226d3d8c58e68528be73108" title="add a cluster" alt="" coords="299,73,461,117"/>
+<area shape="rect" id="node4" href="$dc/d12/classMvtxClusterizer.html#ac82d44e07a520b09cdff0225f3604827" title="MvtxClusterizer::are\l_adjacent" alt="" coords="302,193,458,237"/>
+<area shape="rect" id="node5" href="$d8/df1/namespaceMvtxDefs.html#a1168eb31a2fe1f73988744e3bdedd24f" title="Get the column index from hitkey." alt="" coords="558,173,694,201"/>
+<area shape="rect" id="node6" href="$d8/df1/namespaceMvtxDefs.html#a8c10f1bd18a4e4eb490f2809ed6ad9aa" title="Get the row index from hitkey." alt="" coords="554,229,698,257"/>
+<area shape="rect" id="node7" href="$d8/df1/namespaceMvtxDefs.html#a9205343fdba72e5ac8b44946102af8ae" title="Generate a cluster key from indeces." alt="" coords="294,313,466,341"/>
+<area shape="rect" id="node10" href="$d8/df1/namespaceMvtxDefs.html#abfd7b6c5fe579370c360924854579283" title="Get the chip id from hitsetkey." alt="" coords="301,365,459,393"/>
+<area shape="rect" id="node11" href="$d9/dc1/classTrkrHitSet.html#a2a362e326ba49a53a7675dc4c9b39c2a" title="Get all hits." alt="" coords="307,417,453,445"/>
+<area shape="rect" id="node12" href="$d9/dc1/classTrkrHitSet.html#acffcc2223e9568b469109de4790fd734" title="Get the key for this object." alt="" coords="287,469,473,497"/>
+<area shape="rect" id="node13" href="$d5/d76/classTrkrHitSetContainer.html#a0e347bd66bf03e9a34651410a79d5cab" title="return all HitSets matching a given detid" alt="" coords="302,521,458,565"/>
+<area shape="rect" id="node14" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="306,589,454,617"/>
+<area shape="rect" id="node15" href="$d4/de7/classPHG4CylinderGeomContainer.html#a08321019aaff5f57cd416b64d0f536bf" title="PHG4CylinderGeomContainer\l::GetLayerGeom" alt="" coords="269,641,491,685"/>
+<area shape="rect" id="node16" href="$d8/df1/namespaceMvtxDefs.html#a0d6fee920baed2f17bed6f7990bb88c3" title="Get the stave id from hitsetkey." alt="" coords="297,709,463,737"/>
+<area shape="rect" id="node17" href="$d9/d24/classPHObject.html#a83a7b0e5681a0f4f92814692f1bf3375" title="PHObject::identify" alt="" coords="308,761,452,789"/>
+<area shape="rect" id="node18" href="$d9/dc1/classTrkrHitSet.html#a9d937d04f3e4ac5e296cb2844fdca5d1" title="TObject functions." alt="" coords="305,813,455,841"/>
+<area shape="rect" id="node19" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="347,865,413,893"/>
+<area shape="rect" id="node20" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="292,917,468,945"/>
+<area shape="rect" id="node8" href="$d6/d9e/namespaceInttDefs.html#af41991588b294d4a9a89cfe7cf00439e" title="Generate a hitsetkey for the intt." alt="" coords="539,313,713,341"/>
+<area shape="rect" id="node9" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="761,313,940,341"/>
+</map>

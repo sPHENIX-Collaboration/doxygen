@@ -1,0 +1,26 @@
+<map id="Jetscape::TrentoInitial::PreDefined" name="Jetscape::TrentoInitial::PreDefined">
+<area shape="rect" id="node2" href="$db/d45/classJetscape_1_1TrentoInitial.html#aa103eb66ab22434b8225cb6624236c2c" title="Jetscape::TrentoInitial\l::ComputeNbc" alt="" coords="231,45,399,89"/>
+<area shape="rect" id="node3" href="$db/d45/classJetscape_1_1TrentoInitial.html#a6c1cd7179be0b3d0995531f58cc89c67" title="Jetscape::TrentoInitial\l::GetEntropyRange" alt="" coords="231,113,399,157"/>
+<area shape="rect" id="node5" href="$d6/d74/classtrento_1_1Event.html#aa24500f312ef4054020d6ebbf8c6b60e" title="The reduced thickness grid as a square two&#45;dimensional array." alt="" coords="228,181,401,225"/>
+<area shape="rect" id="node6" href="$d9/da8/classJetscape_1_1TrentoCollision.html#a911754892e6297566127a10765b3838b" title="Jetscape::TrentoCollision\l::Sample" alt="" coords="221,249,408,293"/>
+<area shape="rect" id="node24" href="$d7/d05/classJetscape_1_1InitialState.html#afa17fa54c6f908042520912d28a4320c" title="Jetscape::InitialState\l::SetRanges" alt="" coords="234,317,395,361"/>
+<area shape="rect" id="node25" href="$d7/d05/classJetscape_1_1InitialState.html#a210edc0a60c683a3cee807dc1d5ec85e" title="Jetscape::InitialState\l::SetSteps" alt="" coords="234,385,395,429"/>
+<area shape="rect" id="node4" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="476,63,633,91"/>
+<area shape="rect" id="node7" href="$d6/d74/classtrento_1_1Event.html#a14fae8e9ed3e43da277564a27127b882" title="trento::Event::compute" alt="" coords="465,115,644,143"/>
+<area shape="rect" id="node13" href="$d6/d74/classtrento_1_1Event.html#ac7113d3a9fc36efc57107e9c6b7069b5" title="trento::Event::eccentricity" alt="" coords="456,167,653,195"/>
+<area shape="rect" id="node14" href="$d6/d74/classtrento_1_1Event.html#a7792c939bdb225e297aac4ea03e8e020" title="The index of the center of mass: (ix, iy)" alt="" coords="477,219,632,263"/>
+<area shape="rect" id="node15" href="$d6/d74/classtrento_1_1Event.html#a679afbbc12278920c6b1c1e960501064" title="trento::Event::multiplicity" alt="" coords="457,287,652,315"/>
+<area shape="rect" id="node16" href="$d6/d74/classtrento_1_1Event.html#a5fb68a064a59d93bc11cf23a60c10353" title="Number of nucleon participants." alt="" coords="477,339,633,367"/>
+<area shape="rect" id="node17" href="$d6/d74/classtrento_1_1Event.html#a522227be0a3553a6ea2ac5e5569d3c91" title="trento::Event::participant\l_plane" alt="" coords="458,391,651,435"/>
+<area shape="rect" id="node18" href="$d9/da8/classJetscape_1_1TrentoCollision.html#a3e582ce769e1326c17b0cf37d8abc8c1" title="Sample a min&#45;bias impact parameter within the set range." alt="" coords="461,459,648,503"/>
+<area shape="rect" id="node8" href="$d6/d74/classtrento_1_1Event.html#a95f459509aa375fd2d3db44c9e045cac" title="trento::Event::compute\l_nuclear_thickness" alt="" coords="701,73,880,117"/>
+<area shape="rect" id="node12" href="$d6/d74/classtrento_1_1Event.html#a26410fac1a39ff166ad714b3a3af5b2e" title="Compute observables that require a second pass over the reduced thickness grid." alt="" coords="701,141,880,185"/>
+<area shape="rect" id="node9" href="$d3/dbb/classtrento_1_1NucleonProfile.html#aa23d586e1703e97b572a2a73cb99aa2e" title="The radius at which the nucleon profile is truncated." alt="" coords="928,5,1096,49"/>
+<area shape="rect" id="node10" href="$d3/dbb/classtrento_1_1NucleonProfile.html#a49684ff172b482cb1d6cad7695f178f7" title="trento::NucleonProfile\l::fluctuate" alt="" coords="928,73,1096,117"/>
+<area shape="rect" id="node11" href="$d3/dbb/classtrento_1_1NucleonProfile.html#a3b9af8c8a833b89b5f771181a03c4acd" title="trento::NucleonProfile\l::thickness" alt="" coords="928,141,1096,185"/>
+<area shape="rect" id="node19" href="$d3/dbb/classtrento_1_1NucleonProfile.html#afc13327fc0778c4673fe37bed3b3e1fb" title="Randomly determine if a pair of nucleons participates." alt="" coords="707,459,875,503"/>
+<area shape="rect" id="node20" href="$de/d04/classtrento_1_1Nucleon.html#ac6af811ddbd047cbb9a45de64b583976" title="Whether or not this nucleon is a participant." alt="" coords="939,372,1085,416"/>
+<area shape="rect" id="node21" href="$de/d04/classtrento_1_1Nucleon.html#a448cc96905c6eff06972ade89be5a0e2" title="The transverse x position." alt="" coords="941,440,1083,468"/>
+<area shape="rect" id="node22" href="$de/d04/classtrento_1_1Nucleon.html#a2ac017b2cc99f049f80e226b877c8d39" title="The transverse y position." alt="" coords="941,492,1083,520"/>
+<area shape="rect" id="node23" href="$de/d04/classtrento_1_1Nucleon.html#a24a11f9f852228eda768f17ab5b45675" title="Mark as a participant." alt="" coords="934,544,1090,588"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="genfit::TrackPoint::getFitterInfo" name="genfit::TrackPoint::getFitterInfo">
+<area shape="rect" id="node2" href="$d1/dc8/classgenfit_1_1GblFitter.html#aca889cc191ff16e91cf281bde21f4eb6" title="Constructs all GBL points and returns them in vector for trajectory construction." alt="" coords="235,5,370,49"/>
+<area shape="rect" id="node3" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a294470305559030667e010db718d3f3a" title="Draw an event." alt="" coords="493,151,651,195"/>
+<area shape="rect" id="node6" href="$d0/d48/GenFit_2blob_2master_2test_2fitterTests_2main_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="1203,244,1257,272"/>
+<area shape="rect" id="node7" href="$d7/dd5/classPHGenFit_1_1Track.html#a16bf468dcc101f90e7e220aed9ba39d0" title="PHGenFit::Track::extrapolate\lToCylinder" alt="" coords="196,531,409,575"/>
+<area shape="rect" id="node11" href="$d5/d1b/classPHGenFit2_1_1Track.html#abb62fc284ddb40d47c7f3e1908aa18c3" title="PHGenFit2::Track::extrapolate\lToCylinder" alt="" coords="192,1005,413,1049"/>
+<area shape="rect" id="node13" href="$d7/dd5/classPHGenFit_1_1Track.html#a6f76c826b833ece6e3ebc05ef3449da6" title="PHGenFit::Track::extrapolate\lToLine" alt="" coords="196,681,409,725"/>
+<area shape="rect" id="node14" href="$d6/d17/classSVReco.html#a0b5b196a0467d07833fcbb0fa1e47a77" title="Uses the vertex to remake the track." alt="" coords="481,749,663,777"/>
+<area shape="rect" id="node17" href="$d5/d1b/classPHGenFit2_1_1Track.html#a67986e017472faaf311d147bc1bcbee7" title="PHGenFit2::Track::extrapolate\lToLine" alt="" coords="192,1073,413,1117"/>
+<area shape="rect" id="node19" href="$d5/d1b/classPHGenFit2_1_1Track.html#a4fb91766a1322e1d2fa2a4afe919b73a" title="PHGenFit2::Track::extrapolate\lToPlane" alt="" coords="192,1141,413,1185"/>
+<area shape="rect" id="node21" href="$d7/dd5/classPHGenFit_1_1Track.html#a3214ff547c5fd73c0868cc6c4d98eba4" title="PHGenFit::Track::extrapolate\lToPlane" alt="" coords="196,937,409,981"/>
+<area shape="rect" id="node24" href="$d7/dd5/classPHGenFit_1_1Track.html#aef307f229a5d006bbf28c3dc58e726ba" title="PHGenFit::Track::extrapolate\lToPoint" alt="" coords="196,801,409,845"/>
+<area shape="rect" id="node27" href="$d5/d1b/classPHGenFit2_1_1Track.html#a7f16c8fdaff815d745eb068f68cfa5bc" title="PHGenFit2::Track::extrapolate\lToPoint" alt="" coords="192,1209,413,1253"/>
+<area shape="rect" id="node28" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#affda7c9ad9495fd91828d1b43adcc904" title="Fit the track." alt="" coords="465,1329,679,1373"/>
+<area shape="rect" id="node29" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#ad3a24181b5370cc95f01f49ea148c011" title="genfit::KalmanFitterRefTrack\l::processTrackWithRep" alt="" coords="731,1329,944,1373"/>
+<area shape="rect" id="node30" href="$d7/dd5/classPHGenFit_1_1Track.html#a2e02a0f394b0cfe0057f2472c095f45b" title="PHGenFit::Track::get\l_charge" alt="" coords="223,869,382,913"/>
+<area shape="rect" id="node31" href="$d5/d1b/classPHGenFit2_1_1Track.html#a58834d073911a83c695055c8c66d96a5" title="PHGenFit2::Track::get\l_charge" alt="" coords="219,1500,387,1544"/>
+<area shape="rect" id="node32" href="$d5/d1b/classPHGenFit2_1_1Track.html#a0bc5bb4690da6abc1495bf555d957be4" title="PHGenFit2::Track::get_mom" alt="" coords="199,1568,407,1596"/>
+<area shape="rect" id="node33" href="$d7/dd5/classPHGenFit_1_1Track.html#a44e533bbe040f465aaaa1032785b543f" title="PHGenFit::Track::get_mom" alt="" coords="203,1620,402,1648"/>
+<area shape="rect" id="node34" href="$d6/d8a/classgenfit_1_1Track.html#abf156957d701a9a10a02fef8ac54e4d9" title="Shortcut to get FittedStates." alt="" coords="216,213,389,257"/>
+<area shape="rect" id="node35" href="$d1/dc8/classgenfit_1_1GblFitter.html#a4be6bdc46ad9f13aef275aea2b01f438" title="genfit::GblFitter::\lprocessTrackWithRep" alt="" coords="489,271,655,315"/>
+<area shape="rect" id="node36" href="$db/d40/classgenfit_1_1TrackPoint.html#a3e29e00f02335e300bbe3d1aebf257b3" title="Helper to avoid casting." alt="" coords="221,1672,384,1716"/>
+<area shape="rect" id="node37" href="$d6/d8a/classgenfit_1_1Track.html#acc5b7745bb87f2ee4a2773f2989c16b6" title="get time of flight in ns between to trackPoints (if nullptr, for cardinal rep)" alt="" coords="992,308,1155,336"/>
+<area shape="rect" id="node38" href="$de/d25/classPHGenFitTrkFitter.html#a99d09d612858e8b8d146c26bb764e62a" title="Make SvtxTrack from PHGenFit::Track and SvtxTrack." alt="" coords="230,1740,375,1784"/>
+<area shape="rect" id="node39" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#acb08b0bc5eccd234b42f363e27da09a3" title="Make SvtxTrack from PHGenFit::Track and SvtxTrack." alt="" coords="198,1808,407,1852"/>
+<area shape="rect" id="node40" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a7d58d6e2d72346f8c2eb6aa9cf897c9b" title="Make TpcPrototypeTrack from SvtxTrack, refit by &quot;excluding&quot; each cluster." alt="" coords="198,1876,407,1920"/>
+<area shape="rect" id="node41" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#ab28798fe239a0577ef7a9c254c235491" title="Prepare the track." alt="" coords="465,1397,679,1441"/>
+<area shape="rect" id="node42" href="$d4/db7/classgenfit_1_1KalmanFitter.html#a003f370d672562e1e5c2b345d61f211c" title="genfit::KalmanFitter\l::processTrackPartially" alt="" coords="217,1944,389,1988"/>
+<area shape="rect" id="node43" href="$d4/db7/classgenfit_1_1KalmanFitter.html#afe8b6ebb672298327052897b7c95135d" title="genfit::KalmanFitter\l::processTrackPoint" alt="" coords="225,2012,381,2056"/>
+<area shape="rect" id="node44" href="$d4/db7/classgenfit_1_1KalmanFitter.html#aa44364f202ab52ca2f8fa2000e29a534" title="Hit resorting currently NOT supported." alt="" coords="751,391,924,435"/>
+<area shape="rect" id="node45" href="$d3/d7b/classgenfit_1_1GFGbl.html#a0fbc16a1bcfe612c536b616be8239689" title="genfit::GFGbl::processTrack\lWithRep" alt="" coords="199,2080,407,2124"/>
+<area shape="rect" id="node46" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#a6112774ee2e5b98aa7592038ea49a52a" title="Remove referenceStates if they are too far from smoothed states." alt="" coords="196,1380,409,1424"/>
+<area shape="rect" id="node47" href="$d3/d5c/classgenfit_1_1GblFitterInfo.html#a685cb7459baa2d2526bde668a3dbd2cb" title="Update fitter info from GBL fit results." alt="" coords="226,2148,379,2192"/>
+<area shape="rect" id="node48" href="$d1/dc8/classgenfit_1_1GblFitter.html#a3659ddc725865c305b8ce4ce55c3de52" title="Populate all fitter infos in track for rep with results of trajectory fit." alt="" coords="505,2177,639,2221"/>
+<area shape="rect" id="node49" href="$d7/dd5/classPHGenFit_1_1Track.html#ac24ac1591f867e1e0641112d6e12f6aa" title="PHGenFit::Track::updateOne\lMeasurementKalman" alt="" coords="197,2268,408,2312"/>
+<area shape="rect" id="node50" href="$d5/d1b/classPHGenFit2_1_1Track.html#ae5f535943fef0b20500c65ef1b020bd0" title="PHGenFit2::Track::update\lOneMeasurementKalman" alt="" coords="207,2336,399,2380"/>
+<area shape="rect" id="node4" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a493a1ff074a94d20fb52ec58e121aa9f" title="Go to event with index id." alt="" coords="758,176,917,220"/>
+<area shape="rect" id="node5" href="$d4/d1a/classgenfit_1_1EventDisplay.html#ae4db6c8ff56045f6c9d7aee52d3dd695" title="Open the event display." alt="" coords="994,176,1153,220"/>
+<area shape="rect" id="node8" href="$d2/d38/minimumTestPHGenFit_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="545,509,599,537"/>
+<area shape="rect" id="node9" href="$d7/dd5/classPHGenFit_1_1Track.html#ae73ef54a795b479fca4a59755290697a" title="PHGenFit::Track::extrapolate\lToCylinder" alt="" coords="465,441,679,485"/>
+<area shape="rect" id="node10" href="$d9/d91/classPHG4TrackFastSim.html#a3f46fbdb2a8481d56c21fb2f06d42395" title="PHG4TrackFastSim::MakeSvtx\lTrack" alt="" coords="461,561,683,605"/>
+<area shape="rect" id="node12" href="$d5/d1b/classPHGenFit2_1_1Track.html#a541fdf7902f2c7068976875621ec028f" title="PHGenFit2::Track::extrapolate\lToCylinder" alt="" coords="461,1073,683,1117"/>
+<area shape="rect" id="node15" href="$d1/da5/testPHGenFit_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="545,697,599,725"/>
+<area shape="rect" id="node16" href="$d7/dd5/classPHGenFit_1_1Track.html#a1b817856f4060fee01f9f2757bb6d153" title="PHGenFit::Track::extrapolate\lToLine" alt="" coords="465,629,679,673"/>
+<area shape="rect" id="node18" href="$d5/d1b/classPHGenFit2_1_1Track.html#ad976b339b94fb9babcb925fd274cfe2a" title="PHGenFit2::Track::extrapolate\lToLine" alt="" coords="461,1141,683,1185"/>
+<area shape="rect" id="node20" href="$d5/d1b/classPHGenFit2_1_1Track.html#a5b128140eb0eacbb28e8b45e6135cbdb" title="PHGenFit2::Track::extrapolate\lToPlane" alt="" coords="461,1209,683,1253"/>
+<area shape="rect" id="node22" href="$d9/d91/classPHG4TrackFastSim.html#a27f5d3e1fcab6a5cc74fda92cd51359f" title="PHG4TrackFastSim::MakeSvtx\lTrack" alt="" coords="461,937,683,981"/>
+<area shape="rect" id="node23" href="$d7/dd5/classPHGenFit_1_1Track.html#aa939d820f671f1392c7634d3f5e05e8e" title="PHGenFit::Track::extrapolate\lToPlane" alt="" coords="465,1005,679,1049"/>
+<area shape="rect" id="node25" href="$d1/d04/classBDiJetModule.html#aa2f3d100a0f4b8a1b5836d9436e071e8" title="Initialize the TTree." alt="" coords="472,869,672,913"/>
+<area shape="rect" id="node26" href="$d6/d17/classSVReco.html#a13c0e003dbeb9e694865600723c02d07" title="SVReco::printGenFitTrack\lKinematics" alt="" coords="476,801,668,845"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="RDBCBench::DoOne" name="RDBCBench::DoOne">
+<area shape="rect" id="node2" href="$dd/d4d/classTSQL.html#a5f3e7a10e954e822f96fee7185b9c46f" title="TSQL::ClearWarnings" alt="" coords="543,5,707,33"/>
+<area shape="rect" id="node3" href="$dd/d85/classTSQLConnection.html#a7bfca405ed849d7fc90270b0fdccfe61" title="TSQLConnection::CreateStatement" alt="" coords="209,247,468,275"/>
+<area shape="rect" id="node4" href="$d2/d58/classTSQLStatement.html#a74c6794fc585a834d31e71bf3fe9d3f3" title="TSQLStatement::ExecuteQuery" alt="" coords="223,143,455,171"/>
+<area shape="rect" id="node13" href="$d2/d58/classTSQLStatement.html#a6eddfc317081f91097f514f4f396eb3c" title="TSQLStatement::ExecuteUpdate" alt="" coords="219,299,459,327"/>
+<area shape="rect" id="node14" href="$d0/db4/classTSQLResultSet.html#aa7dab3bd3c3d0a632a9553da8585f2e1" title="TSQLResultSet::GetInt" alt="" coords="253,195,425,223"/>
+<area shape="rect" id="node15" href="$d0/db4/classTSQLResultSet.html#a91d513d9731181f4d01127d59da91522" title="TSQLResultSet::Next" alt="" coords="257,351,420,379"/>
+<area shape="rect" id="node16" href="$dd/d4d/classTSQL.html#a20def31a795253a756ad40f8b3213b20" title="TSQL::SetHandler" alt="" coords="267,403,410,431"/>
+<area shape="rect" id="node5" href="$d0/db4/classTSQLResultSet.html#a26f7c0f5d3f023ced26cd62c6df48ec8" title="TSQLResultSet::Close" alt="" coords="542,281,709,309"/>
+<area shape="rect" id="node6" href="$dd/d85/classTSQLConnection.html#aa75ade25fcebc5a884dae09f1f1cd59b" title="TSQLConnection::GetCatalog" alt="" coords="516,109,735,137"/>
+<area shape="rect" id="node8" href="$dd/d4d/classTSQL.html#a12129fd04a2499449c8d13ed374f007a" title="TSQL::Throw" alt="" coords="828,136,936,164"/>
+<area shape="rect" id="node11" href="$dd/d85/classTSQLConnection.html#af4750098d4214bd8390565896e148013" title="TSQLConnection::SetCatalog" alt="" coords="517,57,733,85"/>
+<area shape="rect" id="node12" href="$da/d0b/classMySQLConnectionPrivate.html#a77ac562ef61183382b70e7a04027c209" title="MySQLConnectionPrivate\l::CheckIfServerIsAlive" alt="" coords="530,213,721,257"/>
+<area shape="rect" id="node7" href="$dd/d85/classTSQLConnection.html#a89016b2a42450757a7233a43f28f3ded" title="TSQLConnection::IsClosed" alt="" coords="783,71,981,99"/>
+<area shape="rect" id="node9" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1082,109,1141,137"/>
+<area shape="rect" id="node10" href="$d8/d8f/classTSQLException.html#a395335cef98b7d73b7cb158032dcd7e4" title="TSQLException::Print" alt="" coords="1029,161,1193,189"/>
+<area shape="rect" id="node17" href="$dd/d4d/classTSQL.html#ab910f41919821db729e0a24f0374c661" title="TSQL::UnsetHandler" alt="" coords="545,403,705,431"/>
+</map>

@@ -1,0 +1,27 @@
+var namespaceast =
+[
+    [ "_NullDict", "df/d3f/classast_1_1__NullDict.html", "df/d3f/classast_1_1__NullDict" ],
+    [ "Node", "d6/dc3/classast_1_1Node.html", "d6/dc3/classast_1_1Node" ],
+    [ "Define", "de/dc3/classast_1_1Define.html", "de/dc3/classast_1_1Define" ],
+    [ "Include", "d5/d3a/classast_1_1Include.html", "d5/d3a/classast_1_1Include" ],
+    [ "Goto", "d1/d17/classast_1_1Goto.html", "d1/d17/classast_1_1Goto" ],
+    [ "Expr", "d8/d31/classast_1_1Expr.html", "d8/d31/classast_1_1Expr" ],
+    [ "Return", "d7/d5f/classast_1_1Return.html", null ],
+    [ "Delete", "d7/d91/classast_1_1Delete.html", null ],
+    [ "Friend", "d6/d23/classast_1_1Friend.html", "d6/d23/classast_1_1Friend" ],
+    [ "Using", "d2/d9d/classast_1_1Using.html", "d2/d9d/classast_1_1Using" ],
+    [ "Parameter", "db/d16/classast_1_1Parameter.html", "db/d16/classast_1_1Parameter" ],
+    [ "_GenericDeclaration", "d3/d71/classast_1_1__GenericDeclaration.html", "d3/d71/classast_1_1__GenericDeclaration" ],
+    [ "VariableDeclaration", "dc/d12/classast_1_1VariableDeclaration.html", "dc/d12/classast_1_1VariableDeclaration" ],
+    [ "Typedef", "df/d88/classast_1_1Typedef.html", "df/d88/classast_1_1Typedef" ],
+    [ "_NestedType", "d3/de9/classast_1_1__NestedType.html", "d3/de9/classast_1_1__NestedType" ],
+    [ "Union", "de/d5d/classast_1_1Union.html", null ],
+    [ "Enum", "dc/d04/classast_1_1Enum.html", null ],
+    [ "Class", "db/d95/classast_1_1Class.html", "db/d95/classast_1_1Class" ],
+    [ "Struct", "d0/d91/classast_1_1Struct.html", null ],
+    [ "Function", "d9/dc8/classast_1_1Function.html", "d9/dc8/classast_1_1Function" ],
+    [ "Method", "de/d89/classast_1_1Method.html", "de/d89/classast_1_1Method" ],
+    [ "Type", "dd/d4f/classast_1_1Type.html", "dd/d4f/classast_1_1Type" ],
+    [ "TypeConverter", "d7/d18/classast_1_1TypeConverter.html", "d7/d18/classast_1_1TypeConverter" ],
+    [ "AstBuilder", "d5/d87/classast_1_1AstBuilder.html", "d5/d87/classast_1_1AstBuilder" ]
+];

@@ -1,0 +1,39 @@
+<map id="prototype/blob/master/macros/tpc2019/Fun4All_G4_TPC.C" name="prototype/blob/master/macros/tpc2019/Fun4All_G4_TPC.C">
+<area shape="rect" id="node2" href="$db/d22/Fun4AllDstOutputManager_8h.html" title="fun4all/Fun4AllDstOutput\lManager.h" alt="" coords="2755,113,2947,157"/>
+<area shape="rect" id="node3" href="$de/df8/Fun4AllOutputManager_8h.html" title="Fun4AllOutputManager.h" alt="" coords="2891,213,3079,241"/>
+<area shape="rect" id="node9" href="$d8/d8f/Fun4AllDummyInputManager_8h.html" title="fun4all/Fun4AllDummyInput\lManager.h" alt="" coords="4526,113,4737,157"/>
+<area shape="rect" id="node10" href="$d1/de7/Fun4AllInputManager_8h.html" title="Fun4AllInputManager.h" alt="" coords="4505,213,4681,241"/>
+<area shape="rect" id="node15" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="721,213,899,241"/>
+<area shape="rect" id="node20" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="1933,297,2098,325"/>
+<area shape="rect" id="node21" href="$d6/dff/SvtxEvaluator_8h.html" title="Compares reconstructed tracks to truth particles." alt="" coords="5,213,183,241"/>
+<area shape="rect" id="node23" href="$de/d16/PHG4BlockSubsystem_8h.html" title="g4detectors/PHG4BlockSubsystem.h" alt="" coords="4756,213,5024,241"/>
+<area shape="rect" id="node26" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="923,213,1081,241"/>
+<area shape="rect" id="node29" href="$de/dfc/PHG4TpcDigitizer_8h.html" title="g4tpc/PHG4TpcDigitizer.h" alt="" coords="3495,213,3688,241"/>
+<area shape="rect" id="node30" href="$d1/d72/PHG4TpcElectronDrift_8h.html" title="g4tpc/PHG4TpcElectronDrift.h" alt="" coords="207,213,429,241"/>
+<area shape="rect" id="node31" href="$df/d6f/PHG4TpcPadPlane_8h.html" title="g4tpc/PHG4TpcPadPlane.h" alt="" coords="1674,213,1874,241"/>
+<area shape="rect" id="node32" href="$d1/d4a/PHG4TpcPadPlaneReadout_8h.html" title="g4tpc/PHG4TpcPadPlaneReadout.h" alt="" coords="3659,121,3915,149"/>
+<area shape="rect" id="node33" href="$d6/d8f/PHG4TpcSubsystem_8h.html" title="g4tpc/PHG4TpcSubsystem.h" alt="" coords="5049,213,5262,241"/>
+<area shape="rect" id="node34" href="$db/d88/PHGenFitTrkFitter_8h.html" title="Refit SvtxTracks with PHGenFit." alt="" coords="2599,213,2815,241"/>
+<area shape="rect" id="node35" href="$d8/dba/PHGenFitTrkProp_8h.html" title="Progressive pattern recgnition based on GenFit Kalman filter &#160;using Alan Dion&#39;s HelixHough for seedin..." alt="" coords="4219,213,4431,241"/>
+<area shape="rect" id="node36" href="$d7/d5b/PHHoughSeeding_8h.html" title="Progressive pattern recgnition based on GenFit Kalman filter &#160;using Alan Dion&#39;s HelixHough for seedin..." alt="" coords="3073,121,3291,149"/>
+<area shape="rect" id="node37" href="$d8/d71/PHTrackSeeding_8h.html" title="Base class for track seeding." alt="" coords="555,213,697,241"/>
+<area shape="rect" id="node38" href="$dc/dd6/PHInitVertexing_8h.html" title="Base class for inital vertexing." alt="" coords="1898,213,2103,241"/>
+<area shape="rect" id="node39" href="$dc/d9c/PHTruthTrackSeeding_8h.html" title="Vertexing using truth info." alt="" coords="504,121,748,149"/>
+<area shape="rect" id="node40" href="$d4/db5/PHTruthVertexing_8h.html" title="Vertexing using truth info." alt="" coords="3315,121,3534,149"/>
+<area shape="rect" id="node41" href="$d9/d70/PHG4DSTReader_8h.html" title="g4eval/PHG4DSTReader.h" alt="" coords="2127,213,2322,241"/>
+<area shape="rect" id="node42" href="$da/d29/G4HitNtuple_8h.html" title="g4histos/G4HitNtuple.h" alt="" coords="2397,213,2575,241"/>
+<area shape="rect" id="node43" href="$d4/d8b/PHG4ParticleGenerator_8h.html" title="g4main/PHG4ParticleGenerator.h" alt="" coords="5215,373,5459,401"/>
+<area shape="rect" id="node44" href="$de/d65/PHG4ParticleGun_8h.html" title="g4main/PHG4ParticleGun.h" alt="" coords="5483,373,5687,401"/>
+<area shape="rect" id="node45" href="$da/d45/PHG4SimpleEventGenerator_8h.html" title="g4main/PHG4SimpleEventGenerator.h" alt="" coords="3815,213,4093,241"/>
+<area shape="rect" id="node46" href="$de/d78/PHG4TruthSubsystem_8h.html" title="g4main/PHG4TruthSubsystem.h" alt="" coords="5711,373,5947,401"/>
+<area shape="rect" id="node47" href="$d2/dcb/recoConsts_8h.html" title="phool/recoConsts.h" alt="" coords="5929,121,6080,149"/>
+<area shape="rect" id="node48" href="$da/df4/TpcPrototypeClusterizer_8h.html" title="tpc2019/TpcPrototypeClusterizer.h" alt="" coords="1157,213,1410,241"/>
+<area shape="rect" id="node49" href="$d5/de1/TpcPrototypeGenFitTrkFinder_8h.html" title="Refit SvtxTracks with PHGenFit." alt="" coords="1435,205,1649,249"/>
+<area shape="rect" id="node50" href="$dc/dc1/TpcPrototypeGenFitTrkFitter_8h.html" title="Refit SvtxTracks with PHGenFit." alt="" coords="3103,205,3317,249"/>
+<area shape="rect" id="node4" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="1964,373,2080,401"/>
+<area shape="rect" id="node11" href="$da/dc1/Fun4AllReturnCodes_8h.html" title="Fun4AllReturnCodes.h" alt="" coords="4639,297,4808,325"/>
+<area shape="rect" id="node16" href="$d0/d59/Fun4AllHistoManager_8h.html" title="Fun4AllHistoManager.h" alt="" coords="1733,297,1909,325"/>
+<area shape="rect" id="node18" href="$dc/d26/PHTimer_8h.html" title="high precision timer" alt="" coords="605,297,737,325"/>
+<area shape="rect" id="node24" href="$d8/d3a/PHG4DetectorSubsystem_8h.html" title="PHG4DetectorSubsystem.h" alt="" coords="4884,297,5088,325"/>
+<area shape="rect" id="node27" href="$d9/d5f/EDecayType_8hh.html" title="g4decayer/EDecayType.hh" alt="" coords="1090,297,1290,325"/>
+</map>

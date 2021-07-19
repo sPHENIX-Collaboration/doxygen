@@ -1,0 +1,37 @@
+<map id="daq_begin" name="daq_begin">
+<area shape="rect" id="node2" href="$d7/dc7/classElogHandler.html#a6cb084ed8356a1c7591476002087e75e" title="ElogHandler::BegrunLog" alt="" coords="147,32,332,60"/>
+<area shape="rect" id="node3" href="$db/dcc/rcdaq_8cc.html#a6c8052229a258722075c93854166355e" title="daq_write_runnumberfile" alt="" coords="144,84,335,112"/>
+<area shape="rect" id="node6" href="$db/dcc/rcdaq_8cc.html#a3a00b714f12aa62a4e5c5fe1e37d79a3" title="device_init" alt="" coords="192,161,287,189"/>
+<area shape="rect" id="node7" href="$db/dcc/rcdaq_8cc.html#a9adc7f23bca3d3aa04dbaa13b8b9bc7e" title="enable_trigger" alt="" coords="179,213,299,241"/>
+<area shape="rect" id="node12" href="$db/dcc/rcdaq_8cc.html#a55034f8f7084df7df60c697c21ceb0b3" title="get_current_filename" alt="" coords="157,289,321,317"/>
+<area shape="rect" id="node13" href="$df/d47/classdaqBuffer.html#ab2582fa75c34b20df3d068acdcc4307e" title="daqBuffer::getMaxSize" alt="" coords="152,341,327,369"/>
+<area shape="rect" id="node14" href="$dd/ddc/open__file_8C.html#a36cfe9c9595a8f36e6d1ed1718d5310b" title="open_file" alt="" coords="198,393,281,421"/>
+<area shape="rect" id="node24" href="$df/d47/classdaqBuffer.html#a026812106c1c519de1672c37aba2bfe1" title="daqBuffer::prepare_next" alt="" coords="616,497,803,525"/>
+<area shape="rect" id="node26" href="$db/dcc/rcdaq_8cc.html#ad993c16d886b73a5f82dd5ce757d171a" title="readout" alt="" coords="202,548,277,576"/>
+<area shape="rect" id="node31" href="$db/dcc/rcdaq_8cc.html#a6015f74b012c869c5c38dd7a25ef5e49" title="server_send_beginrun\l_sequence" alt="" coords="154,600,325,644"/>
+<area shape="rect" id="node35" href="$db/dcc/rcdaq_8cc.html#a3e4c8f53d623058bd59e40495a7488e2" title="set_eventsizes" alt="" coords="179,668,299,696"/>
+<area shape="rect" id="node36" href="$df/d47/classdaqBuffer.html#a583be4a24f7f04a546f6d3787f92dca1" title="daqBuffer::setMaxSize" alt="" coords="153,720,326,748"/>
+<area shape="rect" id="node4" href="$d4/d23/Prototype2_2EMCal_2macros_2EnergyCalibFit_8m.html#a0f562e412982273e906f55843990c582" title="fprintf" alt="" coords="439,57,503,85"/>
+<area shape="rect" id="node5" href="$da/de5/ThicknessScan_8m.html#a5f84f51058cdb4f43c29d2c875659f42" title="fclose" alt="" coords="441,5,502,33"/>
+<area shape="rect" id="node8" href="$d1/d45/classTriggerHandler.html#a939803a6d57de6e5808ac4691c2e3de1" title="TriggerHandler::enable" alt="" coords="383,109,560,137"/>
+<area shape="rect" id="node9" href="$db/dcc/rcdaq_8cc.html#a3fef807c897d5032f98756d8cbd0e007" title="daq_triggerloop" alt="" coords="407,161,535,189"/>
+<area shape="rect" id="node11" href="$d1/d45/classTriggerHandler.html#ab6342601ba06b2bf63f37c422d796fbf" title="TriggerHandler::rearm" alt="" coords="385,213,557,241"/>
+<area shape="rect" id="node10" href="$d1/d45/classTriggerHandler.html#ab1bd60e7bc3f3f19e673546614fa4e97" title="TriggerHandler::wait\l_for_trigger" alt="" coords="629,117,789,161"/>
+<area shape="rect" id="node15" href="$d9/d9e/evDisplay_8C.html#ac7bcb6cd8ca3e800a39f7f0063d61044" title="nevents" alt="" coords="859,316,935,344"/>
+<area shape="rect" id="node16" href="$d5/da2/mvtxOM_8cc.html#ae7c0d4007c8b8ae235b29b6e3a6fd261" title="OM" alt="" coords="450,265,493,293"/>
+<area shape="rect" id="node19" href="$d1/d7e/pmonitor_8cc.html#aacaf796ac23ef93dc5189f1fe4e35e17" title="pfileopen" alt="" coords="429,317,513,345"/>
+<area shape="rect" id="node23" href="$d1/d7e/pmonitor_8cc.html#aac5a599f5e664c79f82ecf7cb5f2bb65" title="prun" alt="" coords="445,393,497,421"/>
+<area shape="rect" id="node17" href="$d5/da2/mvtxOM_8cc.html#abcdfe3cacf3e79543605d5d472b6e9d2" title="analysis" alt="" coords="671,185,747,213"/>
+<area shape="rect" id="node18" href="$dc/df6/200pp__pythia8__CTEQ6L__7GeV__ALL_8cfg__eneg__DSTReader_8root__Draw__HFJetTruth__CrossSection2RAA_8C.html#a4cc7db43c9334bd84ba68c2d66f01742" title="Modified" alt="" coords="670,237,749,265"/>
+<area shape="rect" id="node20" href="$dd/dfd/classFROG.html#a32ef7a32ed2c73181a23d8e1de5ff8f8" title="FROG::location" alt="" coords="649,289,770,317"/>
+<area shape="rect" id="node21" href="$d4/d7c/classpmonstate.html#a531bef503865718434e7116243d9b7e1" title="pmonstate::setFileOpened" alt="" coords="610,341,809,369"/>
+<area shape="rect" id="node22" href="$d4/d7c/classpmonstate.html#a7f17a25e64ad9ae8a55d8a959772bb2f" title="pmonstate::streamOpened" alt="" coords="608,393,811,421"/>
+<area shape="rect" id="node25" href="$d9/d3f/mongoose_8cc.html#a6dcfd23083a738f06b03dcd935b272eb" title="left" alt="" coords="875,601,919,629"/>
+<area shape="rect" id="node27" href="$df/d47/classdaqBuffer.html#a3db2659ee01283592bf0c3b8b374ccf2" title="daqBuffer::nextEvent" alt="" coords="626,601,793,629"/>
+<area shape="rect" id="node28" href="$db/dcc/rcdaq_8cc.html#a151826d6208bd784a9c77c0a12437174" title="switch_buffer" alt="" coords="415,548,527,576"/>
+<area shape="rect" id="node30" href="$df/d47/classdaqBuffer.html#a66b5c005307f85f3541f3fe994fad93c" title="daqBuffer::addSubevent" alt="" coords="615,653,803,681"/>
+<area shape="rect" id="node29" href="$df/d47/classdaqBuffer.html#a80fadcb19b7444d7bc6a9bb0d221d4ce" title="daqBuffer::addEoB" alt="" coords="635,549,783,577"/>
+<area shape="rect" id="node32" href="$d8/da5/daqBuffer_8cc.html#ac88188500c71b86cbeba8b99140810e9" title="writen" alt="" coords="440,755,503,783"/>
+<area shape="rect" id="node34" href="$d8/da5/daqBuffer_8cc.html#a44493f50299f8a8ac1841e2d5856191d" title="readn" alt="" coords="441,703,501,731"/>
+<area shape="rect" id="node33" href="$d7/d2d/make__fmod__calibrations_8C.html#aac759501cf6c7895a70eecbef0226ae1" title="write" alt="" coords="682,755,737,783"/>
+</map>

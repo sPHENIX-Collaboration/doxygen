@@ -1,0 +1,41 @@
+<map id="square" name="square">
+<area shape="rect" id="node2" href="$d3/d27/classTpcSpaceChargeReconstruction.html#a8b9adad3c29d626723c5913cab09b6d0" title="returns true if track fulfills basic requirement for distortion calculations" alt="" coords="120,817,357,861"/>
+<area shape="rect" id="node5" href="$d2/d8c/TpcClusterizer_8cc.html#a69c4b839779b240325d7e0089a124b2a" title="calc_cluster_parameter" alt="" coords="149,13,328,41"/>
+<area shape="rect" id="node8" href="$d5/d55/classPHTpcResiduals.html#a4d056858067cbeabfed1f7c381751599" title="PHTpcResiduals::calculate\lTpcResiduals" alt="" coords="139,65,338,109"/>
+<area shape="rect" id="node12" href="$d5/d86/classInttClusterizer.html#aa896d5f1adf8ac34a5ae766fd4d557bc" title="InttClusterizer::Cluster\lLadderCells" alt="" coords="152,133,325,177"/>
+<area shape="rect" id="node14" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="131,201,347,229"/>
+<area shape="rect" id="node16" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#aadba00c7c59985c911340622722ced8a" title="second phi extrapolation" alt="" coords="120,321,357,365"/>
+<area shape="rect" id="node18" href="$da/d9a/classTpcSpaceChargeReconstructionHelper.html#acaa4e69fe0e04a708011f342077ddf44" title="z extrapolation" alt="" coords="120,253,357,297"/>
+<area shape="rect" id="node19" href="$da/de9/classPHG4TpcDistortion.html#aca4e6580940f93c3774ffec75abd7804" title="get distortion for a set of histogram and an input momentum distribution" alt="" coords="160,389,317,433"/>
+<area shape="rect" id="node23" href="$d0/d6b/classSvtxTrackState__v1.html#abbc4f1b674d1a0feb30db408a589922e" title="phi error" alt="" coords="449,533,602,577"/>
+<area shape="rect" id="node24" href="$d0/d6b/classSvtxTrackState__v1.html#ac9e57211cb74d4c51ef3eb461003ca99" title="rphi error" alt="" coords="162,457,315,501"/>
+<area shape="rect" id="node25" href="$dc/d79/classTrkrClusterv1.html#a5310bc09f06f85bc6c299ed6ecbcdfda" title="TrkrClusterv1::getPhiError" alt="" coords="140,645,337,673"/>
+<area shape="rect" id="node26" href="$df/d8c/classTpcPrototypeCluster.html#ae03c18a6c036f6cfb42e9a8cb081a956" title="TpcPrototypeCluster\l::getPhiError" alt="" coords="159,697,319,741"/>
+<area shape="rect" id="node27" href="$d0/d73/classTrkrClusterv2.html#a5f5a5dbe6f80f676c745958a7082993d" title="TrkrClusterv2::getPhiError" alt="" coords="140,765,337,793"/>
+<area shape="rect" id="node28" href="$d8/d7e/classActs_1_1EllipseBounds.html#a8bbe189fcb0d060f44e10a0375aa3c77" title="Acts::EllipseBounds\l::inside" alt="" coords="161,885,316,929"/>
+<area shape="rect" id="node30" href="$de/d25/classPHGenFitTrkFitter.html#a99d09d612858e8b8d146c26bb764e62a" title="Make SvtxTrack from PHGenFit::Track and SvtxTrack." alt="" coords="166,1157,311,1201"/>
+<area shape="rect" id="node32" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a7b580905412912ba96c9114aba69219e" title="PHG4TpcPadPlaneReadout\l::populate_zigzag_phibins" alt="" coords="138,953,339,997"/>
+<area shape="rect" id="node34" href="$d7/ddb/classPHG4TpcElectronDrift.html#aeea2d1046042fabf274bc85a6221955f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="155,1021,323,1065"/>
+<area shape="rect" id="node35" href="$d1/dbc/classMicromegasClusterizer.html#ac19bbb046a5690d0612157dae3cebda4" title="event processing" alt="" coords="151,1089,327,1133"/>
+<area shape="rect" id="node36" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ad95026b08f73d009107d53576d1d729b" title="process track" alt="" coords="120,577,357,621"/>
+<area shape="rect" id="node37" href="$de/d25/classPHGenFitTrkFitter.html#af07c5ea2636426357d02b5b697376db2" title="PHGenFitTrkFitter::\lReFitTrack" alt="" coords="166,1225,311,1269"/>
+<area shape="rect" id="node38" href="$dd/dfd/classTpcSpaceChargeCorrection.html#a42f8c7de9e3a077e65c29e66a32947ac" title="transform clusters" alt="" coords="136,1293,341,1337"/>
+<area shape="rect" id="node3" href="$d3/d27/classTpcSpaceChargeReconstruction.html#aa411bedddfec511d0943438e271a2234" title="process tracks" alt="" coords="407,709,644,753"/>
+<area shape="rect" id="node4" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ab330b344a3001b0f26e639ee69de07f1" title="event processing" alt="" coords="693,709,931,753"/>
+<area shape="rect" id="node6" href="$d2/d8c/TpcClusterizer_8cc.html#a74f8414a645296778e3ef9cf612e6066" title="ProcessSector" alt="" coords="467,13,583,41"/>
+<area shape="rect" id="node7" href="$de/d25/classTpcClusterizer.html#ac66fda514e9c1985f3f083ef79934137" title="TpcClusterizer::process\l_event" alt="" coords="722,5,902,49"/>
+<area shape="rect" id="node9" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="413,73,638,101"/>
+<area shape="rect" id="node10" href="$d5/d55/classPHTpcResiduals.html#ac8936c9d7cf8808255c355520b304e95" title="PHTpcResiduals::processTracks" alt="" coords="696,73,928,101"/>
+<area shape="rect" id="node11" href="$d5/d55/classPHTpcResiduals.html#afb9145abb0d5d579afed2c31f700989a" title="PHTpcResiduals::process\l_event" alt="" coords="979,65,1168,109"/>
+<area shape="rect" id="node13" href="$d5/d86/classInttClusterizer.html#a12f21f7ac9373c592f8ba3e7287f6c8a" title="event processing" alt="" coords="437,125,614,169"/>
+<area shape="rect" id="node15" href="$dc/d12/classMvtxClusterizer.html#a65c6ecb960ca545df424342dbe6de5b8" title="event processing" alt="" coords="432,193,619,237"/>
+<area shape="rect" id="node17" href="$d9/dd3/classTpcSpaceChargeMatrixInversion.html#a965515b08e702a284d7b52e240cca01f" title="calculate distortions by inverting stored matrices, and save relevant histograms" alt="" coords="405,261,645,305"/>
+<area shape="rect" id="node20" href="$da/de9/classPHG4TpcDistortion.html#acae0d8424f705034cd3c4c82708e71c2" title="x distortion for a given truth location of the primary ionization" alt="" coords="447,465,604,509"/>
+<area shape="rect" id="node21" href="$da/de9/classPHG4TpcDistortion.html#ad311b3cbd90c7c6dfc6f7ab4ea3c82c8" title="y distortion for a given truth location of the primary ionization" alt="" coords="447,329,604,373"/>
+<area shape="rect" id="node22" href="$da/de9/classPHG4TpcDistortion.html#a493a3ba4e98df348e0207d9d4d94caa5" title="z distortion for a given truth location of the primary ionization" alt="" coords="447,397,604,441"/>
+<area shape="rect" id="node29" href="$dd/d7e/namespaceActs_1_1Test.html#ad3909a5e8f0b7f79720ca3189cb93f61" title="Unit tests for EllipseBounds properties." alt="" coords="431,885,619,929"/>
+<area shape="rect" id="node31" href="$de/d25/classPHGenFitTrkFitter.html#afcdaabc6fd73922bb522d7fa7ef3a775" title="Process Event, called for each event." alt="" coords="453,1192,598,1236"/>
+<area shape="rect" id="node33" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a1d14f93bb482ced5b499dbb5735425bb" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="425,953,626,997"/>
+<area shape="rect" id="node39" href="$dd/dfd/classTpcSpaceChargeCorrection.html#ae7dbd5a4e5b45095d88abf26bf919125" title="transform clusters" alt="" coords="423,1293,628,1337"/>
+<area shape="rect" id="node40" href="$dd/dfd/classTpcSpaceChargeCorrection.html#a2636b293f30526ad248ec534e518714e" title="event processing" alt="" coords="709,1293,915,1337"/>
+</map>

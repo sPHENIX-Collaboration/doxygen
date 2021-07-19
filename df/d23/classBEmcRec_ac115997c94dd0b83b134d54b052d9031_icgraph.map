@@ -1,0 +1,10 @@
+<map id="BEmcRec::Tower2Global" name="BEmcRec::Tower2Global">
+<area shape="rect" id="node2" href="$d5/d08/classBEmcRecEEMC.html#a306a1a2ab736c1587d11999451c77b0c" title="BEmcRecEEMC::CorrectPosition" alt="" coords="237,5,469,33"/>
+<area shape="rect" id="node3" href="$d9/d04/classEmcCluster.html#a0b58e2ffe50ef779a1a1077b2f440087" title="Returns the EmcCluster position in PHENIX global coord system." alt="" coords="255,57,452,85"/>
+<area shape="rect" id="node5" href="$df/d23/classBEmcRec.html#a27562d25417207a7f823d99f000bf265" title="BEmcRec::PredictEnergyProb" alt="" coords="245,109,461,137"/>
+<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#a73b89990f83b7dff6006bdca5213cf7d" title="EmcCluster::GetProb" alt="" coords="530,57,691,85"/>
+<area shape="rect" id="node6" href="$df/d23/classBEmcRec.html#a98e49a2e854a71a7c56ff4a2c9daeae6" title="BEmcRec::PredictEnergy" alt="" coords="517,109,704,137"/>
+<area shape="rect" id="node7" href="$d9/d04/classEmcCluster.html#af0d5e9d5210331c6333a68e051ff2dee" title="Returns the cluster energy taking into account towers with E&gt;Ethresh." alt="" coords="773,83,943,111"/>
+<area shape="rect" id="node9" href="$d9/d04/classEmcCluster.html#a756e889280bea6dac4adc74ad4050170" title="Splits the Cluster onto SubClusters; returns list of clusters and list of peak towers corresponding t..." alt="" coords="752,135,964,163"/>
+<area shape="rect" id="node8" href="$d9/d04/classEmcCluster.html#a9e9c9b084ae284b857327038f39de7e8" title="Ecore corrected for energy leak sidewise core towers." alt="" coords="1012,83,1248,111"/>
+</map>

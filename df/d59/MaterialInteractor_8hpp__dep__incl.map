@@ -1,0 +1,35 @@
+<map id="acts/blob/sPHENIX/Core/include/Acts/Propagator/MaterialInteractor.hpp" name="acts/blob/sPHENIX/Core/include/Acts/Propagator/MaterialInteractor.hpp">
+<area shape="rect" id="node2" href="$d1/df0/SurfaceMaterialMapper_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/Material\l/SurfaceMaterialMapper.hpp" alt="" coords="557,121,770,181"/>
+<area shape="rect" id="node8" href="$dd/d6a/VolumeMaterialMapper_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/Material\l/VolumeMaterialMapper.hpp" alt="" coords="1015,121,1227,181"/>
+<area shape="rect" id="node11" href="$d6/dbb/GeantinoRecording_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Geant4/include\l/ActsExamples/Geant4/GeantinoRecording.hpp" alt="" coords="1625,121,1965,181"/>
+<area shape="rect" id="node18" href="$db/d87/EventAction_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Geant4/src/EventAction.hpp" alt="" coords="2051,129,2345,173"/>
+<area shape="rect" id="node21" href="$de/dea/SteppingAction_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Geant4/src/Stepping\lAction.hpp" alt="" coords="2462,121,2705,181"/>
+<area shape="rect" id="node23" href="$dd/dc4/PropagationAlgorithm_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Propagation\l/include/ActsExamples/Propagation\l/PropagationAlgorithm.hpp" alt="" coords="3164,113,3424,189"/>
+<area shape="rect" id="node27" href="$d4/d9d/RootMaterialTrackReader_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/include/ActsExamples\l/Io/Root/RootMaterialTrackReader.hpp" alt="" coords="2813,121,3089,181"/>
+<area shape="rect" id="node29" href="$d8/daa/RootMaterialTrackWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/include/ActsExamples\l/Io/Root/RootMaterialTrackWriter.hpp" alt="" coords="3311,245,3581,305"/>
+<area shape="rect" id="node31" href="$d3/ddf/DirectNavigatorTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/Propagator\l/DirectNavigatorTests.cpp" alt="" coords="3449,121,3651,181"/>
+<area shape="rect" id="node32" href="$db/d42/ExtrapolatorTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/Propagator\l/ExtrapolatorTests.cpp" alt="" coords="3675,121,3878,181"/>
+<area shape="rect" id="node33" href="$d9/dfe/MaterialCollectionTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/Propagator\l/MaterialCollectionTests.cpp" alt="" coords="3903,121,4115,181"/>
+<area shape="rect" id="node34" href="$d9/d8c/StepperTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/Propagator\l/StepperTests.cpp" alt="" coords="4139,121,4342,181"/>
+<area shape="rect" id="node3" href="$dd/dd8/SurfaceMaterialMapper_8cpp.html" title="acts/blob/sPHENIX/Core\l/src/Material/SurfaceMaterial\lMapper.cpp" alt="" coords="277,245,493,305"/>
+<area shape="rect" id="node4" href="$d7/d5e/MaterialMapping_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/MaterialMapping\l/include/ActsExamples/MaterialMapping\l/MaterialMapping.hpp" alt="" coords="517,237,809,313"/>
+<area shape="rect" id="node6" href="$de/d20/MaterialMappingBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/MaterialMapping\lBase.cpp" alt="" coords="2821,361,3081,421"/>
+<area shape="rect" id="node7" href="$d3/df7/SurfaceMaterialMapperTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/Material\l/SurfaceMaterialMapperTests.cpp" alt="" coords="5,245,252,305"/>
+<area shape="rect" id="node5" href="$d3/d9d/MaterialMapping_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/MaterialMapping\l/src/MaterialMapping.cpp" alt="" coords="555,361,772,421"/>
+<area shape="rect" id="node9" href="$de/de9/VolumeMaterialMapper_8cpp.html" title="acts/blob/sPHENIX/Core\l/src/Material/VolumeMaterial\lMapper.cpp" alt="" coords="885,245,1100,305"/>
+<area shape="rect" id="node10" href="$da/ded/VolumeMaterialMapperTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/Material\l/VolumeMaterialMapperTests.cpp" alt="" coords="1125,245,1370,305"/>
+<area shape="rect" id="node12" href="$d0/dbd/Geant4Options_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Geant4/include\l/ActsExamples/Geant4/Geant4Options.hpp" alt="" coords="1394,245,1706,305"/>
+<area shape="rect" id="node14" href="$da/d2a/GeantinoRecordingBase_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geant4/GeantinoRecordingBase.hpp" alt="" coords="1661,369,1965,413"/>
+<area shape="rect" id="node17" href="$db/d15/GeantinoRecording_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Geant4/src/Geantino\lRecording.cpp" alt="" coords="1781,245,2025,305"/>
+<area shape="rect" id="node13" href="$da/db9/Geant4Options_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Geant4/src/Geant4Options.cpp" alt="" coords="1323,369,1636,413"/>
+<area shape="rect" id="node15" href="$d9/ddd/DD4hepGeantinoRecording_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geant4/DD4hep/DD4hepGeantino\lRecording.cpp" alt="" coords="1508,469,1795,529"/>
+<area shape="rect" id="node16" href="$d8/d7c/GdmlGeantinoRecording_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geant4/GdmlGeantinoRecording.cpp" alt="" coords="1819,477,2126,521"/>
+<area shape="rect" id="node19" href="$d4/d29/EventAction_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Geant4/src/EventAction.cpp" alt="" coords="2354,253,2647,297"/>
+<area shape="rect" id="node20" href="$d7/dae/RunAction_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Geant4/src/RunAction.cpp" alt="" coords="2050,253,2330,297"/>
+<area shape="rect" id="node22" href="$d3/d56/SteppingAction_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Geant4/src/Stepping\lAction.cpp" alt="" coords="2671,245,2914,305"/>
+<area shape="rect" id="node24" href="$da/d82/PropagationOptions_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Propagation\l/include/ActsExamples/Propagation\l/PropagationOptions.hpp" alt="" coords="3655,237,3915,313"/>
+<area shape="rect" id="node25" href="$dc/da7/MaterialValidationBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/MaterialValidation\lBase.cpp" alt="" coords="3492,361,3760,421"/>
+<area shape="rect" id="node26" href="$d3/d32/PropagationExampleBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/PropagationExample\lBase.cpp" alt="" coords="3800,361,4087,421"/>
+<area shape="rect" id="node28" href="$db/dd2/RootMaterialTrackReader_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/src/RootMaterialTrackReader.cpp" alt="" coords="2989,253,3287,297"/>
+<area shape="rect" id="node30" href="$da/d64/RootMaterialTrackWriter_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Root/src/RootMaterialTrackWriter.cpp" alt="" coords="3176,369,3468,413"/>
+</map>

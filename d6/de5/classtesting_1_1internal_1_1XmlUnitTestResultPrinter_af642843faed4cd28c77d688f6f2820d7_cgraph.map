@@ -1,0 +1,35 @@
+<map id="testing::internal::XmlUnitTestResultPrinter::OutputXmlTestInfo" name="testing::internal::XmlUnitTestResultPrinter::OutputXmlTestInfo">
+<area shape="rect" id="node2" href="$d6/d6e/classtesting_1_1TestResult.html#a582f6383265d0619df812b75499d0616" title="testing::TestResult\l::elapsed_time" alt="" coords="287,25,433,69"/>
+<area shape="rect" id="node3" href="$d6/de5/classtesting_1_1internal_1_1XmlUnitTestResultPrinter.html#aad574d7bb0c24578d5acc57817b9d367" title="testing::internal::\lXmlUnitTestResultPrinter\l::EscapeXmlAttribute" alt="" coords="548,165,736,225"/>
+<area shape="rect" id="node11" href="$d9/d98/classtesting_1_1TestPartResult.html#aaf835515fb53eb1aa01c1798b05e61f6" title="testing::TestPartResult\l::failed" alt="" coords="274,488,446,532"/>
+<area shape="rect" id="node12" href="$d9/d98/classtesting_1_1TestPartResult.html#a5d8742dc28ddb880cd2391edb9fc2c9b" title="testing::TestPartResult\l::file_name" alt="" coords="274,556,446,600"/>
+<area shape="rect" id="node13" href="$d0/da7/namespacetesting_1_1internal.html#a1ee4cde97868c53e442d3182496a9f3c" title="testing::internal::\lFormatCompilerIndependentFile\lLocation" alt="" coords="241,624,479,684"/>
+<area shape="rect" id="node15" href="$d0/da7/namespacetesting_1_1internal.html#a904485f27a54be8a5a92856e2d838797" title="testing::internal::\lFormatTimeInMillisAsSeconds" alt="" coords="249,708,471,752"/>
+<area shape="rect" id="node16" href="$d6/d6e/classtesting_1_1TestResult.html#a08b680f63d91391db4161f909da2bbcc" title="testing::TestResult\l::GetTestPartResult" alt="" coords="285,317,435,361"/>
+<area shape="rect" id="node18" href="$d6/d6e/classtesting_1_1TestResult.html#ae6a378ec743edfbed55890c955d0adc8" title="testing::TestResult\l::total_part_count" alt="" coords="569,369,715,413"/>
+<area shape="rect" id="node19" href="$d9/d98/classtesting_1_1TestPartResult.html#a174900cf4403d23784af34f50e7b0a46" title="testing::TestPartResult\l::line_number" alt="" coords="274,776,446,820"/>
+<area shape="rect" id="node20" href="$d9/d98/classtesting_1_1TestPartResult.html#aae73962246be4d200e2c1d04246a708a" title="testing::TestPartResult\l::message" alt="" coords="274,844,446,888"/>
+<area shape="rect" id="node21" href="$df/d65/classtesting_1_1TestInfo.html#ab3d24cad310f0cde29a80b9a83949ff5" title="testing::TestInfo::name" alt="" coords="272,912,448,940"/>
+<area shape="rect" id="node22" href="$d6/de5/classtesting_1_1internal_1_1XmlUnitTestResultPrinter.html#aa8ca7066de948d26d171597430c75839" title="testing::internal::\lXmlUnitTestResultPrinter\l::OutputXmlAttribute" alt="" coords="266,233,454,293"/>
+<area shape="rect" id="node25" href="$d6/de5/classtesting_1_1internal_1_1XmlUnitTestResultPrinter.html#a41bccd75f54932c5b3b8cce1f94dbd54" title="testing::internal::\lXmlUnitTestResultPrinter\l::OutputXmlCDataSection" alt="" coords="263,964,457,1024"/>
+<area shape="rect" id="node26" href="$d6/de5/classtesting_1_1internal_1_1XmlUnitTestResultPrinter.html#aa14cb72f42a346841482cbafa65e3155" title="testing::internal::\lXmlUnitTestResultPrinter\l::RemoveInvalidXmlCharacters" alt="" coords="805,391,1035,451"/>
+<area shape="rect" id="node27" href="$df/d65/classtesting_1_1TestInfo.html#addea8766df3b8abe4cc4103218a49a65" title="testing::TestInfo::\lresult" alt="" coords="291,1048,429,1092"/>
+<area shape="rect" id="node28" href="$df/d65/classtesting_1_1TestInfo.html#a240c9fb051d7b0586ed380c6b4e729e4" title="testing::TestInfo::\lshould_run" alt="" coords="291,1116,429,1160"/>
+<area shape="rect" id="node29" href="$d9/d98/classtesting_1_1TestPartResult.html#af0d4f960b453ce087c581fe13817b2a3" title="testing::TestPartResult\l::summary" alt="" coords="274,1184,446,1228"/>
+<area shape="rect" id="node30" href="$d6/de5/classtesting_1_1internal_1_1XmlUnitTestResultPrinter.html#aaac4f1352a2cc46f6a69994d45999f0b" title="testing::internal::\lXmlUnitTestResultPrinter\l::TestPropertiesAsXmlAttributes" alt="" coords="243,93,477,153"/>
+<area shape="rect" id="node33" href="$df/d65/classtesting_1_1TestInfo.html#af15d5c533a7237ffc183bc4c924dfcf4" title="testing::TestInfo::\ltype_param" alt="" coords="291,1252,429,1296"/>
+<area shape="rect" id="node34" href="$df/d65/classtesting_1_1TestInfo.html#a9671fbc0effcb32e98803888dc166a66" title="testing::TestInfo::\lvalue_param" alt="" coords="291,1320,429,1364"/>
+<area shape="rect" id="node4" href="$d6/de5/classtesting_1_1internal_1_1XmlUnitTestResultPrinter.html#adadf42cf46ade9b26743466ce4b52f36" title="testing::internal::\lXmlUnitTestResultPrinter\l::EscapeXml" alt="" coords="826,183,1014,243"/>
+<area shape="rect" id="node5" href="$d2/df8/classtesting_1_1internal_1_1String.html#af702dc7cbd569589d8e3ff215a7cafa9" title="testing::internal::\lString::FormatByte" alt="" coords="1113,161,1261,205"/>
+<area shape="rect" id="node6" href="$d3/d98/classtesting_1_1Message.html#abe8c1b7584aa670dd0e2413e8317a937" title="testing::Message::GetString" alt="" coords="1083,87,1292,115"/>
+<area shape="rect" id="node9" href="$d6/de5/classtesting_1_1internal_1_1XmlUnitTestResultPrinter.html#af9d5af6e5d0c505d5c3bd50a8d2a8d76" title="testing::internal::\lXmlUnitTestResultPrinter\l::IsNormalizableWhitespace" alt="" coords="1340,225,1549,285"/>
+<area shape="rect" id="node10" href="$d6/de5/classtesting_1_1internal_1_1XmlUnitTestResultPrinter.html#a2b83a24e3ec8544efa1156f9d6e51873" title="testing::internal::\lXmlUnitTestResultPrinter\l::IsValidXmlCharacter" alt="" coords="1093,281,1281,341"/>
+<area shape="rect" id="node7" href="$de/d6a/classtesting_1_1internal_1_1scoped__ptr.html#adc8f8fcb63ce69f80f011456e6d2f08d" title="testing::internal::\lscoped_ptr::get" alt="" coords="1376,136,1513,180"/>
+<area shape="rect" id="node8" href="$d0/da7/namespacetesting_1_1internal.html#ac0a2b7f69fc829d80a39e925b6417e39" title="testing::internal::\lStringStreamToString" alt="" coords="1363,68,1527,112"/>
+<area shape="rect" id="node14" href="$d0/da7/namespacetesting_1_1internal.html#aad4beed95d0846e6ffc5da0978ef3bb9" title="testing::internal::\lStreamableToString" alt="" coords="565,632,719,676"/>
+<area shape="rect" id="node17" href="$d0/d81/namespacetesting_1_1internal_1_1posix.html#a69b8278c59359dd6a6f941b4643db9fb" title="testing::internal::\lposix::Abort" alt="" coords="851,115,989,159"/>
+<area shape="rect" id="node23" href="$d0/d75/namespacetesting.html#acb3fdfadf475a3c2f5e22a3dae73532a" title="testing::GetReservedAttributes\lForElement" alt="" coords="527,301,757,345"/>
+<area shape="rect" id="node24" href="$d0/d75/namespacetesting.html#a956d4c522454fa6dfd75b5bbbefe8f9e" title="testing::ArrayAsVector" alt="" coords="833,309,1007,337"/>
+<area shape="rect" id="node31" href="$d6/d6e/classtesting_1_1TestResult.html#a5075f9d595d51c7cc2f5c0921e622831" title="testing::TestResult\l::test_property_count" alt="" coords="837,47,1003,91"/>
+<area shape="rect" id="node32" href="$d6/d6e/classtesting_1_1TestResult.html#a2cb23a457a444ba85684dd655895f08e" title="testing::TestResult\l::GetTestProperty" alt="" coords="569,97,715,141"/>
+</map>

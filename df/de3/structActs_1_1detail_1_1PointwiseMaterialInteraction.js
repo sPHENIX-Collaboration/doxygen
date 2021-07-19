@@ -1,0 +1,27 @@
+var structActs_1_1detail_1_1PointwiseMaterialInteraction =
+[
+    [ "PointwiseMaterialInteraction", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a69ae0dfaaa351101f552a6e53f965019", null ],
+    [ "covarianceContributions", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a852805642b7f5c67392359904233d7c7", null ],
+    [ "evaluateMaterialSlab", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#ae1d164ed40780de81784c60b6a5f39ed", null ],
+    [ "evaluatePointwiseMaterialInteraction", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#af72a38a4955e14f3661b64fc038a5bdc", null ],
+    [ "updateState", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a2fcdf3cae42e4294fcc1be0f0a1e40d3", null ],
+    [ "updateVariance", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a3a05a84cb61c00e852e345a09767bdd8", null ],
+    [ "dir", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#acf5af50d2240735c11e2478b47e2f6ac", null ],
+    [ "Eloss", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a52cce41671d8a68f71dd4d15082fc54c", null ],
+    [ "mass", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a948cf5d54ff8c865b981fc5a0c94cc0a", null ],
+    [ "momentum", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#ac5ac5bda9dc9c2f82c0909386432e5fa", null ],
+    [ "nav", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#abc927fa44340ceec9b5d1fc7fe094bab", null ],
+    [ "nextP", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#ae7767039dc9b0671fd64622f92cccdfb", null ],
+    [ "pathCorrection", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a44130cd08a817e731c9c3c028f3126b9", null ],
+    [ "pdg", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a83651c4338780b81a26dedba67d20cb2", null ],
+    [ "performCovarianceTransport", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#aa91f207b4d8ade96ea52077333e54417", null ],
+    [ "pos", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a0fff984c7a9a6319726dda71dfc2cdfa", null ],
+    [ "q", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a425acf1257d70b21552f8198828398e1", null ],
+    [ "qOverP", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#ae3cb188cb7ac04f61c1b1fb8247213f0", null ],
+    [ "slab", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#ac60db350bbe23db3824a63fb9edcc2c9", null ],
+    [ "surface", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#aae72e784194c7cbb028df2bcc83c84ce", null ],
+    [ "time", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a1051269c3607948c11e867bcbb4bfe8e", null ],
+    [ "variancePhi", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#ae14c5289c3fa3d0efe16fdfeead918f9", null ],
+    [ "varianceQoverP", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a7a967db81d21f7e25c2048d68a3e113d", null ],
+    [ "varianceTheta", "df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#ae0f4212a84885a8ea4c7b9f1823443b6", null ]
+];

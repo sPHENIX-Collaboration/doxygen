@@ -1,0 +1,51 @@
+<map id="tile" name="tile">
+<area shape="rect" id="node2" href="$d8/dbe/classLazyTiling25.html#a20736b2fbcaec9bac875c743d46a089c" title="LazyTiling25::_add\l_untagged_neighbours\l_to_tile_union_using\l_max_info" alt="" coords="125,191,302,267"/>
+<area shape="rect" id="node3" href="$d8/dbe/classLazyTiling25.html#af45e2f504bb02eae6f5dffb162aa4bb9" title="LazyTiling25::run" alt="" coords="450,179,587,207"/>
+<area shape="rect" id="node5" href="$d8/dbe/classLazyTiling25.html#a6d7fcc1aceaa7f412dca1c00cad34ef0" title="LazyTiling25::_bj_remove\l_from_tiles" alt="" coords="117,291,309,335"/>
+<area shape="rect" id="node6" href="$d3/d25/classClusterSequence.html#ab91e151bf380c019839d0be23ced525f" title="ClusterSequence::_bj\l_remove_from_tiles" alt="" coords="131,411,295,455"/>
+<area shape="rect" id="node7" href="$d3/d25/classClusterSequence.html#a628d047f8486d71baa9903bd6df94161" title="ClusterSequence::_faster\l_tiled_N2_cluster" alt="" coords="423,453,615,497"/>
+<area shape="rect" id="node8" href="$d6/d0c/classLazyTiling9.html#a0e8c176445183a4f9e03ba8ac6b40131" title="LazyTiling9::_initialise\l_tiles" alt="" coords="129,581,298,625"/>
+<area shape="rect" id="node9" href="$d3/d25/classClusterSequence.html#a7584abc54015400ecdeac7c7657c8f1d" title="ClusterSequence::_tiled\l_N2_cluster" alt="" coords="428,521,609,565"/>
+<area shape="rect" id="node10" href="$d3/d25/classClusterSequence.html#a6075bd007f85fd34e770b39ccdca5446" title="ClusterSequence::_minheap\l_faster_tiled_N2_cluster" alt="" coords="413,641,624,685"/>
+<area shape="rect" id="node12" href="$d8/dbe/classLazyTiling25.html#a3177ddbdd51ae44c26edeafa52235dbb" title="LazyTiling25::_initialise\l_tiles" alt="" coords="124,701,303,745"/>
+<area shape="rect" id="node14" href="$d3/d25/classClusterSequence.html#a39b4bf2b32a61f1fb9ec2eb3cb185607" title="ClusterSequence::_initialise\l_tiles" alt="" coords="109,769,317,813"/>
+<area shape="rect" id="node15" href="$d8/dbe/classLazyTiling25.html#a485be1034d6f274cac52bdf48e18f668" title="LazyTiling25::_print\l_tiles" alt="" coords="136,837,291,881"/>
+<area shape="rect" id="node16" href="$d3/d25/classClusterSequence.html#aabdd5fe392e8b0c25992b1df6a37a579" title="ClusterSequence::_print\l_tiles" alt="" coords="121,905,305,949"/>
+<area shape="rect" id="node17" href="$d8/dbe/classLazyTiling25.html#a572321e5bc4d10c1e6878fa9945e7fe6" title="LazyTiling25::_tj_set\l_jetinfo" alt="" coords="134,72,293,116"/>
+<area shape="rect" id="node18" href="$d3/d25/classClusterSequence.html#ae8a1b127109fdc4a54480d254c8a792c" title="ClusterSequence::_tj\l_set_jetinfo" alt="" coords="133,973,293,1017"/>
+<area shape="rect" id="node19" href="$da/db1/classMakeActsGeometry.html#a76b26a32d38dc1dd23c73c4feb05780f" title="create relevant micromegas volumes relevant for ACTS" alt="" coords="106,1041,321,1085"/>
+<area shape="rect" id="node22" href="$d9/d24/classPHTruthClustering.html#a8fb52ae244819fcfc7e7530f2beaddc9" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="443,1016,594,1060"/>
+<area shape="rect" id="node24" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="449,1084,588,1128"/>
+<area shape="rect" id="node33" href="$d3/d5f/classCylinderGeomMicromegas.html#ae5429ec8265e4687c7c23c0202c9896a" title="get strip for a give world location and tile" alt="" coords="113,1291,313,1351"/>
+<area shape="rect" id="node37" href="$d3/d5f/classCylinderGeomMicromegas.html#af1d47a5c02dd10ac4bdbc7e8e1c8b917" title="get tile for a given world location assuming tiles are portion of cylinder centered around tile cente..." alt="" coords="113,1677,313,1721"/>
+<area shape="rect" id="node38" href="$d3/d5f/classCylinderGeomMicromegas.html#a7e548b961c7884b1d28f81a6d687f48d" title="get tile for a given world location assuming tiles are planes centered on tile center and tengent to ..." alt="" coords="712,1460,912,1504"/>
+<area shape="rect" id="node40" href="$d2/ddf/namespaceMicromegasDefs.html#a2909143d348383083b9c12cb810a8c04" title="Generate a hitsetkey for the micromegas." alt="" coords="96,1212,331,1240"/>
+<area shape="rect" id="node42" href="$d3/d5f/classCylinderGeomMicromegas.html#a16cefa80d750c1b0b33187dee3c9e9cd" title="get local coordinates for a given tile and strip" alt="" coords="113,1375,313,1419"/>
+<area shape="rect" id="node44" href="$d9/dae/classLazyTiling9Alt.html#ac84f56586f04bf876590c60b0b015806" title="LazyTiling9Alt::run" alt="" coords="445,276,592,304"/>
+<area shape="rect" id="node45" href="$d6/d0c/classLazyTiling9.html#a59d38f77750b9265c6f182157130b1cf" title="LazyTiling9::run" alt="" coords="454,56,583,84"/>
+<area shape="rect" id="node46" href="$d3/d5f/classCylinderGeomMicromegas.html#a2f735644ef9dd61cfe02ed3450896fb7" title="CylinderGeomMicromegas\l::transformation_matrix" alt="" coords="113,1609,313,1653"/>
+<area shape="rect" id="node4" href="$d3/d25/classClusterSequence.html#a726ac1f0a78da15e75a953f6eeb4a4bd" title="ClusterSequence::_initialise\l_and_run_no_decant" alt="" coords="708,171,916,215"/>
+<area shape="rect" id="node11" href="$d6/d0c/classLazyTiling9.html#aa662d71ae8f168ca28ed15288a85bcee" title="LazyTiling9::LazyTiling9" alt="" coords="427,589,610,617"/>
+<area shape="rect" id="node13" href="$d8/dbe/classLazyTiling25.html#a78d4f72da11344fc1f002a45dc081e1a" title="LazyTiling25::LazyTiling25" alt="" coords="419,709,619,737"/>
+<area shape="rect" id="node20" href="$da/db1/classMakeActsGeometry.html#af83635dc26165004c52f8bc8260a4b88" title="MakeActsGeometry::editTPCGeometry" alt="" coords="379,883,659,911"/>
+<area shape="rect" id="node21" href="$da/db1/classMakeActsGeometry.html#aa809a1c2b47d8c089a0dc4a6a96d1cc8" title="Main function to build all acts geometry for use in the fitting modules." alt="" coords="707,777,917,821"/>
+<area shape="rect" id="node23" href="$d9/d24/classPHTruthClustering.html#a32f3b05811ac36d8f08ae3c565edcfca" title="PHTruthClustering::\lprocess_event" alt="" coords="737,845,887,889"/>
+<area shape="rect" id="node25" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="729,1169,895,1213"/>
+<area shape="rect" id="node27" href="$d1/d1e/classSvtxClusterEval.html#af774b5eb2254c2427cd21fbd29b47b6f" title="SvtxClusterEval::all\l_truth_clusters" alt="" coords="736,1101,888,1145"/>
+<area shape="rect" id="node28" href="$d1/d1e/classSvtxClusterEval.html#a7619937ca04fc86bf74e13a08b1d1959" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="981,861,1173,905"/>
+<area shape="rect" id="node30" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1237,925,1425,969"/>
+<area shape="rect" id="node31" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="714,965,910,1025"/>
+<area shape="rect" id="node26" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="994,1169,1159,1213"/>
+<area shape="rect" id="node29" href="$d3/d32/classActsEvaluator.html#aab3625b68ba0383ffa858dc3e4a69142" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="1236,857,1425,901"/>
+<area shape="rect" id="node32" href="$dd/de6/classKFParticle__truthAndDetTools.html#ad75d71be845ff83a6bb6839b5e151e3c" title="KFParticle_truthAndDetTools\l::getTruthTrack" alt="" coords="971,981,1182,1025"/>
+<area shape="rect" id="node34" href="$d3/d5f/classCylinderGeomMicromegas.html#a15de02f2c475be9386c660d191b496ea" title="get strip for a give world location and tile" alt="" coords="712,1376,912,1436"/>
+<area shape="rect" id="node35" href="$d6/d5c/classPHG4MicromegasHitReco.html#a558719dac18ec44736794b2e541fde78" title="distribute a Gaussian charge across adjacent strips" alt="" coords="423,1324,615,1368"/>
+<area shape="rect" id="node36" href="$d6/d5c/classPHG4MicromegasHitReco.html#af30c57b241621866a33dab76ccbadbaa" title="event processing" alt="" coords="716,1299,908,1343"/>
+<area shape="rect" id="node39" href="$da/db1/classMakeActsGeometry.html#a703340410b4232c39800ede2f3bb1ff9" title="bind micromegas surfaces to hitset id" alt="" coords="965,1357,1188,1401"/>
+<area shape="rect" id="node41" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#a9f4bf18d62653a6e2880bb01d7b06d71" title="PHMicromegasTpcTrackMatching\l::Process" alt="" coords="397,1204,640,1248"/>
+<area shape="rect" id="node43" href="$d3/d5f/classCylinderGeomMicromegas.html#a9206eaf85ba477065939ea389e280051" title="get world coordinates for a given tile and strip" alt="" coords="712,1604,912,1648"/>
+<area shape="rect" id="node47" href="$d3/d5f/classCylinderGeomMicromegas.html#a41f071306b58c20a3fceada4ff249b67" title="convert world to local position coordinates in (planar) tile reference frame" alt="" coords="419,1444,619,1504"/>
+<area shape="rect" id="node48" href="$d3/d5f/classCylinderGeomMicromegas.html#a07e069f19cd34bf5cbc14df8589b9d41" title="convert local to world position coordinates in (planar) tile reference frame" alt="" coords="419,1631,619,1691"/>
+<area shape="rect" id="node49" href="$d3/d5f/classCylinderGeomMicromegas.html#a5e99590bacfa094aa244ade878ea9b86" title="convert local to world direction coordinates in (planar) tile reference frame" alt="" coords="414,1715,623,1759"/>
+<area shape="rect" id="node50" href="$d3/d5f/classCylinderGeomMicromegas.html#ab7abbbe081e19dcbfd8b844393cf49fa" title="convert world to local direction coordinates in (planar) tile reference frame" alt="" coords="414,1783,623,1827"/>
+</map>

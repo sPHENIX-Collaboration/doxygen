@@ -1,0 +1,4 @@
+var structnlohmann_1_1detail_1_1is__compatible__array__type__impl_3_01BasicJsonType_00_01CompatibleAe90f885518dadcbdf8eec811c7da6384 =
+[
+    [ "value", "df/d6d/structnlohmann_1_1detail_1_1is__compatible__array__type__impl_3_01BasicJsonType_00_01CompatibleAe90f885518dadcbdf8eec811c7da6384.html#aab057cae4562619c319310b5477425cb", null ]
+];

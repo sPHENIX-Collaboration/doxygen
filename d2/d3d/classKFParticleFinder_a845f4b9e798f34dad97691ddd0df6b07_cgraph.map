@@ -1,0 +1,51 @@
+<map id="KFParticleFinder::ConstructTrackV0Cand" name="KFParticleFinder::ConstructTrackV0Cand">
+<area shape="rect" id="node2" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="874,98,985,126"/>
+<area shape="rect" id="node4" href="$d5/d41/classKFParticleBase.html#ab29274a82822129a02a2c856e495b8ee" title="Adds index of the daughter particle." alt="" coords="554,256,785,284"/>
+<area shape="rect" id="node5" href="$db/dcc/classKFParticleSIMD.html#a4e0d887a098c689be061a03b90216a94" title="Returns Chi2 of the fit." alt="" coords="295,925,456,953"/>
+<area shape="rect" id="node6" href="$d5/d41/classKFParticleBase.html#a06b53cef25f218f5eb041197455ad0b4" title="Cleans the vector with the indices of daughter particles." alt="" coords="544,308,795,336"/>
+<area shape="rect" id="node7" href="$db/dcc/classKFParticleSIMD.html#afd250069ba85fae638a7e1285e41c320" title="KFParticleSIMD::Construct" alt="" coords="277,1029,473,1057"/>
+<area shape="rect" id="node9" href="$d2/dbb/classKFParticleBaseSIMD.html#ab9370932a09a02d6498ca4c960caba13" title="KFParticleBaseSIMD\l::SetProductionVertex" alt="" coords="845,1277,1013,1321"/>
+<area shape="rect" id="node10" href="$d5/d41/classKFParticleBase.html#a7f6754ebbbeb73d4c2b88a49b75db474" title="Returns the vector with the indices of daughter particles." alt="" coords="269,1081,481,1109"/>
+<area shape="rect" id="node11" href="$d2/dbb/classKFParticleBaseSIMD.html#ac827f191d739ef99b5bee7ebc97d5313" title="Returns the vector with the indices of daughter particles." alt="" coords="592,360,747,404"/>
+<area shape="rect" id="node12" href="$db/dcc/classKFParticleSIMD.html#a4c08a0472852537829092f117b150aa3" title="Returns Chi2 of the fit." alt="" coords="577,428,762,456"/>
+<area shape="rect" id="node14" href="$dc/d83/classKFParticleDatabase.html#ab4e7d6f4bab1e629227e941b2e7e699f" title="Returns the table PDG D0 mass." alt="" coords="299,1133,451,1177"/>
+<area shape="rect" id="node15" href="$dc/d83/classKFParticleDatabase.html#a9fb81196912ba3fb09133cbdf9551e54" title="Returns expected width of the D0 peak." alt="" coords="299,1201,451,1245"/>
+<area shape="rect" id="node16" href="$d2/dbb/classKFParticleBaseSIMD.html#affceb5f79f07dd936ad48a0c76e8f3b0" title="KFParticleBaseSIMD\l::GetDistanceToVertexLine" alt="" coords="276,98,475,142"/>
+<area shape="rect" id="node17" href="$dc/d83/classKFParticleDatabase.html#a2d023c1352c0a06275416334fdc64ffa" title="Returns the table PDG D+ mass." alt="" coords="299,1269,451,1313"/>
+<area shape="rect" id="node18" href="$dc/d83/classKFParticleDatabase.html#a00ae02168b1ab26073cae77db74cfeec" title="Returns expected width of the D+ peak." alt="" coords="291,1337,459,1381"/>
+<area shape="rect" id="node19" href="$db/dcc/classKFParticleSIMD.html#ad8379c5666e84d5c1de7dd1428234744" title="KFParticleSIMD::GetDStoParticle" alt="" coords="257,196,493,224"/>
+<area shape="rect" id="node22" href="$db/dcc/classKFParticleSIMD.html#abee0e1ab2c3a9a40f6618a20fb58f664" title="KFParticleSIMD::GetKFParticle" alt="" coords="265,720,486,748"/>
+<area shape="rect" id="node23" href="$d5/d41/classKFParticleBase.html#ad223c0ea998d4c27a768291b6288c0c2" title="Sets the Id of the particle. After the construction of a particle should be set by user..." alt="" coords="587,480,751,508"/>
+<area shape="rect" id="node25" href="$d5/d41/classKFParticleBase.html#a3acaec6e2b8d7b0e55b37233fd091555" title="Sets the PDG hypothesis." alt="" coords="579,1084,759,1112"/>
+<area shape="rect" id="node26" href="$d2/dbb/classKFParticleBaseSIMD.html#a34e19ecaaedf374a347e648eca770ca9" title="Returns the PDG hypothesis." alt="" coords="592,1136,747,1180"/>
+<area shape="rect" id="node28" href="$db/dcc/classKFParticleSIMD.html#a27d7e843526677a4a1a0b755f7fb5d65" title="Returns pointer to the parameters fP." alt="" coords="565,1204,773,1232"/>
+<area shape="rect" id="node37" href="$d0/d49/classKFParticle.html#a373770508aea8198a204ae52071c3269" title="Returns mass." alt="" coords="298,1405,453,1433"/>
+<area shape="rect" id="node40" href="$d1/d86/classKFPTrackVector.html#a16ad13f2ceada3aa0f08d63e37983ede" title="Returns constant reference to the vector with track Id KFPTrackVector::fId." alt="" coords="303,1457,448,1485"/>
+<area shape="rect" id="node41" href="$dc/d83/classKFParticleDatabase.html#aa87302fc83afb56bae497e764c65dd8c" title="Returns a pointer to the singleton object." alt="" coords="299,1509,451,1553"/>
+<area shape="rect" id="node42" href="$d5/d41/classKFParticleBase.html#a5804383f749253e8a17c594ccf463842" title="Returns number of daughter particles." alt="" coords="270,1577,481,1605"/>
+<area shape="rect" id="node43" href="$db/dcc/classKFParticleSIMD.html#ad1a23cebdcaaedfd0fb7bcd53bcae234" title="Returns number of decrease of freedom." alt="" coords="296,1629,455,1657"/>
+<area shape="rect" id="node44" href="$d2/dbb/classKFParticleBaseSIMD.html#a4d481ddc56411eb602a83003188a33fb" title="Returns the PDG hypothesis." alt="" coords="279,1681,471,1709"/>
+<area shape="rect" id="node45" href="$d2/dbb/classKFParticleBaseSIMD.html#a81cd387d3cf24a498205ebb4bea5e9ff" title="Sets the Id of the particle. After the construction of a particle should be set by user..." alt="" coords="298,1733,453,1777"/>
+<area shape="rect" id="node46" href="$d5/d41/classKFParticleBase.html#ac90aba4ed098945e147f1e28bb592555" title="KFParticleBase::SetNonlinear\lMassConstraint" alt="" coords="267,1801,484,1845"/>
+<area shape="rect" id="node48" href="$d2/dbb/classKFParticleBaseSIMD.html#a86e624a4194a7de352389e659b720f90" title="Sets the PDG hypothesis common for all elements of the SIMD vector." alt="" coords="298,1869,453,1913"/>
+<area shape="rect" id="node49" href="$d2/dbb/classKFParticleBaseSIMD.html#ae4bd5b9ffbeb8b5f9595cf6d34592c31" title="KFParticleBaseSIMD\l::TransportToDS" alt="" coords="592,1966,747,2010"/>
+<area shape="rect" id="node50" href="$db/dcc/classKFParticleSIMD.html#ac4c896519f2acc22953b5b943bc8e08a" title="KFParticleSIMD::Transport\lToPoint" alt="" coords="278,1937,473,1981"/>
+<area shape="rect" id="node3" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1061,98,1237,126"/>
+<area shape="rect" id="node8" href="$d2/dbb/classKFParticleBaseSIMD.html#a39c874e11dcc9e5346c2eb6fdd056f5e" title="KFParticleBaseSIMD\l::Construct" alt="" coords="592,1308,747,1352"/>
+<area shape="rect" id="node13" href="$d2/dbb/classKFParticleBaseSIMD.html#ab8734826c2ff3a13b524cee16a65e55b" title="Returns the sum of masses of the daughters." alt="" coords="852,420,1007,464"/>
+<area shape="rect" id="node20" href="$d2/dbb/classKFParticleBaseSIMD.html#a3c652b30a3f4e787a60f1de438becf53" title="KFParticleBaseSIMD\l::GetDStoParticleBz" alt="" coords="592,120,747,164"/>
+<area shape="rect" id="node21" href="$d2/dbb/classKFParticleBaseSIMD.html#acd7097a1ad5f82efff3812c01580e592" title="KFParticleBaseSIMD\l::GetDStoParticleCBM" alt="" coords="587,188,752,232"/>
+<area shape="rect" id="node24" href="$d2/dbb/classKFParticleBaseSIMD.html#a4f43f26357ae4a6e35ca5b8e4a1d623f" title="Returns Id of the particle." alt="" coords="581,756,757,784"/>
+<area shape="rect" id="node27" href="$d0/d49/classKFParticle.html#a25172df44e982a6d08879a9638ca9b07" title="Returns pointer to the parameters fP." alt="" coords="583,808,756,836"/>
+<area shape="rect" id="node29" href="$d0/d49/classKFParticle.html#ae577c154da7700d54d2300dd344b9130" title="Returns pointer to the covariance matrix fC." alt="" coords="562,860,777,888"/>
+<area shape="rect" id="node30" href="$db/dcc/classKFParticleSIMD.html#aaa2f81f07799d2d9beaede2e7864a1a9" title="Returns pointer to the covariance matrix fC." alt="" coords="566,912,773,956"/>
+<area shape="rect" id="node31" href="$d0/d49/classKFParticle.html#ad82b13a8214920f2a15c1334e41c4776" title="Returns number of decrease of freedom." alt="" coords="607,980,731,1008"/>
+<area shape="rect" id="node32" href="$db/dcc/classKFParticleSIMD.html#aed1808e19e4cdf012ff8d84c3dde291a" title="Returns number of decrease of freedom." alt="" coords="578,1032,761,1060"/>
+<area shape="rect" id="node33" href="$d0/d49/classKFParticle.html#a9005df3f6603347793ad12192892fa5a" title="Returns Chi2 of the fit." alt="" coords="606,532,733,560"/>
+<area shape="rect" id="node34" href="$d0/d49/classKFParticle.html#a537faaa1cf0c3f36a602302340babe3b" title="Returns charge of the particle." alt="" coords="616,584,723,612"/>
+<area shape="rect" id="node35" href="$db/dcc/classKFParticleSIMD.html#a6bb3acfdd3b1803d9eeb0d7c348f034b" title="Returns charge of the particle." alt="" coords="587,636,752,664"/>
+<area shape="rect" id="node36" href="$d0/d49/classKFParticle.html#a2a1c4001b07352ad6aa73065f502957a" title="Set a flag that particle is at the production point." alt="" coords="567,688,771,732"/>
+<area shape="rect" id="node38" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="600,1378,739,1406"/>
+<area shape="rect" id="node39" href="$d5/d41/classKFParticleBase.html#a31ec53f7baf5b341159d52ea2022013d" title="KFParticleBase::GetMass" alt="" coords="575,1430,763,1458"/>
+<area shape="rect" id="node47" href="$d5/d41/classKFParticleBase.html#ab6aedf51539e2164935c6469e6b0d374" title="KFParticleBase::SetMassConstraint" alt="" coords="541,1809,797,1837"/>
+</map>

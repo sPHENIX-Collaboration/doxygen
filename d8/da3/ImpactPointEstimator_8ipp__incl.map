@@ -1,0 +1,36 @@
+<map id="acts/blob/sPHENIX/Core/include/Acts/Vertexing/ImpactPointEstimator.ipp" name="acts/blob/sPHENIX/Core/include/Acts/Vertexing/ImpactPointEstimator.ipp">
+<area shape="rect" id="node2" href="$d5/d20/Propagator_8hpp.html" title="Acts/Propagator/Propagator.hpp" alt="" coords="2431,113,2668,141"/>
+<area shape="rect" id="node24" href="$d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html" title="Acts/Utilities/Helpers.hpp" alt="" coords="1538,481,1731,509"/>
+<area shape="rect" id="node43" href="$d6/d7b/PerigeeSurface_8hpp.html" title="Acts/Surfaces/PerigeeSurface.hpp" alt="" coords="5,113,256,141"/>
+<area shape="rect" id="node46" href="$d7/dec/PlaneSurface_8hpp.html" title="Acts/Surfaces/PlaneSurface.hpp" alt="" coords="784,197,1021,225"/>
+<area shape="rect" id="node50" href="$dc/def/VertexingError_8hpp.html" title="Acts/Vertexing/Vertexing\lError.hpp" alt="" coords="2909,473,3097,517"/>
+<area shape="rect" id="node3" href="$d0/d75/ReferenceWrapperAnyCompat_8hpp.html" title="Acts/Utilities/detail\l/ReferenceWrapperAnyCompat.hpp" alt="" coords="2861,373,3123,417"/>
+<area shape="rect" id="node6" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="1640,381,1917,409"/>
+<area shape="rect" id="node7" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="2536,281,2739,325"/>
+<area shape="rect" id="node8" href="$dc/dfe/AbortList_8hpp.html" title="Acts/Propagator/AbortList.hpp" alt="" coords="3576,381,3800,409"/>
+<area shape="rect" id="node15" href="$d1/da9/ActionList_8hpp.html" title="Acts/Propagator/ActionList.hpp" alt="" coords="3691,289,3920,317"/>
+<area shape="rect" id="node16" href="$d4/d37/PropagatorError_8hpp.html" title="Acts/Propagator/Propagator\lError.hpp" alt="" coords="2671,473,2881,517"/>
+<area shape="rect" id="node19" href="$dc/d81/StandardAborters_8hpp.html" title="Acts/Propagator/Standard\lAborters.hpp" alt="" coords="1867,189,2061,233"/>
+<area shape="rect" id="node22" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="873,665,1087,693"/>
+<area shape="rect" id="node35" href="$d3/db2/Result_8hpp.html" title="Acts/Utilities/Result.hpp" alt="" coords="3147,381,3330,409"/>
+<area shape="rect" id="node36" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="2336,481,2523,509"/>
+<area shape="rect" id="node37" href="$d8/d4a/StepperConcept_8hpp.html" title="Acts/Propagator/StepperConcept.hpp" alt="" coords="2086,197,2359,225"/>
+<area shape="rect" id="node38" href="$d2/da2/LoopProtection_8hpp.html" title="Acts/Propagator/detail\l/LoopProtection.hpp" alt="" coords="1178,373,1350,417"/>
+<area shape="rect" id="node39" href="$d0/d9a/VoidPropagatorComponents_8hpp.html" title="Acts/Propagator/detail\l/VoidPropagatorComponents.hpp" alt="" coords="2587,189,2832,233"/>
+<area shape="rect" id="node40" href="$df/d6f/Units_8hpp.html" title="Acts/Utilities/Units.hpp" alt="" coords="2856,197,3032,225"/>
+<area shape="rect" id="node42" href="$d3/ded/Propagator_8ipp.html" title="Acts/Propagator/Propagator.ipp" alt="" coords="3283,197,3515,225"/>
+<area shape="rect" id="node9" href="$d2/ddf/abort__condition__signature__check_8hpp.html" title="Acts/Propagator/detail\l/abort_condition_signature\l_check.hpp" alt="" coords="3536,465,3739,525"/>
+<area shape="rect" id="node13" href="$dd/dac/abort__list__implementation_8hpp.html" title="Acts/Propagator/detail\l/abort_list_implementation.hpp" alt="" coords="3278,473,3511,517"/>
+<area shape="rect" id="node14" href="$d2/dbe/Extendable_8hpp.html" title="Acts/Utilities/detail\l/Extendable.hpp" alt="" coords="3763,473,3911,517"/>
+<area shape="rect" id="node10" href="$d0/d81/TypeTraits_8hpp.html" title="Acts/Utilities/TypeTraits.hpp" alt="" coords="2744,581,2952,609"/>
+<area shape="rect" id="node20" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="1339,289,1539,317"/>
+<area shape="rect" id="node21" href="$d5/dc6/GeometryStatics_8hpp.html" title="Acts/Geometry/GeometryStatics.hpp" alt="" coords="299,381,570,409"/>
+<area shape="rect" id="node23" href="$db/d40/Polyhedron_8hpp.html" title="Acts/Geometry/Polyhedron.hpp" alt="" coords="697,381,930,409"/>
+<area shape="rect" id="node25" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="1169,581,1393,609"/>
+<area shape="rect" id="node27" href="$d8/dfd/ParameterDefinitions_8hpp.html" title="Acts/Utilities/Parameter\lDefinitions.hpp" alt="" coords="1789,573,1971,617"/>
+<area shape="rect" id="node44" href="$d9/d1e/InfiniteBounds_8hpp.html" title="Acts/Surfaces/InfiniteBounds.hpp" alt="" coords="83,289,330,317"/>
+<area shape="rect" id="node45" href="$d5/d42/LineSurface_8hpp.html" title="Acts/Surfaces/LineSurface.hpp" alt="" coords="169,197,397,225"/>
+<area shape="rect" id="node47" href="$d9/dc6/PlanarBounds_8hpp.html" title="Acts/Surfaces/PlanarBounds.hpp" alt="" coords="355,289,597,317"/>
+<area shape="rect" id="node48" href="$da/d71/PlanarHelper_8hpp.html" title="Acts/Surfaces/detail\l/PlanarHelper.hpp" alt="" coords="825,281,981,325"/>
+<area shape="rect" id="node49" href="$d2/d4a/PlaneSurface_8ipp.html" title="Acts/Surfaces/detail\l/PlaneSurface.ipp" alt="" coords="1057,281,1213,325"/>
+</map>

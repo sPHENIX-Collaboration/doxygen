@@ -1,0 +1,30 @@
+<map id="InputManagers" name="InputManagers">
+<area shape="rect" id="node2" href="$d4/da9/classFun4AllInputManager.html#a7e026d7493031af2f1e359d71a2d5579" title="Fun4AllInputManager\l::AddFile" alt="" coords="503,125,669,169"/>
+<area shape="rect" id="node5" href="$d4/da9/classFun4AllInputManager.html#abde8a46c891ecd025daefd1e1ff79569" title="Fun4AllInputManager\l::AddListFile" alt="" coords="220,125,387,169"/>
+<area shape="rect" id="node6" href="$d4/da9/classFun4AllInputManager.html#a8ad787f847a175450ec5beddeaa33ca6" title="Fun4AllInputManager\l::fileopen" alt="" coords="220,463,387,507"/>
+<area shape="rect" id="node7" href="$d6/d6f/classFun4AllHepMCInputManager.html#a668554061600fec90eb3968ec191849a" title="Fun4AllHepMCInputManager\l::fileopen" alt="" coords="196,395,411,439"/>
+<area shape="rect" id="node20" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="213,531,394,559"/>
+<area shape="rect" id="node21" href="$da/d29/classFun4AllServer.html#ab2cb490790d15b865ae79eb3094caabe" title="Fun4AllServer::registerInput\lManager" alt="" coords="197,32,409,76"/>
+<area shape="rect" id="node24" href="$d4/da9/classFun4AllInputManager.html#a21218cae80edea2689937a5d7b988f80" title="Fun4AllInputManager\l::Repeat" alt="" coords="220,583,387,627"/>
+<area shape="rect" id="node25" href="$de/d99/classFun4AllHepMCPileupInputManager.html#a290fad7c148f8a3864ce77cdbc7ef6f1" title="collision rate in Hz" alt="" coords="176,651,431,695"/>
+<area shape="rect" id="node26" href="$de/d99/classFun4AllHepMCPileupInputManager.html#afb3de0593aeceadabf5def70093c5943" title="past times are negative, future times are positive" alt="" coords="176,719,431,763"/>
+<area shape="rect" id="node27" href="$de/d99/classFun4AllHepMCPileupInputManager.html#a4c33726287ab4652a3d668defcc879cf" title="Fun4AllHepMCPileupInputManager\l::SignalInputManager" alt="" coords="176,787,431,831"/>
+<area shape="rect" id="node28" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="225,855,382,883"/>
+<area shape="rect" id="node29" href="$d5/dec/classFun4AllBase.html#a05da2261577843028cf78e99171343b9" title="Sets the verbosity of this module (0 by default=quiet)." alt="" coords="215,907,391,935"/>
+<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="743,104,919,132"/>
+<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="755,200,908,228"/>
+<area shape="rect" id="node8" href="$d4/da9/classFun4AllInputManager.html#a33e763341dd3ae5c473121851f4d7b80" title="Fun4AllInputManager\l::MySyncManager" alt="" coords="503,296,669,340"/>
+<area shape="rect" id="node9" href="$d4/da9/classFun4AllInputManager.html#a7e22df6cae3040d6bf3d864c75131858" title="Fun4AllInputManager\l::IsOpen" alt="" coords="748,455,915,499"/>
+<area shape="rect" id="node10" href="$d6/d6f/classFun4AllHepMCInputManager.html#acb8899e9a7c218645674aa541d77d7a5" title="Fun4AllHepMCInputManager\l::fileclose" alt="" coords="479,364,693,408"/>
+<area shape="rect" id="node12" href="$dd/dfd/classFROG.html#a32ef7a32ed2c73181a23d8e1de5ff8f8" title="FROG::location" alt="" coords="525,432,647,460"/>
+<area shape="rect" id="node13" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="505,656,667,684"/>
+<area shape="rect" id="node15" href="$d1/da8/classPHFlag.html#a4b73a422f0076568904d71f40e849da5" title="PHFlag::FlagExist" alt="" coords="517,536,655,564"/>
+<area shape="rect" id="node16" href="$dd/ded/classFun4AllSyncManager.html#accab39002c98d83f875d96631b5d78bb" title="Fun4AllSyncManager\l::CurrentRun" alt="" coords="504,588,668,632"/>
+<area shape="rect" id="node17" href="$d1/da8/classPHFlag.html#a07899067141a5f12333cc37183caddc8" title="PHFlag::get_IntFlag" alt="" coords="510,776,662,804"/>
+<area shape="rect" id="node19" href="$d4/da9/classFun4AllInputManager.html#a98ac3fb04956625a423ef41a3909ba27" title="Fun4AllInputManager\l::AddToFileOpened" alt="" coords="503,708,669,752"/>
+<area shape="rect" id="node11" href="$d4/da9/classFun4AllInputManager.html#a78a9801eec02c6002268798fddb2381a" title="Fun4AllInputManager\l::UpdateFileList" alt="" coords="748,364,915,408"/>
+<area shape="rect" id="node14" href="$d8/d14/classrecoConsts.html#ae882d6adc62f783ec78114fe3dee3c24" title="recoConsts::recoConsts" alt="" coords="741,656,921,684"/>
+<area shape="rect" id="node18" href="$dd/d01/namespacetesting_1_1gtest__printers__test.html#adab26e59d2d7781c06a2c1c5948a8f65" title="testing::gtest_printers\l_test::Print" alt="" coords="746,768,917,812"/>
+<area shape="rect" id="node22" href="$dd/ded/classFun4AllSyncManager.html#a2a284bc4ed777ec7f39d6e5c7090067c" title="Fun4AllSyncManager\l::registerInputManager" alt="" coords="497,5,675,49"/>
+<area shape="rect" id="node23" href="$d4/da9/classFun4AllInputManager.html#a5b0cdb689482c4143b7b22ca8a780c51" title="Fun4AllInputManager\l::setSyncManager" alt="" coords="748,5,915,49"/>
+</map>

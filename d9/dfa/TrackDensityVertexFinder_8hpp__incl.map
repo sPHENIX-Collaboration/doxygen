@@ -1,0 +1,35 @@
+<map id="acts/blob/sPHENIX/Core/include/Acts/Vertexing/TrackDensityVertexFinder.hpp" name="acts/blob/sPHENIX/Core/include/Acts/Vertexing/TrackDensityVertexFinder.hpp">
+<area shape="rect" id="node2" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="537,449,810,477"/>
+<area shape="rect" id="node16" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="556,909,769,937"/>
+<area shape="rect" id="node25" href="$d3/db2/Result_8hpp.html" title="Acts/Utilities/Result.hpp" alt="" coords="2519,817,2702,845"/>
+<area shape="rect" id="node34" href="$dd/d30/GaussianTrackDensity_8hpp.html" title="Acts/Vertexing/GaussianTrack\lDensity.hpp" alt="" coords="397,113,619,157"/>
+<area shape="rect" id="node39" href="$d6/db0/Vertex_8hpp.html" title="Acts/Vertexing/Vertex.hpp" alt="" coords="2179,297,2376,325"/>
+<area shape="rect" id="node44" href="$d8/dfb/VertexFitterConcept_8hpp.html" title="Acts/Vertexing/VertexFitter\lConcept.hpp" alt="" coords="2335,113,2537,157"/>
+<area shape="rect" id="node47" href="$d1/d75/VertexingOptions_8hpp.html" title="Acts/Vertexing/Vertexing\lOptions.hpp" alt="" coords="2701,205,2889,249"/>
+<area shape="rect" id="node50" href="$dd/d27/TrackDensityVertexFinder_8ipp.html" title="TrackDensityVertexFinder.ipp" alt="" coords="2728,121,2947,149"/>
+<area shape="rect" id="node3" href="$de/dc3/Charge_8hpp.html" title="Acts/EventData/Charge.hpp" alt="" coords="230,625,439,653"/>
+<area shape="rect" id="node7" href="$dd/d8e/SingleBoundTrackParameters_8hpp.html" title="Acts/EventData/SingleBound\lTrackParameters.hpp" alt="" coords="1444,617,1660,661"/>
+<area shape="rect" id="node31" href="$d6/dee/SingleCurvilinearTrackParameters_8hpp.html" title="Acts/EventData/SingleCurvilinear\lTrackParameters.hpp" alt="" coords="1429,525,1675,569"/>
+<area shape="rect" id="node33" href="$d0/d8c/SingleFreeTrackParameters_8hpp.html" title="Acts/EventData/SingleFree\lTrackParameters.hpp" alt="" coords="594,617,795,661"/>
+<area shape="rect" id="node4" href="$df/d6f/Units_8hpp.html" title="Acts/Utilities/Units.hpp" alt="" coords="144,717,320,745"/>
+<area shape="rect" id="node8" href="$de/d01/ParameterSet_8hpp.html" title="Acts/EventData/Parameter\lSet.hpp" alt="" coords="1346,709,1547,753"/>
+<area shape="rect" id="node20" href="$d7/db3/PrintParameters_8hpp.html" title="Acts/EventData/detail\l/PrintParameters.hpp" alt="" coords="1572,709,1740,753"/>
+<area shape="rect" id="node21" href="$d2/d86/TransformationFreeToBound_8hpp.html" title="Acts/EventData/detail\l/TransformationFreeToBound.hpp" alt="" coords="1924,709,2169,753"/>
+<area shape="rect" id="node24" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="2244,717,2444,745"/>
+<area shape="rect" id="node30" href="$d0/d5d/UnitVectors_8hpp.html" title="Acts/Utilities/UnitVectors.hpp" alt="" coords="592,717,811,745"/>
+<area shape="rect" id="node9" href="$d1/db7/DifferenceCalculator_8hpp.html" title="Acts/EventData/detail\l/DifferenceCalculator.hpp" alt="" coords="1289,809,1484,853"/>
+<area shape="rect" id="node11" href="$d0/da3/ValueCorrector_8hpp.html" title="Acts/EventData/detail\l/ValueCorrector.hpp" alt="" coords="1508,809,1676,853"/>
+<area shape="rect" id="node12" href="$db/d16/full__parameter__set_8hpp.html" title="Acts/EventData/detail\l/full_parameter_set.hpp" alt="" coords="2057,809,2241,853"/>
+<area shape="rect" id="node14" href="$d4/d57/initialize__parameter__set_8hpp.html" title="Acts/EventData/detail\l/initialize_parameter\l_set.hpp" alt="" coords="1097,801,1265,861"/>
+<area shape="rect" id="node15" href="$da/d98/make__projection__matrix_8hpp.html" title="Acts/EventData/detail\l/make_projection_matrix.hpp" alt="" coords="853,809,1073,853"/>
+<area shape="rect" id="node18" href="$d8/dfd/ParameterDefinitions_8hpp.html" title="Acts/Utilities/Parameter\lDefinitions.hpp" alt="" coords="1700,809,1881,853"/>
+<area shape="rect" id="node22" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2727,817,3004,845"/>
+<area shape="rect" id="node32" href="$d7/dec/PlaneSurface_8hpp.html" title="Acts/Surfaces/PlaneSurface.hpp" alt="" coords="2019,625,2256,653"/>
+<area shape="rect" id="node37" href="$d4/d49/GaussianTrackDensity_8ipp.html" title="Acts/Vertexing/GaussianTrack\lDensity.ipp" alt="" coords="235,205,458,249"/>
+<area shape="rect" id="node40" href="$d8/d30/TrackAtVertex_8hpp.html" title="Acts/Vertexing/TrackAtVertex.hpp" alt="" coords="1687,373,1934,401"/>
+<area shape="rect" id="node43" href="$d9/de3/Vertex_8ipp.html" title="Vertex.ipp" alt="" coords="2227,373,2319,401"/>
+<area shape="rect" id="node41" href="$d4/d5f/LinearizedTrack_8hpp.html" title="Acts/Vertexing/Linearized\lTrack.hpp" alt="" coords="1021,525,1214,569"/>
+<area shape="rect" id="node45" href="$d0/d81/TypeTraits_8hpp.html" title="Acts/Utilities/TypeTraits.hpp" alt="" coords="2344,373,2552,401"/>
+<area shape="rect" id="node48" href="$d0/d75/ReferenceWrapperAnyCompat_8hpp.html" title="Acts/Utilities/detail\l/ReferenceWrapperAnyCompat.hpp" alt="" coords="3028,809,3289,853"/>
+<area shape="rect" id="node49" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="3200,525,3403,569"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="trigger_updates" name="trigger_updates">
+<area shape="rect" id="node2" href="$db/dcc/rcdaq_8cc.html#a7381eef03dbda799f328d6d7c3fc3519" title="daq_running" alt="" coords="548,57,653,85"/>
+<area shape="rect" id="node3" href="$d6/d30/rcdaq__mg__server_8cc.html#aca69b426818cdec83a290611265f1fc9" title="get_loggingstring" alt="" coords="234,59,373,87"/>
+<area shape="rect" id="node5" href="$db/dcc/rcdaq_8cc.html#aa468883d0dcacfbe67f17f3346c08297" title="get_openflag" alt="" coords="546,109,655,137"/>
+<area shape="rect" id="node6" href="$db/dcc/rcdaq_8cc.html#afcdbeb642edf92f9d8a72868dadcb2d4" title="get_serverflag" alt="" coords="542,161,659,189"/>
+<area shape="rect" id="node7" href="$db/dcc/rcdaq_8cc.html#a7d734d184b036406bdae82b3b2f30d68" title="get_runnumber" alt="" coords="240,265,367,293"/>
+<area shape="rect" id="node8" href="$d6/d30/rcdaq__mg__server_8cc.html#aba8624e79adcac0c4e7bc2830b428d20" title="get_statusstring" alt="" coords="239,213,368,241"/>
+<area shape="rect" id="node11" href="$df/d57/namespaceActs_1_1KalmanVertexTrackUpdater.html#abb363e1aaee90a3145009d060586bd22" title="Refits a single track with the knowledge of the vertex it has originated from." alt="" coords="181,399,425,443"/>
+<area shape="rect" id="node4" href="$db/dcc/rcdaq_8cc.html#a55034f8f7084df7df60c697c21ceb0b3" title="get_current_filename" alt="" coords="519,5,683,33"/>
+<area shape="rect" id="node9" href="$db/dcc/rcdaq_8cc.html#a4c7c94d1587aa24c5e1340f161f89197" title="get_oldrunnumber" alt="" coords="527,265,674,293"/>
+<area shape="rect" id="node10" href="$db/dcc/rcdaq_8cc.html#a72c416b36971e7b2f8a2470aa7db73c2" title="get_runduration" alt="" coords="536,213,665,241"/>
+<area shape="rect" id="node12" href="$df/d7d/classActs_1_1Vertex.html#a564f110498b8882838885434264d345a" title="Acts::Vertex::fullPosition" alt="" coords="508,489,693,517"/>
+<area shape="rect" id="node13" href="$d6/d06/namespaceActs_1_1detail.html#af99a755347e8bbd171da1f485f1e9538" title="Acts::detail::ensureTheta\lBounds" alt="" coords="505,541,696,585"/>
+<area shape="rect" id="node17" href="$df/d7d/classActs_1_1Vertex.html#afac6102da9c97972916c62260424433d" title="Acts::Vertex::fullCovariance" alt="" coords="496,317,705,345"/>
+<area shape="rect" id="node18" href="$d7/d27/namespaceActs_1_1KalmanVertexTrackUpdater_1_1detail.html#a732e7463c791da9bfdafe828abe87129" title="reates a new covariance matrix for the refitted track parameters" alt="" coords="473,369,728,413"/>
+<area shape="rect" id="node19" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="513,437,689,465"/>
+<area shape="rect" id="node14" href="$d6/d06/namespaceActs_1_1detail.html#af08fbfd2843e4f5c141ed9148537f984" title="Calculate the equivalent angle in the [&#45;pi, pi) range." alt="" coords="776,523,961,551"/>
+<area shape="rect" id="node15" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="813,575,924,603"/>
+<area shape="rect" id="node16" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="1009,575,1185,603"/>
+</map>

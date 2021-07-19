@@ -1,0 +1,37 @@
+<map id="macros/blob/master/detectors/sPHENIX/G4Setup_sPHENIX.C" name="macros/blob/master/detectors/sPHENIX/G4Setup_sPHENIX.C">
+<area shape="rect" id="node2" href="$dc/dfe/GlobalVariables_8C.html" title="GlobalVariables.C" alt="" coords="890,473,1030,501"/>
+<area shape="rect" id="node3" href="$d9/d5f/EDecayType_8hh.html" title="g4decayer/EDecayType.hh" alt="" coords="285,557,485,585"/>
+<area shape="rect" id="node6" href="$d4/dcd/G4__BlackHole_8C.html" title="G4_BlackHole.C" alt="" coords="637,381,765,409"/>
+<area shape="rect" id="node7" href="$dc/dc6/PHG4CylinderSubsystem_8h.html" title="g4detectors/PHG4Cylinder\lSubsystem.h" alt="" coords="562,465,763,509"/>
+<area shape="rect" id="node9" href="$d0/d2b/PHG4Reco_8h.html" title="g4main/PHG4Reco.h" alt="" coords="306,473,465,501"/>
+<area shape="rect" id="node11" href="$d2/d85/G4__CEmc__Albedo_8C.html" title="G4_CEmc_Albedo.C" alt="" coords="914,381,1067,409"/>
+<area shape="rect" id="node13" href="$d7/dba/G4__EPD_8C.html" title="G4_EPD.C" alt="" coords="244,113,332,141"/>
+<area shape="rect" id="node17" href="$d6/d9e/G4__Intt_8C.html" title="G4_Intt.C" alt="" coords="2097,289,2181,317"/>
+<area shape="rect" id="node19" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="2343,557,2521,585"/>
+<area shape="rect" id="node21" href="$da/df1/G4__Mvtx_8C.html" title="G4_Mvtx.C" alt="" coords="1587,381,1680,409"/>
+<area shape="rect" id="node36" href="$d7/d4d/G4__Micromegas_8C.html" title="G4_Micromegas.C" alt="" coords="1239,113,1382,141"/>
+<area shape="rect" id="node44" href="$d1/d56/G4__PlugDoor_8C.html" title="G4_PlugDoor.C" alt="" coords="491,381,613,409"/>
+<area shape="rect" id="node46" href="$d1/dd8/G4__User_8C.html" title="G4_User.C" alt="" coords="2879,289,2969,317"/>
+<area shape="rect" id="node47" href="$d0/d40/G4__World_8C.html" title="G4_World.C" alt="" coords="790,381,890,409"/>
+<area shape="rect" id="node48" href="$da/d58/PHG4DstCompressReco_8h.html" title="g4eval/PHG4DstCompressReco.h" alt="" coords="2956,197,3199,225"/>
+<area shape="rect" id="node49" href="$de/d78/PHG4TruthSubsystem_8h.html" title="g4main/PHG4TruthSubsystem.h" alt="" coords="2979,113,3215,141"/>
+<area shape="rect" id="node50" href="$db/d22/Fun4AllDstOutputManager_8h.html" title="fun4all/Fun4AllDstOutput\lManager.h" alt="" coords="3191,281,3383,325"/>
+<area shape="rect" id="node8" href="$d8/d3a/PHG4DetectorSubsystem_8h.html" title="PHG4DetectorSubsystem.h" alt="" coords="586,557,790,585"/>
+<area shape="rect" id="node14" href="$d6/dde/PHG4EPDSubsystem_8h.html" title="g4epd/PHG4EPDSubsystem.h" alt="" coords="145,197,365,225"/>
+<area shape="rect" id="node18" href="$d7/d73/QA_8C.html" title="QA.C" alt="" coords="2511,473,2566,501"/>
+<area shape="rect" id="node29" href="$dd/d6f/PHG4InttDefs_8h.html" title="g4intt/PHG4InttDefs.h" alt="" coords="2946,381,3115,409"/>
+<area shape="rect" id="node30" href="$d2/d51/PHG4InttDigitizer_8h.html" title="g4intt/PHG4InttDigitizer.h" alt="" coords="2545,557,2738,585"/>
+<area shape="rect" id="node31" href="$dd/d3a/PHG4InttHitReco_8h.html" title="g4intt/PHG4InttHitReco.h" alt="" coords="2249,381,2439,409"/>
+<area shape="rect" id="node32" href="$db/d7a/PHG4InttSubsystem_8h.html" title="g4intt/PHG4InttSubsystem.h" alt="" coords="2763,557,2976,585"/>
+<area shape="rect" id="node33" href="$df/d8d/InttClusterizer_8h.html" title="intt/InttClusterizer.h" alt="" coords="2463,381,2617,409"/>
+<area shape="rect" id="node22" href="$df/d94/PHG4MvtxDefs_8h.html" title="g4mvtx/PHG4MvtxDefs.h" alt="" coords="1909,473,2099,501"/>
+<area shape="rect" id="node23" href="$d3/db1/PHG4MvtxDigitizer_8h.html" title="g4mvtx/PHG4MvtxDigitizer.h" alt="" coords="2105,557,2319,585"/>
+<area shape="rect" id="node24" href="$d3/d8c/PHG4MvtxHitReco_8h.html" title="g4mvtx/PHG4MvtxHitReco.h" alt="" coords="2124,473,2335,501"/>
+<area shape="rect" id="node25" href="$d1/d19/PHG4MvtxSubsystem_8h.html" title="g4mvtx/PHG4MvtxSubsystem.h" alt="" coords="1105,473,1340,501"/>
+<area shape="rect" id="node27" href="$d8/d2e/coresoftware_2blob_2master_2offline_2packages_2mvtx_2MvtxClusterizer_8h.html" title="Clusterizer for the MVTX." alt="" coords="1465,473,1641,501"/>
+<area shape="rect" id="node37" href="$db/d3e/macros_2blob_2master_2common_2G4__TPC_8C.html" title="G4_TPC.C" alt="" coords="1785,197,1871,225"/>
+<area shape="rect" id="node38" href="$dd/d33/PHG4MicromegasDigitizer_8h.html" title="g4micromegas/PHG4Micromegas\lDigitizer.h" alt="" coords="1064,189,1309,233"/>
+<area shape="rect" id="node39" href="$d4/dbb/PHG4MicromegasHitReco_8h.html" title="g4micromegas/PHG4Micromegas\lHitReco.h" alt="" coords="1064,281,1309,325"/>
+<area shape="rect" id="node40" href="$d3/de4/PHG4MicromegasSubsystem_8h.html" title="g4micromegas/PHG4Micromegas\lSubsystem.h" alt="" coords="744,281,989,325"/>
+<area shape="rect" id="node41" href="$df/dee/MicromegasClusterizer_8h.html" title="micromegas/MicromegasClusterizer.h" alt="" coords="1435,197,1709,225"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Tracking_Reco" name="Tracking_Reco">
+<area shape="rect" id="node2" href="$d1/d49/classPHActsTrkFitter.html#afc99851be60bb9536bacb15178a3ace9" title="Do some internal time benchmarking analysis." alt="" coords="181,5,419,33"/>
+<area shape="rect" id="node3" href="$dd/d22/classPHTpcTracker.html#aaabcdb02f6d13509e85c5a9e9b81a25a" title="PHTpcTracker::enable\l_json_export" alt="" coords="217,57,383,101"/>
+<area shape="rect" id="node4" href="$dd/d22/classPHTpcTracker.html#a71e8deb528c069017d9c956ecb95c38d" title="PHTpcTracker::enable\l_vertexing" alt="" coords="217,125,383,169"/>
+<area shape="rect" id="node5" href="$d1/d49/classPHActsTrkFitter.html#a460221bf05821e160664238188516cd1" title="Run the direct navigator to fit only tracks with silicon+MM hits." alt="" coords="191,217,409,245"/>
+<area shape="rect" id="node6" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="476,187,657,215"/>
+<area shape="rect" id="node7" href="$da/d29/classFun4AllServer.html#a0a9947db0ede1e55622001eb7515f8c0" title="Fun4AllServer::registerSubsystem" alt="" coords="175,321,425,349"/>
+<area shape="rect" id="node14" href="$db/d07/classPHTruthVertexing.html#a72c4bb34e20aadbfc09c1c0ffb181ae7" title="PHTruthVertexing::set\l_acts_silicon" alt="" coords="216,373,384,417"/>
+<area shape="rect" id="node15" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#ac17cdea73ffe639ae0ed0bc867d72bec" title="PHMicromegasTpcTrackMatching\l::set_collision_rate" alt="" coords="179,441,421,485"/>
+<area shape="rect" id="node16" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a03e1132c2f514d81fb40b2e587fb5894" title="PHSiliconTpcTrackMatching\l::set_collision_rate" alt="" coords="197,509,403,553"/>
+<area shape="rect" id="node17" href="$d2/d71/classPHSiliconTpcTrackMatching.html#aa7ec047dfe5f24818f5406d5306457bc" title="PHSiliconTpcTrackMatching\l::set_eta_search_window" alt="" coords="197,577,403,621"/>
+<area shape="rect" id="node18" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a6530f7b625a70354b19cd03cef3383f3" title="PHSiliconTpcTrackMatching\l::set_field" alt="" coords="197,645,403,689"/>
+<area shape="rect" id="node19" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a5db742c40ff0e777ef7f811a2e4854e5" title="PHSiliconTpcTrackMatching\l::set_field_dir" alt="" coords="197,713,403,757"/>
+<area shape="rect" id="node20" href="$d4/d4e/classPHHybridSeeding.html#acda92c99d3c7d43ad9288f8545f7e14d" title="PHHybridSeeding::set\l_field_dir" alt="" coords="215,781,385,825"/>
+<area shape="rect" id="node21" href="$de/d25/classPHGenFitTrkFitter.html#aa5056a47dbb8d43b83f27fd822e2771a" title="PHGenFitTrkFitter::\lset_fit_primary_tracks" alt="" coords="215,849,385,893"/>
+<area shape="rect" id="node22" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#a8dd5638a145e84a63e749a675a68a2e4" title="PHMicromegasTpcTrackMatching\l::set_min_tpc_layer" alt="" coords="179,917,421,961"/>
+<area shape="rect" id="node23" href="$d2/d8f/classPHInitZVertexing.html#a4deb24bcaeb7a93bf5b8d011dfe19b65" title="PHInitZVertexing::set\l_min_zvtx_tracks" alt="" coords="217,985,383,1029"/>
+<area shape="rect" id="node24" href="$d5/daa/classPHRaveVertexing.html#aef83d0fc3e3e1869d23441da247e61e1" title="PHRaveVertexing::set\l_over_write_svtxvertexmap" alt="" coords="196,1053,404,1097"/>
+<area shape="rect" id="node25" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a16f10198f4ab4a904f577244c0a12be3" title="PHSiliconTpcTrackMatching\l::set_phi_search_window" alt="" coords="197,1121,403,1165"/>
+<area shape="rect" id="node26" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#af336743ca02e9304d45e7cb8b31e7e77" title="PHMicromegasTpcTrackMatching\l::set_rphi_search_window_lyr1" alt="" coords="179,1189,421,1233"/>
+<area shape="rect" id="node27" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#a5ca27c18df4d3382efcdbb879b6bcca6" title="PHMicromegasTpcTrackMatching\l::set_rphi_search_window_lyr2" alt="" coords="179,1257,421,1301"/>
+<area shape="rect" id="node28" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#a5e50df01e85bf5b0940fa7b4688849f5" title="PHMicromegasTpcTrackMatching\l::set_sc_calib_mode" alt="" coords="179,1325,421,1369"/>
+<area shape="rect" id="node29" href="$d2/d71/classPHSiliconTpcTrackMatching.html#ab6e60fc76afb09f72ea41f4247022c2b" title="PHSiliconTpcTrackMatching\l::set_sc_calib_mode" alt="" coords="197,1393,403,1437"/>
+<area shape="rect" id="node30" href="$dd/d22/classPHTpcTracker.html#a92fe6bfc2f99c98e54e77a97274071df" title="PHTpcTracker::set_seed\l_finder_optimization_remove\l_loopers" alt="" coords="191,1461,409,1521"/>
+<area shape="rect" id="node31" href="$dd/d22/classPHTpcTracker.html#a5367b25d9bdb15638e68b4341e9e3f48" title="PHTpcTracker::set_seed\l_finder_options" alt="" coords="210,1545,390,1589"/>
+<area shape="rect" id="node32" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a5c1e9c5d36f3334522779a9f6670cd35" title="PHSiliconTpcTrackMatching\l::set_seeder" alt="" coords="197,1613,403,1657"/>
+<area shape="rect" id="node33" href="$d2/d8f/classPHInitZVertexing.html#a186fe5fff88ff77de687b3c1184c95f3" title="PHInitZVertexing::set\l_seeding_layer" alt="" coords="217,1681,383,1725"/>
+<area shape="rect" id="node34" href="$d5/daa/classPHRaveVertexing.html#a75f2cdd4d983279a190a25324522ae67" title="PHRaveVertexing::set\l_svtxvertexmaprefit_node_name" alt="" coords="178,1749,422,1793"/>
+<area shape="rect" id="node35" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#ac15febb870b714956a82582959b92004" title="PHMicromegasTpcTrackMatching\l::set_test_windows_printout" alt="" coords="179,1817,421,1861"/>
+<area shape="rect" id="node36" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a53ae8580080c42b2395d810b5edebd23" title="PHSiliconTpcTrackMatching\l::set_test_windows_printout" alt="" coords="195,1885,405,1929"/>
+<area shape="rect" id="node37" href="$dd/d22/classPHTpcTracker.html#a4a45c8da58cbc35a4bd911223469b9e7" title="PHTpcTracker::set_track\l_follower_optimization_helix" alt="" coords="193,1953,407,1997"/>
+<area shape="rect" id="node38" href="$dd/d22/classPHTpcTracker.html#ada35c205b9a64c97356a3abe1def4961" title="PHTpcTracker::set_track\l_follower_optimization\l_precise_fit" alt="" coords="209,2021,391,2081"/>
+<area shape="rect" id="node39" href="$de/d25/classPHGenFitTrkFitter.html#a6f2ed6081111a27fb936f66086632d3f" title="PHGenFitTrkFitter::\lset_use_truth_vertex" alt="" coords="219,2105,381,2149"/>
+<area shape="rect" id="node40" href="$de/d25/classPHGenFitTrkFitter.html#a7558ccd15094e93a8d74623bd9c9a7af" title="PHGenFitTrkFitter::\lset_vertexing_method" alt="" coords="215,2173,385,2217"/>
+<area shape="rect" id="node41" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#a4fec5d679a926de3f8b309b99b75d5ab" title="PHMicromegasTpcTrackMatching\l::set_z_search_window_lyr1" alt="" coords="179,2241,421,2285"/>
+<area shape="rect" id="node42" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#a63d3a39c7284363809cd0bc094975e0d" title="PHMicromegasTpcTrackMatching\l::set_z_search_window_lyr2" alt="" coords="179,2309,421,2353"/>
+<area shape="rect" id="node43" href="$da/db1/classMakeActsGeometry.html#a97363701bed4b4e5a8fdda7cc8504a5f" title="MakeActsGeometry::setMag\lField" alt="" coords="195,2377,405,2421"/>
+<area shape="rect" id="node44" href="$da/db1/classMakeActsGeometry.html#ae35f7f46299dc1d1c171e02b77d8328c" title="MakeActsGeometry::setMag\lFieldRescale" alt="" coords="195,2445,405,2489"/>
+<area shape="rect" id="node45" href="$d4/d4e/classPHHybridSeeding.html#a0a0f93c41b3711e3b523964d4dd4e9d1" title="PHHybridSeeding::setMinTrackSize" alt="" coords="172,2513,428,2541"/>
+<area shape="rect" id="node46" href="$d4/d4e/classPHHybridSeeding.html#a8e9f09a41c856fc562f77c85bc2c3407" title="PHHybridSeeding::setNThreads" alt="" coords="183,2565,417,2593"/>
+<area shape="rect" id="node47" href="$d4/d4e/classPHHybridSeeding.html#a39ec38b1af9f6b98b9364eb5caa89113" title="PHHybridSeeding::setSearch\lAngle" alt="" coords="193,2617,407,2661"/>
+<area shape="rect" id="node48" href="$d4/d4e/classPHHybridSeeding.html#a112f84f146d75be66083f39fa429c02d" title="PHHybridSeeding::setSearch\lRadius" alt="" coords="193,2685,407,2729"/>
+<area shape="rect" id="node49" href="$d5/dec/classFun4AllBase.html#a05da2261577843028cf78e99171343b9" title="Sets the verbosity of this module (0 by default=quiet)." alt="" coords="212,2753,388,2781"/>
+<area shape="rect" id="node50" href="$d4/d89/namespaceG4TRACKING.html#a1d8729ba196de8f86e736368c13f7078" title="G4TRACKING::vmethod" alt="" coords="211,2805,389,2833"/>
+<area shape="rect" id="node8" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="490,239,643,267"/>
+<area shape="rect" id="node9" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="476,291,657,319"/>
+<area shape="rect" id="node10" href="$d7/d96/classFun4AllMemoryTracker.html#a3841cc0bc6c4047da2b4868ba39dbb8c" title="Fun4AllMemoryTracker\l::Start" alt="" coords="479,343,655,387"/>
+<area shape="rect" id="node11" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="705,411,881,439"/>
+<area shape="rect" id="node12" href="$d0/d32/classSubsysReco.html#a6670c0a093dd2c2bdd44f8fc6f9ba8e8" title="SubsysReco::Init" alt="" coords="500,463,633,491"/>
+<area shape="rect" id="node13" href="$d7/d96/classFun4AllMemoryTracker.html#a766ac66dd36ffa4e3fbe6e622923565f" title="Fun4AllMemoryTracker\l::Stop" alt="" coords="479,515,655,559"/>
+</map>

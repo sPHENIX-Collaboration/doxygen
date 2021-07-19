@@ -1,0 +1,51 @@
+<map id="genfit::AbsTrackRep::getCharge" name="genfit::AbsTrackRep::getCharge">
+<area shape="rect" id="node2" href="$d1/dc8/classgenfit_1_1GblFitter.html#a5da35921dc77781efca0650aefff823a" title="Propagate seed, populate track with scatterers and GblFitterInfos with reference state set..." alt="" coords="249,85,383,129"/>
+<area shape="rect" id="node3" href="$d7/dd5/classPHGenFit_1_1Track.html#a2e02a0f394b0cfe0057f2472c095f45b" title="PHGenFit::Track::get\l_charge" alt="" coords="237,153,395,197"/>
+<area shape="rect" id="node7" href="$d5/d1b/classPHGenFit2_1_1Track.html#a58834d073911a83c695055c8c66d96a5" title="PHGenFit2::Track::get\l_charge" alt="" coords="232,277,400,321"/>
+<area shape="rect" id="node8" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a2924e17ce1d16257c25b476aa0fcd8b2" title="genfit::StateOnPlane\l::getCharge" alt="" coords="235,345,397,389"/>
+<area shape="rect" id="node45" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#ab28798fe239a0577ef7a9c254c235491" title="Prepare the track." alt="" coords="740,609,953,653"/>
+<area shape="rect" id="node46" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#ad3a24181b5370cc95f01f49ea148c011" title="genfit::KalmanFitterRefTrack\l::processTrackWithRep" alt="" coords="1001,617,1215,661"/>
+<area shape="rect" id="node47" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#a0dffe53c54ee6afe2fc252e643b5b790" title="genfit::KalmanFitterRefTrack\l::processTrackPoint" alt="" coords="475,481,688,525"/>
+<area shape="rect" id="node49" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#adc865a1152d111df9d724e047decaf3e" title="genfit::KalmanFitterRefTrack\l::processTrackPointSqrt" alt="" coords="209,481,423,525"/>
+<area shape="rect" id="node50" href="$d3/d7b/classgenfit_1_1GFGbl.html#a0fbc16a1bcfe612c536b616be8239689" title="genfit::GFGbl::processTrack\lWithRep" alt="" coords="212,652,420,696"/>
+<area shape="rect" id="node4" href="$d9/d91/classPHG4TrackFastSim.html#a27f5d3e1fcab6a5cc74fda92cd51359f" title="PHG4TrackFastSim::MakeSvtx\lTrack" alt="" coords="471,37,692,81"/>
+<area shape="rect" id="node6" href="$d6/d17/classSVReco.html#a0b5b196a0467d07833fcbb0fa1e47a77" title="Uses the vertex to remake the track." alt="" coords="490,105,673,133"/>
+<area shape="rect" id="node5" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="743,37,951,81"/>
+<area shape="rect" id="node9" href="$d5/d1b/classPHGenFit2_1_1Track.html#a98ad41066783048c00dccdfaa53ecd67" title="PHGenFit2::Track::get\l_track_info" alt="" coords="497,157,665,201"/>
+<area shape="rect" id="node10" href="$d6/d8a/classgenfit_1_1Track.html#aa39935d7b66768b5fef4bbeec02438cc" title="genfit::Track::udpateSeed" alt="" coords="484,225,679,253"/>
+<area shape="rect" id="node12" href="$d6/df6/classPHTpcTrackFollower.html#a70bab64e85da952cf935c5fa64b5022e" title="PHTpcTrackFollower\l::get_projected_coordinate" alt="" coords="481,277,682,321"/>
+<area shape="rect" id="node17" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a294470305559030667e010db718d3f3a" title="Draw an event." alt="" coords="502,345,661,389"/>
+<area shape="rect" id="node44" href="$d1/dc8/classgenfit_1_1GblFitter.html#a4be6bdc46ad9f13aef275aea2b01f438" title="genfit::GblFitter::\lprocessTrackWithRep" alt="" coords="499,413,664,457"/>
+<area shape="rect" id="node11" href="$d6/d8a/classgenfit_1_1Track.html#af7557944de667f7bb312c3f960d09096" title="Make track ready to be fitted in reverse direction." alt="" coords="747,173,947,201"/>
+<area shape="rect" id="node13" href="$d6/df6/classPHTpcTrackFollower.html#ae738d5e252b993cecb9fa6578f539d98" title="PHTpcTrackFollower\l::followTrack" alt="" coords="769,225,925,269"/>
+<area shape="rect" id="node14" href="$d6/df6/classPHTpcTrackFollower.html#ab2bef4a182d944601566b365cfa8ab53" title="PHTpcTrackFollower\l::propagateTrack" alt="" coords="1030,5,1186,49"/>
+<area shape="rect" id="node15" href="$d6/df6/classPHTpcTrackFollower.html#a83ae68b9bc2427d17c49ad23caec8058" title="PHTpcTrackFollower\l::followTracks" alt="" coords="1277,5,1433,49"/>
+<area shape="rect" id="node16" href="$dd/d22/classPHTpcTracker.html#ad43c1747ddb131ee482597e6e369fba6" title="PHTpcTracker::Process" alt="" coords="1534,13,1706,41"/>
+<area shape="rect" id="node18" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a493a1ff074a94d20fb52ec58e121aa9f" title="Go to event with index id." alt="" coords="767,345,926,389"/>
+<area shape="rect" id="node33" href="$d4/d1a/classgenfit_1_1EventDisplay.html#ae4db6c8ff56045f6c9d7aee52d3dd695" title="Open the event display." alt="" coords="1029,73,1187,117"/>
+<area shape="rect" id="node19" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a09836ef50d0dae25ab320275745bda52" title="Go to the next event or step a certain number of events ahead." alt="" coords="1029,481,1187,525"/>
+<area shape="rect" id="node20" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a52285c17ebaf4ac0de0e0a890a6060cb" title="Go to the previous event or step a certain number of events back." alt="" coords="1029,549,1187,593"/>
+<area shape="rect" id="node39" href="$d4/d1a/classgenfit_1_1EventDisplay.html#abebb15a769222e8a93cd86c38882727e" title="genfit::EventDisplay\l::guiGoto" alt="" coords="1029,209,1187,253"/>
+<area shape="rect" id="node40" href="$d4/d1a/classgenfit_1_1EventDisplay.html#acdd34bd342d4878f39383dcb09c252a7" title="genfit::EventDisplay\l::guiGoto2" alt="" coords="1029,277,1187,321"/>
+<area shape="rect" id="node41" href="$d4/d1a/classgenfit_1_1EventDisplay.html#ab2f949370370420bc95d83e02086e419" title="genfit::EventDisplay\l::guiSetDrawParams" alt="" coords="1029,345,1187,389"/>
+<area shape="rect" id="node42" href="$d4/d1a/classgenfit_1_1EventDisplay.html#acff6b6584ae220760da322c6c93e7578" title="genfit::EventDisplay\l::guiSelectFitterId" alt="" coords="1029,413,1187,457"/>
+<area shape="rect" id="node43" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a077e36982491e92eeaae8bde85b778d1" title="genfit::EventDisplay\l::guiSelectMmHandling" alt="" coords="1019,141,1197,185"/>
+<area shape="rect" id="node21" href="$d9/d23/lustrf_8f.html#a5941611caddf798b636f4885a175c69e" title="lustrf" alt="" coords="1326,660,1383,688"/>
+<area shape="rect" id="node25" href="$d6/dcf/pythia6425mod_8f.html#aa2fbdb46f28af53ae4a8988b1f8246eb" title="pyprep" alt="" coords="1320,557,1389,585"/>
+<area shape="rect" id="node32" href="$d6/dcf/pythia6425mod_8f.html#ab14f48c3190aeff08037290931944d07" title="pystrf" alt="" coords="1324,492,1385,520"/>
+<area shape="rect" id="node22" href="$db/d08/luexec_8f.html#a5b4b744833efbda90c865012826ff281" title="luexec" alt="" coords="1587,725,1653,753"/>
+<area shape="rect" id="node23" href="$dc/d63/hijfrg_8f.html#a94a7d7a74d57d5ee4cc9df699368f6a5" title="hijfrg" alt="" coords="1803,777,1859,805"/>
+<area shape="rect" id="node24" href="$d3/dda/lu1ent_8f.html#a86278289cc543712468eeffdc4735d47" title="lu1ent" alt="" coords="1798,725,1863,753"/>
+<area shape="rect" id="node26" href="$d6/dcf/pythia6425mod_8f.html#a1fe450158e5c936ef62425c893c69513" title="pyeevt" alt="" coords="1797,596,1865,624"/>
+<area shape="rect" id="node27" href="$d6/dcf/pythia6425mod_8f.html#ac81fa418f8cd77b0873b2de2a4140933" title="pyevnt" alt="" coords="1916,467,1985,495"/>
+<area shape="rect" id="node28" href="$d6/dcf/pythia6425mod_8f.html#a83ae6561ab82fd7af8b1b3e511f477ac" title="pyevnw" alt="" coords="1793,415,1868,443"/>
+<area shape="rect" id="node29" href="$d6/dcf/pythia6425mod_8f.html#a018da81d5f23cd9c6d55f5151fb0f541" title="pyexec" alt="" coords="1585,467,1655,495"/>
+<area shape="rect" id="node30" href="$d6/dcf/pythia6425mod_8f.html#ace9552b2e1344c48ed7250f2caf5b672" title="pyonia" alt="" coords="1797,519,1864,547"/>
+<area shape="rect" id="node31" href="$d6/dcf/pythia6425mod_8f.html#a765625392f2be53cb4e630c2114d8e98" title="pyreco" alt="" coords="1587,571,1653,599"/>
+<area shape="rect" id="node34" href="$d0/d48/GenFit_2blob_2master_2test_2fitterTests_2main_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="1327,77,1382,105"/>
+<area shape="rect" id="node35" href="$d1/d35/classPHGenFit_1_1Fitter.html#a96693b5a9f125c47e158b38793c657f0" title="PHGenFit::Fitter::display\lEvent" alt="" coords="1263,129,1447,173"/>
+<area shape="rect" id="node36" href="$d9/d91/classPHG4TrackFastSim.html#a942047620f34602d3367e786e161ed8e" title="PHG4TrackFastSim::Display\lEvent" alt="" coords="1517,129,1723,173"/>
+<area shape="rect" id="node37" href="$d2/d9a/classTpcPrototypeGenFitTrkFinder.html#a022c7784b9b8533499ba45dff1b09cd7" title="End, write and close files." alt="" coords="1495,197,1745,225"/>
+<area shape="rect" id="node38" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a1df8f5a66617de654240c7aafb327529" title="End, write and close files." alt="" coords="1499,77,1741,105"/>
+<area shape="rect" id="node48" href="$d8/d26/classgenfit_1_1KalmanFitterRefTrack.html#affda7c9ad9495fd91828d1b43adcc904" title="Fit the track." alt="" coords="740,481,953,525"/>
+</map>

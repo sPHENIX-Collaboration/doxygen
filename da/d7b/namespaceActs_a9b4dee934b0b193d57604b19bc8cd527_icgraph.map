@@ -1,0 +1,51 @@
+<map id="Acts::getDefaultLogger" name="Acts::getDefaultLogger">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a6d20a3d129f20d077459a821c210fa34" title="Acts::addCylinderLayerProto\lMaterial" alt="" coords="258,7,471,51"/>
+<area shape="rect" id="node4" href="$da/d7b/namespaceActs.html#a3057ac55cce8daa3b28c0833f6b8f8f2" title="Acts::addDiscLayerProtoMaterial" alt="" coords="245,79,485,107"/>
+<area shape="rect" id="node6" href="$dc/d7b/namespaceActs_1_1Test_1_1Layers.html#a16c3200be3299dfc388ed343b107a4fd" title="Acts::Test::Layers\l::BOOST_AUTO_TEST_CASE" alt="" coords="262,131,467,175"/>
+<area shape="rect" id="node7" href="$dd/d7e/namespaceActs_1_1Test.html#a0b641f92d1c6333541e606e893444f48" title="Unit test for a three layer detector parameters Testing the Tool chain in the geometry building proce..." alt="" coords="271,199,459,243"/>
+<area shape="rect" id="node8" href="$d3/dc3/namespaceActsExamples_1_1Generic.html#aa530721892396acbcb86dbcaeb67d6b4" title="ActsExamples::Generic\l::buildDetector" alt="" coords="275,267,454,311"/>
+<area shape="rect" id="node9" href="$d2/d57/namespaceActsExamples_1_1TGeo.html#a49a294595df5fcd2c89358981237612f" title="global method to build the generic tracking geometry" alt="" coords="565,1277,727,1321"/>
+<area shape="rect" id="node11" href="$d1/d48/classActs_1_1CuboidVolumeBuilder.html#a91c773c6fb868e14c760eb440f1f6e88" title="This function creates a TrackingVolume with a configurable number of layers and surfaces. Each surface gets a detector element attached if the template parameter is non&#45;void." alt="" coords="261,335,468,379"/>
+<area shape="rect" id="node13" href="$da/d7b/namespaceActs.html#a0c63e76f7630861ac540912461f8864b" title="Global method which creates the TrackingGeometry from DD4hep input." alt="" coords="795,529,1020,557"/>
+<area shape="rect" id="node15" href="$dc/df5/namespaceActs_1_1Sycl.html#afef6bbcecabf028be25342b40297cb23" title="Seedfinding algorithm implemented in SYCL." alt="" coords="263,403,466,447"/>
+<area shape="rect" id="node17" href="$da/d7b/namespaceActs.html#ad68906a04a4c9f5422513cc3a65ea72c" title="Acts::cylinderVolumeHelper\l_dd4hep" alt="" coords="259,471,470,515"/>
+<area shape="rect" id="node18" href="$da/d7b/namespaceActs.html#a273eb1d45963a32a9463dbf54c4ab912" title="Method internally used to create an Acts::CylinderVolumeBuilder." alt="" coords="567,521,725,565"/>
+<area shape="rect" id="node19" href="$df/dd4/namespaceActsExamples.html#a9db10cccc074eb2a4c550589d44dd717" title="ActsExamples::determineEvent\lFilesRange" alt="" coords="247,709,482,753"/>
+<area shape="rect" id="node20" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#adc212e4fc2703502a8f451747d0f729b" title="Creates track parameters bound to plane at point of closest approach in 3d to given reference positio..." alt="" coords="249,777,481,821"/>
+<area shape="rect" id="node21" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#a35ab63eacdeb8cd1cd6c5433e096b5aa" title="Estimates the impact parameters and their errors of a given track w.r.t. a vertex by propagating the ..." alt="" coords="258,845,471,889"/>
+<area shape="rect" id="node22" href="$de/dcd/structAlignedDetector.html#a4bf4c6e709d4f759c712fba6befc1ee4" title="AlignedDetector::finalize" alt="" coords="270,913,459,941"/>
+<area shape="rect" id="node23" href="$d9/da9/structPayloadDetector.html#a85ccc9e959afc3493638aa726e429c6a" title="PayloadDetector::finalize" alt="" coords="270,965,459,993"/>
+<area shape="rect" id="node24" href="$d0/d43/classPHActsVertexFinder.html#a4d018beb40544df9a5cc574887c0a9e0" title="Call acts vertex finder." alt="" coords="288,641,441,685"/>
+<area shape="rect" id="node26" href="$df/db0/classPHActsInitialVertexFinder.html#a6442b21576544eebe72919ab871dc429" title="Calls Acts IVF." alt="" coords="269,1017,460,1061"/>
+<area shape="rect" id="node28" href="$d7/dd3/classPHActsVertexFitter.html#acecfcb6adc69dd416777157c698799bf" title="Run the Acts vertex fitter." alt="" coords="291,1085,438,1129"/>
+<area shape="rect" id="node30" href="$df/d16/classActs_1_1Sycl_1_1QueueWrapper.html#a14078df24cf6af3b86df93cae4121d63" title="This function creates the SYCL queue object." alt="" coords="265,1153,465,1197"/>
+<area shape="rect" id="node32" href="$d4/d95/structActs_1_1Test_1_1LayerCreatorFixture.html#ab4dfa3c42b001a86b42df9a5c578b13c" title="Acts::Test::LayerCreator\lFixture::LayerCreatorFixture" alt="" coords="260,1273,469,1317"/>
+<area shape="rect" id="node33" href="$d0/d2e/classActs_1_1HelicalTrackLinearizer.html#a95951c54c22bab5d88deb9b5096ab612" title="Function that linearizes BoundTrackParameters at given linearization point." alt="" coords="261,1685,469,1729"/>
+<area shape="rect" id="node35" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="263,1393,466,1421"/>
+<area shape="rect" id="node36" href="$d3/d16/AtlasStepperBenchmark_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="337,1445,392,1473"/>
+<area shape="rect" id="node37" href="$da/db1/classMakeActsGeometry.html#a0a3e4f327303d53117efefac7463c669" title="Function that mimics ActsFW::GeometryExampleBase." alt="" coords="232,1497,497,1525"/>
+<area shape="rect" id="node38" href="$d8/d7e/classActs_1_1VolumeMaterialMapper.html#a2d025c2bbb56348878f0ded383949504" title="Acts::VolumeMaterialMapper\l::mapMaterialTrack" alt="" coords="256,1549,473,1593"/>
+<area shape="rect" id="node39" href="$d6/d42/classActs_1_1SurfaceMaterialMapper.html#aa328b02db12c003034df802b2d191e02" title="Acts::SurfaceMaterialMapper\l::mapMaterialTrack" alt="" coords="255,1617,474,1661"/>
+<area shape="rect" id="node40" href="$de/d20/MaterialMappingBase_8cpp.html#a6477f53458770f4ebd0e7039af4b61dd" title="The material validation example, it runs a propagation and then writes out the material information..." alt="" coords="549,2205,743,2233"/>
+<area shape="rect" id="node41" href="$d3/d58/structActs_1_1Test_1_1CubicTrackingGeometry.html#aa6fe8224c9e10cbad7323afcbb4082be" title="Call operator to build the standard cubic tracking geometry." alt="" coords="270,1753,459,1797"/>
+<area shape="rect" id="node42" href="$d9/db0/structActs_1_1Test_1_1CylindricalTrackingGeometry.html#a4e3c3fc3012a3d620c45fce3a9bff438" title="Acts::Test::CylindricalTracking\lGeometry::operator()" alt="" coords="253,1821,476,1865"/>
+<area shape="rect" id="node43" href="$d0/d8e/GeometryExampleBase_8cpp.html#a638bcb2569b8f786a0a26a7a7c05e79b" title="method to process a geometry" alt="" coords="295,1889,435,1917"/>
+<area shape="rect" id="node44" href="$d9/df7/classPHActsTrackProjection.html#ac0a6e1299ff21c56fbddab203226719d" title="Propagate the fitted track parameters to a surface with Acts." alt="" coords="280,1941,449,1985"/>
+<area shape="rect" id="node45" href="$d5/d55/classPHTpcResiduals.html#accb103eb36fcc4ca7461fc63b31e7dde" title="PHTpcResiduals::propagate\lTrackState" alt="" coords="261,2009,468,2053"/>
+<area shape="rect" id="node46" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a7b7b5232ee247a3e5530403723575d22" title="ActsExamples::Options\l::readFatrasConfig" alt="" coords="275,2077,454,2121"/>
+<area shape="rect" id="node47" href="$d2/d86/classActsExamples_1_1Sequencer.html#ab35839e504e50744446c5fbda98dc1bc" title="ActsExamples::Sequencer::run" alt="" coords="250,2145,479,2173"/>
+<area shape="rect" id="node48" href="$d1/d3d/namespaceActs_1_1EventDataView3DTest.html#abd9001345ed2f10be460bc051a642c3d" title="Acts::EventDataView3DTest\l::testMultiTrajectory" alt="" coords="260,2197,469,2241"/>
+<area shape="rect" id="node49" href="$da/d7b/namespaceActs.html#a84c41c54771dc4d8fc38a477f9d250c8" title="create a small tracking geometry to map some dummy material on" alt="" coords="273,1341,456,1369"/>
+<area shape="rect" id="node50" href="$d6/d06/namespaceActs_1_1detail.html#a608059acfe3df5856206d1cde3ebc76d" title="Acts::detail::transformFree\lToBoundParameters" alt="" coords="264,2317,465,2361"/>
+<area shape="rect" id="node3" href="$da/d80/classActs_1_1DD4hepLayerBuilder.html#a3e9b95eb52edad9d0e919f0b2b7d1d9d" title="Acts::DD4hepLayerBuilder\l::centralLayers" alt="" coords="545,5,747,49"/>
+<area shape="rect" id="node5" href="$da/d80/classActs_1_1DD4hepLayerBuilder.html#a03ef1a6cf748ec7f9f39cab8bd4e0379" title="Acts::DD4hepLayerBuilder\l::endcapLayers" alt="" coords="545,73,747,117"/>
+<area shape="rect" id="node10" href="$db/ddf/structTGeoDetector.html#aee109a6b3774380b8f7b6d54846d7f90" title="TGeoDetector::finalize" alt="" coords="821,1285,994,1313"/>
+<area shape="rect" id="node12" href="$dd/d7e/namespaceActs_1_1Test.html#a29f38d090533d86121814e1c234950f3" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="552,333,740,377"/>
+<area shape="rect" id="node14" href="$d3/dec/exceptionActsExamples_1_1DD4hep_1_1DD4hepGeometryService.html#ae4aa8b64fe80b2de81f67a8e867bc272" title="Private method to initiate building of the ACTS tracking geometry." alt="" coords="1068,513,1271,573"/>
+<area shape="rect" id="node16" href="$d9/df3/classActs_1_1Sycl_1_1Seedfinder.html#a5de2a14dfb8e3fbf4e8f04d03b2706b4" title="Acts::Sycl::Seedfinder\l::createSeedsForGroup" alt="" coords="558,401,734,445"/>
+<area shape="rect" id="node25" href="$d0/d43/classPHActsVertexFinder.html#a9b388d9dd2ae05ab6a153a761d36d0d3" title="PHActsVertexFinder\l::Process" alt="" coords="569,641,723,685"/>
+<area shape="rect" id="node27" href="$df/db0/classPHActsInitialVertexFinder.html#a85a8c721f09bcb8342868c2c335c211c" title="PHActsInitialVertexFinder\l::Process" alt="" coords="551,1017,741,1061"/>
+<area shape="rect" id="node29" href="$d7/dd3/classPHActsVertexFitter.html#ab932df5aa801bddf0590f8a9384a622d" title="PHActsVertexFitter\l::process_event" alt="" coords="573,1085,719,1129"/>
+<area shape="rect" id="node31" href="$df/d16/classActs_1_1Sycl_1_1QueueWrapper.html#ac1b9e034da41845685b40bc6498aefa4" title="Acts::Sycl::QueueWrapper\l::QueueWrapper" alt="" coords="546,1153,746,1197"/>
+<area shape="rect" id="node34" href="$dd/d7e/namespaceActs_1_1Test.html#a222d8ccdd1a7c2a561d6b5fc32bfeaf9" title="Unit test for KalmanVertexTrackUpdater." alt="" coords="552,1685,740,1729"/>
+</map>

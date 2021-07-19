@@ -1,0 +1,29 @@
+<map id="m_transform" name="m_transform">
+<area shape="rect" id="node2" href="$d2/d65/classActs_1_1Volume.html#a65d5bdce110a8b6feeec66555d173a0a" title="Acts::Volume::boundingBox" alt="" coords="160,5,369,33"/>
+<area shape="rect" id="node3" href="$d6/dae/classActs_1_1AbstractVolume.html#a5a5f4e35333c2f9ab12066e87318ed92" title="Private method to create BoundarySurfaces." alt="" coords="166,57,363,101"/>
+<area shape="rect" id="node4" href="$dd/dcd/classActs_1_1TrackingVolume.html#a922c701f0f1b437d7d8dc871e884f8c5" title="Create Boundary Surface." alt="" coords="166,125,363,169"/>
+<area shape="rect" id="node6" href="$d9/dc7/classActs_1_1DiscLayer.html#a2451a0699b9719dc5df503a9652dcd90" title="Acts::DiscLayer::DiscLayer" alt="" coords="164,193,365,221"/>
+<area shape="rect" id="node7" href="$d2/d65/classActs_1_1Volume.html#a5b0f9bbc11412aa546d28c16e853a171" title="Acts::Volume::operator=" alt="" coords="171,245,359,273"/>
+<area shape="rect" id="node8" href="$de/d7d/classActs_1_1Surface.html#a91ca2a753ae471ed1d45a7d05e6844f6" title="Acts::Surface::operator=" alt="" coords="170,297,359,325"/>
+<area shape="rect" id="node16" href="$de/d7d/classActs_1_1Surface.html#a7f658ccc34e6a1f0047cedf33d47bb68" title="Acts::Surface::operator==" alt="" coords="165,349,365,377"/>
+<area shape="rect" id="node17" href="$de/d7d/classActs_1_1Surface.html#ace4cf8a84a10d848c64dfb5347af57d4" title="Acts::Surface::transform" alt="" coords="171,573,358,601"/>
+<area shape="rect" id="node5" href="$dd/dcd/classActs_1_1TrackingVolume.html#a5917467aa48d6d4bac9feec299101ffa" title="Acts::TrackingVolume\l::TrackingVolume" alt="" coords="455,105,621,149"/>
+<area shape="rect" id="node9" href="$d4/d4f/classActs_1_1ConeSurface.html#a0ffcc296e43a0bf934700dad7d80bd3a" title="Acts::ConeSurface::\loperator=" alt="" coords="461,173,615,217"/>
+<area shape="rect" id="node10" href="$d6/dd9/classActs_1_1CylinderSurface.html#a264f16c719e96debe88320f61dd2b8fc" title="Acts::CylinderSurface\l::operator=" alt="" coords="454,241,622,285"/>
+<area shape="rect" id="node11" href="$d1/d30/classActs_1_1LineSurface.html#a5e0c34975be45e853b94bf8f3f68fc1b" title="Acts::LineSurface::\loperator=" alt="" coords="464,309,612,353"/>
+<area shape="rect" id="node15" href="$d3/db7/classActs_1_1PlaneSurface.html#a53041803f4eac24085e4ab228e87f94c" title="Acts::PlaneSurface\l::operator=" alt="" coords="464,377,612,421"/>
+<area shape="rect" id="node12" href="$da/d82/classActs_1_1PerigeeSurface.html#a2ad2c938dd62cfc96e9a26d65ba7b389" title="Acts::PerigeeSurface\l::operator=" alt="" coords="735,241,897,285"/>
+<area shape="rect" id="node13" href="$d0/d1e/classActs_1_1StrawSurface.html#a07f44faa2cee26ab8519ebb77f2156ae" title="Acts::StrawSurface\l::operator=" alt="" coords="741,309,891,353"/>
+<area shape="rect" id="node14" href="$d5/dcb/classActs_1_1Test_1_1LineSurfaceStub.html#a3fb3243bb08b0b84354baa8acbe7763b" title="Acts::Test::LineSurfaceStub\l::operator=" alt="" coords="713,377,919,421"/>
+<area shape="rect" id="node18" href="$da/d7b/namespaceActs.html#ac11f49d66c214184bcb1e3688aee7b25" title="adjust the BinUtility bu to a surface" alt="" coords="456,445,620,473"/>
+<area shape="rect" id="node19" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#aaacd30871639417f14e32e8aa6c334fe" title="Estimates the compatibility of a track to a vertex position based on the 3d distance between the trac..." alt="" coords="435,497,641,541"/>
+<area shape="rect" id="node20" href="$d4/d12/classActs_1_1LayerArrayCreator.html#acefef63c738cce2b27e75db01a0263ee" title="Acts::LayerArrayCreator\l::createNavigationSurface" alt="" coords="439,565,637,609"/>
+<area shape="rect" id="node25" href="$d9/d2f/classActs_1_1PlaneLayer.html#aad9a11701bda98dae6bb9d1d32b064a9" title="private helper method to build approach surfaces" alt="" coords="417,633,659,677"/>
+<area shape="rect" id="node27" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#a3be7022a025a69ab5a8a7aef21b52ef3" title="Acts::JsonGeometryConverter\l::addSurfaceToJson" alt="" coords="427,701,649,745"/>
+<area shape="rect" id="node28" href="$dd/d7e/namespaceActs_1_1Test.html#a8aec2983c96666a7795b81f5c1ffb3d5" title="Unit test for testing Surface properties." alt="" coords="444,769,632,813"/>
+<area shape="rect" id="node21" href="$d4/d12/classActs_1_1LayerArrayCreator.html#adbcf99ad8a103ce4442ae13ebd5276de" title="Acts::LayerArrayCreator\l::layerArray" alt="" coords="724,565,908,609"/>
+<area shape="rect" id="node22" href="$d1/d48/classActs_1_1CuboidVolumeBuilder.html#a91c773c6fb868e14c760eb440f1f6e88" title="This function creates a TrackingVolume with a configurable number of layers and surfaces. Each surface gets a detector element attached if the template parameter is non&#45;void." alt="" coords="973,532,1180,576"/>
+<area shape="rect" id="node24" href="$d3/d58/structActs_1_1Test_1_1CubicTrackingGeometry.html#aa6fe8224c9e10cbad7323afcbb4082be" title="Call operator to build the standard cubic tracking geometry." alt="" coords="982,600,1171,644"/>
+<area shape="rect" id="node23" href="$dd/d7e/namespaceActs_1_1Test.html#a29f38d090533d86121814e1c234950f3" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="1228,532,1416,576"/>
+<area shape="rect" id="node26" href="$d9/d2f/classActs_1_1PlaneLayer.html#a50100e91a7ff17ea8036c44ce1b47815" title="Acts::PlaneLayer::PlaneLayer" alt="" coords="707,641,925,669"/>
+</map>

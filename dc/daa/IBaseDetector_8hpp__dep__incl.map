@@ -1,0 +1,51 @@
+<map id="acts/blob/sPHENIX/Examples/Detectors/Common/include/ActsExamples/Detector/IBaseDetector.hpp" name="acts/blob/sPHENIX/Examples/Detectors/Common/include/ActsExamples/Detector/IBaseDetector.hpp">
+<area shape="rect" id="node2" href="$d6/d5d/AlignedDetector_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/ContextualDetector\l/include/ActsExamples/ContextualDetector\l/AlignedDetector.hpp" alt="" coords="577,113,889,189"/>
+<area shape="rect" id="node7" href="$da/d16/PayloadDetector_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/ContextualDetector\l/include/ActsExamples/ContextualDetector\l/PayloadDetector.hpp" alt="" coords="1799,113,2111,189"/>
+<area shape="rect" id="node12" href="$d9/dc0/DD4hepDetector_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/DD4hepDetector\l/include/ActsExamples/DD4hepDetector\l/DD4hepDetector.hpp" alt="" coords="3271,113,3564,189"/>
+<area shape="rect" id="node19" href="$d0/d6e/EmptyDetector_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/EmptyDetector\l/include/ActsExamples/EmptyDetector\l/EmptyDetector.hpp" alt="" coords="4527,113,4809,189"/>
+<area shape="rect" id="node23" href="$d3/dcc/GenericDetector_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/GenericDetector\l/include/ActsExamples/GenericDetector\l/GenericDetector.hpp" alt="" coords="6391,113,6683,189"/>
+<area shape="rect" id="node33" href="$d1/d2a/TGeoDetector_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/TGeoDetector\l/include/ActsExamples/TGeoDetector\l/TGeoDetector.hpp" alt="" coords="8515,113,8789,189"/>
+<area shape="rect" id="node41" href="$d4/df1/MakeActsGeometry_8cc.html" title="Refit SvtxTracks with PHActs." alt="" coords="9592,345,9797,405"/>
+<area shape="rect" id="node45" href="$d3/d74/CommonGeometry_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/CommonGeometry.cpp" alt="" coords="8864,129,9165,173"/>
+<area shape="rect" id="node46" href="$d0/d8e/GeometryExampleBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/GeometryExample\lBase.cpp" alt="" coords="9190,121,9463,181"/>
+<area shape="rect" id="node47" href="$de/d20/MaterialMappingBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/MaterialMapping\lBase.cpp" alt="" coords="9487,121,9747,181"/>
+<area shape="rect" id="node48" href="$dc/da7/MaterialValidationBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/MaterialValidation\lBase.cpp" alt="" coords="9771,121,10039,181"/>
+<area shape="rect" id="node49" href="$d3/d32/PropagationExampleBase_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/PropagationExample\lBase.cpp" alt="" coords="10063,121,10350,181"/>
+<area shape="rect" id="node50" href="$d1/d71/FatrasMain_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/Common/FatrasMain.cpp" alt="" coords="10375,129,10644,173"/>
+<area shape="rect" id="node3" href="$db/dc7/AlignedDetector_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/ContextualDetector\l/src/AlignedDetector.cpp" alt="" coords="5,237,235,297"/>
+<area shape="rect" id="node4" href="$d5/d1d/AlignedFatrasExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/AlignedFatrasExample.cpp" alt="" coords="259,245,541,289"/>
+<area shape="rect" id="node5" href="$db/d1f/AlignedGeometryExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geometry/AlignedGeometryExample.cpp" alt="" coords="565,245,901,289"/>
+<area shape="rect" id="node6" href="$df/d8a/AlignedPropagationExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Propagation/AlignedPropagation\lExample.cpp" alt="" coords="925,237,1200,297"/>
+<area shape="rect" id="node8" href="$d4/de4/PayloadDetector_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/ContextualDetector\l/src/PayloadDetector.cpp" alt="" coords="1224,237,1453,297"/>
+<area shape="rect" id="node9" href="$d4/d87/PayloadFatrasExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/PayloadFatrasExample.cpp" alt="" coords="1478,245,1762,289"/>
+<area shape="rect" id="node10" href="$d1/de0/PayloadGeometryExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geometry/PayloadGeometryExample.cpp" alt="" coords="1786,245,2123,289"/>
+<area shape="rect" id="node11" href="$d5/dc1/PayloadPropagationExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Propagation/PayloadPropagation\lExample.cpp" alt="" coords="2147,237,2423,297"/>
+<area shape="rect" id="node13" href="$d3/db2/DD4hepDetector_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/DD4hepDetector\l/src/DD4hepDetector.cpp" alt="" coords="2447,237,2662,297"/>
+<area shape="rect" id="node14" href="$da/dde/DD4hepFatrasExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/DD4hep/DD4hepFatras\lExample.cpp" alt="" coords="2686,237,2943,297"/>
+<area shape="rect" id="node15" href="$d1/dab/DD4hepGeometryExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geometry/DD4hep/DD4hepGeometry\lExample.cpp" alt="" coords="2967,237,3278,297"/>
+<area shape="rect" id="node16" href="$d2/d9d/DD4hepMaterialMapping_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MaterialMapping/DD4hep\l/DD4hepMaterialMapping.cpp" alt="" coords="3303,237,3532,297"/>
+<area shape="rect" id="node17" href="$d4/d63/DD4hepMaterialValidation_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MaterialMapping/DD4hep\l/DD4hepMaterialValidation.cpp" alt="" coords="3557,237,3790,297"/>
+<area shape="rect" id="node18" href="$d6/db4/DD4hepPropagationExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Propagation/DD4hep\l/DD4hepPropagationExample.cpp" alt="" coords="3815,237,4065,297"/>
+<area shape="rect" id="node20" href="$de/ddb/EmptyDetector_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/EmptyDetector\l/src/EmptyDetector.cpp" alt="" coords="4090,237,4305,297"/>
+<area shape="rect" id="node21" href="$d3/d6f/EmptyGeometryExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geometry/EmptyGeometryExample.cpp" alt="" coords="4329,245,4657,289"/>
+<area shape="rect" id="node22" href="$d6/d73/EmptyDetectorPropagationExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Propagation/EmptyDetectorPropagation\lExample.cpp" alt="" coords="4681,237,5007,297"/>
+<area shape="rect" id="node24" href="$dd/ddf/GenericDetector_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/GenericDetector\l/src/GenericDetector.cpp" alt="" coords="5031,237,5246,297"/>
+<area shape="rect" id="node25" href="$da/d62/GenericFatrasExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/GenericFatrasExample.cpp" alt="" coords="5270,245,5554,289"/>
+<area shape="rect" id="node26" href="$dd/ddb/GenericGeometryExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geometry/GenericGeometryExample.cpp" alt="" coords="5578,245,5915,289"/>
+<area shape="rect" id="node27" href="$df/d30/GenericMaterialMapping_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MaterialMapping/GenericMaterial\lMapping.cpp" alt="" coords="5939,237,6221,297"/>
+<area shape="rect" id="node28" href="$de/d95/GenericMaterialValidation_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MaterialMapping/GenericMaterial\lValidation.cpp" alt="" coords="6245,237,6526,297"/>
+<area shape="rect" id="node29" href="$da/d1b/GenericPropagationExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Propagation/GenericPropagation\lExample.cpp" alt="" coords="6550,237,6826,297"/>
+<area shape="rect" id="node30" href="$da/dc9/GenericReadCsvExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/ReadCsv/GenericReadCsvExample.cpp" alt="" coords="6850,245,7169,289"/>
+<area shape="rect" id="node31" href="$df/dea/RecCKFTracks_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Reconstruction/RecCKFTracks.cpp" alt="" coords="7193,245,7477,289"/>
+<area shape="rect" id="node32" href="$de/dcb/RecTruthTracks_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Reconstruction/RecTruthTracks.cpp" alt="" coords="7501,245,7793,289"/>
+<area shape="rect" id="node34" href="$db/df1/TGeoDetector_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/TGeoDetector\l/src/TGeoDetector.cpp" alt="" coords="7817,237,8031,297"/>
+<area shape="rect" id="node35" href="$d7/d1f/TGeoFatrasExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Fatras/TGeoFatrasExample.cpp" alt="" coords="8056,245,8323,289"/>
+<area shape="rect" id="node36" href="$da/df0/TGeoGeometryExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geometry/TGeoGeometryExample.cpp" alt="" coords="8347,245,8667,289"/>
+<area shape="rect" id="node37" href="$db/dc4/TGeoMaterialMapping_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MaterialMapping/TGeo\l/TGeoMaterialMapping.cpp" alt="" coords="8691,237,8906,297"/>
+<area shape="rect" id="node38" href="$db/d8c/TGeoMaterialValidation_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MaterialMapping/TGeo\l/TGeoMaterialValidation.cpp" alt="" coords="8930,237,9145,297"/>
+<area shape="rect" id="node39" href="$d5/d41/TGeoPropagationExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Propagation/TGeoPropagation\lExample.cpp" alt="" coords="9169,237,9428,297"/>
+<area shape="rect" id="node40" href="$df/da1/MakeActsGeometry_8h.html" title="Make Acts geometry from sPHENIX TGeometry." alt="" coords="9452,237,9657,297"/>
+<area shape="rect" id="node42" href="$d0/db6/macros_2blob_2master_2common_2G4__Tracking_8C.html" title="macros/blob/master\l/common/G4_Tracking.C" alt="" coords="9381,353,9568,397"/>
+<area shape="rect" id="node43" href="$d1/d19/macros_2blob_2master_2detectors_2sPHENIX_2Fun4All__G4__sPHENIX_8C.html" title="macros/blob/master\l/detectors/sPHENIX/Fun4All\l_G4_sPHENIX.C" alt="" coords="9257,453,9463,513"/>
+<area shape="rect" id="node44" href="$d4/de9/Fun4All__AnaTutorial__sPHENIX_8C.html" title="tutorials/blob/master\l/AnaTutorial/macro/Fun4All\l_AnaTutorial_sPHENIX.C" alt="" coords="9487,453,9691,513"/>
+</map>

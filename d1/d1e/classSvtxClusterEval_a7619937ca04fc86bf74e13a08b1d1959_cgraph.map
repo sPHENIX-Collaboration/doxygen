@@ -1,0 +1,51 @@
+<map id="SvtxClusterEval::max_truth_cluster_by_energy" name="SvtxClusterEval::max_truth_cluster_by_energy">
+<area shape="rect" id="node2" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="496,340,635,384"/>
+<area shape="rect" id="node4" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="710,5,909,33"/>
+<area shape="rect" id="node41" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="262,1199,425,1243"/>
+<area shape="rect" id="node42" href="$d1/d1e/classSvtxClusterEval.html#a71bb4c981bdde92138eda3a7db1975b8" title="SvtxClusterEval::get\l_truth_eval" alt="" coords="729,1109,889,1153"/>
+<area shape="rect" id="node44" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="491,1233,639,1261"/>
+<area shape="rect" id="node45" href="$d6/dfa/classTrkrCluster.html#a7be7cdba7b854678e0519288b8021b2a" title="TrkrCluster::getX" alt="" coords="275,1267,411,1295"/>
+<area shape="rect" id="node46" href="$d6/dfa/classTrkrCluster.html#a526ac89c45b903df8890bd8b4d476e5c" title="TrkrCluster::getY" alt="" coords="276,1319,411,1347"/>
+<area shape="rect" id="node47" href="$d6/dfa/classTrkrCluster.html#a7d92784527cb537e382ffa0460e0f728" title="TrkrCluster::getZ" alt="" coords="275,1371,411,1399"/>
+<area shape="rect" id="node48" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="245,1063,441,1123"/>
+<area shape="rect" id="node3" href="$d4/de4/classSvtxTruthEval.html#ae7550493b6ee8785fdbae87a4d893f8b" title="SvtxTruthEval::has\l_node_pointers" alt="" coords="1027,193,1174,237"/>
+<area shape="rect" id="node5" href="$d4/de4/classSvtxTruthEval.html#aadade59ba8c67eb108524b42ef8bda8a" title="SvtxTruthEval::all\l_truth_hits" alt="" coords="740,369,879,413"/>
+<area shape="rect" id="node7" href="$d4/de4/classSvtxTruthEval.html#a6bfd9cc85d5e568a114876331998d84b" title="SvtxTruthEval::LayerCluster\lG4Hits" alt="" coords="705,1041,914,1085"/>
+<area shape="rect" id="node22" href="$d7/db0/namespaceTpcDefs.html#a0202375ade5010ae596a2e0b7c7f5fd0" title="Generate a cluster key from indeces." alt="" coords="727,109,892,137"/>
+<area shape="rect" id="node25" href="$d8/df1/namespaceMvtxDefs.html#a9205343fdba72e5ac8b44946102af8ae" title="Generate a cluster key from indeces." alt="" coords="723,161,895,189"/>
+<area shape="rect" id="node26" href="$d6/d9e/namespaceInttDefs.html#ac29c04abf033fc44815ffb9db43aeea5" title="Generate a cluster key from indeces." alt="" coords="728,57,891,85"/>
+<area shape="rect" id="node27" href="$d2/d51/usm_8C.html#a4fc3d7a8ab8dddafe2295d65165d9cf7" title="tile" alt="" coords="1079,365,1122,393"/>
+<area shape="rect" id="node32" href="$d2/ddf/namespaceMicromegasDefs.html#a2909143d348383083b9c12cb810a8c04" title="Generate a hitsetkey for the micromegas." alt="" coords="692,437,927,465"/>
+<area shape="rect" id="node33" href="$d2/ddf/namespaceMicromegasDefs.html#a90431bb4a4411b6df97960b30a1ae454" title="Generate a cluster key using a hitsetkey and cluster id." alt="" coords="689,265,929,293"/>
+<area shape="rect" id="node34" href="$d4/de4/classSvtxTruthEval.html#a0b3241441131d063d5be2d480c7891c6" title="SvtxTruthEval::getAdcValue" alt="" coords="705,317,913,345"/>
+<area shape="rect" id="node35" href="$d4/de4/classSvtxTruthEval.html#ade4b494c4cfaa95e70829c37446d9a83" title="SvtxTruthEval::G4ClusterSize" alt="" coords="701,613,918,641"/>
+<area shape="rect" id="node6" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="1000,261,1201,289"/>
+<area shape="rect" id="node8" href="$d2/ddb/classPHG4CylinderCellGeomContainer.html#aa667a12262dc298b8aec717e6096d09f" title="PHG4CylinderCellGeomContainer\l::GetLayerCellGeom" alt="" coords="977,793,1224,837"/>
+<area shape="rect" id="node9" href="$d9/d85/classPHG4CylinderCellGeom.html#a108104cde65d2ca503e306251188e615" title="PHG4CylinderCellGeom\l::get_radius" alt="" coords="1011,861,1191,905"/>
+<area shape="rect" id="node10" href="$d9/d85/classPHG4CylinderCellGeom.html#ad686dcdb176becd88d1e3ee1fa5113bf" title="PHG4CylinderCellGeom\l::get_thickness" alt="" coords="1011,1205,1191,1249"/>
+<area shape="rect" id="node11" href="$d3/d9e/classPHG4Hit.html#a69cc7aee827e3da7cf86e87418f9211b" title="PHG4Hit::get_x" alt="" coords="1299,1161,1423,1189"/>
+<area shape="rect" id="node12" href="$d3/d9e/classPHG4Hit.html#a17de3a9c9dc84ce4a50fc89082689d55" title="PHG4Hit::get_y" alt="" coords="1299,1365,1423,1393"/>
+<area shape="rect" id="node13" href="$d3/d9e/classPHG4Hit.html#a06fcf6b2cbcc8413ca3d6a172458e94e" title="PHG4Hit::get_z" alt="" coords="1300,1443,1423,1471"/>
+<area shape="rect" id="node14" href="$d6/db0/fjcore_8hh.html#ac71f249d840a70f8b3aaffb721843eaa" title="swap" alt="" coords="1073,741,1129,769"/>
+<area shape="rect" id="node15" href="$d4/de4/classSvtxTruthEval.html#a90c7dab9a6e4e0691d0bfc770a292c5c" title="SvtxTruthEval::line\l_circle_intersection" alt="" coords="1025,929,1177,973"/>
+<area shape="rect" id="node16" href="$d3/d9e/classPHG4Hit.html#a299edb9d0b140d0456f8bfecdf9cac56" title="PHG4Hit::get_edep" alt="" coords="1026,997,1175,1025"/>
+<area shape="rect" id="node17" href="$d3/d9e/classPHG4Hit.html#a04573477c0d13c07ff28bc018b18d52a" title="PHG4Hit::get_avg_t" alt="" coords="1024,1101,1177,1129"/>
+<area shape="rect" id="node18" href="$d3/d9e/classPHG4Hit.html#a8992f01396d51ebf6c85dd2859e13a6b" title="PHG4Hit::get_layer" alt="" coords="1025,1153,1176,1181"/>
+<area shape="rect" id="node19" href="$d3/d9e/classPHG4Hit.html#a99663034e71d3f324eb878eb0e3b36ba" title="PHG4Hit::get_avg_x" alt="" coords="1023,1049,1179,1077"/>
+<area shape="rect" id="node20" href="$d3/d9e/classPHG4Hit.html#a880ee4134d36a1b558ec9eed831f376a" title="PHG4Hit::get_avg_y" alt="" coords="1023,1325,1179,1353"/>
+<area shape="rect" id="node21" href="$d3/d9e/classPHG4Hit.html#a7dce2f1e781d7c94af5b27400165d76c" title="PHG4Hit::get_avg_z" alt="" coords="1023,1429,1178,1457"/>
+<area shape="rect" id="node23" href="$d6/d9e/namespaceInttDefs.html#af41991588b294d4a9a89cfe7cf00439e" title="Generate a hitsetkey for the intt." alt="" coords="1013,120,1188,148"/>
+<area shape="rect" id="node24" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="1272,165,1451,193"/>
+<area shape="rect" id="node28" href="$d2/d51/usm_8C.html#aeb3b442c3eacc3e6c3987fcb2a7d938c" title="csNorm" alt="" coords="1325,444,1397,472"/>
+<area shape="rect" id="node29" href="$dd/d7a/Mat__map__detector__plot_8C.html#ac0d08f0933de5ca6053592441e00dacb" title="Fill the histograms for the detector." alt="" coords="1342,288,1381,316"/>
+<area shape="rect" id="node30" href="$d2/d51/usm_8C.html#a312a11f8998028abc96138b746c948bf" title="fsNorm" alt="" coords="1327,340,1396,368"/>
+<area shape="rect" id="node31" href="$d9/d9e/evDisplay_8C.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="1339,392,1383,420"/>
+<area shape="rect" id="node36" href="$d9/d85/classPHG4CylinderCellGeom.html#ae568e0233c2bf19b774496bc8133bec7" title="PHG4CylinderCellGeom\l::get_phibin" alt="" coords="1011,673,1191,717"/>
+<area shape="rect" id="node37" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="1067,417,1135,445"/>
+<area shape="rect" id="node38" href="$d9/d85/classPHG4CylinderCellGeom.html#a10a58a3eed1d5566cebd3b19583d78bb" title="PHG4CylinderCellGeom\l::get_phistep" alt="" coords="1011,469,1191,513"/>
+<area shape="rect" id="node39" href="$d9/d85/classPHG4CylinderCellGeom.html#af2c3e1224776a2ba8129d5e85d66457a" title="PHG4CylinderCellGeom\l::get_zbin" alt="" coords="1011,537,1191,581"/>
+<area shape="rect" id="node40" href="$d9/d85/classPHG4CylinderCellGeom.html#adb898f36289b3d1614afc7fde61de260" title="PHG4CylinderCellGeom\l::get_zstep" alt="" coords="1011,605,1191,649"/>
+<area shape="rect" id="node43" href="$d9/d62/classSvtxHitEval.html#a3ac6af06849daeb8da2684cbfea68e08" title="SvtxHitEval::get_truth_eval" alt="" coords="999,1533,1203,1561"/>
+<area shape="rect" id="node49" href="$d1/d1e/classSvtxClusterEval.html#a9d557168b84ca9a814166d6523bfe2fd" title="SvtxClusterEval::has\l_node_pointers" alt="" coords="729,1177,890,1221"/>
+<area shape="rect" id="node50" href="$d1/d1e/classSvtxClusterEval.html#ae2d6f811db24d80dac0f4b247de56bcd" title="SvtxClusterEval::all\l_truth_particles" alt="" coords="489,1113,641,1157"/>
+</map>

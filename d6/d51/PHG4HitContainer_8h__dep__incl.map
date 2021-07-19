@@ -1,0 +1,51 @@
+<map id="coresoftware/blob/master/simulation/g4simulation/g4main/PHG4HitContainer.h" name="coresoftware/blob/master/simulation/g4simulation/g4main/PHG4HitContainer.h">
+<area shape="rect" id="node2" href="$d6/d56/PHAna_8cc.html" title="analysis/blob/master\l/Ana/PHAna.cc" alt="" coords="5,129,168,173"/>
+<area shape="rect" id="node3" href="$d7/d0c/EdepNtuple_8cc.html" title="analysis/blob/master\l/AntiSigma/src/EdepNtuple.cc" alt="" coords="193,129,415,173"/>
+<area shape="rect" id="node4" href="$d2/da2/HijingShowerSize_8cc.html" title="analysis/blob/master\l/AntiSigma/src/HijingShower\lSize.cc" alt="" coords="439,121,654,181"/>
+<area shape="rect" id="node5" href="$d5/dc4/ShowerSize_8cc.html" title="analysis/blob/master\l/AntiSigma/src/ShowerSize.cc" alt="" coords="679,129,900,173"/>
+<area shape="rect" id="node6" href="$d9/d41/SigmaTimingNtuple_8cc.html" title="analysis/blob/master\l/AntiSigma/src/SigmaTimingNtuple.cc" alt="" coords="924,129,1201,173"/>
+<area shape="rect" id="node7" href="$d7/d75/TimingNtuple_8cc.html" title="analysis/blob/master\l/AntiSigma/src/TimingNtuple.cc" alt="" coords="1225,129,1460,173"/>
+<area shape="rect" id="node8" href="$dc/d0a/SynRadAna_8cc.html" title="analysis/blob/master\l/EIC&#45;SynRad/SynRadAna\l/SynRadAna.cc" alt="" coords="1484,121,1671,181"/>
+<area shape="rect" id="node9" href="$d1/d35/EMCalAna_8C.html" title="analysis/blob/master\l/EMCal&#45;analysis/EMCalAna\l/EMCalAna.C" alt="" coords="1695,121,1895,181"/>
+<area shape="rect" id="node10" href="$dd/d18/EpFinderEval_8cc.html" title="analysis/blob/master\l/EpFinder/EpFinderEval.cc" alt="" coords="1919,129,2116,173"/>
+<area shape="rect" id="node11" href="$d4/db0/JetEnergies_8h.html" title="copy of JetEvaluator.h that will add the energy absorbed by the plug door and the black hole to the l..." alt="" coords="2140,121,2335,181"/>
+<area shape="rect" id="node12" href="$d8/d55/JetEnergies_8C.html" title="analysis/blob/master\l/ForwardCalo/Flux_Return\l_Study/JetEnergies.C" alt="" coords="2208,237,2403,297"/>
+<area shape="rect" id="node13" href="$d4/d87/PHG4HitKalmanFitter_8h.html" title="Kalman Filter based on smeared truth PHG4Hit." alt="" coords="2409,121,2658,181"/>
+<area shape="rect" id="node14" href="$d8/d21/HCALAnalysis_8C.html" title="analysis/blob/master\l/HCal&#45;analysis/HCALAnalysis\l/HCALAnalysis.C" alt="" coords="2683,121,2899,181"/>
+<area shape="rect" id="node15" href="$d1/db8/BDiJetModule_8C.html" title="Gether information from Truth Jet and Tracks, DST &#45;&gt; NTuple." alt="" coords="2923,121,3149,181"/>
+<area shape="rect" id="node16" href="$da/d55/AnaMvtxTelescopeHits_8C.html" title="Analyze Mvtx 4 ladder cosmic telescope in simulations." alt="" coords="3173,121,3429,181"/>
+<area shape="rect" id="node17" href="$d4/dd3/SetupDualRICHAnalyzer_8h.html" title="analysis/blob/master\l/ParticleID/RICHAnalysis\l/SetupDualRICHAnalyzer.h" alt="" coords="3504,121,3704,181"/>
+<area shape="rect" id="node18" href="$d6/df3/RICHEvaluator_8C.html" title="analysis/blob/master\l/ParticleID/RICHAnalysis\l/RICHEvaluator.C" alt="" coords="3391,237,3575,297"/>
+<area shape="rect" id="node19" href="$d3/dea/RICHParticleID_8C.html" title="analysis/blob/master\l/ParticleID/RICHAnalysis\l/RICHParticleID.C" alt="" coords="3616,237,3800,297"/>
+<area shape="rect" id="node20" href="$de/d7a/SVReco_8C.html" title="analysis/blob/master\l/PhotonConversion/truthconversion\l/SVReco.C" alt="" coords="3779,121,4040,181"/>
+<area shape="rect" id="node21" href="$d1/dda/Proto4SampleFrac_8C.html" title="analysis/blob/master\l/Prototype4/HCal/SampleFrac\l/Proto4SampleFrac.C" alt="" coords="4065,121,4285,181"/>
+<area shape="rect" id="node22" href="$d5/d8a/TPCMLDataInterface_8cc.html" title="analysis/blob/master\l/TPC/DAQ/TPCMLDataInterface\l/TPCMLDataInterface.cc" alt="" coords="4309,121,4537,181"/>
+<area shape="rect" id="node23" href="$de/de1/FastTrackingEval_8cc.html" title="Evaluation module for PHG4TrackFastSim output." alt="" coords="4561,121,4761,181"/>
+<area shape="rect" id="node24" href="$d9/da3/AnaSvtxTracksForGenFit_8cc.html" title="analysis/blob/master\l/Tracking/GenFitTest\l/AnaSvtxTracksForGenFit\l/AnaSvtxTracksForGenFit.cc" alt="" coords="4785,113,4993,189"/>
+<area shape="rect" id="node25" href="$da/d48/GenFitTrackProp_8cc.html" title="Example module to extrapolate SvtxTrack with GenFit swiming." alt="" coords="5018,121,5214,181"/>
+<area shape="rect" id="node26" href="$dc/df3/HitCountEval_8h.html" title="Evaluation module for PHG4TrackFastSim output." alt="" coords="5239,121,5415,181"/>
+<area shape="rect" id="node27" href="$d6/d7a/HitCountEval_8cc.html" title="Evaluation module for PHG4TrackFastSim output." alt="" coords="5301,237,5477,297"/>
+<area shape="rect" id="node28" href="$d0/da8/DumpPHG4HitContainer_8cc.html" title="coresoftware/blob/master\l/offline/packages/NodeDump\l/DumpPHG4HitContainer.cc" alt="" coords="5489,121,5708,181"/>
+<area shape="rect" id="node29" href="$d3/dcf/TPCDataStreamEmulator_8cc.html" title="coresoftware/blob/master\l/offline/packages/tpcdaq\l/TPCDataStreamEmulator.cc" alt="" coords="5733,121,5945,181"/>
+<area shape="rect" id="node30" href="$d4/d80/TPCFEETestRecov1_8cc.html" title="coresoftware/blob/master\l/offline/packages/tpcdaq\l/TPCFEETestRecov1.cc" alt="" coords="5969,121,6164,181"/>
+<area shape="rect" id="node31" href="$da/dfe/TPCIntegratedCharge_8cc.html" title="coresoftware/blob/master\l/offline/packages/tpcdaq\l/TPCIntegratedCharge.cc" alt="" coords="6188,121,6383,181"/>
+<area shape="rect" id="node32" href="$dd/dde/PHSiliconTruthTrackSeeding_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/PHSiliconTruthTrackSeeding.cc" alt="" coords="6407,121,6641,181"/>
+<area shape="rect" id="node33" href="$db/df7/PHTruthClustering_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/PHTruthClustering.cc" alt="" coords="6665,121,6871,181"/>
+<area shape="rect" id="node34" href="$d4/dd0/PHTruthSiliconAssociation_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/PHTruthSiliconAssociation.cc" alt="" coords="6895,121,7115,181"/>
+<area shape="rect" id="node35" href="$d4/d0c/PHTruthTrackSeeding_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/PHTruthTrackSeeding.cc" alt="" coords="7140,121,7345,181"/>
+<area shape="rect" id="node36" href="$da/d1b/QAG4SimulationCalorimeter_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lCalorimeter.cc" alt="" coords="7369,121,7641,181"/>
+<area shape="rect" id="node37" href="$d3/da0/QAG4SimulationIntt_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lIntt.cc" alt="" coords="7665,121,7937,181"/>
+<area shape="rect" id="node38" href="$de/dc2/QAG4SimulationMicromegas_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lMicromegas.cc" alt="" coords="7961,121,8233,181"/>
+<area shape="rect" id="node39" href="$dc/d43/QAG4SimulationMvtx_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lMvtx.cc" alt="" coords="8257,121,8529,181"/>
+<area shape="rect" id="node40" href="$dd/da2/QAG4SimulationTpc_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lTpc.cc" alt="" coords="8553,121,8825,181"/>
+<area shape="rect" id="node41" href="$d8/d04/QAG4SimulationTracking_8cc.html" title="coresoftware/blob/master\l/offline/QA/modules/QAG4Simulation\lTracking.cc" alt="" coords="8849,121,9121,181"/>
+<area shape="rect" id="node42" href="$d4/d29/RawTowerBuilderByHitIndex_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4calo/RawTowerBuilderByHitIndex.cc" alt="" coords="9145,121,9429,181"/>
+<area shape="rect" id="node43" href="$d0/da0/BeamLineMagnetSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/BeamLineMagnetStepping\lAction.cc" alt="" coords="9453,113,9744,189"/>
+<area shape="rect" id="node44" href="$d5/da7/BeamLineMagnetSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/BeamLineMagnetSubsystem.cc" alt="" coords="9769,121,10093,181"/>
+<area shape="rect" id="node45" href="$d5/d5b/PHG4BbcSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BbcSteppingAction.cc" alt="" coords="10117,121,10414,181"/>
+<area shape="rect" id="node46" href="$d1/d34/PHG4BbcSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BbcSubsystem.cc" alt="" coords="10438,121,10706,181"/>
+<area shape="rect" id="node47" href="$dc/d32/PHG4BlockCellReco_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockCellReco.cc" alt="" coords="10730,121,10993,181"/>
+<area shape="rect" id="node48" href="$d8/de3/PHG4BlockSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockSteppingAction.cc" alt="" coords="11017,121,11325,181"/>
+<area shape="rect" id="node49" href="$d6/dfe/PHG4BlockSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockSubsystem.cc" alt="" coords="11349,121,11629,181"/>
+<area shape="rect" id="node50" href="$d3/dec/PHG4CEmcTestBeamSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4CEmcTestBeamStepping\lAction.cc" alt="" coords="11653,113,11968,189"/>
+</map>

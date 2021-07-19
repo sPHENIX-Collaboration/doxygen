@@ -1,0 +1,34 @@
+<map id="acts/blob/sPHENIX/Examples/Detectors/ContextualDetector/include/ActsExamples/ContextualDetector/AlignmentDecorator.hpp" name="acts/blob/sPHENIX/Examples/Detectors/ContextualDetector/include/ActsExamples/ContextualDetector/AlignmentDecorator.hpp">
+<area shape="rect" id="node2" href="$d6/d1d/Definitions_8hpp.html" title="Acts/Utilities/Definitions.hpp" alt="" coords="396,681,609,709"/>
+<area shape="rect" id="node4" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="1384,597,1571,625"/>
+<area shape="rect" id="node13" href="$d9/d4b/AlignedDetectorElement_8hpp.html" title="ActsExamples/ContextualDetector\l/AlignedDetectorElement.hpp" alt="" coords="2400,129,2653,173"/>
+<area shape="rect" id="node43" href="$de/d37/AlgorithmContext_8hpp.html" title="ActsExamples/Framework\l/AlgorithmContext.hpp" alt="" coords="3175,497,3371,541"/>
+<area shape="rect" id="node46" href="$db/d42/IContextDecorator_8hpp.html" title="ActsExamples/Framework\l/IContextDecorator.hpp" alt="" coords="2975,405,3171,449"/>
+<area shape="rect" id="node48" href="$d8/d1b/RandomNumbers_8hpp.html" title="ActsExamples/Framework\l/RandomNumbers.hpp" alt="" coords="3247,405,3443,449"/>
+<area shape="rect" id="node14" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2603,597,2880,625"/>
+<area shape="rect" id="node16" href="$d5/d67/GeometryIdentifier_8hpp.html" title="Acts/Geometry/GeometryIdentifier.hpp" alt="" coords="1742,413,2026,441"/>
+<area shape="rect" id="node19" href="$d4/db1/IdentifiedDetectorElement_8hpp.html" title="Acts/Plugins/Identification\l/IdentifiedDetectorElement.hpp" alt="" coords="2614,313,2850,357"/>
+<area shape="rect" id="node23" href="$d9/dec/Identifier_8hpp.html" title="Acts/Plugins/Identification\l/Identifier.hpp" alt="" coords="2703,405,2900,449"/>
+<area shape="rect" id="node24" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="1021,229,1221,257"/>
+<area shape="rect" id="node42" href="$d0/d2f/GenericDetectorElement_8hpp.html" title="ActsExamples/GenericDetector\l/GenericDetectorElement.hpp" alt="" coords="2410,221,2643,265"/>
+<area shape="rect" id="node20" href="$dc/d45/DetectorElementBase_8hpp.html" title="Acts/Geometry/DetectorElement\lBase.hpp" alt="" coords="2385,405,2628,449"/>
+<area shape="rect" id="node21" href="$d3/dc6/DefaultDetectorElementBase_8hpp.html" title="detail/DefaultDetectorElement\lBase.hpp" alt="" coords="2299,497,2527,541"/>
+<area shape="rect" id="node25" href="$da/de0/GeometryObject_8hpp.html" title="Acts/Geometry/GeometryObject.hpp" alt="" coords="1590,321,1858,349"/>
+<area shape="rect" id="node26" href="$db/d40/Polyhedron_8hpp.html" title="Acts/Geometry/Polyhedron.hpp" alt="" coords="1113,413,1346,441"/>
+<area shape="rect" id="node28" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="2007,681,2231,709"/>
+<area shape="rect" id="node30" href="$d7/d50/BoundaryCheck_8hpp.html" title="Acts/Surfaces/BoundaryCheck.hpp" alt="" coords="577,505,833,533"/>
+<area shape="rect" id="node33" href="$d5/dc6/GeometryStatics_8hpp.html" title="Acts/Geometry/GeometryStatics.hpp" alt="" coords="350,321,621,349"/>
+<area shape="rect" id="node34" href="$da/ddb/SurfaceBounds_8hpp.html" title="Acts/Surfaces/SurfaceBounds.hpp" alt="" coords="491,413,741,441"/>
+<area shape="rect" id="node35" href="$d7/d3a/SurfaceError_8hpp.html" title="Acts/Surfaces/SurfaceError.hpp" alt="" coords="2035,321,2267,349"/>
+<area shape="rect" id="node36" href="$d9/da9/AlignmentHelper_8hpp.html" title="Acts/Surfaces/detail\l/AlignmentHelper.hpp" alt="" coords="919,589,1089,633"/>
+<area shape="rect" id="node37" href="$d7/d26/AlignmentDefinitions_8hpp.html" title="Acts/Utilities/Alignment\lDefinitions.hpp" alt="" coords="144,313,325,357"/>
+<area shape="rect" id="node38" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="866,413,1089,441"/>
+<area shape="rect" id="node39" href="$db/d8d/Intersection_8hpp.html" title="Acts/Utilities/Intersection.hpp" alt="" coords="245,413,467,441"/>
+<area shape="rect" id="node40" href="$d3/db2/Result_8hpp.html" title="Acts/Utilities/Result.hpp" alt="" coords="1281,321,1463,349"/>
+<area shape="rect" id="node41" href="$dd/d76/Surface_8ipp.html" title="Acts/Surfaces/detail\l/Surface.ipp" alt="" coords="1101,313,1257,357"/>
+<area shape="rect" id="node29" href="$d9/d70/Core_2include_2Acts_2Utilities_2Helpers_8hpp.html" title="Acts/Utilities/Helpers.hpp" alt="" coords="1595,597,1789,625"/>
+<area shape="rect" id="node27" href="$dc/d2a/Extent_8hpp.html" title="Acts/Geometry/Extent.hpp" alt="" coords="1397,505,1598,533"/>
+<area shape="rect" id="node44" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="3213,589,3416,633"/>
+<area shape="rect" id="node45" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="3005,589,3189,633"/>
+<area shape="rect" id="node47" href="$d1/d06/ProcessCode_8hpp.html" title="ActsExamples/Framework\l/ProcessCode.hpp" alt="" coords="2955,497,3151,541"/>
+</map>

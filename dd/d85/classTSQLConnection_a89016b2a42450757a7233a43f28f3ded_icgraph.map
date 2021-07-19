@@ -1,0 +1,51 @@
+<map id="TSQLConnection::IsClosed" name="TSQLConnection::IsClosed">
+<area shape="rect" id="node2" href="$d0/de4/classTRDBCServer.html#a6e5757fdb6cf81848b89747fd4a3ffb3" title="TRDBCServer::Close" alt="" coords="625,5,784,33"/>
+<area shape="rect" id="node4" href="$de/d4a/classODBCConnection.html#a09af907baa6593ce2c05ae550e0eb383" title="ODBCConnection::Close" alt="" coords="613,57,796,85"/>
+<area shape="rect" id="node5" href="$dd/d85/classTSQLConnection.html#aff0becc9eb1f6481de4f7b9699b318f4" title="TSQLConnection::Close" alt="" coords="298,387,478,415"/>
+<area shape="rect" id="node17" href="$de/d4a/classODBCConnection.html#aef0295e06d5e96cb68011b3ff1ada066" title="ODBCConnection::Commit" alt="" coords="288,909,488,937"/>
+<area shape="rect" id="node18" href="$dd/d85/classTSQLConnection.html#a222144aafca16760cd03057912fa863a" title="TSQLConnection::Commit" alt="" coords="290,857,486,885"/>
+<area shape="rect" id="node27" href="$de/d4a/classODBCConnection.html#ad1416731a8018a2f45826fe9c00962f9" title="ODBCConnection::CreateStatement" alt="" coords="257,961,519,989"/>
+<area shape="rect" id="node28" href="$de/d4a/classODBCConnection.html#a70f8f9d55f4879e7cc1fb59622d6aa35" title="ODBCConnection::GetAutoCommit" alt="" coords="261,1013,515,1041"/>
+<area shape="rect" id="node29" href="$de/d4a/classODBCConnection.html#a5693aa03a2cdbc28d647337aad0f9e61" title="ODBCConnection::GetCatalog" alt="" coords="277,1065,499,1093"/>
+<area shape="rect" id="node30" href="$dd/d85/classTSQLConnection.html#aa75ade25fcebc5a884dae09f1f1cd59b" title="TSQLConnection::GetCatalog" alt="" coords="279,1117,497,1145"/>
+<area shape="rect" id="node31" href="$de/d4a/classODBCConnection.html#a848dcd3fee905d86f5ed032f8f5cf223" title="ODBCConnection::GetMetaData" alt="" coords="271,1169,505,1197"/>
+<area shape="rect" id="node32" href="$de/d4a/classODBCConnection.html#a9948c604620c0f9b16cbad64cc754b81" title="ODBCConnection::GetTrace" alt="" coords="285,1221,491,1249"/>
+<area shape="rect" id="node33" href="$de/d4a/classODBCConnection.html#a8c5e6931d76d4ae97871ed172e724755" title="ODBCConnection::GetTraceFile" alt="" coords="274,1273,502,1301"/>
+<area shape="rect" id="node34" href="$de/d4a/classODBCConnection.html#a5b5e73ea38804541027fb3a263a78507" title="ODBCConnection::GetTransaction\lIsolation" alt="" coords="265,1325,511,1369"/>
+<area shape="rect" id="node35" href="$de/d4a/classODBCConnection.html#a3ddd443ceb335c56256483ff4ba19d01" title="ODBCConnection::IsReadOnly" alt="" coords="277,1393,499,1421"/>
+<area shape="rect" id="node36" href="$de/d4a/classODBCConnection.html#ace23005ef29677e8d2952cf84edf8de9" title="ODBCConnection::NativeSQL" alt="" coords="279,1445,497,1473"/>
+<area shape="rect" id="node37" href="$de/d4a/classODBCConnection.html#a2a42e54089e5f0b92a4573a1872afd83" title="ODBCConnection::PrepareCall" alt="" coords="277,1497,499,1525"/>
+<area shape="rect" id="node38" href="$de/d4a/classODBCConnection.html#ad338bf25bc35da49b622cbec035c000c" title="ODBCConnection::PrepareStatement" alt="" coords="253,1549,523,1577"/>
+<area shape="rect" id="node39" href="$de/d4a/classODBCConnection.html#a512ad7cc02edb35cf049f4dc1d3eafd8" title="ODBCConnection::Rollback" alt="" coords="287,1601,489,1629"/>
+<area shape="rect" id="node40" href="$dd/d85/classTSQLConnection.html#a7b0278bd7ecb91bd03a83d86c6cebcad" title="TSQLConnection::Rollback" alt="" coords="288,1653,488,1681"/>
+<area shape="rect" id="node41" href="$de/d4a/classODBCConnection.html#acb8a79f2434b108a41db9ec5801fe4ef" title="ODBCConnection::SetAutoCommit" alt="" coords="261,1705,515,1733"/>
+<area shape="rect" id="node42" href="$de/d4a/classODBCConnection.html#aba1020fc343ca9648ed77a7e0b96f6a9" title="ODBCConnection::SetCatalog" alt="" coords="279,1757,497,1785"/>
+<area shape="rect" id="node43" href="$dd/d85/classTSQLConnection.html#af4750098d4214bd8390565896e148013" title="TSQLConnection::SetCatalog" alt="" coords="280,1809,496,1837"/>
+<area shape="rect" id="node44" href="$de/d4a/classODBCConnection.html#a56523baac240b3da60f4984da9fa1d63" title="ODBCConnection::SetReadOnly" alt="" coords="271,1861,505,1889"/>
+<area shape="rect" id="node45" href="$dd/d85/classTSQLConnection.html#a01895d7c2bd8866a3f4b76482f7e17a5" title="TSQLConnection::SetReadOnly" alt="" coords="273,1913,503,1941"/>
+<area shape="rect" id="node46" href="$de/d4a/classODBCConnection.html#a3bdec1ffc081dc2c7a22346aaf27a1ea" title="ODBCConnection::SetTrace" alt="" coords="286,1965,490,1993"/>
+<area shape="rect" id="node47" href="$de/d4a/classODBCConnection.html#acee45bb2f20ce7c3d1d623cb1ae71c21" title="ODBCConnection::SetTraceFile" alt="" coords="275,2017,501,2045"/>
+<area shape="rect" id="node48" href="$de/d4a/classODBCConnection.html#aac63bc7ae27da7594ad8fa8ad745ab3c" title="ODBCConnection::SetTransaction\lIsolation" alt="" coords="265,2069,511,2113"/>
+<area shape="rect" id="node49" href="$dd/d85/classTSQLConnection.html#a2e8ee01ee78ac1b85bc6a3e5f88edff6" title="TSQLConnection::SetTransaction\lIsolation" alt="" coords="267,2137,509,2181"/>
+<area shape="rect" id="node50" href="$de/d4a/classODBCConnection.html#ae7fa297a3951251dbe55c738e22cc7a1" title="ODBCConnection::~ODBCConnection" alt="" coords="252,2205,524,2233"/>
+<area shape="rect" id="node3" href="$d0/de4/classTRDBCServer.html#abddef02355a456553585502ac039ea59" title="TRDBCServer::~TRDBCServer" alt="" coords="885,5,1109,33"/>
+<area shape="rect" id="node6" href="$d4/dac/classPgPostApplication.html#ab69f25c64173fff2ff025dca9d5c771c" title="PgPostApplication::\lDisconnectDB" alt="" coords="629,349,780,393"/>
+<area shape="rect" id="node7" href="$d5/dc3/classDbForm.html#a0c0d05caeb3f72f4989cc3d640296563" title="DbForm::HandleDisconnect" alt="" coords="601,417,808,445"/>
+<area shape="rect" id="node8" href="$d4/d40/RDBCp_8C.html#a369c067949dc102cddf912c4cd35bbf9" title="oproducer" alt="" coords="952,729,1043,757"/>
+<area shape="rect" id="node9" href="$da/dfb/RDBCconsumer_8C.html#a7ba746dee776c34bc24f9f5528d6e430" title="RDBCconsumer" alt="" coords="641,677,768,705"/>
+<area shape="rect" id="node10" href="$da/dbe/RDBCfirst_8C.html#ab7ba27288b4731fc1019137a8e1bbbf9" title="RDBCfirst" alt="" coords="661,469,748,497"/>
+<area shape="rect" id="node11" href="$d8/db0/RDBCTestConnect_8C.html#a0a7e08496a365a423b22aa2772934e74" title="RDBCTestConnect" alt="" coords="633,521,776,549"/>
+<area shape="rect" id="node12" href="$d1/d79/RDBCTestFloat_8C.html#a25be04a8fe88f169cb55cdf04a8795c4" title="RDBCTestInt" alt="" coords="653,573,757,601"/>
+<area shape="rect" id="node13" href="$d9/d9c/RDBCTestMetaData_8C.html#ac7d759ef6641371d5845700cb8c95ffe" title="RDBCTestMetaData" alt="" coords="629,109,780,137"/>
+<area shape="rect" id="node14" href="$d4/dac/classPgPostApplication.html#aea89f54359fb404d34fdb1d75db46267" title="PgPostApplication::\lsetDBName" alt="" coords="629,161,780,205"/>
+<area shape="rect" id="node15" href="$d4/dac/classPgPostApplication.html#ad4d332a9919d93b4d1e958c699d534e5" title="PgPostApplication::\l~PgPostApplication" alt="" coords="628,229,781,273"/>
+<area shape="rect" id="node16" href="$dd/d85/classTSQLConnection.html#a69b4cfddfd34f32c270bfc40e241d2af" title="TSQLConnection::~TSQLConnection" alt="" coords="572,297,837,325"/>
+<area shape="rect" id="node19" href="$da/daa/classPgPostBankBackupManager.html#a0a04a1d872f424730592d5b01a9952be" title="PgPostBankBackupManager\l::CleanTable" alt="" coords="893,1141,1102,1185"/>
+<area shape="rect" id="node20" href="$d4/dac/classPgPostApplication.html#a50d69f4c6450800d29dc7a9dc4651779" title="PgPostApplication::\lcommit" alt="" coords="629,1141,780,1185"/>
+<area shape="rect" id="node21" href="$dd/d63/classPgPostBankWrapper.html#a58179a60fdf054688ddf1cffc6c166d9" title="PgPostBankWrapper::\lcommit" alt="" coords="622,781,787,825"/>
+<area shape="rect" id="node22" href="$da/daa/classPgPostBankBackupManager.html#aef9c4fe8b1ac4f3cb7f77bd505b4cc18" title="PgPostBankBackupManager\l::commit" alt="" coords="600,849,809,893"/>
+<area shape="rect" id="node23" href="$da/daa/classPgPostBankBackupManager.html#a235748109f2b58dfa188d3c20d9fbe9a" title="TFile &#45;&gt; Database for official operation use." alt="" coords="600,917,809,961"/>
+<area shape="rect" id="node24" href="$d4/d40/RDBCp_8C.html#aa604a01f2b931411604a655ee77ffa0c" title="CreateStuff" alt="" coords="655,1037,754,1065"/>
+<area shape="rect" id="node25" href="$d4/d40/RDBCp_8C.html#a2857e7e89a8c95a44da080c1b3da9944" title="Fill" alt="" coords="685,985,724,1013"/>
+<area shape="rect" id="node26" href="$db/d8a/classPgPostBankBackupLog.html#ac860e75f4dc2cd60c721653c9d8ee839" title="enter one log entry" alt="" coords="601,1089,808,1117"/>
+</map>

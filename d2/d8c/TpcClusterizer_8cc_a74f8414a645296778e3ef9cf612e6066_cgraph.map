@@ -1,0 +1,32 @@
+<map id="ProcessSector" name="ProcessSector">
+<area shape="rect" id="node2" href="$d2/d8c/TpcClusterizer_8cc.html#a69c4b839779b240325d7e0089a124b2a" title="calc_cluster_parameter" alt="" coords="169,460,348,488"/>
+<area shape="rect" id="node23" href="$d2/d8c/TpcClusterizer_8cc.html#a74b8cd9409a52974757c9ad19c22014c" title="get_cluster" alt="" coords="210,881,307,909"/>
+<area shape="rect" id="node26" href="$d9/dc1/classTrkrHitSet.html#a2a362e326ba49a53a7675dc4c9b39c2a" title="Get all hits." alt="" coords="185,933,332,961"/>
+<area shape="rect" id="node27" href="$d7/db0/namespaceTpcDefs.html#a5009e86d9bf74a453e860b3650aac4d4" title="Get the pad index from hitkey." alt="" coords="193,985,325,1013"/>
+<area shape="rect" id="node28" href="$d7/db0/namespaceTpcDefs.html#a3ec8638cf9427c7955840853dbd96383" title="Get the time bin from hitkey." alt="" coords="189,1037,328,1065"/>
+<area shape="rect" id="node29" href="$d9/d9e/evDisplay_8C.html#aa88c4e96fb52fe557d1b37b229d46f38" title="pedestal" alt="" coords="219,1089,298,1117"/>
+<area shape="rect" id="node30" href="$d2/d8c/TpcClusterizer_8cc.html#aba638abee52f7db3dc5d1c36e5e88a94" title="remove_hits" alt="" coords="207,1141,311,1169"/>
+<area shape="rect" id="node3" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="455,5,523,33"/>
+<area shape="rect" id="node4" href="$d7/db0/namespaceTpcDefs.html#a0202375ade5010ae596a2e0b7c7f5fd0" title="Generate a cluster key from indeces." alt="" coords="407,57,572,85"/>
+<area shape="rect" id="node7" href="$d7/db0/namespaceTpcDefs.html#ad6f7435b72ea8675313c2d016aa835f6" title="Generate a hitkey from a pad index and time bin." alt="" coords="411,109,567,137"/>
+<area shape="rect" id="node8" href="$d7/db0/namespaceTpcDefs.html#a30fc79495c9e8d14327d1026cd7325c7" title="Generate a hitsetkey for the tpc." alt="" coords="648,148,827,176"/>
+<area shape="rect" id="node9" href="$d9/d85/classPHG4CylinderCellGeom.html#a619e05f0264243126360ac83b80f1d89" title="PHG4CylinderCellGeom\l::get_phicenter" alt="" coords="399,213,579,257"/>
+<area shape="rect" id="node12" href="$d9/d85/classPHG4CylinderCellGeom.html#a10a58a3eed1d5566cebd3b19583d78bb" title="PHG4CylinderCellGeom\l::get_phistep" alt="" coords="399,281,579,325"/>
+<area shape="rect" id="node13" href="$d9/d85/classPHG4CylinderCellGeom.html#a108104cde65d2ca503e306251188e615" title="PHG4CylinderCellGeom\l::get_radius" alt="" coords="399,349,579,393"/>
+<area shape="rect" id="node14" href="$d2/d8c/TpcClusterizer_8cc.html#a7abb8a9cae55e8d9ec83bcd77b2c9906" title="get_tpc_surface_from\l_coords" alt="" coords="407,417,572,461"/>
+<area shape="rect" id="node15" href="$d9/d85/classPHG4CylinderCellGeom.html#a3de4ba34c361c7a4da2a2b2162491f7d" title="PHG4CylinderCellGeom\l::get_zcenter" alt="" coords="399,485,579,529"/>
+<area shape="rect" id="node17" href="$d9/d85/classPHG4CylinderCellGeom.html#adb898f36289b3d1614afc7fde61de260" title="PHG4CylinderCellGeom\l::get_zstep" alt="" coords="399,553,579,597"/>
+<area shape="rect" id="node18" href="$d9/dc1/classTrkrHitSet.html#acffcc2223e9568b469109de4790fd734" title="Get the key for this object." alt="" coords="396,621,583,649"/>
+<area shape="rect" id="node19" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="415,673,563,701"/>
+<area shape="rect" id="node20" href="$d7/db0/namespaceTpcDefs.html#aaee8d42aaa9f7331459a8589f9550086" title="Get the sector id from hitsetkey." alt="" coords="407,725,571,753"/>
+<area shape="rect" id="node21" href="$d7/db0/namespaceTpcDefs.html#aafa0c31bf0892588a224d8f0726bff11" title="Get the side from hitsetkey." alt="" coords="421,777,558,805"/>
+<area shape="rect" id="node22" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="456,829,523,857"/>
+<area shape="rect" id="node5" href="$d6/d9e/namespaceInttDefs.html#af41991588b294d4a9a89cfe7cf00439e" title="Generate a hitsetkey for the intt." alt="" coords="650,71,825,99"/>
+<area shape="rect" id="node6" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="893,109,1071,137"/>
+<area shape="rect" id="node10" href="$d9/d85/classPHG4CylinderCellGeom.html#ab28e6403197b245275ba3613cd56ba6c" title="PHG4CylinderCellGeom\l::check_binning_method_phi" alt="" coords="631,281,844,325"/>
+<area shape="rect" id="node11" href="$d9/d85/classPHG4CylinderCellGeom.html#a8e9118667d576868ba0bd5e6a6686efd" title="PHG4CylinderCellGeom\l::methodname" alt="" coords="892,383,1072,427"/>
+<area shape="rect" id="node16" href="$d9/d85/classPHG4CylinderCellGeom.html#a68f0276a8f9bdb6059c1e286a0465100" title="PHG4CylinderCellGeom\l::check_binning_method" alt="" coords="645,485,830,529"/>
+<area shape="rect" id="node24" href="$d2/d8c/TpcClusterizer_8cc.html#ac106bd6c2db82cfd772f111d1e82c0a4" title="find_phi_range" alt="" coords="429,881,550,909"/>
+<area shape="rect" id="node25" href="$d2/d8c/TpcClusterizer_8cc.html#a3bdd594313670d83417b773d4526e263" title="find_z_range" alt="" coords="436,933,543,961"/>
+<area shape="rect" id="node31" href="$d2/d8c/TpcClusterizer_8cc.html#a90015131f902f9da8f2e2edc117289c8" title="remove_hit" alt="" coords="441,1141,538,1169"/>
+</map>

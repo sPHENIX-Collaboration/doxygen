@@ -1,0 +1,51 @@
+<map id="PHG4CylinderCellGeom::get_radius" name="PHG4CylinderCellGeom::get_radius">
+<area shape="rect" id="node2" href="$d2/d8c/TpcClusterizer_8cc.html#a69c4b839779b240325d7e0089a124b2a" title="calc_cluster_parameter" alt="" coords="267,13,446,41"/>
+<area shape="rect" id="node5" href="$d7/d10/classRawTowerBuilder.html#a01f91227474fd72e2e630a577973b67b" title="RawTowerBuilder::CreateNodes" alt="" coords="241,65,473,93"/>
+<area shape="rect" id="node7" href="$dd/d60/classTpcPrototypeUnpacker.html#a018feffce2f4cf203fb9efc95d3c701a" title="ClusterData &amp;cluster &#45;&gt; DST / TrkrClusterContainer." alt="" coords="269,117,445,161"/>
+<area shape="rect" id="node10" href="$d9/d24/classPHTruthClustering.html#a40a789a8b5e215a0447d563ab811f3c8" title="PHTruthClustering::\lG4ClusterSize" alt="" coords="281,185,432,229"/>
+<area shape="rect" id="node13" href="$d4/de4/classSvtxTruthEval.html#ade4b494c4cfaa95e70829c37446d9a83" title="SvtxTruthEval::G4ClusterSize" alt="" coords="248,321,465,349"/>
+<area shape="rect" id="node26" href="$d9/d69/classPHSimpleKFProp.html#a03b04dee2da660e7db6a006b473b6125" title="fetch node pointers" alt="" coords="275,441,439,485"/>
+<area shape="rect" id="node28" href="$d2/d8f/classPHInitZVertexing.html#a79f883be9e36cb8e9fcf7f4f72726794" title="PHInitZVertexing::initialize\l_geometry" alt="" coords="257,509,457,553"/>
+<area shape="rect" id="node30" href="$d1/d97/classPHPatternReco.html#ad261733deca3b8c36ac1fff124a79070" title="PHPatternReco::initialize\l_geometry" alt="" coords="264,577,449,621"/>
+<area shape="rect" id="node32" href="$d4/d4e/classPHHybridSeeding.html#a3852fe0c4e070518c082a93247bf4dd7" title="PHHybridSeeding::Initialize\lGeometry" alt="" coords="254,645,459,689"/>
+<area shape="rect" id="node34" href="$da/df1/classPHRTreeSeeding.html#ad4cd308ecaab071637bdf37673be5807" title="PHRTreeSeeding::Initialize\lGeometry" alt="" coords="259,713,455,757"/>
+<area shape="rect" id="node36" href="$d1/d08/classPHCASeeding.html#acde49a5aa36a8e09c9f47581c297eea5" title="PHCASeeding::InitializeGeometry" alt="" coords="233,781,480,809"/>
+<area shape="rect" id="node38" href="$d8/dd4/classPHHoughSeeding.html#aa37236d12ed871a287dfb8c9cb52d35a" title="create new node output pointers" alt="" coords="255,833,459,877"/>
+<area shape="rect" id="node40" href="$d0/d22/classPHGenFitTrkProp.html#af5e0adefe0afd02444c636f417ec82ce" title="Init projection r." alt="" coords="258,901,455,945"/>
+<area shape="rect" id="node42" href="$de/d25/classTpcClusterizer.html#a3bd69b5760ef6e8fe058303f44244741" title="TpcClusterizer::is\l_in_sector_boundary" alt="" coords="276,969,437,1013"/>
+<area shape="rect" id="node43" href="$d9/d24/classPHTruthClustering.html#aee80526d7f36911ddba2c734845e6eea" title="PHTruthClustering::\lLayerClusterG4Hits" alt="" coords="281,253,433,297"/>
+<area shape="rect" id="node44" href="$d4/de4/classSvtxTruthEval.html#a6bfd9cc85d5e568a114876331998d84b" title="SvtxTruthEval::LayerCluster\lG4Hits" alt="" coords="252,373,461,417"/>
+<area shape="rect" id="node45" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a8947e8dcf5c35c405459a6d14b83ec23" title="PHG4TpcPadPlaneReadout\l::populate_rectangular\l_phibins" alt="" coords="256,1037,457,1097"/>
+<area shape="rect" id="node47" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a7b580905412912ba96c9114aba69219e" title="PHG4TpcPadPlaneReadout\l::populate_zigzag_phibins" alt="" coords="256,1121,457,1165"/>
+<area shape="rect" id="node48" href="$d6/d03/classTpcPrototypeClusterizer.html#ad790455b460f30f668670fcd15cc36fb" title="TpcPrototypeClusterizer\l::process_event" alt="" coords="264,1189,449,1233"/>
+<area shape="rect" id="node49" href="$da/d27/classTPCDataStreamEmulator.html#a103b0eab10ddf8a3b47e2d6e36b5a59d" title="TPCDataStreamEmulator\l::process_event" alt="" coords="261,1257,452,1301"/>
+<area shape="rect" id="node50" href="$d8/d7c/classTPCMLDataInterface.html#ad8e09026c6e113a6b0a3ad2c5a54eae6" title="TPCMLDataInterface\l::process_event" alt="" coords="277,1325,436,1369"/>
+<area shape="rect" id="node3" href="$d2/d8c/TpcClusterizer_8cc.html#a74f8414a645296778e3ef9cf612e6066" title="ProcessSector" alt="" coords="571,13,687,41"/>
+<area shape="rect" id="node4" href="$de/d25/classTpcClusterizer.html#ac66fda514e9c1985f3f083ef79934137" title="TpcClusterizer::process\l_event" alt="" coords="785,5,965,49"/>
+<area shape="rect" id="node6" href="$d7/d10/classRawTowerBuilder.html#a0de2c995e7f7cc3bd357d65af5d5d987" title="RawTowerBuilder::InitRun" alt="" coords="533,65,725,93"/>
+<area shape="rect" id="node8" href="$dd/d60/classTpcPrototypeUnpacker.html#a3f531b94d26bba622c59c5b71ca4dd8e" title="Clustering then prepare IOs." alt="" coords="541,117,717,161"/>
+<area shape="rect" id="node9" href="$dd/d60/classTpcPrototypeUnpacker.html#a3c458d1bda422672ff79946e5816f197" title="TpcPrototypeUnpacker\l::process_event" alt="" coords="787,117,963,161"/>
+<area shape="rect" id="node11" href="$d9/d24/classPHTruthClustering.html#a8fb52ae244819fcfc7e7530f2beaddc9" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="553,185,704,229"/>
+<area shape="rect" id="node12" href="$d9/d24/classPHTruthClustering.html#a32f3b05811ac36d8f08ae3c565edcfca" title="PHTruthClustering::\lprocess_event" alt="" coords="800,185,951,229"/>
+<area shape="rect" id="node14" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="559,373,698,417"/>
+<area shape="rect" id="node15" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="793,457,958,501"/>
+<area shape="rect" id="node17" href="$d1/d1e/classSvtxClusterEval.html#af774b5eb2254c2427cd21fbd29b47b6f" title="SvtxClusterEval::all\l_truth_clusters" alt="" coords="799,389,951,433"/>
+<area shape="rect" id="node18" href="$d1/d1e/classSvtxClusterEval.html#a7619937ca04fc86bf74e13a08b1d1959" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="1031,245,1223,289"/>
+<area shape="rect" id="node22" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1281,373,1469,417"/>
+<area shape="rect" id="node24" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="777,305,973,365"/>
+<area shape="rect" id="node16" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="1044,457,1209,501"/>
+<area shape="rect" id="node19" href="$d3/d32/classActsEvaluator.html#aab3625b68ba0383ffa858dc3e4a69142" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="1280,245,1469,289"/>
+<area shape="rect" id="node20" href="$d3/d32/classActsEvaluator.html#a7bd073c867021570aeaa27cfbd64d966" title="ActsEvaluator::fillProto\lTrack" alt="" coords="1524,207,1699,251"/>
+<area shape="rect" id="node21" href="$d3/d32/classActsEvaluator.html#adfc0d467a2bfb926be361c88761b2667" title="ActsEvaluator::visitTrack\lStates" alt="" coords="1517,275,1705,319"/>
+<area shape="rect" id="node23" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1523,373,1699,417"/>
+<area shape="rect" id="node25" href="$dd/de6/classKFParticle__truthAndDetTools.html#ad75d71be845ff83a6bb6839b5e151e3c" title="KFParticle_truthAndDetTools\l::getTruthTrack" alt="" coords="1021,313,1232,357"/>
+<area shape="rect" id="node27" href="$d9/d69/classPHSimpleKFProp.html#a897af714d857412db2473324e6a45228" title="PHSimpleKFProp::Setup" alt="" coords="538,449,719,477"/>
+<area shape="rect" id="node29" href="$d2/d8f/classPHInitZVertexing.html#ad2c1fedaac7a89e3e89c264b32a6eddb" title="PHInitZVertexing::Setup" alt="" coords="537,517,720,545"/>
+<area shape="rect" id="node31" href="$d1/d97/classPHPatternReco.html#a0adbea145fc8bdd34f877cd949242ef3" title="PHPatternReco::InitRun" alt="" coords="541,585,717,613"/>
+<area shape="rect" id="node33" href="$d4/d4e/classPHHybridSeeding.html#a8bf16f9d8182c6458e22b067a1c2accc" title="PHHybridSeeding::Setup" alt="" coords="535,653,723,681"/>
+<area shape="rect" id="node35" href="$da/df1/classPHRTreeSeeding.html#a3472e3c6e35981748357bcfc1c98fcfd" title="PHRTreeSeeding::Setup" alt="" coords="539,721,719,749"/>
+<area shape="rect" id="node37" href="$d1/d08/classPHCASeeding.html#a2f09a2aa776877a3fc477edc74436c2a" title="PHCASeeding::Setup" alt="" coords="548,781,709,809"/>
+<area shape="rect" id="node39" href="$d8/dd4/classPHHoughSeeding.html#adf9708b67b0018c3ee0afcd9d188087c" title="PHHoughSeeding::Setup" alt="" coords="535,841,723,869"/>
+<area shape="rect" id="node41" href="$d0/d22/classPHGenFitTrkProp.html#a8a925731719897df898a280a3a93763a" title="PHGenFitTrkProp::Setup" alt="" coords="539,909,719,937"/>
+<area shape="rect" id="node46" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a1d14f93bb482ced5b499dbb5735425bb" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="528,1083,729,1127"/>
+</map>

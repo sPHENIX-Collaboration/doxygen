@@ -1,0 +1,28 @@
+<map id="ActsExamples::IWriter" name="ActsExamples::IWriter">
+<area shape="rect" id="node2" href="$de/d77/classActsExamples_1_1CsvTrackingGeometryWriter.html" title="ActsExamples::CsvTracking\lGeometryWriter" alt="" coords="259,20,465,64"/>
+<area shape="rect" id="node3" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; write_data_t \&gt;" alt="" coords="274,88,450,132"/>
+<area shape="rect" id="node5" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; GeometryIdMultimap\l\&lt; Acts::PlanarModuleCluster \&gt; \&gt;" alt="" coords="240,156,484,216"/>
+<area shape="rect" id="node8" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; GeometryIdMultimap\l\&lt; T \&gt; \&gt;" alt="" coords="272,261,452,321"/>
+<area shape="rect" id="node11" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; ProtoTrackContainer \&gt;" alt="" coords="269,345,455,389"/>
+<area shape="rect" id="node13" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; SimHitContainer \&gt;" alt="" coords="274,413,450,457"/>
+<area shape="rect" id="node15" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; SimParticleContainer \&gt;" alt="" coords="266,481,458,525"/>
+<area shape="rect" id="node18" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; std::vector\&lt; Acts::\lRecordedMaterialTrack \&gt; \&gt;" alt="" coords="260,555,464,615"/>
+<area shape="rect" id="node20" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; std::vector\&lt; PropagationSteps \&gt; \&gt;" alt="" coords="225,649,499,693"/>
+<area shape="rect" id="node22" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; std::vector\&lt; std::vector\l\&lt; step_t \&gt; \&gt; \&gt;" alt="" coords="263,739,461,799"/>
+<area shape="rect" id="node24" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; TrajectoryContainer \&gt;" alt="" coords="270,855,454,899"/>
+<area shape="rect" id="node4" href="$d3/d43/exceptionActsExamples_1_1RootTrackParameterWriter.html" title="Writes out SingleBoundTrackParamters into a TTree." alt="" coords="547,5,809,49"/>
+<area shape="rect" id="node6" href="$d3/de5/exceptionActsExamples_1_1CsvPlanarClusterWriter.html" title="ActsExamples::CsvPlanarCluster\lWriter" alt="" coords="557,73,799,117"/>
+<area shape="rect" id="node7" href="$d6/d77/classActsExamples_1_1RootPlanarClusterWriter.html" title="ActsExamples::RootPlanar\lClusterWriter" alt="" coords="578,141,778,185"/>
+<area shape="rect" id="node9" href="$d2/ddc/classActsExamples_1_1JsonSpacePointWriter.html" title="ActsExamples::JsonSpacePoint\lWriter\&lt; T \&gt;" alt="" coords="563,209,793,253"/>
+<area shape="rect" id="node10" href="$db/daf/classActsExamples_1_1ObjSpacePointWriter.html" title="ActsExamples::ObjSpacePoint\lWriter\&lt; T \&gt;" alt="" coords="565,277,791,321"/>
+<area shape="rect" id="node12" href="$d8/df8/exceptionActsExamples_1_1TrackFinderPerformanceWriter.html" title="ActsExamples::TrackFinder\lPerformanceWriter" alt="" coords="576,345,780,389"/>
+<area shape="rect" id="node14" href="$d5/d1e/exceptionActsExamples_1_1RootSimHitWriter.html" title="ActsExamples::RootSimHit\lWriter" alt="" coords="577,413,779,457"/>
+<area shape="rect" id="node16" href="$d2/d9a/exceptionActsExamples_1_1CsvParticleWriter.html" title="ActsExamples::CsvParticle\lWriter" alt="" coords="578,481,778,525"/>
+<area shape="rect" id="node17" href="$d3/d62/exceptionActsExamples_1_1RootParticleWriter.html" title="ActsExamples::RootParticle\lWriter" alt="" coords="575,549,781,593"/>
+<area shape="rect" id="node19" href="$de/d4a/classActsExamples_1_1RootMaterialTrackWriter.html" title="Writes out MaterialTrack collections from a root file." alt="" coords="573,617,783,661"/>
+<area shape="rect" id="node21" href="$d9/d2a/classActsExamples_1_1RootPropagationStepsWriter.html" title="ActsExamples::RootPropagation\lStepsWriter" alt="" coords="559,685,797,729"/>
+<area shape="rect" id="node23" href="$d3/dcf/classActsExamples_1_1ObjPropagationStepsWriter.html" title="ActsExamples::ObjPropagation\lStepsWriter\&lt; step_t \&gt;" alt="" coords="563,753,793,797"/>
+<area shape="rect" id="node25" href="$dd/d47/exceptionActsExamples_1_1CKFPerformanceWriter.html" title="ActsExamples::CKFPerformance\lWriter" alt="" coords="559,821,797,865"/>
+<area shape="rect" id="node26" href="$d6/d1a/exceptionActsExamples_1_1RootTrajectoryWriter.html" title="ActsExamples::RootTrajectory\lWriter" alt="" coords="567,889,789,933"/>
+<area shape="rect" id="node27" href="$d1/dc6/exceptionActsExamples_1_1TrackFitterPerformanceWriter.html" title="ActsExamples::TrackFitter\lPerformanceWriter" alt="" coords="580,957,776,1001"/>
+</map>

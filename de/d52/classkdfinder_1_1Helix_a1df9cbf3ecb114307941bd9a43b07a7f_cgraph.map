@@ -1,0 +1,27 @@
+<map id="kdfinder::Helix::curvatureSignedDistance" name="kdfinder::Helix::curvatureSignedDistance">
+<area shape="rect" id="node2" href="$de/d52/classkdfinder_1_1Helix.html#aeec237486dbf2bb6412377364fafa2d3" title="kdfinder::Helix::curvature\lSignedDistance" alt="" coords="248,336,443,380"/>
+<area shape="rect" id="node18" href="$d8/dc7/classkdfinder_1_1TVector.html#a6c5e56880a562a954a3e4cfa6e331e24" title="kdfinder::TVector::y" alt="" coords="1280,541,1435,569"/>
+<area shape="rect" id="node20" href="$d8/dc7/classkdfinder_1_1TVector.html#acaa0f748885d9540c37ada22f2aae88e" title="kdfinder::TVector::x" alt="" coords="1280,421,1435,449"/>
+<area shape="rect" id="node26" href="$de/d52/classkdfinder_1_1Helix.html#a428da7c77c7833c16a3376e24c9feca2" title="minimal distance between point and helix" alt="" coords="252,188,439,216"/>
+<area shape="rect" id="node3" href="$df/d28/namespacekdfinder.html#ab72d428625e99a2d7380eb7691c246c7" title="kdfinder::abs" alt="" coords="534,213,645,241"/>
+<area shape="rect" id="node5" href="$de/d52/classkdfinder_1_1Helix.html#af70b4a8a95157c01c22a6a6ddadc654e" title="kdfinder::Helix::geometric\lSignedDistance" alt="" coords="491,336,688,380"/>
+<area shape="rect" id="node4" href="$d8/dc7/classkdfinder_1_1TVector.html#ac9649c7577f12a7502ed523260f4ee90" title="kdfinder::TVector::mag" alt="" coords="759,109,935,137"/>
+<area shape="rect" id="node6" href="$de/d52/classkdfinder_1_1Helix.html#a09c40c5aa091c16bb5a1566c1a10d5d6" title="path length at given r (cylindrical r)" alt="" coords="745,161,950,189"/>
+<area shape="rect" id="node10" href="$de/d52/classkdfinder_1_1Helix.html#a5ddeeeb1269d014eb96dbbdbc3b6538a" title="kdfinder::Helix::at" alt="" coords="1285,213,1429,241"/>
+<area shape="rect" id="node14" href="$d8/dc7/classkdfinder_1_1TVector.html#a81b348c10641647abd983cb6806e5c0f" title="kdfinder::TVector::setZ" alt="" coords="759,369,935,397"/>
+<area shape="rect" id="node16" href="$de/d52/classkdfinder_1_1Helix.html#ad49f8830fc80130672704f64bf2ed7b0" title="kdfinder::Helix::momentumAt" alt="" coords="736,317,959,345"/>
+<area shape="rect" id="node24" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a6e1abd01ea4cac3276aba94096c85dae" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="770,473,925,517"/>
+<area shape="rect" id="node25" href="$d8/dc7/classkdfinder_1_1TVector.html#adaa36d986a882cb187ced222f897d1f2" title="kdfinder::TVector::perp" alt="" coords="759,265,936,293"/>
+<area shape="rect" id="node7" href="$de/d52/classkdfinder_1_1Helix.html#af383449ac3c3f04d7b8209e13166af3f" title="returns period length of helix" alt="" coords="1025,161,1197,189"/>
+<area shape="rect" id="node8" href="$d6/db0/fjcore_8hh.html#ac71f249d840a70f8b3aaffb721843eaa" title="swap" alt="" coords="1083,5,1139,33"/>
+<area shape="rect" id="node9" href="$d7/d15/classSharedPtr.html#a4e51626f69ba6c846cc99f066e486e47" title="SharedPtr::swap" alt="" coords="1292,5,1423,33"/>
+<area shape="rect" id="node11" href="$de/d52/classkdfinder_1_1Helix.html#a704fb653ce98fc1ffdd2a2dd064ea0a9" title="coordinates of helix at point s" alt="" coords="1500,161,1637,189"/>
+<area shape="rect" id="node12" href="$de/d52/classkdfinder_1_1Helix.html#a36fb6a8c8160ee8b0b87b93fe53c9a7a" title="kdfinder::Helix::y" alt="" coords="1500,213,1637,241"/>
+<area shape="rect" id="node13" href="$de/d52/classkdfinder_1_1Helix.html#a926fcb4ce5366515b7469082ec0cf47a" title="kdfinder::Helix::z" alt="" coords="1501,265,1637,293"/>
+<area shape="rect" id="node15" href="$d8/dc7/classkdfinder_1_1TVector.html#aaf704fc4ae9eccd4785bb40a8ea81cb0" title="kdfinder::TVector::z" alt="" coords="1034,369,1187,397"/>
+<area shape="rect" id="node17" href="$de/d52/classkdfinder_1_1Helix.html#aea7551d3a5f92374f543f3d4ee214e94" title="move the origin along the helix to s which becomes then s=0" alt="" coords="1007,317,1215,345"/>
+<area shape="rect" id="node23" href="$de/d52/classkdfinder_1_1Helix.html#af7e2f89d52129fd120ff747800f55678" title="kdfinder::Helix::momentum" alt="" coords="1007,265,1215,293"/>
+<area shape="rect" id="node19" href="$de/d52/classkdfinder_1_1Helix.html#af1b55343799e5f1b3cbb41753f3a6d67" title="kdfinder::Helix::ycenter" alt="" coords="1267,265,1448,293"/>
+<area shape="rect" id="node21" href="$de/d52/classkdfinder_1_1Helix.html#a63c6664359a92fb6f581e9e089ed9c53" title="kdfinder::Helix::xcenter" alt="" coords="1267,317,1448,345"/>
+<area shape="rect" id="node22" href="$de/d52/classkdfinder_1_1Helix.html#a202b47264575a23443b77c20644d740b" title="kdfinder::Helix::setPhase" alt="" coords="1263,369,1452,397"/>
+</map>

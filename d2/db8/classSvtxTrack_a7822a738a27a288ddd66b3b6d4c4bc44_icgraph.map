@@ -1,0 +1,31 @@
+<map id="SvtxTrack::identify" name="SvtxTrack::identify">
+<area shape="rect" id="node2" href="$db/d4b/classEMCalAna.html#a1158ea15e948f053751b7d169c3cef4d" title="EMCalAna::eval_trk_proj" alt="" coords="229,35,413,63"/>
+<area shape="rect" id="node7" href="$d8/dd4/classPHHoughSeeding.html#a61550a59cd3a34af03c43572e28274cb" title="code to translate back to the SVTX universe" alt="" coords="225,87,417,131"/>
+<area shape="rect" id="node9" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a7d58d6e2d72346f8c2eb6aa9cf897c9b" title="Make TpcPrototypeTrack from SvtxTrack, refit by &quot;excluding&quot; each cluster." alt="" coords="217,155,426,199"/>
+<area shape="rect" id="node11" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8861dffacdf05e47efc97b65adbafe32" title="Process Event, called for each event." alt="" coords="755,215,964,259"/>
+<area shape="rect" id="node12" href="$d8/d98/classpsTOFTimezeroEval.html#a25c3e5e12649de1507e66c332b989be0" title="print out the input object information (debugging upstream components)" alt="" coords="240,275,403,319"/>
+<area shape="rect" id="node14" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a5f5b66b96bcf4e8f905129e47e406dfc" title="print out the input object information (debugging upstream components)" alt="" coords="234,343,409,387"/>
+<area shape="rect" id="node16" href="$d6/d11/classSvtxEvaluator.html#a51a88cb55f439b7bc820fa1f727bf39a" title="print out the input object information (debugging upstream components)" alt="" coords="213,411,429,439"/>
+<area shape="rect" id="node18" href="$de/d74/classKFParticle__DST.html#ac6f937fd71f584bc3910fc836cb47e0d" title="Prints contents of KFParticle_Containers and SvtxTrackMaps for an event if they are enabled..." alt="" coords="223,463,419,491"/>
+<area shape="rect" id="node20" href="$dc/d41/classConversion.html#a31d37992e23e9576b37cfa15c618374d" title="Conversion::PrintPhotonRecoInfo" alt="" coords="200,515,443,543"/>
+<area shape="rect" id="node21" href="$dc/d41/classConversion.html#a020b9619f9abf844a9eeb5895f9c2b6b" title="print the reco info calls reco1&#45;&gt;identify(), reco2&#45;&gt;identify(), recoVertex&#45;&gt;identify(), recoPhoton&#45;&gt;print()" alt="" coords="236,567,407,595"/>
+<area shape="rect" id="node22" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a5488452c780ab584ef21083c3d009688" title="PHSiliconTpcTrackMatching\l::Process" alt="" coords="219,619,424,663"/>
+<area shape="rect" id="node23" href="$df/d9d/classPHTruthSiliconAssociation.html#ac41bed87e2c4caf8ddf243144cf4b5d4" title="PHTruthSiliconAssociation\l::process_event" alt="" coords="224,687,419,731"/>
+<area shape="rect" id="node24" href="$de/d25/classPHGenFitTrkFitter.html#afcdaabc6fd73922bb522d7fa7ef3a775" title="Process Event, called for each event." alt="" coords="523,768,668,812"/>
+<area shape="rect" id="node25" href="$de/d25/classPHGenFitTrkFitter.html#af07c5ea2636426357d02b5b697376db2" title="PHGenFitTrkFitter::\lReFitTrack" alt="" coords="249,807,394,851"/>
+<area shape="rect" id="node26" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8322a858cfb89cab60e4a04e7f82745b" title="TpcPrototypeGenFitTrkFitter\l::ReFitTrack" alt="" coords="491,847,700,891"/>
+<area shape="rect" id="node27" href="$d1/d49/classPHActsTrkFitter.html#a714bbb8c63ac56b40fcb6253f6065ccd" title="Convert the acts track fit result to an svtx track." alt="" coords="217,927,425,971"/>
+<area shape="rect" id="node3" href="$db/d4b/classEMCalAna.html#a058c1f2ec1ef8b8f7786737eb6e3151b" title="EMCalAna::eval_trk" alt="" coords="519,35,671,63"/>
+<area shape="rect" id="node4" href="$db/d4b/classEMCalAna.html#a2e20101b8705ea086e2c7de88e95767d" title="EMCalAna::process_event_Trk" alt="" coords="748,5,971,33"/>
+<area shape="rect" id="node6" href="$db/d4b/classEMCalAna.html#a9647db89feef6823b38bbdeaf7de06c2" title="EMCalAna::process_event\l_UpslisonTrig" alt="" coords="761,57,957,101"/>
+<area shape="rect" id="node5" href="$db/d4b/classEMCalAna.html#a3b829b80df0fd8625130f3d9c11f5d3d" title="EMCalAna::process_event" alt="" coords="1019,36,1215,64"/>
+<area shape="rect" id="node8" href="$d8/dd4/classPHHoughSeeding.html#a50ee2f174c0a9899aac7c01b4b363783" title="PHHoughSeeding::Process" alt="" coords="496,95,695,123"/>
+<area shape="rect" id="node10" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#aaae0db362446e0098c4f4dbfa6714812" title="TpcPrototypeGenFitTrkFitter\l::fill_eval_tree" alt="" coords="491,155,700,199"/>
+<area shape="rect" id="node13" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="514,275,677,319"/>
+<area shape="rect" id="node15" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="508,343,683,387"/>
+<area shape="rect" id="node17" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="507,411,683,455"/>
+<area shape="rect" id="node19" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="519,479,671,523"/>
+<area shape="rect" id="node28" href="$d1/d49/classPHActsTrkFitter.html#ae985e725863c31ae470cf238f063c804" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="501,927,690,971"/>
+<area shape="rect" id="node29" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="758,935,961,963"/>
+<area shape="rect" id="node30" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="1025,927,1208,971"/>
+</map>

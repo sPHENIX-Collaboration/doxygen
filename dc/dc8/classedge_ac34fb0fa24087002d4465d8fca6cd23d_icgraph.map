@@ -1,0 +1,26 @@
+<map id="edge::is_hidden" name="edge::is_hidden">
+<area shape="rect" id="node2" href="$dd/d9b/classgraph.html#ab2f8520bcac080d73c55228fecc61825" title="graph::hide_edge" alt="" coords="190,253,330,281"/>
+<area shape="rect" id="node20" href="$dd/d9b/classgraph.html#a2e5426682a0897b9f9104b019970bedc" title="graph::restore_edge" alt="" coords="181,451,339,479"/>
+<area shape="rect" id="node3" href="$da/d70/classbiconnectivity.html#a64adab869e0080e3a1f8479e70010317" title="Handler called before the start of DFS." alt="" coords="425,5,571,49"/>
+<area shape="rect" id="node4" href="$d5/d35/classfm__partition.html#a3e3aa22119ff5ff9c406683e22ab6078" title="fm_partition::hide\l_self_loops" alt="" coords="427,331,569,375"/>
+<area shape="rect" id="node6" href="$dd/d9b/classgraph.html#a4f0177ffe8eaddd9c5bec73078bed873" title="graph::hide_node" alt="" coords="428,227,568,255"/>
+<area shape="rect" id="node12" href="$de/da7/classmaxflow__ff.html#a22a432bb072e0410f20bb418dfd4d3a9" title="maxflow_ff::comp_single_flow" alt="" coords="387,399,609,427"/>
+<area shape="rect" id="node14" href="$d8/d25/classmaxflow__pp.html#adefb2cdc0145d57efd2d93c17a180896" title="maxflow_pp::leveling" alt="" coords="691,11,855,39"/>
+<area shape="rect" id="node15" href="$d8/d25/classmaxflow__pp.html#ae7c9ce8d1cad511d70022e2f62567590" title="maxflow_pp::push" alt="" coords="701,63,845,91"/>
+<area shape="rect" id="node16" href="$d8/d25/classmaxflow__pp.html#aba2aefadd6dde920b8b8aa44af95ad9b" title="maxflow_pp::pull" alt="" coords="705,115,841,143"/>
+<area shape="rect" id="node17" href="$d8/d25/classmaxflow__pp.html#a97612b9517f0f11715610cb8faa81606" title="maxflow_pp::comp_rem_net" alt="" coords="392,279,604,307"/>
+<area shape="rect" id="node18" href="$da/d1a/classmaxflow__sap.html#a02f7814313a36b30bb99c40ead6c9ef5" title="maxflow_sap::augment" alt="" coords="408,503,588,531"/>
+<area shape="rect" id="node5" href="$d5/d35/classfm__partition.html#a015b171fcaa01973ebe6c6a46a727097" title="fm_partition::run" alt="" coords="706,339,841,367"/>
+<area shape="rect" id="node7" href="$dd/d9b/classgraph.html#ad185dbb16a66777632eb13eec3c54244" title="graph::induced_subgraph" alt="" coords="676,235,871,263"/>
+<area shape="rect" id="node10" href="$d8/d25/classmaxflow__pp.html#a93bb037fd3fc83c6558b560fc4da2340" title="maxflow_pp::hide_unreachable\l_nodes" alt="" coords="657,167,889,211"/>
+<area shape="rect" id="node8" href="$d0/d8e/classplanarity.html#a8a66dd6682b3111e39be103db127e6b0" title="planarity::switch_to\l_component" alt="" coords="937,451,1089,495"/>
+<area shape="rect" id="node9" href="$d0/d8e/classplanarity.html#a93232e765c08dd2a4c00d192bb48b5fc" title="Runs planarity test on G." alt="" coords="1137,519,1249,547"/>
+<area shape="rect" id="node11" href="$d8/d25/classmaxflow__pp.html#a07c7cb1ae5db23d87cf49ce7769b2814" title="maxflow_pp::run" alt="" coords="947,145,1080,173"/>
+<area shape="rect" id="node13" href="$de/da7/classmaxflow__ff.html#a0a4391b9093d6966b47c023a555099e2" title="maxflow_ff::run" alt="" coords="951,519,1076,547"/>
+<area shape="rect" id="node19" href="$da/d1a/classmaxflow__sap.html#ab4305a2bb370ad9c43cc68d339b2dda0" title="maxflow_sap::run" alt="" coords="943,668,1083,696"/>
+<area shape="rect" id="node21" href="$da/d70/classbiconnectivity.html#a2583331a4561f3db221ab674d2e5d75e" title="Handler called at the end of DFS." alt="" coords="423,555,573,599"/>
+<area shape="rect" id="node22" href="$dd/d9b/classgraph.html#a53e2a5505fa6427587e12d66e4a86cec" title="graph::restore_graph" alt="" coords="417,451,579,479"/>
+<area shape="rect" id="node23" href="$de/da7/classmaxflow__ff.html#a31a13c79918964a49fa18b4eb514c584" title="maxflow_ff::restore\l_graph" alt="" coords="698,511,849,555"/>
+<area shape="rect" id="node24" href="$d8/d25/classmaxflow__pp.html#a273cc9bde3aeb47c08223da7458ed29d" title="maxflow_pp::restore\l_graph" alt="" coords="694,443,853,487"/>
+<area shape="rect" id="node25" href="$da/d1a/classmaxflow__sap.html#ad1a311df47e4b9936ead7c306d723ed0" title="maxflow_sap::restore\l_graph" alt="" coords="691,631,856,675"/>
+</map>

@@ -1,0 +1,5 @@
+var structActs_1_1Concepts_1_1detail__aborter_1_1ConceptConditional_3_01T_00_01propagator__state__t_00_01stepper__t_00_01true_01_4 =
+[
+    [ "result_type", "db/dff/structActs_1_1Concepts_1_1detail__aborter_1_1ConceptConditional_3_01T_00_01propagator__state__t_00_01stepper__t_00_01true_01_4.html#a7f2664616ab79f24550e64b8d96b37c9", null ],
+    [ "value", "db/dff/structActs_1_1Concepts_1_1detail__aborter_1_1ConceptConditional_3_01T_00_01propagator__state__t_00_01stepper__t_00_01true_01_4.html#a736bf4442f814713034a43ab97acd313", null ]
+];

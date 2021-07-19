@@ -1,0 +1,26 @@
+var classTpcClusterizer =
+[
+    [ "TpcClusterizer", "de/d25/classTpcClusterizer.html#aacae52d78fe9dfdd5173097828789728", null ],
+    [ "~TpcClusterizer", "de/d25/classTpcClusterizer.html#af64300a51f6aa44a75733dadee4fa5e4", null ],
+    [ "End", "de/d25/classTpcClusterizer.html#a1fd0a47140a064b09d00e74947e713d0", null ],
+    [ "InitRun", "de/d25/classTpcClusterizer.html#aefd2f1b53683f979af102b8b781f4e2b", null ],
+    [ "is_in_sector_boundary", "de/d25/classTpcClusterizer.html#a3bd69b5760ef6e8fe058303f44244741", null ],
+    [ "process_event", "de/d25/classTpcClusterizer.html#ac66fda514e9c1985f3f083ef79934137", null ],
+    [ "set_do_hit_association", "de/d25/classTpcClusterizer.html#a42fa80bf47f1b518dff81a113bcaab92", null ],
+    [ "set_search_bins", "de/d25/classTpcClusterizer.html#ae5ff782981139e6e382c991c54a69555", null ],
+    [ "set_sector_fiducial_cut", "de/d25/classTpcClusterizer.html#ae7636cf0a5919c23c6876dcbed0d95f1", null ],
+    [ "do_hit_assoc", "de/d25/classTpcClusterizer.html#a9d4eb249ef475a1344351b38f9d375de", null ],
+    [ "m_clusterhitassoc", "de/d25/classTpcClusterizer.html#a3b21e995e0eb21984730cf4db6e90a49", null ],
+    [ "m_clusterlist", "de/d25/classTpcClusterizer.html#ac7c968bd28605cfc168fd62dbbf5aee4", null ],
+    [ "m_hits", "de/d25/classTpcClusterizer.html#a9ca3e3dff6ee31f2003d8a9021358ba6", null ],
+    [ "m_surfMaps", "de/d25/classTpcClusterizer.html#aade3ea6f898ac3dbfe1732df44797666", null ],
+    [ "m_tGeometry", "de/d25/classTpcClusterizer.html#adfc004d4565e85ca1412629f317376ac", null ],
+    [ "NSearch", "de/d25/classTpcClusterizer.html#ab5941efb56b1ab10d11cf8c6813a3294", null ],
+    [ "NZBinsMax", "de/d25/classTpcClusterizer.html#ad2ed1b8302e41f251a1a938bee329419", null ],
+    [ "par0_neg", "de/d25/classTpcClusterizer.html#a1bc8a97e6722e35d15cce931994b3497", null ],
+    [ "par0_pos", "de/d25/classTpcClusterizer.html#a6772c6494a51d025957b200148c10ef3", null ],
+    [ "par1_neg", "de/d25/classTpcClusterizer.html#ac01c751f3f66cda188145cb4cd54066a", null ],
+    [ "par1_pos", "de/d25/classTpcClusterizer.html#adaaf844fa63bc47f5508173597bc1298", null ],
+    [ "pedestal", "de/d25/classTpcClusterizer.html#a86bfc8998b2cec91d0d072cc95bac171", null ],
+    [ "SectorFiducialCut", "de/d25/classTpcClusterizer.html#a54e097acb0d024610168250adc865c31", null ]
+];

@@ -1,0 +1,26 @@
+<map id="PHG4OuterHcalDetector::ConstructOuterHcal" name="PHG4OuterHcalDetector::ConstructOuterHcal">
+<area shape="rect" id="node2" href="$d1/da4/classPHG4OuterHcalDisplayAction.html#a5835ca5ced5382664e70fd2ea92f5027" title="PHG4OuterHcalDisplayAction\l::AddSteelVolume" alt="" coords="240,23,459,67"/>
+<area shape="rect" id="node3" href="$df/d74/classPHG4OuterHcalDetector.html#a4bcbe242df18d8045dea99c90113673f" title="PHG4OuterHcalDetector\l::CheckTiltAngle" alt="" coords="257,91,442,135"/>
+<area shape="rect" id="node4" href="$df/d74/classPHG4OuterHcalDetector.html#a432328097efc4cf92c1594005e9b80d1" title="PHG4OuterHcalDetector\l::ConsistencyCheck" alt="" coords="539,5,724,49"/>
+<area shape="rect" id="node6" href="$df/d74/classPHG4OuterHcalDetector.html#a9f55e777e35248cd06ac0f94bc59b03a" title="PHG4OuterHcalDetector\l::ConstructHcalScintillator\lAssembly" alt="" coords="250,211,449,271"/>
+<area shape="rect" id="node16" href="$d6/dcd/classPHG4OuterHcalFieldSetup.html#a90cb2c7ac01419bf3faf2b43626683f8" title="PHG4OuterHcalFieldSetup\l::get_Field_Manager_Gap" alt="" coords="533,261,730,305"/>
+<area shape="rect" id="node17" href="$df/d74/classPHG4OuterHcalDetector.html#a893db584d3fc855a092cc1b3731a03ba" title="PHG4OuterHcalDetector\l::ConstructSteelPlate" alt="" coords="257,415,442,459"/>
+<area shape="rect" id="node19" href="$d6/dcd/classPHG4OuterHcalFieldSetup.html#aca9178c4092f79a8bffa75575e632499" title="PHG4OuterHcalFieldSetup\l::get_Field_Manager_Iron" alt="" coords="251,483,448,527"/>
+<area shape="rect" id="node20" href="$dd/dae/classPHParameters.html#a60170f66cb1f70adb65134014151d180" title="PHParameters::get_string\l_param" alt="" coords="253,551,445,595"/>
+<area shape="rect" id="node21" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="239,619,460,647"/>
+<area shape="rect" id="node22" href="$df/d74/classPHG4OuterHcalDetector.html#aa1dbe5bca75d071ae514218e623b9fea" title="PHG4OuterHcalDetector\l::SetTiltViaNcross" alt="" coords="257,347,442,391"/>
+<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="816,29,1016,73"/>
+<area shape="rect" id="node7" href="$d1/da4/classPHG4OuterHcalDisplayAction.html#a0607af3c8bef7b67d40fa7dd49d9b9fb" title="PHG4OuterHcalDisplayAction\l::AddScintiVolume" alt="" coords="522,125,741,169"/>
+<area shape="rect" id="node8" href="$df/d74/classPHG4OuterHcalDetector.html#a06cd95ab41b4bb656c10116342608e98" title="PHG4OuterHcalDetector\l::ConstructHcalSingleScintillators" alt="" coords="508,193,755,237"/>
+<area shape="rect" id="node9" href="$df/d74/classPHG4OuterHcalDetector.html#a74680bbe2d1bcf687364acb954ccb8a4" title="PHG4OuterHcalDetector\l::ConstructScintillatorBox" alt="" coords="819,321,1013,365"/>
+<area shape="rect" id="node11" href="$d3/de7/classPHG4Detector.html#a02a35f200e91f5eb16ee16c537b5f61f" title="PHG4Detector::DisplayVolume" alt="" coords="803,97,1029,125"/>
+<area shape="rect" id="node12" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="823,149,1009,177"/>
+<area shape="rect" id="node13" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="830,389,1002,433"/>
+<area shape="rect" id="node14" href="$df/d02/classPHG4Utils.html#abdb6e84eedbd15893104110a0ed3ba88" title="PHG4Utils::get_theta" alt="" coords="835,201,997,229"/>
+<area shape="rect" id="node15" href="$df/d74/classPHG4OuterHcalDetector.html#af94cdf6247124475e849ddaee7d2762b" title="PHG4OuterHcalDetector\l::x_at_y" alt="" coords="823,253,1009,297"/>
+<area shape="rect" id="node10" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="1077,476,1232,520"/>
+<area shape="rect" id="node18" href="$df/d74/classPHG4OuterHcalDetector.html#a01af220c56561be1033a2574344ba340" title="PHG4OuterHcalDetector\l::ShiftSecantToTangent" alt="" coords="539,569,724,613"/>
+<area shape="rect" id="node23" href="$dd/dae/classPHParameters.html#a62881b44dd0564425633070316af66ec" title="PHParameters::set_int\l_param" alt="" coords="546,501,717,545"/>
+<area shape="rect" id="node24" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="537,381,726,409"/>
+<area shape="rect" id="node25" href="$dd/dae/classPHParameters.html#a75005aa44390e1eb574603b0b230152b" title="PHParameters::set_double\l_param" alt="" coords="532,433,731,477"/>
+</map>

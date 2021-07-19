@@ -1,0 +1,15 @@
+<map id="MvtxDefs::genHitSetKey" name="MvtxDefs::genHitSetKey">
+<area shape="rect" id="node2" href="$da/db1/classMakeActsGeometry.html#ad1297a652617e697364fc272f4d5a2e6" title="Get subdetector hitsetkey from the local sensor unit coordinates." alt="" coords="239,5,455,49"/>
+<area shape="rect" id="node9" href="$da/db1/classMakeActsGeometry.html#a6a0df6f2c9c54155c51979f2a11dc2db" title="MakeActsGeometry::getMvtx\lKeyFromNode" alt="" coords="239,73,455,117"/>
+<area shape="rect" id="node11" href="$de/d4d/classPHG4MvtxHitReco.html#a909a81a9eb5c91d222f0ed65462e4ed7" title="event processing" alt="" coords="245,141,449,185"/>
+<area shape="rect" id="node12" href="$d2/d5b/classMvtxPrototype2UnpackPRDF.html#a626563ed1855e37035028310326ae99b" title="MvtxPrototype2UnpackPRDF\l::process_event" alt="" coords="240,209,453,253"/>
+<area shape="rect" id="node13" href="$db/d0b/classMvtxPrototype2Align.html#aeff12d5545c286cd614af36555173d61" title="MvtxPrototype2Align\l::ReadAlignmentParFile" alt="" coords="258,277,435,321"/>
+<area shape="rect" id="node3" href="$da/db1/classMakeActsGeometry.html#ab9b4afbf5dfd3c6f7fa38830a6560377" title="MakeActsGeometry::makeMvtx\lMapPairs" alt="" coords="504,5,735,49"/>
+<area shape="rect" id="node4" href="$da/db1/classMakeActsGeometry.html#a6c06c33bcf0b960a5848047dfc80e54e" title="MakeActsGeometry::unpack\lVolumes" alt="" coords="784,5,995,49"/>
+<area shape="rect" id="node5" href="$da/db1/classMakeActsGeometry.html#a0a3e4f327303d53117efefac7463c669" title="Function that mimics ActsFW::GeometryExampleBase." alt="" coords="1043,13,1308,41"/>
+<area shape="rect" id="node6" href="$da/db1/classMakeActsGeometry.html#a6f8433331336def2c6ea713b281da9ed" title="Silicon layers made by BuildSiliconLayers and its helper functions." alt="" coords="1356,5,1579,49"/>
+<area shape="rect" id="node7" href="$da/db1/classMakeActsGeometry.html#aa809a1c2b47d8c089a0dc4a6a96d1cc8" title="Main function to build all acts geometry for use in the fitting modules." alt="" coords="1627,5,1837,49"/>
+<area shape="rect" id="node8" href="$da/db1/classMakeActsGeometry.html#a5938929f364b98db92fa809a54a635c6" title="MakeActsGeometry::InitRun" alt="" coords="1885,13,2093,41"/>
+<area shape="rect" id="node10" href="$da/db1/classMakeActsGeometry.html#a4fd2c0ddf3ddceb36ae2418a310adc63" title="Makes map of TrkrHitSetKey&lt;–&gt;TGeoNode." alt="" coords="503,73,736,117"/>
+<area shape="rect" id="node14" href="$db/d0b/classMvtxPrototype2Align.html#a1f1ce1f5e948832419d85fdf1e34d57e" title="run initialization" alt="" coords="539,277,700,321"/>
+</map>

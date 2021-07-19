@@ -1,0 +1,35 @@
+<map id="TrkrCluster::getZError" name="TrkrCluster::getZError">
+<area shape="rect" id="node2" href="$d5/d55/classPHTpcResiduals.html#a4d056858067cbeabfed1f7c381751599" title="PHTpcResiduals::calculate\lTpcResiduals" alt="" coords="231,5,429,49"/>
+<area shape="rect" id="node6" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a3c79117816d5dca82cb0f4dd2fee6a8d" title="TpcPrototypeGenFitTrkFitter\l::DisplayCluster" alt="" coords="225,329,435,373"/>
+<area shape="rect" id="node8" href="$d5/df8/classQAG4SimulationMicromegas.html#a7d91700abab98412e6b427f4098895ca" title="evaluate clusters" alt="" coords="223,73,437,117"/>
+<area shape="rect" id="node10" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="247,141,413,185"/>
+<area shape="rect" id="node12" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="236,209,424,253"/>
+<area shape="rect" id="node14" href="$d6/d17/classSVReco.html#af99925be18cc9afbb2b9936df3a925db" title="Uses the tracking clusters exclusively to make a GFTrack." alt="" coords="232,277,428,305"/>
+<area shape="rect" id="node24" href="$d8/dea/classTpcClusterCleaner.html#a6c7aecaf941b41630b44c447b8e2418e" title="TpcClusterCleaner::\lprocess_event" alt="" coords="253,397,407,441"/>
+<area shape="rect" id="node25" href="$dd/d60/classDumpTrkrClusterContainer.html#a2364cd4b34b87c83c93e7cf84436a90e" title="DumpTrkrClusterContainer\l::process_Node" alt="" coords="229,465,431,509"/>
+<area shape="rect" id="node26" href="$d0/d22/classPHGenFitTrkProp.html#ab3ea35b5669e7405b70e0a1eaad3cdb8" title="PHGenFitTrkProp::ReFitTrack" alt="" coords="225,533,435,561"/>
+<area shape="rect" id="node27" href="$de/d25/classPHGenFitTrkFitter.html#af07c5ea2636426357d02b5b697376db2" title="PHGenFitTrkFitter::\lReFitTrack" alt="" coords="257,653,403,697"/>
+<area shape="rect" id="node29" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8322a858cfb89cab60e4a04e7f82745b" title="TpcPrototypeGenFitTrkFitter\l::ReFitTrack" alt="" coords="225,585,435,629"/>
+<area shape="rect" id="node30" href="$d0/d22/classPHGenFitTrkProp.html#a203b7ffdfbb9841ea1f10baa7ba7b59f" title="PHGenFitTrkProp::TrkrCluster\lToPHGenFitMeasurement" alt="" coords="223,721,437,765"/>
+<area shape="rect" id="node3" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="485,13,711,41"/>
+<area shape="rect" id="node4" href="$d5/d55/classPHTpcResiduals.html#ac8936c9d7cf8808255c355520b304e95" title="PHTpcResiduals::processTracks" alt="" coords="763,13,995,41"/>
+<area shape="rect" id="node5" href="$d5/d55/classPHTpcResiduals.html#afb9145abb0d5d579afed2c31f700989a" title="PHTpcResiduals::process\l_event" alt="" coords="1049,5,1239,49"/>
+<area shape="rect" id="node7" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8861dffacdf05e47efc97b65adbafe32" title="Process Event, called for each event." alt="" coords="493,545,703,589"/>
+<area shape="rect" id="node9" href="$d5/df8/classQAG4SimulationMicromegas.html#aaf9244726798d2865626790e62f3a218" title="QAG4SimulationMicromegas\l::process_event" alt="" coords="491,73,705,117"/>
+<area shape="rect" id="node11" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="515,141,681,185"/>
+<area shape="rect" id="node13" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="510,209,686,253"/>
+<area shape="rect" id="node15" href="$d6/d17/classSVReco.html#a19081506d2161465fdf3f36527aa0e18" title="Initialization, called for initialization at each event." alt="" coords="527,277,669,305"/>
+<area shape="rect" id="node20" href="$d6/d17/classSVReco.html#aed33c3da67bd3f1b7c3c73127b8187ea" title="SVReco::refitTrack" alt="" coords="526,396,670,424"/>
+<area shape="rect" id="node16" href="$df/d9b/classRecoConversionEval.html#ab5e60cc47b4b3d33f9fdb4a83c2ff775" title="RecoConversionEval\l::doNodePointers" alt="" coords="800,303,959,347"/>
+<area shape="rect" id="node18" href="$d2/d6d/classVtxTest.html#ad1a3b9d5e730a3ba75f13a084e21bee5" title="VtxTest::process_event" alt="" coords="790,183,969,211"/>
+<area shape="rect" id="node19" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="799,235,960,279"/>
+<area shape="rect" id="node17" href="$df/d9b/classRecoConversionEval.html#a54bb2ea55f01b0d0dc8752fbee1bc237" title="RecoConversionEval\l::process_event" alt="" coords="1065,388,1223,432"/>
+<area shape="rect" id="node21" href="$df/d9b/classRecoConversionEval.html#ae0025d84438ba3f29cc99ec09cbb9f5b" title="Uses _vertexer to refit." alt="" coords="800,475,959,519"/>
+<area shape="rect" id="node22" href="$dc/d41/classConversion.html#a5a8976da958375a2e66f9c35017fb7be" title="Uses recoVertex and." alt="" coords="791,371,967,399"/>
+<area shape="rect" id="node23" href="$dc/d41/classConversion.html#a232908ec95e6d7b3bfd8883d19885971" title="Uses the truth vertex and SVReco to improve the fit of reco1 and reco2. Uses." alt="" coords="763,423,995,451"/>
+<area shape="rect" id="node28" href="$de/d25/classPHGenFitTrkFitter.html#afcdaabc6fd73922bb522d7fa7ef3a775" title="Process Event, called for each event." alt="" coords="525,653,671,697"/>
+<area shape="rect" id="node31" href="$d0/d22/classPHGenFitTrkProp.html#ac159ce1352f6004a2f51a520c287c339" title="KalmanTrkProp Call." alt="" coords="495,721,701,765"/>
+<area shape="rect" id="node34" href="$d0/d22/classPHGenFitTrkProp.html#a8de33eaa04103e00006e98f15ba808a0" title="PHGenFitTrkProp::TrackProp\lPatRec" alt="" coords="495,789,701,833"/>
+<area shape="rect" id="node32" href="$d0/d22/classPHGenFitTrkProp.html#ab11c2e61a1b78278fa4af7cf624c2538" title="Main function." alt="" coords="759,763,1000,791"/>
+<area shape="rect" id="node33" href="$d0/d22/classPHGenFitTrkProp.html#affb38f83e68a715da6a937c1e82dabd4" title="PHGenFitTrkProp::Process" alt="" coords="1048,763,1240,791"/>
+</map>

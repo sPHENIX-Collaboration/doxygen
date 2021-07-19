@@ -1,0 +1,16 @@
+<map id="TrkrDefs::getPhiElement" name="TrkrDefs::getPhiElement">
+<area shape="rect" id="node2" href="$de/d7f/classTrkrClusterHitAssocv2.html#a66bc07b1d0e5a30639107aee93cd51e2" title="Add association between cluster and hit." alt="" coords="257,5,426,49"/>
+<area shape="rect" id="node3" href="$d0/d2c/classTrkrClusterContainerv2.html#a5171f3458cfaf29ec8ab5240143ed75e" title="add a cluster with specific key" alt="" coords="253,73,430,117"/>
+<area shape="rect" id="node5" href="$d0/d2c/classTrkrClusterContainerv2.html#af1d868416ca86f928d1f256b08533b1f" title="find cluster matching given key" alt="" coords="253,141,430,185"/>
+<area shape="rect" id="node6" href="$d0/d2c/classTrkrClusterContainerv2.html#a24cc21011b3fde9090c27d059822a670" title="find cluster matching key if any, add a new one otherwise and return cluster" alt="" coords="253,209,430,253"/>
+<area shape="rect" id="node7" href="$de/d7f/classTrkrClusterHitAssocv2.html#aba3a8dfc25541a356af989b82f0d3d8b" title="get pointer to cluster&#45;to&#45;hit map corresponding to a given hitset id" alt="" coords="257,277,426,321"/>
+<area shape="rect" id="node8" href="$d0/d2c/classTrkrClusterContainerv2.html#a650081c7379e800c262bd43d8baceaf9" title="get pointer to map containing clusters mathching hitset" alt="" coords="253,345,430,389"/>
+<area shape="rect" id="node9" href="$d0/d2c/classTrkrClusterContainerv2.html#aada10db809b87d04d24a596c3e0c636b" title="get all clusters matching hitset" alt="" coords="253,413,430,457"/>
+<area shape="rect" id="node10" href="$de/d7f/classTrkrClusterHitAssocv2.html#ab8405e6c7463ece9ce2189d3060c51ec" title="Get all the hits associated with a cluster by key." alt="" coords="257,481,426,525"/>
+<area shape="rect" id="node11" href="$d6/d3f/namespaceTrkrDefs.html#a44e037fe2a9ef32a80cb72f8fa03136b" title="TrkrDefs::getPhiElement" alt="" coords="248,549,435,577"/>
+<area shape="rect" id="node12" href="$d0/d2c/classTrkrClusterContainerv2.html#ab415f6a854e6df678f6d8ce1d9b58e3e" title="identify object" alt="" coords="253,601,430,645"/>
+<area shape="rect" id="node13" href="$d6/d5e/classTPCGemGainCalb.html#a8dc652d5280fc91bfacf1b6db70bfb5c" title="event processing" alt="" coords="240,669,443,713"/>
+<area shape="rect" id="node14" href="$d0/d2c/classTrkrClusterContainerv2.html#ab826d3dd4673decc3397a889a81c72e7" title="remove cluster" alt="" coords="253,737,430,781"/>
+<area shape="rect" id="node4" href="$d0/d2c/classTrkrClusterContainerv2.html#a3d3b74c3e3450768a1aed541ea835ae5" title="add a cluster" alt="" coords="491,73,668,117"/>
+<area shape="rect" id="node15" href="$d0/d2c/classTrkrClusterContainerv2.html#a8ca510216ef0800dd6b0be0c37d42485" title="remove cluster" alt="" coords="491,737,668,781"/>
+</map>

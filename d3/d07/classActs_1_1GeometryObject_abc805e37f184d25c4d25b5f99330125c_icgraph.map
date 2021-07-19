@@ -1,0 +1,42 @@
+<map id="Acts::GeometryObject::geometryId" name="Acts::GeometryObject::geometryId">
+<area shape="rect" id="node2" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#a3be7022a025a69ab5a8a7aef21b52ef3" title="Acts::JsonGeometryConverter\l::addSurfaceToJson" alt="" coords="235,5,457,49"/>
+<area shape="rect" id="node3" href="$d3/d07/classActs_1_1GeometryObject.html#ab156ca1460c8174c20427e4832d32f89" title="Acts::GeometryObject\l::assignGeometryId" alt="" coords="260,73,432,117"/>
+<area shape="rect" id="node6" href="$d6/d87/classActs_1_1KalmanFitter_1_1Actor.html#a7f1635683085410bd650d0620ed6977c" title="Kalman actor operation : backward update." alt="" coords="259,753,433,797"/>
+<area shape="rect" id="node8" href="$dd/d7e/namespaceActs_1_1Test.html#a6be9707dc235928a7c331961ece6fd24" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="252,209,440,253"/>
+<area shape="rect" id="node9" href="$d8/d7e/classActs_1_1VolumeMaterialMapper.html#a6770ebcd8d656df0bd2eeec29170bb42" title="check and insert" alt="" coords="237,277,455,321"/>
+<area shape="rect" id="node10" href="$d6/d42/classActs_1_1SurfaceMaterialMapper.html#a211c0ae365139c604d32ef5c30406ea7" title="check and insert" alt="" coords="237,345,455,389"/>
+<area shape="rect" id="node11" href="$da/d29/classActsExamples_1_1RootMaterialWriter.html#a1c6c0ee93bbae25071a09b16eb96b7f6" title="ActsExamples::RootMaterial\lWriter::collectMaterial" alt="" coords="241,413,451,457"/>
+<area shape="rect" id="node12" href="$d6/d42/classActs_1_1SurfaceMaterialMapper.html#ae7d76d07a16b9760afc0c1182201d3d9" title="check and insert" alt="" coords="237,481,455,525"/>
+<area shape="rect" id="node13" href="$d8/d74/classActs_1_1JsonGeometryConverter.html#ad215289e3308e79e92b999b6e64f0814" title="Acts::JsonGeometryConverter\l::convertToRep" alt="" coords="235,549,457,593"/>
+<area shape="rect" id="node14" href="$d5/db0/exceptionActsExamples_1_1CsvPlanarClusterReader.html#a726ef25fd334a1bf31640ae4c7f76e09" title="ActsExamples::CsvPlanarCluster\lReader::CsvPlanarClusterReader" alt="" coords="225,617,467,661"/>
+<area shape="rect" id="node15" href="$d7/db9/exceptionActsExamples_1_1DigitizationAlgorithm.html#a280c927d146c1c5d0a6020b8cffe03b7" title="ActsExamples::Digitization\lAlgorithm::DigitizationAlgorithm" alt="" coords="225,685,467,729"/>
+<area shape="rect" id="node16" href="$d6/d87/classActs_1_1KalmanFitter_1_1Actor.html#aeec17cdf08da78e9704d4a0288738693" title="Kalman actor operation : update." alt="" coords="273,141,419,185"/>
+<area shape="rect" id="node17" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a74e2953a1dcd4240bd2d20ad76627df5" title="CombinatorialKalmanFilter actor operation :" alt="" coords="803,1233,1008,1277"/>
+<area shape="rect" id="node19" href="$dc/d23/classActs_1_1CombinatorialKalmanFilter.html#a7a8b1352621f457ab4d0e180a28b1ed6" title="Acts::CombinatorialKalman\lFilter::findTracks" alt="" coords="243,925,449,969"/>
+<area shape="rect" id="node21" href="$d8/d88/classActs_1_1KalmanFitter.html#ad496c7d7aebacf5e440254f9fc958f91" title="Acts::KalmanFitter::fit" alt="" coords="261,873,431,901"/>
+<area shape="rect" id="node22" href="$d1/d3d/namespaceActs_1_1EventDataView3DTest.html#abd9001345ed2f10be460bc051a642c3d" title="Acts::EventDataView3DTest\l::testMultiTrajectory" alt="" coords="530,820,739,864"/>
+<area shape="rect" id="node24" href="$d0/dcd/structActsSurfaceMaps.html#a3df0db25a4eb87ca9ad9ac1434fbffa0" title="true if given surface corresponds to Micromegas" alt="" coords="515,1037,755,1081"/>
+<area shape="rect" id="node27" href="$d0/dcd/structActsSurfaceMaps.html#ab2c8e84382f9cea3e606078200165cd7" title="true if given surface corresponds to TPC" alt="" coords="229,993,463,1021"/>
+<area shape="rect" id="node29" href="$d3/df0/classPHActsSiliconSeeding.html#a7b6958881a5b50eacb592f85b6003239" title="Create a seeding space point out of an Acts::SourceLink." alt="" coords="263,1097,429,1141"/>
+<area shape="rect" id="node33" href="$d6/d87/classActs_1_1KalmanFitter_1_1Actor.html#a0d0f1fa384963b9ae50a0f0625723b5a" title="Kalman actor operation : material interaction." alt="" coords="247,1233,445,1277"/>
+<area shape="rect" id="node34" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#af61476980b053d33c886505fdaeba98b" title="CombinatorialKalmanFilter actor operation : material interaction." alt="" coords="231,1165,461,1209"/>
+<area shape="rect" id="node36" href="$db/d7c/structActsFatras_1_1detail_1_1Interactor.html#afb3a19bf56420da434ed4bf175739c59" title="ActsFatras::detail\l::Interactor::operator()" alt="" coords="260,1353,432,1397"/>
+<area shape="rect" id="node37" href="$d3/d82/structActs_1_1CKFSourceLinkSelector.html#ac3eaf543ecfcf84512f16e6d896e2b4b" title="Operater that select the source links compatible with the given track parameter on a surface..." alt="" coords="238,1421,454,1465"/>
+<area shape="rect" id="node38" href="$dd/d89/structActs_1_1VolumeMaterialMapper_1_1BoundSurfaceSelector.html#a056446e58d83b2adfeb306051e4c6c75" title="Acts::VolumeMaterialMapper\l::BoundSurfaceSelector::\loperator()" alt="" coords="237,1489,455,1549"/>
+<area shape="rect" id="node39" href="$d6/d06/namespaceActs_1_1detail.html#a9cdce99a94970d5ff0ca9158e0fc64a4" title="Acts::detail::printBound\lParameters" alt="" coords="255,1573,437,1617"/>
+<area shape="rect" id="node40" href="$dd/d7e/namespaceActs_1_1Test.html#a802989894924cf69073939d65d4bf882" title="Acts::Test::runTest" alt="" coords="273,1641,419,1669"/>
+<area shape="rect" id="node41" href="$de/d4a/classActsExamples_1_1RootMaterialTrackWriter.html#a79c1f0311920af6f8b762abc414228af" title="ActsExamples::RootMaterial\lTrackWriter::writeT" alt="" coords="241,1693,451,1737"/>
+<area shape="rect" id="node4" href="$da/d28/classActs_1_1Layer.html#ab6d60981de89b4a5c85c45e10d10ecc1" title="Acts::Layer::closeGeometry" alt="" coords="531,56,739,84"/>
+<area shape="rect" id="node5" href="$dd/dcd/classActs_1_1TrackingVolume.html#ac6de1d95c699a6b3540a660de7467395" title="Acts::TrackingVolume\l::closeGeometry" alt="" coords="822,75,989,119"/>
+<area shape="rect" id="node7" href="$d6/d87/classActs_1_1KalmanFitter_1_1Actor.html#a38e2c20715a2d529e9c4e4dcda0524b1" title="Kalman actor operation." alt="" coords="561,747,708,791"/>
+<area shape="rect" id="node18" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a3c6bfb0eaedc670684116def6317c93a" title="CombinatorialKalmanFilter actor operation." alt="" coords="1056,1203,1261,1247"/>
+<area shape="rect" id="node20" href="$dd/d7e/namespaceActs_1_1Test.html#a15c45d9e89f33891295ed8665471ce5a" title="Unit test for CombinatorialKalmanFilter with measurements along the x&#45;axis." alt="" coords="541,901,729,945"/>
+<area shape="rect" id="node23" href="$dd/d7e/namespaceActs_1_1Test.html#a345f9ec63458bde003e07b3c64399fbd" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="811,820,999,864"/>
+<area shape="rect" id="node25" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="804,1012,1007,1040"/>
+<area shape="rect" id="node26" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="1067,1004,1250,1048"/>
+<area shape="rect" id="node28" href="$d1/d49/classPHActsTrkFitter.html#acc5917f8ce6e9708a1f97fca3c787cb8" title="PHActsTrkFitter::getSurface\lVector" alt="" coords="533,969,737,1013"/>
+<area shape="rect" id="node30" href="$d3/df0/classPHActsSiliconSeeding.html#ae494698198694311a69a91e49e3884af" title="Get all space points for the seeder." alt="" coords="551,1105,718,1149"/>
+<area shape="rect" id="node31" href="$d3/df0/classPHActsSiliconSeeding.html#aa9ab525f2b0cbc384a942cc487b67f13" title="PHActsSiliconSeeding\l::runSeeder" alt="" coords="822,1105,989,1149"/>
+<area shape="rect" id="node32" href="$d3/df0/classPHActsSiliconSeeding.html#a6e85a93f29d0fbfe690e0e28c9340fae" title="PHActsSiliconSeeding\l::process_event" alt="" coords="1075,1105,1242,1149"/>
+<area shape="rect" id="node35" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a66a277eef47d3e464df4e439bb80708b" title="Kalman actor operation : reset propagation." alt="" coords="532,1173,737,1217"/>
+</map>

@@ -1,0 +1,28 @@
+var structActsExamples_1_1PropagationAlgorithm_1_1Config =
+[
+    [ "Config", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a83af122a165de9f2fd5b02ab75cc895a", null ],
+    [ "correlations", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#ae021a42a8b2f2f516cf0b27e38e71052", null ],
+    [ "covariances", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a4a2555babc802cb7daa55ec7803405fd", null ],
+    [ "covarianceTransport", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a2901e9e8d0c6fdf1df6a6761dc76e546", null ],
+    [ "d0Sigma", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#ac0793938c84c0e7f74d737ed9156ceec", null ],
+    [ "debugOutput", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a57de176de54f8a29e08af25c8ed36cd8", null ],
+    [ "energyLoss", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#aca7d0a1680f2c6c80ca648bbdfe1ff9d", null ],
+    [ "etaRange", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a96d37ec6c9f58d0d37db9f28574b3fc1", null ],
+    [ "maxStepSize", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a7b6fc053c67627944fa94cd487534f1b", null ],
+    [ "mode", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#ac24d77a3c50310a31ebf2bd1af4e8a9d", null ],
+    [ "multipleScattering", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#ab531845c94fd82a38a5f03cab2e65050", null ],
+    [ "ntests", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a81b19ad2d76ddb9db06a24eab47127d2", null ],
+    [ "phiRange", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a8980f2d80b397e57ec2cd480d2f066ae", null ],
+    [ "phiSigma", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a1e9045ec746872ceb0d4b5fd408e7ef9", null ],
+    [ "propagationMaterialCollection", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a3c37e5718f089951fda8ce5b007a5e9d", null ],
+    [ "propagationStepCollection", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#af44a84dc124bd05df2916fc590c7abc7", null ],
+    [ "propagator", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a5c6ab555821ca11da269043f05872195", null ],
+    [ "ptLoopers", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a254b65cc39035c2d4dca0513332e27ad", null ],
+    [ "ptRange", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a284f05e661524e09f5591b1354800f7a", null ],
+    [ "qpSigma", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a2d663683c2e6424f78632557e1780b1a", null ],
+    [ "randomNumberSvc", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a4ad925d89edf9d16ba346570ea20a4ce", null ],
+    [ "recordMaterialInteractions", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a13123219c2c42c7283aeb662acc33420", null ],
+    [ "thetaSigma", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a2f791720a9e118404cf4d27c82df7a55", null ],
+    [ "tSigma", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#adf1cc4ace9512aa2342884ab17995577", null ],
+    [ "z0Sigma", "d3/dc8/structActsExamples_1_1PropagationAlgorithm_1_1Config.html#a243bc96b1da9715895a68eb5fbacf559", null ]
+];

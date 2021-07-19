@@ -1,0 +1,51 @@
+<map id="PHActsTrkFitter::process_event" name="PHActsTrkFitter::process_event">
+<area shape="rect" id="node2" href="$d7/d8b/classSvtxTrackMap.html#a5a6e4ad61aafbf8596faa4cf99d48d00" title="SvtxTrackMap::clear" alt="" coords="259,5,416,33"/>
+<area shape="rect" id="node3" href="$d0/d5e/classPHTimer.html#a7872e5ee686a56214a532aa1f333f3f7" title="get cumulated time" alt="" coords="1071,2035,1311,2063"/>
+<area shape="rect" id="node4" href="$d7/d8b/classSvtxTrackMap.html#a37842b6cc664f1629956aefb7efcd853" title="SvtxTrackMap::insert" alt="" coords="521,469,683,497"/>
+<area shape="rect" id="node5" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="236,1425,439,1453"/>
+<area shape="rect" id="node23" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="1103,907,1279,935"/>
+<area shape="rect" id="node32" href="$d0/d5e/classPHTimer.html#a433d96c3401380d49ff01acfd16ac69c" title="Restart timer." alt="" coords="1125,1528,1257,1556"/>
+<area shape="rect" id="node34" href="$d0/d5e/classPHTimer.html#adce6f9a85834e59bd154b9c624ee4e41" title="stops the counter" alt="" coords="1133,1629,1249,1657"/>
+<area shape="rect" id="node50" href="$d7/d8b/classSvtxTrackMap.html#a508e23a620af3b20bfc0be05aa5b4ada" title="SvtxTrackMap::size" alt="" coords="263,2215,412,2243"/>
+<area shape="rect" id="node6" href="$d1/d49/classPHActsTrkFitter.html#a1e5d8bf2903922225cb052e58364a32d" title="PHActsTrkFitter::fitTrack" alt="" coords="512,1648,692,1676"/>
+<area shape="rect" id="node7" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="513,2008,691,2036"/>
+<area shape="rect" id="node10" href="$d1/d49/classPHActsTrkFitter.html#ab2c7ee6fe117297ed769a1f157e6fe36" title="PHActsTrkFitter::getSource\lLinks" alt="" coords="503,521,701,565"/>
+<area shape="rect" id="node24" href="$d1/d49/classPHActsTrkFitter.html#acc5917f8ce6e9708a1f97fca3c787cb8" title="PHActsTrkFitter::getSurface\lVector" alt="" coords="500,821,704,865"/>
+<area shape="rect" id="node29" href="$d1/d49/classPHActsTrkFitter.html#ae985e725863c31ae470cf238f063c804" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="507,1580,697,1624"/>
+<area shape="rect" id="node42" href="$d1/d49/classPHActsTrkFitter.html#ad1f46a808aa60282792ed7f1689ab350" title="PHActsTrkFitter::getVertex" alt="" coords="796,1853,992,1881"/>
+<area shape="rect" id="node43" href="$d0/dcd/structActsSurfaceMaps.html#a3df0db25a4eb87ca9ad9ac1434fbffa0" title="true if given surface corresponds to Micromegas" alt="" coords="774,1087,1014,1131"/>
+<area shape="rect" id="node44" href="$d1/d49/classPHActsTrkFitter.html#ac4f4895d5887d4587b1b69238d9a1438" title="PHActsTrkFitter::printTrackSeed" alt="" coords="487,1299,717,1327"/>
+<area shape="rect" id="node49" href="$d1/d49/classPHActsTrkFitter.html#a08e97dcb374554f24030debacd4a302c" title="PHActsTrkFitter::setDefault\lCovariance" alt="" coords="501,889,703,933"/>
+<area shape="rect" id="node8" href="$dc/d11/Prototype2_2EMCal_2macros_2SaveCanvas_8m.html#a8efe7494567713c8ec7a6803834a0bb6" title="print" alt="" coords="867,2008,921,2036"/>
+<area shape="rect" id="node9" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="806,2060,982,2088"/>
+<area shape="rect" id="node11" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="782,589,1006,617"/>
+<area shape="rect" id="node12" href="$d2/dcb/classActsExamples_1_1TrkrClusterSourceLink.html#afaa533302dd3a042be098235ac313fba" title="ActsExamples::TrkrCluster\lSourceLink::cluskey" alt="" coords="794,641,994,685"/>
+<area shape="rect" id="node13" href="$d2/dcb/classActsExamples_1_1TrkrClusterSourceLink.html#aefa9723f1ddd5299571de9de7e1004e3" title="ActsExamples::TrkrCluster\lSourceLink::covariance" alt="" coords="794,709,994,753"/>
+<area shape="rect" id="node14" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="789,161,999,189"/>
+<area shape="rect" id="node15" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="813,213,975,257"/>
+<area shape="rect" id="node16" href="$d2/dcb/classActsExamples_1_1TrkrClusterSourceLink.html#a2c5efb990059c65e32e8f3007bf673ab" title="ActsExamples::TrkrCluster\lSourceLink::geoId" alt="" coords="794,281,994,325"/>
+<area shape="rect" id="node17" href="$d1/d49/classPHActsTrkFitter.html#ab77cb80abbbdb129ba51367eedf46f51" title="PHActsTrkFitter::getSurface" alt="" coords="792,109,996,137"/>
+<area shape="rect" id="node19" href="$d2/dcb/classActsExamples_1_1TrkrClusterSourceLink.html#a9a0878108f01ce74e0fbd42528d23940" title="ActsExamples::TrkrCluster\lSourceLink::location" alt="" coords="794,453,994,497"/>
+<area shape="rect" id="node20" href="$d2/dcb/classActsExamples_1_1TrkrClusterSourceLink.html#ade1fc9419aa94201928be6c8017ca917" title="Needs referenceSurface function to satisfy SourceLinkConcept." alt="" coords="784,521,1004,565"/>
+<area shape="rect" id="node21" href="$da/de5/ThicknessScan_8m.html#a4ac77180a3cbc0f0c4682cb0fff27a6c" title="surf" alt="" coords="870,777,918,805"/>
+<area shape="rect" id="node22" href="$de/d7d/classActs_1_1Surface.html#ae56954ccd48517348e1afe9518a8e727" title="Acts::Surface::toStream" alt="" coords="803,401,985,429"/>
+<area shape="rect" id="node18" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="1087,101,1295,145"/>
+<area shape="rect" id="node25" href="$d1/d49/classPHActsTrkFitter.html#a3181b1d52bdd464951975f7e828bf230" title="PHActsTrkFitter::checkSurfaceVec" alt="" coords="771,829,1017,857"/>
+<area shape="rect" id="node26" href="$d0/dcd/structActsSurfaceMaps.html#ab2c8e84382f9cea3e606078200165cd7" title="true if given surface corresponds to TPC" alt="" coords="777,1035,1011,1063"/>
+<area shape="rect" id="node27" href="$d3/d07/classActs_1_1GeometryObject.html#abc805e37f184d25c4d25b5f99330125c" title="Acts::GeometryObject\l::geometryId" alt="" coords="1105,1023,1277,1067"/>
+<area shape="rect" id="node28" href="$d7/d33/classActs_1_1GeometryIdentifier.html#abc1ccf966fe5fc7f517c6775b5d38623" title="Return the volume identifier." alt="" coords="1096,1091,1285,1135"/>
+<area shape="rect" id="node30" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="826,1681,962,1709"/>
+<area shape="rect" id="node31" href="$d2/db8/classSvtxTrack.html#a0db4feda5e8283176430ebbdb2e36f9a" title="SvtxTrack::get_vertex_id" alt="" coords="1098,1905,1283,1933"/>
+<area shape="rect" id="node37" href="$d1/d49/classPHActsTrkFitter.html#a714bbb8c63ac56b40fcb6253f6065ccd" title="Convert the acts track fit result to an svtx track." alt="" coords="790,1785,998,1829"/>
+<area shape="rect" id="node33" href="$d0/d5e/classPHTimer.html#aa92e3fe4a0a1799f39743eda9ef9d497" title="gets time from cpu clock counts" alt="" coords="1563,1567,1714,1611"/>
+<area shape="rect" id="node35" href="$d0/d5e/classPHTimer.html#a976738876ad978116fdc4549a3765685" title="retrieve elapsed value since last restart (in ms)" alt="" coords="1359,1631,1499,1659"/>
+<area shape="rect" id="node36" href="$d0/d5e/classPHTimer.html#aa75ff2c27aba40e7ef0a934f9a3355c2" title="returns difference between to time" alt="" coords="1547,1635,1731,1663"/>
+<area shape="rect" id="node38" href="$db/dd7/classSvtxVertexMap.html#a8d1691d53654bd43926a333f0c42e800" title="SvtxVertexMap::get" alt="" coords="1113,1801,1268,1829"/>
+<area shape="rect" id="node39" href="$d2/d6d/classSvtxVertex.html#a233c6da9e4f023ee15b8d1298cde9ac3" title="SvtxVertex::get_x" alt="" coords="1121,1853,1261,1881"/>
+<area shape="rect" id="node40" href="$d2/d6d/classSvtxVertex.html#a2b5eda5e1b6f143c4963c63b249a432c" title="SvtxVertex::get_y" alt="" coords="1121,1749,1261,1777"/>
+<area shape="rect" id="node41" href="$d2/d6d/classSvtxVertex.html#acd46c82a2b067db8482f53280197239f" title="SvtxVertex::get_z" alt="" coords="1121,1697,1260,1725"/>
+<area shape="rect" id="node45" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a7c6275517b677c946adef4922ba2afcc" title="Particle electric charge." alt="" coords="765,1359,1023,1403"/>
+<area shape="rect" id="node46" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#acfcdb25cfabf88e03315e569e6d4ece4" title="Optional covariance matrix." alt="" coords="765,1155,1023,1199"/>
+<area shape="rect" id="node47" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a2b98cecaa5f095c40a16b2be854bfaf9" title="Momentum three&#45;vector." alt="" coords="765,1223,1023,1267"/>
+<area shape="rect" id="node48" href="$d5/dbb/classActs_1_1SingleBoundTrackParameters.html#a4b2ca7926011705fb822cf5a69b0e17b" title="Acts::SingleBoundTrackParameters\l::position" alt="" coords="765,1291,1023,1335"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="InttDefs::genHitSetKey" name="InttDefs::genHitSetKey">
+<area shape="rect" id="node2" href="$d6/d9e/namespaceInttDefs.html#ac29c04abf033fc44815ffb9db43aeea5" title="Generate a cluster key from indeces." alt="" coords="253,325,416,353"/>
+<area shape="rect" id="node23" href="$d8/df1/namespaceMvtxDefs.html#a9205343fdba72e5ac8b44946102af8ae" title="Generate a cluster key from indeces." alt="" coords="249,441,421,469"/>
+<area shape="rect" id="node28" href="$d7/db0/namespaceTpcDefs.html#a0202375ade5010ae596a2e0b7c7f5fd0" title="Generate a cluster key from indeces." alt="" coords="252,557,417,585"/>
+<area shape="rect" id="node36" href="$d6/d3f/namespaceTrkrDefs.html#a53af1843abe50e467a06d2307f7fe0eb" title="TrkrDefs::getClusKeyHi" alt="" coords="247,609,423,637"/>
+<area shape="rect" id="node37" href="$d6/d3f/namespaceTrkrDefs.html#a36fd0eb8c5bb3f21475acfec8965cf3e" title="Get a valid low / hi range for cluskey given tracker id &amp; layer." alt="" coords="246,661,423,689"/>
+<area shape="rect" id="node38" href="$d6/d3f/namespaceTrkrDefs.html#adc0b8a9c794036b9adb3ff5567636f02" title="TrkrDefs::getHitSetKeyHi" alt="" coords="241,765,429,793"/>
+<area shape="rect" id="node40" href="$d6/d3f/namespaceTrkrDefs.html#a201667d02154da2cdaa4780616ea0c32" title="Get a valid low / hi range for hitsetkey given tracker id &amp; layer." alt="" coords="239,713,430,741"/>
+<area shape="rect" id="node41" href="$da/db1/classMakeActsGeometry.html#af74b4bf4b1279e8a92921bfe162a16c3" title="MakeActsGeometry::getIntt\lHitSetKeyFromCoords" alt="" coords="231,817,438,861"/>
+<area shape="rect" id="node46" href="$da/db1/classMakeActsGeometry.html#aaa76791eb3537091abf15be6d1eb58dc" title="Get hitsetkey from TGeoNode for each detector geometry." alt="" coords="231,885,438,929"/>
+<area shape="rect" id="node48" href="$d2/d5b/classMvtxPrototype2UnpackPRDF.html#aa377396bd6688ebca4afeada60f4c9ba" title="MvtxPrototype2UnpackPRDF\l::MakeHits" alt="" coords="228,953,441,997"/>
+<area shape="rect" id="node50" href="$dd/deb/classPHG4InttHitReco.html#a2c07a1ba7e82432a7d5de16339a80099" title="event processing" alt="" coords="237,1021,432,1065"/>
+<area shape="rect" id="node3" href="$d9/d24/classPHTruthClustering.html#a8fb52ae244819fcfc7e7530f2beaddc9" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="531,493,681,537"/>
+<area shape="rect" id="node5" href="$d4/de4/classSvtxTruthEval.html#a10ce69fd37eb1db4dbc77cbfa7affc98" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="537,279,675,323"/>
+<area shape="rect" id="node21" href="$d5/d86/classInttClusterizer.html#aa896d5f1adf8ac34a5ae766fd4d557bc" title="InttClusterizer::Cluster\lLadderCells" alt="" coords="519,121,693,165"/>
+<area shape="rect" id="node4" href="$d9/d24/classPHTruthClustering.html#a32f3b05811ac36d8f08ae3c565edcfca" title="PHTruthClustering::\lprocess_event" alt="" coords="801,532,951,576"/>
+<area shape="rect" id="node6" href="$d1/d1e/classSvtxClusterEval.html#af774b5eb2254c2427cd21fbd29b47b6f" title="SvtxClusterEval::all\l_truth_clusters" alt="" coords="800,73,952,117"/>
+<area shape="rect" id="node7" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="793,141,959,185"/>
+<area shape="rect" id="node9" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1360,256,1548,300"/>
+<area shape="rect" id="node11" href="$d1/d1e/classSvtxClusterEval.html#a7619937ca04fc86bf74e13a08b1d1959" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="1066,192,1258,236"/>
+<area shape="rect" id="node16" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="778,312,974,372"/>
+<area shape="rect" id="node8" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="1079,124,1245,168"/>
+<area shape="rect" id="node10" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1619,256,1795,300"/>
+<area shape="rect" id="node12" href="$d3/d32/classActsEvaluator.html#aab3625b68ba0383ffa858dc3e4a69142" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="1359,188,1549,232"/>
+<area shape="rect" id="node13" href="$d3/d32/classActsEvaluator.html#a7bd073c867021570aeaa27cfbd64d966" title="ActsEvaluator::fillProto\lTrack" alt="" coords="1620,120,1795,164"/>
+<area shape="rect" id="node15" href="$d3/d32/classActsEvaluator.html#adfc0d467a2bfb926be361c88761b2667" title="ActsEvaluator::visitTrack\lStates" alt="" coords="1613,188,1801,232"/>
+<area shape="rect" id="node14" href="$d3/d32/classActsEvaluator.html#a1dcade956fd83a14249e38b5783b0f00" title="Function to evaluate Trajectories fit results from the KF." alt="" coords="1849,163,2091,191"/>
+<area shape="rect" id="node17" href="$dd/de6/classKFParticle__truthAndDetTools.html#ad75d71be845ff83a6bb6839b5e151e3c" title="KFParticle_truthAndDetTools\l::getTruthTrack" alt="" coords="1057,363,1267,407"/>
+<area shape="rect" id="node18" href="$dd/de6/classKFParticle__truthAndDetTools.html#aacd7464b07f03f83a4d7e2de49e63a50" title="KFParticle_truthAndDetTools\l::fillTruthBranch" alt="" coords="1349,344,1559,388"/>
+<area shape="rect" id="node20" href="$dd/de6/classKFParticle__truthAndDetTools.html#ac462727f039ecf9c65e6d346bff72180" title="KFParticle_truthAndDetTools\l::getHepMCInfo" alt="" coords="1349,412,1559,456"/>
+<area shape="rect" id="node19" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="1634,377,1781,421"/>
+<area shape="rect" id="node22" href="$d5/d86/classInttClusterizer.html#a12f21f7ac9373c592f8ba3e7287f6c8a" title="event processing" alt="" coords="787,5,965,49"/>
+<area shape="rect" id="node24" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="498,441,714,469"/>
+<area shape="rect" id="node26" href="$df/d74/classMvtxPrototype2Clusterizer.html#a842489301c71c7d134ffb3a8e3dfbfba" title="MvtxPrototype2Clusterizer\l::ClusterMvtx" alt="" coords="506,373,706,417"/>
+<area shape="rect" id="node25" href="$dc/d12/classMvtxClusterizer.html#a65c6ecb960ca545df424342dbe6de5b8" title="event processing" alt="" coords="783,464,969,508"/>
+<area shape="rect" id="node27" href="$df/d74/classMvtxPrototype2Clusterizer.html#a0d7f0ea368406a28618206850e92e97e" title="event processing" alt="" coords="776,396,976,440"/>
+<area shape="rect" id="node29" href="$d2/d8c/TpcClusterizer_8cc.html#a69c4b839779b240325d7e0089a124b2a" title="calc_cluster_parameter" alt="" coords="517,561,695,589"/>
+<area shape="rect" id="node32" href="$d6/d03/classTpcPrototypeClusterizer.html#ad790455b460f30f668670fcd15cc36fb" title="TpcPrototypeClusterizer\l::process_event" alt="" coords="513,613,699,657"/>
+<area shape="rect" id="node33" href="$dd/d60/classTpcPrototypeUnpacker.html#a018feffce2f4cf203fb9efc95d3c701a" title="ClusterData &amp;cluster &#45;&gt; DST / TrkrClusterContainer." alt="" coords="518,681,694,725"/>
+<area shape="rect" id="node30" href="$d2/d8c/TpcClusterizer_8cc.html#a74f8414a645296778e3ef9cf612e6066" title="ProcessSector" alt="" coords="818,600,934,628"/>
+<area shape="rect" id="node31" href="$de/d25/classTpcClusterizer.html#ac66fda514e9c1985f3f083ef79934137" title="TpcClusterizer::process\l_event" alt="" coords="1072,592,1252,636"/>
+<area shape="rect" id="node34" href="$dd/d60/classTpcPrototypeUnpacker.html#a3f531b94d26bba622c59c5b71ca4dd8e" title="Clustering then prepare IOs." alt="" coords="788,681,964,725"/>
+<area shape="rect" id="node35" href="$dd/d60/classTpcPrototypeUnpacker.html#a3c458d1bda422672ff79946e5816f197" title="TpcPrototypeUnpacker\l::process_event" alt="" coords="1074,681,1250,725"/>
+<area shape="rect" id="node39" href="$d1/d47/classTrkrHitSetContainerv1.html#a34af9936fae8cc06b20b634a5223ec03" title="return all HitSets matching a given detid" alt="" coords="521,749,691,793"/>
+<area shape="rect" id="node42" href="$da/db1/classMakeActsGeometry.html#a1a27c0b3d2775dc4b48913ab77a8927a" title="MakeActsGeometry::makeIntt\lMapPairs" alt="" coords="495,817,717,861"/>
+<area shape="rect" id="node43" href="$da/db1/classMakeActsGeometry.html#a6c06c33bcf0b960a5848047dfc80e54e" title="MakeActsGeometry::unpack\lVolumes" alt="" coords="771,817,981,861"/>
+<area shape="rect" id="node44" href="$da/db1/classMakeActsGeometry.html#a0a3e4f327303d53117efefac7463c669" title="Function that mimics ActsFW::GeometryExampleBase." alt="" coords="1029,825,1295,853"/>
+<area shape="rect" id="node45" href="$da/db1/classMakeActsGeometry.html#a6f8433331336def2c6ea713b281da9ed" title="Silicon layers made by BuildSiliconLayers and its helper functions." alt="" coords="1343,817,1565,861"/>
+<area shape="rect" id="node47" href="$da/db1/classMakeActsGeometry.html#a4fd2c0ddf3ddceb36ae2418a310adc63" title="Makes map of TrkrHitSetKey&lt;–&gt;TGeoNode." alt="" coords="489,885,723,929"/>
+<area shape="rect" id="node49" href="$d2/d5b/classMvtxPrototype2UnpackPRDF.html#a626563ed1855e37035028310326ae99b" title="MvtxPrototype2UnpackPRDF\l::process_event" alt="" coords="499,953,713,997"/>
+</map>

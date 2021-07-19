@@ -1,0 +1,51 @@
+<map id="PHTpcTrackFollower::followTracks" name="PHTpcTrackFollower::followTracks">
+<area shape="rect" id="node2" href="$d5/d1b/classPHGenFit2_1_1Track.html#a52e009b855b4cd6ba4950d1eb449e7f7" title="PHGenFit2::Track::get\l_cluster_keys" alt="" coords="209,49,377,93"/>
+<area shape="rect" id="node3" href="$d0/d8d/classgenfit_1_1FitStatus.html#abbeeda61574c284f1d762088b3644770" title="Get chi^2 of the fit." alt="" coords="475,169,611,213"/>
+<area shape="rect" id="node4" href="$d5/d1b/classPHGenFit2_1_1Track.html#a2dfe8db0c28b833a611f569e976597e1" title="PHGenFit2::Track::getGen\lFitTrack" alt="" coords="1061,740,1254,784"/>
+<area shape="rect" id="node5" href="$d6/d8a/classgenfit_1_1Track.html#a3ea2309231d99fd19aef7898dfe32fee" title="If FitStatus is a KalmanFitStatus, return it. Otherwise return nullptr." alt="" coords="449,1235,636,1279"/>
+<area shape="rect" id="node8" href="$d0/d8d/classgenfit_1_1FitStatus.html#aa73b3566657ea37bf8ab5102d465025d" title="Get the degrees of freedom of the fit." alt="" coords="475,1303,611,1347"/>
+<area shape="rect" id="node9" href="$d0/d8d/classgenfit_1_1FitStatus.html#ac1b242588c1835decb4055e241ae01c1" title="genfit::FitStatus::\lgetNFailedPoints" alt="" coords="475,1371,611,1415"/>
+<area shape="rect" id="node10" href="$d6/d8a/classgenfit_1_1Track.html#a30a99be76e2dbd190d6567830eaeb0fc" title="genfit::Track::getNumPoints" alt="" coords="439,1439,647,1467"/>
+<area shape="rect" id="node11" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#a22364bd4ab2ce4cd619e8f28ea36b670" title="kdfinder::TrackCandidate\l::nhits" alt="" coords="747,73,938,117"/>
+<area shape="rect" id="node12" href="$d6/df6/classPHTpcTrackFollower.html#ab2bef4a182d944601566b365cfa8ab53" title="PHTpcTrackFollower\l::propagateTrack" alt="" coords="215,763,371,807"/>
+<area shape="rect" id="node6" href="$d6/d8a/classgenfit_1_1Track.html#ad06e7a012624bdb03960826b5c9fcd93" title="Get FitStatus for a AbsTrackRep. Per default, return FitStatus for cardinalRep." alt="" coords="745,1456,940,1484"/>
+<area shape="rect" id="node7" href="$d6/d8a/classgenfit_1_1Track.html#a402b35300e81a48c7f0b9eb082b1cf24" title="Get cardinal track representation." alt="" coords="1049,1429,1266,1457"/>
+<area shape="rect" id="node13" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#a5138547c97a921cbc1466bb3b3ae29dd" title="kdfinder::TrackCandidate\l::getHits" alt="" coords="447,340,638,384"/>
+<area shape="rect" id="node14" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#a6b4434ba71bf1f54eb59ec7fada88eb5" title="kdfinder::TrackCandidate\l::momentum" alt="" coords="747,5,938,49"/>
+<area shape="rect" id="node17" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#a1a8f2c6f22dad405b5fdf7178d0ca816" title="kdfinder::TrackCandidate\l::getMomForHit" alt="" coords="747,141,938,185"/>
+<area shape="rect" id="node19" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#aeaf9a40c0589c8e93a168cd4e497c286" title="kdfinder::TrackCandidate\l::getPosForHit" alt="" coords="747,345,938,389"/>
+<area shape="rect" id="node28" href="$d6/df6/classPHTpcTrackFollower.html#a8f383b9ad95665173bf66f3b7e6bd8e2" title="PHTpcTrackFollower\l::candidate_to_genfit" alt="" coords="461,408,625,452"/>
+<area shape="rect" id="node36" href="$d6/d8a/classgenfit_1_1Track.html#aee4eab9e952ee6f0e0c1f1d980552759" title="genfit::Track::checkConsistency" alt="" coords="425,1079,660,1107"/>
+<area shape="rect" id="node42" href="$d8/d1e/classPHGenFit2_1_1Fitter.html#ad19bff873485e791ff0b12690d97560e" title="PHGenFit2::Fitter::\lprocessTrack5" alt="" coords="471,660,614,704"/>
+<area shape="rect" id="node43" href="$d8/d1e/classPHGenFit2_1_1Fitter.html#a73337892a5278676e3498755d3ca01de" title="PHGenFit2::Fitter::\lprocessTrack1" alt="" coords="471,907,614,951"/>
+<area shape="rect" id="node44" href="$d6/d8a/classgenfit_1_1Track.html#a58f8febc75a2384bea6dbf750dc22677" title="Check if track has a FitStatus for given AbsTrackRep. Per default, check for cardinal rep..." alt="" coords="445,1131,641,1159"/>
+<area shape="rect" id="node45" href="$d6/df6/classPHTpcTrackFollower.html#ae738d5e252b993cecb9fa6578f539d98" title="PHTpcTrackFollower\l::followTrack" alt="" coords="465,763,621,807"/>
+<area shape="rect" id="node15" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#aeb05292cb6ab87cd9b37a1f0c295b9b0" title="kdfinder::TrackCandidate::Pt" alt="" coords="1353,36,1567,64"/>
+<area shape="rect" id="node16" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#a276f79f8bd25378af3f52f678da159d0" title="kdfinder::TrackCandidate::Pl" alt="" coords="1052,36,1263,64"/>
+<area shape="rect" id="node18" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#af397f94159c2914a281dca7c233b0232" title="kdfinder::TrackCandidate\l::calcAlpha" alt="" coords="1062,140,1253,184"/>
+<area shape="rect" id="node20" href="$d8/dc7/classkdfinder_1_1TVector.html#af1c1e2236384440695867ba9d0d2fce1" title="kdfinder::TVector::\lrotateZ" alt="" coords="1085,328,1230,372"/>
+<area shape="rect" id="node21" href="$d8/dc7/classkdfinder_1_1TVector.html#a81b348c10641647abd983cb6806e5c0f" title="kdfinder::TVector::setZ" alt="" coords="1069,448,1245,476"/>
+<area shape="rect" id="node22" href="$d8/dc7/classkdfinder_1_1TVector.html#aaf704fc4ae9eccd4785bb40a8ea81cb0" title="kdfinder::TVector::z" alt="" coords="1383,423,1537,451"/>
+<area shape="rect" id="node23" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#aae857469111e90519bab620a3b27eda5" title="kdfinder::TrackCandidate\l::calcZPosByS" alt="" coords="1062,500,1253,544"/>
+<area shape="rect" id="node24" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#aef80976d32d8966e9b418e1e4d38f500" title="kdfinder::TrackCandidate\l::getS" alt="" coords="1062,208,1253,252"/>
+<area shape="rect" id="node26" href="$d8/dc7/classkdfinder_1_1TVector.html#acaa0f748885d9540c37ada22f2aae88e" title="kdfinder::TVector::x" alt="" coords="1080,568,1235,596"/>
+<area shape="rect" id="node27" href="$d8/dc7/classkdfinder_1_1TVector.html#a6c5e56880a562a954a3e4cfa6e331e24" title="kdfinder::TVector::y" alt="" coords="1080,276,1235,304"/>
+<area shape="rect" id="node25" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#a44381dc1535712a6fd57844a8588a5c2" title="kdfinder::TrackCandidate\l::phi_mpi_pi" alt="" coords="1365,208,1555,252"/>
+<area shape="rect" id="node29" href="$d5/d1b/classPHGenFit2_1_1Track.html#ac47db5f66d8300af4d83e45b12a35888" title="PHGenFit2::Track::addMeasurements" alt="" coords="708,413,977,441"/>
+<area shape="rect" id="node32" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#a2c403cacb44abddeee97f8febe3c8fbb" title="kdfinder::TrackCandidate\l::getHit" alt="" coords="747,277,938,321"/>
+<area shape="rect" id="node33" href="$d6/df6/classPHTpcTrackFollower.html#a613119ee41b3d4676148bc764bbf23ba" title="PHTpcTrackFollower\l::hit_to_measurement" alt="" coords="758,465,927,509"/>
+<area shape="rect" id="node35" href="$d8/d48/classkdfinder_1_1TrackCandidate.html#a31f55179f807ca6af70c897f1986c772" title="kdfinder::TrackCandidate\l::sign" alt="" coords="747,209,938,253"/>
+<area shape="rect" id="node30" href="$d5/d1b/classPHGenFit2_1_1Track.html#a4069e4976a16537ba2d8016b538a0582" title="Add measurement." alt="" coords="1025,620,1289,648"/>
+<area shape="rect" id="node31" href="$d6/d8a/classgenfit_1_1Track.html#a3f78a9f2e938a40d4a51b6ce6d09bb26" title="Creates a new TrackPoint containing the measurement, and adds it to the track." alt="" coords="1337,620,1583,648"/>
+<area shape="rect" id="node34" href="$d4/db3/classPHGenFit_1_1Measurement.html#a7a3ec113877806b7543dbbcfea86dde3" title="PHGenFit::Measurement\l::set_cluster_key" alt="" coords="1065,672,1250,716"/>
+<area shape="rect" id="node37" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#ab74f13ab4f4f1ac99a29e1fa55b83413" title="genfit::KalmanFitterInfo\l::hasReferenceState" alt="" coords="753,1233,933,1277"/>
+<area shape="rect" id="node38" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#a580ecd10b0c09b257533ca04f2ba460b" title="genfit::KalmanFitterInfo\l::getReferenceState" alt="" coords="753,1097,933,1141"/>
+<area shape="rect" id="node39" href="$d2/d6a/classgenfit_1_1ReferenceStateOnPlane.html#abcae7586bd838e27b384e4e001c9b3d3" title="genfit::ReferenceStateOn\lPlane::getForwardSegmentLength" alt="" coords="717,1165,968,1209"/>
+<area shape="rect" id="node40" href="$d6/d8a/classgenfit_1_1Track.html#aae3d3066dbd7ab39d87b56e17db5adf9" title="This is used when streaming TrackPoints." alt="" coords="745,1301,940,1329"/>
+<area shape="rect" id="node41" href="$d8/db3/classgenfit_1_1Exception.html#a13619975a1e1be5c1bd504b254e01f7a" title="Set fatal flag." alt="" coords="1085,1293,1229,1337"/>
+<area shape="rect" id="node46" href="$d1/d24/namespacecentrality.html#a78957542206b2fc7b74d88cfed409426" title="centrality.dist" alt="" coords="786,925,899,953"/>
+<area shape="rect" id="node47" href="$d2/da5/classPHTpcLookup.html#a23ae92d8486da9a10546f94ff5dfffac" title="PHTpcLookup::find" alt="" coords="769,805,916,833"/>
+<area shape="rect" id="node48" href="$d6/df6/classPHTpcTrackFollower.html#a70bab64e85da952cf935c5fa64b5022e" title="PHTpcTrackFollower\l::get_projected_coordinate" alt="" coords="742,857,943,901"/>
+<area shape="rect" id="node49" href="$d6/df6/classPHTpcTrackFollower.html#ab2be97d0e4f238cba3fcd741ccb5e1d8" title="PHTpcTrackFollower\l::get_track_layer" alt="" coords="765,737,921,781"/>
+<area shape="rect" id="node50" href="$d8/d1e/classPHGenFit2_1_1Fitter.html#ae5bbc1e5188bb0a9882183d77e73887d" title="PHGenFit2::Fitter::\lprocessTrackPartially" alt="" coords="761,977,924,1021"/>
+</map>

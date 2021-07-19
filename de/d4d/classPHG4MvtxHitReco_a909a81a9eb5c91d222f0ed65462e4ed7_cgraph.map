@@ -1,0 +1,26 @@
+<map id="PHG4MvtxHitReco::process_event" name="PHG4MvtxHitReco::process_event">
+<area shape="rect" id="node2" href="$da/d9b/classTrkrHit.html#a35646effe7b949af636e1a102ff09c99" title="TrkrHit::addEnergy" alt="" coords="293,5,443,33"/>
+<area shape="rect" id="node3" href="$df/d02/classPHG4Utils.html#ae0a28ae191425ed79fa4a2275ad933e6" title="PHG4Utils::circle_rectangle\l_intersection" alt="" coords="266,57,470,101"/>
+<area shape="rect" id="node4" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="582,365,650,393"/>
+<area shape="rect" id="node5" href="$d8/df1/namespaceMvtxDefs.html#aab01141e07c6e3c7151b44a79b8090be" title="Generate a hitkey from a pixels column and row index." alt="" coords="287,177,449,205"/>
+<area shape="rect" id="node6" href="$d8/df1/namespaceMvtxDefs.html#a6e4f95c436d9185eb99405c4ec3f4d7b" title="Generate a hitsetkey for the mvtx." alt="" coords="275,125,461,153"/>
+<area shape="rect" id="node8" href="$df/d9b/classCylinderGeom__Mvtx.html#a266b0549fa3f99872a3db3dd2a116851" title="CylinderGeom_Mvtx::\lget_layer" alt="" coords="285,281,451,325"/>
+<area shape="rect" id="node9" href="$df/d9b/classCylinderGeom__Mvtx.html#a57c4360f58914dd88fabd4b3001e49b8" title="CylinderGeom_Mvtx::\lget_local_coords_from_pixel" alt="" coords="263,669,473,713"/>
+<area shape="rect" id="node10" href="$df/d9b/classCylinderGeom__Mvtx.html#acff5517b65e513c7c84c70723c953c02" title="CylinderGeom_Mvtx::\lget_NX" alt="" coords="533,729,699,773"/>
+<area shape="rect" id="node11" href="$df/d9b/classCylinderGeom__Mvtx.html#a5ae0ac26d7f45c935a577263cdba5d72" title="CylinderGeom_Mvtx::\lget_local_from_world\l_coords" alt="" coords="285,433,451,493"/>
+<area shape="rect" id="node12" href="$df/d9b/classCylinderGeom__Mvtx.html#a6ca4f1e9e40e3d1c8c75919b8ba4c59d" title="CylinderGeom_Mvtx::\lget_NZ" alt="" coords="285,601,451,645"/>
+<area shape="rect" id="node13" href="$df/d9b/classCylinderGeom__Mvtx.html#adcf1913f398a29ab68e5d20eb0257fd6" title="CylinderGeom_Mvtx::\lget_pixel_from_local\l_coords" alt="" coords="285,1093,451,1153"/>
+<area shape="rect" id="node15" href="$df/d9b/classCylinderGeom__Mvtx.html#aa0c4bdda48c848625153de08fdfa2203" title="CylinderGeom_Mvtx::\lget_pixel_number_from\l_xbin_zbin" alt="" coords="278,857,458,917"/>
+<area shape="rect" id="node16" href="$df/d9b/classCylinderGeom__Mvtx.html#af6316828fe0312f0c0739a12ddefee57" title="CylinderGeom_Mvtx::\lget_pixel_x" alt="" coords="285,789,451,833"/>
+<area shape="rect" id="node17" href="$df/d9b/classCylinderGeom__Mvtx.html#af559c0b9554152f1269785d71bb26a96" title="CylinderGeom_Mvtx::\lget_pixel_X_from_pixel\l_number" alt="" coords="281,1009,455,1069"/>
+<area shape="rect" id="node18" href="$df/d9b/classCylinderGeom__Mvtx.html#aaa0f9c548e8457cb59afdddf8471ccc1" title="CylinderGeom_Mvtx::\lget_pixel_z" alt="" coords="285,941,451,985"/>
+<area shape="rect" id="node19" href="$df/d9b/classCylinderGeom__Mvtx.html#a5545da6f1b8fca9ec720d87874899b01" title="CylinderGeom_Mvtx::\lget_pixel_Z_from_pixel\l_number" alt="" coords="281,517,455,577"/>
+<area shape="rect" id="node20" href="$df/d9b/classCylinderGeom__Mvtx.html#aede358e384b225e6555bed9292f0310c" title="CylinderGeom_Mvtx::\lget_world_from_local\l_coords" alt="" coords="285,349,451,409"/>
+<area shape="rect" id="node21" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="267,1177,469,1205"/>
+<area shape="rect" id="node22" href="$d4/de7/classPHG4CylinderGeomContainer.html#a08321019aaff5f57cd416b64d0f536bf" title="PHG4CylinderGeomContainer\l::GetLayerGeom" alt="" coords="257,1229,479,1273"/>
+<area shape="rect" id="node23" href="$d4/d30/classPHG4HitContainer.html#a51b7c5421967435199b92eb422435361" title="PHG4HitContainer::getLayers" alt="" coords="259,1297,477,1325"/>
+<area shape="rect" id="node24" href="$df/d9b/classCylinderGeom__Mvtx.html#a47da1a244a5d080a29737977a12b3e83" title="CylinderGeom_Mvtx::\lidentify" alt="" coords="285,1349,451,1393"/>
+<area shape="rect" id="node25" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="280,1417,456,1445"/>
+<area shape="rect" id="node7" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="527,125,705,153"/>
+<area shape="rect" id="node14" href="$d5/d35/classSegmentationAlpide.html#a4bf1fcfecc0f6f1e6144c985b60fa517" title="SegmentationAlpide\l::localToDetector" alt="" coords="537,1101,695,1145"/>
+</map>

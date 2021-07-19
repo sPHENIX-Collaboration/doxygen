@@ -1,0 +1,28 @@
+<map id="testing::internal::GetAnsiColorCode" name="testing::internal::GetAnsiColorCode">
+<area shape="rect" id="node2" href="$d0/da7/namespacetesting_1_1internal.html#adef3055706176001364e54eb73a87e31" title="testing::internal::\lColoredPrintf" alt="" coords="197,452,335,496"/>
+<area shape="rect" id="node3" href="$d6/d49/classtesting_1_1internal_1_1PrettyUnitTestResultPrinter.html#a846a5e82b421e04fcdd2b1b2b64b162f" title="testing::internal::\lPrettyUnitTestResultPrinter\l::OnEnvironmentsSetUpStart" alt="" coords="395,5,613,65"/>
+<area shape="rect" id="node4" href="$d6/d49/classtesting_1_1internal_1_1PrettyUnitTestResultPrinter.html#afea9dc849c92fdbc1d8505f4c74ffc1a" title="testing::internal::\lPrettyUnitTestResultPrinter\l::OnEnvironmentsTearDownStart" alt="" coords="383,89,625,149"/>
+<area shape="rect" id="node5" href="$d6/d49/classtesting_1_1internal_1_1PrettyUnitTestResultPrinter.html#a7a62fe58fa6f6aace813eb62b31e5a51" title="testing::internal::\lPrettyUnitTestResultPrinter\l::OnTestCaseEnd" alt="" coords="403,173,605,233"/>
+<area shape="rect" id="node6" href="$d6/d49/classtesting_1_1internal_1_1PrettyUnitTestResultPrinter.html#adcb68c729565d4bcdf8418a52902c3de" title="testing::internal::\lPrettyUnitTestResultPrinter\l::OnTestCaseStart" alt="" coords="403,257,605,317"/>
+<area shape="rect" id="node7" href="$d6/d49/classtesting_1_1internal_1_1PrettyUnitTestResultPrinter.html#a06749ff2b32a16c127374ecd015f13e0" title="testing::internal::\lPrettyUnitTestResultPrinter\l::OnTestEnd" alt="" coords="403,341,605,401"/>
+<area shape="rect" id="node8" href="$d6/d49/classtesting_1_1internal_1_1PrettyUnitTestResultPrinter.html#ac29b30216023baddda04ef5889f484ff" title="testing::internal::\lPrettyUnitTestResultPrinter\l::OnTestIterationEnd" alt="" coords="687,461,888,521"/>
+<area shape="rect" id="node9" href="$d6/d49/classtesting_1_1internal_1_1PrettyUnitTestResultPrinter.html#abdba10a8c97e272ab4cee97cb652c957" title="testing::internal::\lPrettyUnitTestResultPrinter\l::OnTestIterationStart" alt="" coords="687,563,888,623"/>
+<area shape="rect" id="node10" href="$d6/d49/classtesting_1_1internal_1_1PrettyUnitTestResultPrinter.html#a5078ee71cfa97e37ae7a9366149195c5" title="testing::internal::\lPrettyUnitTestResultPrinter\l::OnTestStart" alt="" coords="403,749,605,809"/>
+<area shape="rect" id="node11" href="$d0/da7/namespacetesting_1_1internal.html#a7d8c446a29c7e22d7d4dde8f530bb57e" title="testing::internal::\lPrintColorEncoded" alt="" coords="431,833,577,877"/>
+<area shape="rect" id="node23" href="$d6/d49/classtesting_1_1internal_1_1PrettyUnitTestResultPrinter.html#aca5a9dc08998948e293b307d931b3f86" title="testing::internal::\lPrettyUnitTestResultPrinter\l::PrintFailedTests" alt="" coords="403,477,605,537"/>
+<area shape="rect" id="node24" href="$d0/da7/namespacetesting_1_1internal.html#a0fe41657b1d1ab7ec4e37ec07403ee6c" title="testing::internal::\lShouldShard" alt="" coords="435,613,573,657"/>
+<area shape="rect" id="node27" href="$d0/da7/namespacetesting_1_1internal.html#a19b35b39782d41e6ef76e1910a3a502e" title="testing::internal::\lWriteToShardStatusFileIfNeeded" alt="" coords="386,681,622,725"/>
+<area shape="rect" id="node12" href="$d0/da7/namespacetesting_1_1internal.html#ae4c46ce8c3d016848fff52cc5133f2ac" title="testing::internal::\lParseGoogleTestFlagsOnlyImpl" alt="" coords="673,833,901,877"/>
+<area shape="rect" id="node13" href="$d0/da7/namespacetesting_1_1internal.html#a472880afbcc592a41e3d623e2dec8412" title="testing::internal::\lParseGoogleTestFlagsOnly" alt="" coords="949,833,1148,877"/>
+<area shape="rect" id="node14" href="$d0/da7/namespacetesting_1_1internal.html#ac3c6fa93391768aa91c6238b31aaeeb5" title="testing::internal::\lInitGoogleTestImpl" alt="" coords="1223,799,1369,843"/>
+<area shape="rect" id="node22" href="$d7/dd1/classtesting_1_1InitGoogleTestTest.html#add290338cf429308d0ab275ae4c46e69" title="testing::InitGoogleTestTest\l::TestParsingFlags" alt="" coords="1196,867,1396,911"/>
+<area shape="rect" id="node15" href="$d0/d75/namespacetesting.html#afd726ae08c9bd16dc52f78c822d9946b" title="testing::InitGoogleTest" alt="" coords="1444,807,1617,835"/>
+<area shape="rect" id="node16" href="$d0/da7/namespacetesting_1_1internal.html#a3823844199df88af9493026031cf7744" title="testing::internal::\lInitGoogleMockImpl" alt="" coords="1665,768,1820,812"/>
+<area shape="rect" id="node21" href="$de/d85/sample10__unittest_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1715,836,1770,864"/>
+<area shape="rect" id="node17" href="$d0/d75/namespacetesting.html#a32b1c6db9ba5133ccabfa67616b3c041" title="testing::InitGoogleMock" alt="" coords="1868,776,2051,804"/>
+<area shape="rect" id="node18" href="$dd/d93/gmock__main_8cc.html#a7f83bdc516d2cb86e20235d94ddf055a" title="main" alt="" coords="2149,749,2203,777"/>
+<area shape="rect" id="node19" href="$d0/d02/gmock__test_8cc.html#ac9c8ae8722c330d47f75dee43fb8ab78" title="TestInitGoogleMock" alt="" coords="2099,801,2253,829"/>
+<area shape="rect" id="node20" href="$d0/d02/gmock__test_8cc.html#a7c86c6c98b72e903135c1b01370a13f3" title="TEST" alt="" coords="2301,801,2359,829"/>
+<area shape="rect" id="node25" href="$d0/de3/classtesting_1_1internal_1_1UnitTestImpl.html#a1fb6be9971f4768c4136a05aa9e7e375" title="testing::internal::\lUnitTestImpl::RunAllTests" alt="" coords="692,664,883,708"/>
+<area shape="rect" id="node26" href="$d5/d21/classtesting_1_1UnitTest.html#a2febc800536b44500565f4c423f359d3" title="testing::UnitTest::Run" alt="" coords="966,672,1131,700"/>
+</map>

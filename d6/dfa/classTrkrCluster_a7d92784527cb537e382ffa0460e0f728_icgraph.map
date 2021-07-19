@@ -1,0 +1,51 @@
+<map id="TrkrCluster::getZ" name="TrkrCluster::getZ">
+<area shape="rect" id="node2" href="$d1/d1e/classSvtxClusterEval.html#a4254832886182e24cb8bb6130a149efc" title="SvtxClusterEval::all\l_clusters_from" alt="" coords="243,5,395,49"/>
+<area shape="rect" id="node3" href="$d1/d1e/classSvtxClusterEval.html#ae03ae27b5a477c3c426d6a5033c359b2" title="SvtxClusterEval::all\l_truth_hits_by_nhit" alt="" coords="243,73,395,117"/>
+<area shape="rect" id="node4" href="$d5/d55/classPHTpcResiduals.html#a4d056858067cbeabfed1f7c381751599" title="PHTpcResiduals::calculate\lTpcResiduals" alt="" coords="219,141,418,185"/>
+<area shape="rect" id="node8" href="$da/df1/classPHRTreeSeeding.html#a4bd5e58d3f18d37a3ac8a29f7c4b0c6c" title="PHRTreeSeeding::chisq" alt="" coords="231,209,406,237"/>
+<area shape="rect" id="node9" href="$dc/d41/classConversion.html#acc7b79ee4ec15a4802da1edfdd54b0cc" title="Conversion::dist" alt="" coords="253,261,385,289"/>
+<area shape="rect" id="node10" href="$d5/df8/classQAG4SimulationMicromegas.html#a7d91700abab98412e6b427f4098895ca" title="evaluate clusters" alt="" coords="211,313,426,357"/>
+<area shape="rect" id="node12" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="532,1097,697,1141"/>
+<area shape="rect" id="node14" href="$dd/de6/classKFParticle__truthAndDetTools.html#a753df68f4ae1e50b41add756b07b4739" title="KFParticle_truthAndDetTools\l::fillDetectorBranch" alt="" coords="213,381,424,425"/>
+<area shape="rect" id="node17" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="521,748,709,792"/>
+<area shape="rect" id="node19" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ac591d95b4c5923fa3ddf58ea3d0ffb02" title="get relevant cell for a given cluster" alt="" coords="200,449,437,493"/>
+<area shape="rect" id="node23" href="$d3/d4e/classPHTpcTrackSeedVertexAssoc.html#a5478d3902d9e128b303a7bd9cfecc7e5" title="PHTpcTrackSeedVertexAssoc\l::getTrackClusters" alt="" coords="211,517,426,561"/>
+<area shape="rect" id="node25" href="$d1/d1e/classSvtxClusterEval.html#abd7851ec294047271ce26d8824d2af81" title="SvtxClusterEval::gtrackid\l_and_layer_by_nhit" alt="" coords="223,585,414,629"/>
+<area shape="rect" id="node28" href="$d1/d1e/classSvtxClusterEval.html#a7619937ca04fc86bf74e13a08b1d1959" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="223,653,415,697"/>
+<area shape="rect" id="node32" href="$d9/d69/classPHSimpleKFProp.html#a62d626ba71edd761130db56445c9ee22" title="PHSimpleKFProp::MoveToVertex" alt="" coords="201,841,436,869"/>
+<area shape="rect" id="node33" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="205,893,433,921"/>
+<area shape="rect" id="node34" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#a9f4bf18d62653a6e2880bb01d7b06d71" title="PHMicromegasTpcTrackMatching\l::Process" alt="" coords="197,945,440,989"/>
+<area shape="rect" id="node35" href="$d8/dea/classTpcClusterCleaner.html#a6c7aecaf941b41630b44c447b8e2418e" title="TpcClusterCleaner::\lprocess_event" alt="" coords="241,1013,396,1057"/>
+<area shape="rect" id="node36" href="$d5/d78/classPHTpcClusterMover.html#a7c36fbf3ee710fdb11069cfbaf71c3c6" title="PHTpcClusterMover::\lprocess_event" alt="" coords="238,1081,399,1125"/>
+<area shape="rect" id="node37" href="$d9/d24/classPHTruthClustering.html#a32f3b05811ac36d8f08ae3c565edcfca" title="PHTruthClustering::\lprocess_event" alt="" coords="243,1149,394,1193"/>
+<area shape="rect" id="node38" href="$db/d6d/classAnaMvtxTestBeam2019.html#a043d418b56118618968c827ff5030719" title="AnaMvtxTestBeam2019\l::process_event" alt="" coords="228,1217,409,1261"/>
+<area shape="rect" id="node39" href="$dd/d60/classDumpTrkrClusterContainer.html#a2364cd4b34b87c83c93e7cf84436a90e" title="DumpTrkrClusterContainer\l::process_Node" alt="" coords="218,1285,419,1329"/>
+<area shape="rect" id="node40" href="$d9/d69/classPHSimpleKFProp.html#aa515bad114fc577245f00f96b40b2e1e" title="PHSimpleKFProp::Propagate\lTrack" alt="" coords="214,1473,423,1517"/>
+<area shape="rect" id="node42" href="$d1/d1e/classSvtxClusterEval.html#acc2f398ba46c0ad05ba1426701718529" title="SvtxClusterEval::reco\l_cluster_from_truth_cluster" alt="" coords="215,773,422,817"/>
+<area shape="rect" id="node43" href="$d9/d69/classPHSimpleKFProp.html#ac1867cf6b74ef95bafcf97c0932cfb02" title="PHSimpleKFProp::RemoveBad\lClusters" alt="" coords="208,1405,429,1449"/>
+<area shape="rect" id="node44" href="$d1/d08/classPHCASeeding.html#aba76fb6971e5fbf01b7ea48f640b2350" title="PHCASeeding::RemoveBadClusters" alt="" coords="189,1541,448,1569"/>
+<area shape="rect" id="node47" href="$d7/d3c/PHRTreeSeeding_8cc.html#a35456827f072aca76d5e96388015c02d" title="RosenBrock" alt="" coords="268,1593,369,1621"/>
+<area shape="rect" id="node48" href="$dd/dfd/classTpcSpaceChargeCorrection.html#a42f8c7de9e3a077e65c29e66a32947ac" title="transform clusters" alt="" coords="216,1645,421,1689"/>
+<area shape="rect" id="node5" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="502,149,727,177"/>
+<area shape="rect" id="node6" href="$d5/d55/classPHTpcResiduals.html#ac8936c9d7cf8808255c355520b304e95" title="PHTpcResiduals::processTracks" alt="" coords="784,149,1016,177"/>
+<area shape="rect" id="node7" href="$d5/d55/classPHTpcResiduals.html#afb9145abb0d5d579afed2c31f700989a" title="PHTpcResiduals::process\l_event" alt="" coords="1091,141,1280,185"/>
+<area shape="rect" id="node11" href="$d5/df8/classQAG4SimulationMicromegas.html#aaf9244726798d2865626790e62f3a218" title="QAG4SimulationMicromegas\l::process_event" alt="" coords="507,313,722,357"/>
+<area shape="rect" id="node13" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="817,1097,983,1141"/>
+<area shape="rect" id="node15" href="$d9/dae/classKFParticle__nTuple.html#ac32b873cf95657eb34d8b572ad692172" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="541,381,688,425"/>
+<area shape="rect" id="node16" href="$d5/d72/classKFParticle__sPHENIX.html#a7e5ad7cf075fbf8e68a781e7721fec81" title="KFParticle_sPHENIX\l::process_event" alt="" coords="824,381,976,425"/>
+<area shape="rect" id="node18" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="812,756,988,800"/>
+<area shape="rect" id="node20" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ad95026b08f73d009107d53576d1d729b" title="process track" alt="" coords="496,449,733,493"/>
+<area shape="rect" id="node21" href="$d3/d27/classTpcSpaceChargeReconstruction.html#aa411bedddfec511d0943438e271a2234" title="process tracks" alt="" coords="781,449,1019,493"/>
+<area shape="rect" id="node22" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ab330b344a3001b0f26e639ee69de07f1" title="event processing" alt="" coords="1067,449,1304,493"/>
+<area shape="rect" id="node24" href="$d3/d4e/classPHTpcTrackSeedVertexAssoc.html#a14cede8779cdbcd75a50d72bacad819e" title="PHTpcTrackSeedVertexAssoc\l::Process" alt="" coords="507,517,722,561"/>
+<area shape="rect" id="node26" href="$d1/d1e/classSvtxClusterEval.html#aea125d30358376360f89706a917607c0" title="SvtxClusterEval::best\l_cluster_by_nhit" alt="" coords="531,585,698,629"/>
+<area shape="rect" id="node27" href="$d5/da2/classPHTruthTrackSeeding.html#a37f708048770642f57f15675683c2cac" title="PHTruthTrackSeeding\l::Process" alt="" coords="818,552,982,596"/>
+<area shape="rect" id="node29" href="$d3/d32/classActsEvaluator.html#aab3625b68ba0383ffa858dc3e4a69142" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="520,653,709,697"/>
+<area shape="rect" id="node30" href="$d3/d32/classActsEvaluator.html#a7bd073c867021570aeaa27cfbd64d966" title="ActsEvaluator::fillProto\lTrack" alt="" coords="813,620,987,664"/>
+<area shape="rect" id="node31" href="$d3/d32/classActsEvaluator.html#adfc0d467a2bfb926be361c88761b2667" title="ActsEvaluator::visitTrack\lStates" alt="" coords="806,688,994,732"/>
+<area shape="rect" id="node41" href="$d9/d69/classPHSimpleKFProp.html#a136dcc93e867e01b138a7cdd6dbcf008" title="PHSimpleKFProp::Process" alt="" coords="519,1447,711,1475"/>
+<area shape="rect" id="node45" href="$d1/d08/classPHCASeeding.html#ae3e38432cdd368281eb7c31f884220a2" title="PHCASeeding::FindSeedsWith\lMerger" alt="" coords="504,1533,725,1577"/>
+<area shape="rect" id="node46" href="$d1/d08/classPHCASeeding.html#a31cb3d8b18901613fe0078877985798f" title="PHCASeeding::Process" alt="" coords="813,1541,987,1569"/>
+<area shape="rect" id="node49" href="$dd/dfd/classTpcSpaceChargeCorrection.html#ae7dbd5a4e5b45095d88abf26bf919125" title="transform clusters" alt="" coords="512,1645,717,1689"/>
+<area shape="rect" id="node50" href="$dd/dfd/classTpcSpaceChargeCorrection.html#a2636b293f30526ad248ec534e518714e" title="event processing" alt="" coords="797,1645,1003,1689"/>
+</map>

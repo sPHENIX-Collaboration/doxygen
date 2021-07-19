@@ -1,0 +1,25 @@
+<map id="SvtxTrackEval::get_layer_range_contribution" name="SvtxTrackEval::get_layer_range_contribution">
+<area shape="rect" id="node2" href="$d1/d1e/classSvtxClusterEval.html#ae2d6f811db24d80dac0f4b247de56bcd" title="SvtxClusterEval::all\l_truth_particles" alt="" coords="287,280,439,324"/>
+<area shape="rect" id="node17" href="$d4/de4/classSvtxTruthEval.html#a45a358bb04e9d3e415b62047c653ff36" title="SvtxTruthEval::are\l_same_particle" alt="" coords="290,460,435,504"/>
+<area shape="rect" id="node20" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="251,528,475,556"/>
+<area shape="rect" id="node21" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="257,580,468,608"/>
+<area shape="rect" id="node22" href="$df/dad/classSvtxTrackEval.html#aa97070c7a384cae1a38f4db39c8b5fba" title="SvtxTrackEval::get\l_truth_eval" alt="" coords="289,392,436,436"/>
+<area shape="rect" id="node23" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="289,632,437,660"/>
+<area shape="rect" id="node24" href="$df/dad/classSvtxTrackEval.html#a2cad33eb7f2cc23aa534f06ef5b591e5" title="SvtxTrackEval::has\l_node_pointers" alt="" coords="289,684,437,728"/>
+<area shape="rect" id="node3" href="$d1/d1e/classSvtxClusterEval.html#a19f61841db8edf09e606635a790b1d2c" title="SvtxClusterEval::all\l_truth_hits" alt="" coords="527,280,679,324"/>
+<area shape="rect" id="node9" href="$d1/d1e/classSvtxClusterEval.html#a9d557168b84ca9a814166d6523bfe2fd" title="SvtxClusterEval::has\l_node_pointers" alt="" coords="754,103,915,147"/>
+<area shape="rect" id="node10" href="$d4/de4/classSvtxTruthEval.html#ae575fcf72ce935a72f3c5a157abdd900" title="SvtxTruthEval::get\l_particle" alt="" coords="529,55,676,99"/>
+<area shape="rect" id="node15" href="$d1/d1e/classSvtxClusterEval.html#a71bb4c981bdde92138eda3a7db1975b8" title="SvtxClusterEval::get\l_truth_eval" alt="" coords="523,392,683,436"/>
+<area shape="rect" id="node4" href="$d4/d30/classPHG4HitContainer.html#a62c24ef9c00bd714f597939598a87041" title="PHG4HitContainer::findHit" alt="" coords="735,359,934,387"/>
+<area shape="rect" id="node5" href="$d7/d8d/classTrkrHitTruthAssoc.html#a405b674f9fab98772fef6bbd43ae6aa9" title="Get cell keys associated with desired hit." alt="" coords="761,411,909,455"/>
+<area shape="rect" id="node6" href="$d7/d4f/classTrkrClusterHitAssoc.html#a79099cbebd11459ea55add96711d119d" title="Get all the hits associated with a cluster by key." alt="" coords="758,171,911,215"/>
+<area shape="rect" id="node7" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="731,239,939,283"/>
+<area shape="rect" id="node8" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="761,307,908,335"/>
+<area shape="rect" id="node11" href="$dc/d23/classBaseTruthEval.html#ac3045216b60b1b54d9fdd81e3a07b938" title="which particle left this truth hit?" alt="" coords="760,35,909,79"/>
+<area shape="rect" id="node12" href="$d3/d9e/classPHG4Hit.html#ac19cdd97dbd9b8154b8012ec0de01f76" title="PHG4Hit::get_trkid" alt="" coords="1007,73,1154,101"/>
+<area shape="rect" id="node13" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="988,5,1173,49"/>
+<area shape="rect" id="node14" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="987,335,1175,379"/>
+<area shape="rect" id="node16" href="$d9/d62/classSvtxHitEval.html#a3ac6af06849daeb8da2684cbfea68e08" title="SvtxHitEval::get_truth_eval" alt="" coords="733,479,937,507"/>
+<area shape="rect" id="node18" href="$dc/d23/classBaseTruthEval.html#ac62b58b54f3e184b28ab9d44ea4292f7" title="do these two particle pointers resolve to the same particle?" alt="" coords="529,523,677,567"/>
+<area shape="rect" id="node19" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="735,531,934,559"/>
+</map>

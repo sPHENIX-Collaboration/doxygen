@@ -1,0 +1,4 @@
+var structnlohmann_1_1detail_1_1is__constructible__array__type__impl_3_01BasicJsonType_00_01Construca3c945bcbe2fb805be7f2c9e6f7c40fc =
+[
+    [ "value", "da/d32/structnlohmann_1_1detail_1_1is__constructible__array__type__impl_3_01BasicJsonType_00_01Construca3c945bcbe2fb805be7f2c9e6f7c40fc.html#a3da4bef721fdba8b679aa4d4b1b69874", null ]
+];

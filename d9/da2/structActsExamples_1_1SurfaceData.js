@@ -1,0 +1,26 @@
+var structActsExamples_1_1SurfaceData =
+[
+    [ "DFE_NAMEDTUPLE", "d9/da2/structActsExamples_1_1SurfaceData.html#a7d001a755602dfa391e300d188dcb71b", null ],
+    [ "cx", "d9/da2/structActsExamples_1_1SurfaceData.html#a18a67f4b771d22caccaad12678dc51ba", null ],
+    [ "cy", "d9/da2/structActsExamples_1_1SurfaceData.html#ac7705cb90e7678e345dc5353f25dbfca", null ],
+    [ "cz", "d9/da2/structActsExamples_1_1SurfaceData.html#ae4dede23252cce6b698923249a8f170f", null ],
+    [ "geometry_id", "d9/da2/structActsExamples_1_1SurfaceData.html#a76ff4ec7337455c62d89f6edb0585575", null ],
+    [ "layer_id", "d9/da2/structActsExamples_1_1SurfaceData.html#a95a4e49d120f7f61f9946083a1b968e9", null ],
+    [ "module_hv", "d9/da2/structActsExamples_1_1SurfaceData.html#ab2925bedeca8fb3d46a57bfb45c5fc6e", null ],
+    [ "module_id", "d9/da2/structActsExamples_1_1SurfaceData.html#a921c718592cd8078ee3a95ec6701c43d", null ],
+    [ "module_maxhu", "d9/da2/structActsExamples_1_1SurfaceData.html#a9580ad7af2a2f26a5f60793c9749dd69", null ],
+    [ "module_minhu", "d9/da2/structActsExamples_1_1SurfaceData.html#a93a7f3069c2778a59aa9e1cea42e931e", null ],
+    [ "module_t", "d9/da2/structActsExamples_1_1SurfaceData.html#a5ce3c42c14ac60270555b68484bce96a", null ],
+    [ "pitch_u", "d9/da2/structActsExamples_1_1SurfaceData.html#a7d58e631ad216a0eb47cbeafd94100ec", null ],
+    [ "pitch_v", "d9/da2/structActsExamples_1_1SurfaceData.html#a86e1851dacedeb8d88740e2a207b952f", null ],
+    [ "rot_xu", "d9/da2/structActsExamples_1_1SurfaceData.html#a268ee171594b93ddcf3947cf72117ef1", null ],
+    [ "rot_xv", "d9/da2/structActsExamples_1_1SurfaceData.html#a2f5a820851be4ec176cdd8bbb31062b4", null ],
+    [ "rot_xw", "d9/da2/structActsExamples_1_1SurfaceData.html#a37e41f3af64693eda8e083b3002052ae", null ],
+    [ "rot_yu", "d9/da2/structActsExamples_1_1SurfaceData.html#a5b5fa743ea5236948ef46e84ffe9f854", null ],
+    [ "rot_yv", "d9/da2/structActsExamples_1_1SurfaceData.html#a93fd25a30f479fa76b4c5a5bbca220f8", null ],
+    [ "rot_yw", "d9/da2/structActsExamples_1_1SurfaceData.html#a4f5ddd0d033bd96320c42d931b5af409", null ],
+    [ "rot_zu", "d9/da2/structActsExamples_1_1SurfaceData.html#a3abdbdb5e8abcd8e1d8ef8352b91d077", null ],
+    [ "rot_zv", "d9/da2/structActsExamples_1_1SurfaceData.html#aed88b628d752954a93ae7b3633857ca4", null ],
+    [ "rot_zw", "d9/da2/structActsExamples_1_1SurfaceData.html#af92d720325d8f74ae7fff55a479ff6ec", null ],
+    [ "volume_id", "d9/da2/structActsExamples_1_1SurfaceData.html#ad9d0afbeb28a90fea470adaa68474412", null ]
+];

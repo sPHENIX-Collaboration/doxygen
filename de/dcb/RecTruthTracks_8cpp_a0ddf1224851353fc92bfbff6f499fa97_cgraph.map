@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d2/d86/classActsExamples_1_1Sequencer.html#a1f58dd780adf8e2dabeac8a5f2620c34" title="ActsExamples::Sequencer\l::addAlgorithm" alt="" coords="670,92,869,136"/>
+<area shape="rect" id="node4" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a1cd0e4f9f00a4ee1cac16c970ccf7cc4" title="ActsExamples::Options\l::addBFieldOptions" alt="" coords="133,99,312,143"/>
+<area shape="rect" id="node5" href="$d2/d86/classActsExamples_1_1Sequencer.html#a6b377030208115c4f49e0cb85bc2a0ab" title="ActsExamples::Sequencer\l::addContextDecorator" alt="" coords="403,207,602,251"/>
+<area shape="rect" id="node6" href="$d6/dcc/namespaceActsExamples_1_1Options.html#ace46c0553ce0bb8356f4bbf55333674e" title="Add common geometry&#45;related options." alt="" coords="133,219,312,263"/>
+<area shape="rect" id="node7" href="$d6/dcc/namespaceActsExamples_1_1Options.html#af5ae4a19db870dfe3153c4ab71c547f7" title="Add common input&#45;related options." alt="" coords="133,287,312,331"/>
+<area shape="rect" id="node8" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a6aa90f1bc5c6a12376189d84fc01611d" title="Add common material&#45;related options." alt="" coords="133,355,312,399"/>
+<area shape="rect" id="node9" href="$d4/daf/structGenericDetector.html#a7bc8204f9eaa3eeff016cbacd10a7361" title="GenericDetector::addOptions" alt="" coords="113,423,332,451"/>
+<area shape="rect" id="node11" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a7bd17550bec4169d9830030284dbc140" title="Add common output&#45;related options." alt="" coords="133,475,312,519"/>
+<area shape="rect" id="node12" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a3c003d4feb50b8a88e1d8732c17f84eb" title="Add random number options such as the global seed." alt="" coords="110,543,335,587"/>
+<area shape="rect" id="node13" href="$d2/d86/classActsExamples_1_1Sequencer.html#af09c9b6fb4d155f2dbd138f6be52c70b" title="ActsExamples::Sequencer\l::addReader" alt="" coords="670,315,869,359"/>
+<area shape="rect" id="node14" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a275e900079b6c3f29fccc781fff55145" title="Add sequencer options, e.g. number of events." alt="" coords="133,663,313,707"/>
+<area shape="rect" id="node15" href="$d2/d86/classActsExamples_1_1Sequencer.html#ac7673c00d596c714cbceffdc9d0e3315" title="ActsExamples::Sequencer\l::addWriter" alt="" coords="403,663,602,707"/>
+<area shape="rect" id="node16" href="$d9/dfd/namespaceActsExamples_1_1Geometry.html#a6484afc41b54f3a8678b6e33b6f8c277" title="helper method to setup the geometry" alt="" coords="126,783,319,827"/>
+<area shape="rect" id="node18" href="$df/dd4/namespaceActsExamples.html#a8994427390dd0a4db64bfc9d21da7f0a" title="ActsExamples::ensureWritable\lDirectory" alt="" coords="109,851,337,895"/>
+<area shape="rect" id="node20" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a0d54973957d51d0907070bcd020d0b92" title="ActsExamples::Options\l::makeDefaultOptions" alt="" coords="133,919,312,963"/>
+<area shape="rect" id="node21" href="$d6/dcc/namespaceActsExamples_1_1Options.html#aeb0cbceb4fe644ebe08951d2429cf509" title="ActsExamples::Options\l::parse" alt="" coords="133,987,312,1031"/>
+<area shape="rect" id="node33" href="$d6/dcc/namespaceActsExamples_1_1Options.html#aa34e16e96dc0cf6080f2ee58814fc800" title="ActsExamples::Options\l::readBField" alt="" coords="133,1055,312,1099"/>
+<area shape="rect" id="node41" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a826bea63a6fbd9c875e6e4085acdd6ba" title="Read the CSV particle reader config." alt="" coords="110,1123,335,1167"/>
+<area shape="rect" id="node42" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a4edca56986ae294daf506da83afd4c20" title="Read the CSV particle reader config." alt="" coords="111,1191,335,1251"/>
+<area shape="rect" id="node43" href="$d6/dcc/namespaceActsExamples_1_1Options.html#ad6762727fb7dc6ff716ce476e3dbbdbe" title="Read the log level." alt="" coords="413,1346,592,1390"/>
+<area shape="rect" id="node44" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a49fd9bf66697685e10932a2ae1256abf" title="ActsExamples::Options\l::readRandomNumbersConfig" alt="" coords="112,1327,333,1371"/>
+<area shape="rect" id="node45" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a495157db008175cfdb9a22805b37351a" title="Read the sequencer config." alt="" coords="133,1395,312,1439"/>
+<area shape="rect" id="node46" href="$d2/d86/classActsExamples_1_1Sequencer.html#ab35839e504e50744446c5fbda98dc1bc" title="ActsExamples::Sequencer::run" alt="" coords="108,1464,337,1492"/>
+<area shape="rect" id="node50" href="$da/d7b/namespaceActs.html#a84c41c54771dc4d8fc38a477f9d250c8" title="create a small tracking geometry to map some dummy material on" alt="" coords="131,1516,314,1544"/>
+<area shape="rect" id="node3" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="919,742,1095,770"/>
+<area shape="rect" id="node10" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a5b9dd66691e37180d3989ec930d2aa02" title="ActsExamples::Options\l::addGenericGeometryOptions" alt="" coords="389,415,617,459"/>
+<area shape="rect" id="node17" href="$df/d16/classActsExamples_1_1IBaseDetector.html#abe782a5fcb0cef6542d7f340f97ee893" title="ActsExamples::IBaseDetector\l::finalize" alt="" coords="392,731,613,775"/>
+<area shape="rect" id="node19" href="$dd/de0/namespacetrento_1_1random.html#a5430713b7485bc62727292790ca8a95c" title="Helper function to easily generate random numbers in [0, 1)." alt="" coords="405,799,601,827"/>
+<area shape="rect" id="node22" href="$d8/d44/namespaceActs_1_1PrimitivesView3DTest.html#ab51e63c03c55aac604dba9c1cd26ac85" title="Acts::PrimitivesView3DTest::run" alt="" coords="385,851,620,879"/>
+<area shape="rect" id="node23" href="$d2/d3f/structActs_1_1GeometryView3D.html#a76d7fe94393a89a05760f6b80eb6bd31" title="Acts::GeometryView3D\l::drawSegment" alt="" coords="680,435,859,479"/>
+<area shape="rect" id="node24" href="$d0/d35/classActs_1_1IVisualization3D.html#ac2b3dc7f88f26a197d48a28d1d85b3d4" title="Acts::IVisualization3D\l::write" alt="" coords="685,503,854,547"/>
+<area shape="rect" id="node25" href="$d0/d35/classActs_1_1IVisualization3D.html#a5e1197bd19f514313f2642621e43de0e" title="Acts::IVisualization3D\l::clear" alt="" coords="685,571,854,615"/>
+<area shape="rect" id="node26" href="$d2/d3f/structActs_1_1GeometryView3D.html#a67df89dea7c20fe0e7ecefc50a78c75f" title="Acts::GeometryView3D\l::drawArrowForward" alt="" coords="680,639,859,683"/>
+<area shape="rect" id="node27" href="$d2/d3f/structActs_1_1GeometryView3D.html#ad14a942752c9af6f0ff44cc3adbdee5d" title="Acts::GeometryView3D\l::drawArrowBackward" alt="" coords="680,707,859,751"/>
+<area shape="rect" id="node28" href="$d2/d3f/structActs_1_1GeometryView3D.html#a3f88095e16b588fdbb353f0e30961d92" title="Acts::GeometryView3D\l::drawArrowsBoth" alt="" coords="680,775,859,819"/>
+<area shape="rect" id="node29" href="$d2/d3f/structActs_1_1GeometryView3D.html#ab8aad2f0260221fecde781f003510d24" title="Acts::GeometryView3D\l::drawSurface" alt="" coords="680,843,859,887"/>
+<area shape="rect" id="node30" href="$db/d35/structActs_1_1EventDataView3D.html#a5860abf64f67e4e333020160d50ed99b" title="Acts::EventDataView3D\l::drawCovarianceCartesian" alt="" coords="668,911,871,955"/>
+<area shape="rect" id="node31" href="$dd/d7e/namespaceActs_1_1Test.html#a51c29a20fb018e161cb50c4c3886c981" title="Acts::Test::origin" alt="" coords="703,979,836,1007"/>
+<area shape="rect" id="node32" href="$db/d35/structActs_1_1EventDataView3D.html#a1bb690374d01bc8e407d603d2a87b7dd" title="Acts::EventDataView3D\l::drawCovarianceAngular" alt="" coords="673,1031,866,1075"/>
+<area shape="rect" id="node34" href="$da/de5/ThicknessScan_8m.html#a22c04a3138df1f2792847f9adef38e7b" title="text" alt="" coords="479,1022,527,1050"/>
+<area shape="rect" id="node35" href="$d5/db2/namespaceActsExamples_1_1BField_1_1root.html#a3f6cb4bc402451547a54404a806c8e11" title="ActsExamples::BField\l::root::fieldMapperRZ" alt="" coords="419,1074,586,1118"/>
+<area shape="rect" id="node37" href="$d5/db2/namespaceActsExamples_1_1BField_1_1root.html#aa9cb682b93eed67d228a0aa38aa165f1" title="ActsExamples::BField\l::root::fieldMapperXYZ" alt="" coords="416,1210,589,1254"/>
+<area shape="rect" id="node39" href="$d2/d0f/namespaceActsExamples_1_1BField_1_1txt.html#aa60c98dd6137655c6f19cde26037d320" title="ActsExamples::BField\l::txt::fieldMapperRZ" alt="" coords="419,1142,586,1186"/>
+<area shape="rect" id="node40" href="$d2/d0f/namespaceActsExamples_1_1BField_1_1txt.html#ad54bf85f5c24a8d160866db633e9ddf5" title="ActsExamples::BField\l::txt::fieldMapperXYZ" alt="" coords="419,1278,586,1322"/>
+<area shape="rect" id="node36" href="$da/d7b/namespaceActs.html#aa46031ee88f77bb14022872f010d897a" title="Acts::fieldMapperRZ" alt="" coords="690,1151,849,1179"/>
+<area shape="rect" id="node38" href="$da/d7b/namespaceActs.html#a4a08a66d4382d4519b6373d6fbd1991d" title="Acts::fieldMapperXYZ" alt="" coords="686,1218,853,1246"/>
+<area shape="rect" id="node47" href="$d9/d9e/evDisplay_8C.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="481,1414,525,1442"/>
+<area shape="rect" id="node48" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="413,1518,592,1546"/>
+<area shape="rect" id="node49" href="$d3/d9b/namespacenlohmann.html#a6ce645a0b8717757e096a5b5773b7a16" title="user&#45;defined to_string function for JSON values" alt="" coords="424,1466,581,1494"/>
+</map>

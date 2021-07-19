@@ -1,0 +1,12 @@
+<map id="PHG4DetectorSubsystem::ReadParamsFromDB" name="PHG4DetectorSubsystem::ReadParamsFromDB">
+<area shape="rect" id="node2" href="$dd/dae/classPHParameters.html#a9e4ff321ebecd91112e7e09a2a8ad890" title="PHParameters::ReadFromDB" alt="" coords="245,136,457,164"/>
+<area shape="rect" id="node3" href="$dc/ddd/classPdbBankManager.html#a845fef32c14858a7125c77d7e1ed2d6f" title="PdbBankManager::instance" alt="" coords="525,5,731,33"/>
+<area shape="rect" id="node4" href="$dc/ddd/classPdbBankManager.html#a95e1c32001912315223f34c148468092" title="PdbBankManager::getApplication" alt="" coords="505,57,751,85"/>
+<area shape="rect" id="node5" href="$dd/df1/classPdbApplication.html#a2813a381c7e42edd7252d3be0d5e9468" title="PdbApplication::startRead" alt="" coords="530,109,726,137"/>
+<area shape="rect" id="node6" href="$dd/df1/classPdbApplication.html#a3f16b575e6bfc657ebe90189b9490216" title="PdbApplication::abort" alt="" coords="544,161,712,189"/>
+<area shape="rect" id="node7" href="$dc/ddd/classPdbBankManager.html#a5d31d120214e07ab1803799d4db3877f" title="PdbBankManager::fetchBank" alt="" coords="519,213,737,241"/>
+<area shape="rect" id="node8" href="$dd/dae/classPHParameters.html#a60173f5ff12c567632583ea619a7d2fb" title="PHParameters::FillFrom" alt="" coords="539,265,717,293"/>
+<area shape="rect" id="node9" href="$d8/d21/classPdbParameterMap.html#ade341cd2fa2ac009cd6e7741e728f85b" title="PdbParameterMap::get\l_dparam_iters" alt="" coords="799,189,976,233"/>
+<area shape="rect" id="node10" href="$d8/d21/classPdbParameterMap.html#ac348934f368cf69d37ce7480fdcd332c" title="PdbParameterMap::get\l_iparam_iters" alt="" coords="799,257,976,301"/>
+<area shape="rect" id="node11" href="$d8/d21/classPdbParameterMap.html#ab0e99129bc91837311172241b78f4c82" title="PdbParameterMap::get\l_cparam_iters" alt="" coords="799,325,976,369"/>
+</map>

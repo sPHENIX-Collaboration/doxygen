@@ -1,0 +1,25 @@
+var classTSQLImportClient =
+[
+    [ "TSQLImportClient", "d7/db0/classTSQLImportClient.html#a1c7a5a29455dcac9fa7ded4db4cafe70", null ],
+    [ "~TSQLImportClient", "d7/db0/classTSQLImportClient.html#a77a6f39fa22805f313a219e7421e1154", null ],
+    [ "Clean", "d7/db0/classTSQLImportClient.html#a77793f6ea13e186b6381cd021f40fb9b", null ],
+    [ "GET", "d7/db0/classTSQLImportClient.html#a1c76f80ada98e3c9600b14278ffc5009", null ],
+    [ "GetColumns", "d7/db0/classTSQLImportClient.html#ab4e0ae932986490539e3ee95976aa83f", null ],
+    [ "GetException", "d7/db0/classTSQLImportClient.html#a12abe5cc1310f7c177d72d0f10a14db8", null ],
+    [ "GetLocal", "d7/db0/classTSQLImportClient.html#aefca4f35d7fdbe7adbb884da9b4fcc18", null ],
+    [ "GetLocalFile", "d7/db0/classTSQLImportClient.html#a7824dc123f32e923cb4d039ece1767a3", null ],
+    [ "GetSkipLines", "d7/db0/classTSQLImportClient.html#a2867f0ad940680b08d383014189690c3", null ],
+    [ "GetStatus", "d7/db0/classTSQLImportClient.html#acc7535fa85ec1ccfc214018d0eb2bace", null ],
+    [ "GetTableName", "d7/db0/classTSQLImportClient.html#a3c0a30efc6ddde3f13fd8c4f797b3ebf", null ],
+    [ "Init", "d7/db0/classTSQLImportClient.html#a7f2cd99d495957b22fe7d134e92c4dd3", null ],
+    [ "IsValid", "d7/db0/classTSQLImportClient.html#af7d96f4a21ba0481b889ff79a26ceb02", null ],
+    [ "TSQLImporter", "d7/db0/classTSQLImportClient.html#ac8b5f4da7677ff84831f097cf58bfd02", null ],
+    [ "fColumns", "d7/db0/classTSQLImportClient.html#ade1c4ab527ecd76fad8deaee5a0beb6e", null ],
+    [ "fException", "d7/db0/classTSQLImportClient.html#a736fff55555d946bc7ef700c7dcca400", null ],
+    [ "fLocalFile", "d7/db0/classTSQLImportClient.html#a1c6f259bd8d2fc9ce7e1f8c34be87ac1", null ],
+    [ "fMustDeleteLocalFile", "d7/db0/classTSQLImportClient.html#a9ec75a66aa2e20dcc59341f96c78ddb5", null ],
+    [ "fSkipLines", "d7/db0/classTSQLImportClient.html#a921a4e8374ea05838a53d322e992e2cc", null ],
+    [ "fStatus", "d7/db0/classTSQLImportClient.html#ae74f381d25cbaeb76bb56c5aedb6a18a", null ],
+    [ "fTableName", "d7/db0/classTSQLImportClient.html#a8195c8f00734c7d59cadff34bbf175e8", null ],
+    [ "fUrl", "d7/db0/classTSQLImportClient.html#a2391cc00d7d4ff42b4a973ef09b6257a", null ]
+];

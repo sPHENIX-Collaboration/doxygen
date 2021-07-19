@@ -1,0 +1,23 @@
+<map id="QAG4SimulationIntt::evaluate_clusters" name="QAG4SimulationIntt::evaluate_clusters">
+<area shape="rect" id="node2" href="$d8/d2b/namespaceQAG4Util.html#a6e1e25d78459f9a518ba04b97289f69d" title="angle difference between [&#45;pi, pi[" alt="" coords="240,89,393,117"/>
+<area shape="rect" id="node3" href="$da/d30/classQAG4SimulationIntt.html#a258ceac5ae74bed78d6c4ed60af96bd7" title="QAG4SimulationIntt\l::find_g4hits" alt="" coords="239,193,395,237"/>
+<area shape="rect" id="node5" href="$d7/d4f/classTrkrClusterHitAssoc.html#a79099cbebd11459ea55add96711d119d" title="Get all the hits associated with a cluster by key." alt="" coords="516,5,669,49"/>
+<area shape="rect" id="node9" href="$da/d30/classQAG4SimulationIntt.html#ae52c4ed040d3238d89df43dcbc601976" title="common prefix for QA histograms" alt="" coords="515,313,671,357"/>
+<area shape="rect" id="node11" href="$d8/d2b/namespaceQAG4Util.html#a61d46189a0883ae4af122eb5ef596946" title="radius" alt="" coords="253,313,380,341"/>
+<area shape="rect" id="node13" href="$d0/d2c/classTrkrClusterContainer.html#a9b6a31479d24147db018ac23460ac548" title="return all clusters" alt="" coords="235,365,398,409"/>
+<area shape="rect" id="node14" href="$d6/d9e/namespaceInttDefs.html#a70039b392cd393f5812981f69a73c94b" title="Generate a hitkey from a strip id." alt="" coords="253,433,380,461"/>
+<area shape="rect" id="node15" href="$d8/db5/namespaceQAHistManagerDef.html#a95764557eee8578107f3f8cac5a640da" title="Get a pointer to the default hist manager for QA modules." alt="" coords="209,485,424,529"/>
+<area shape="rect" id="node20" href="$d5/d76/classTrkrHitSetContainer.html#a0e347bd66bf03e9a34651410a79d5cab" title="return all HitSets matching a given detid" alt="" coords="239,553,395,597"/>
+<area shape="rect" id="node21" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="243,621,391,649"/>
+<area shape="rect" id="node22" href="$d6/d9e/namespaceInttDefs.html#af05e3c5a7a065fbbf4c515698cecbfda" title="Get the row index from hitkey." alt="" coords="250,673,383,701"/>
+<area shape="rect" id="node4" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="489,73,697,117"/>
+<area shape="rect" id="node6" href="$d7/d8d/classTrkrHitTruthAssoc.html#a405b674f9fab98772fef6bbd43ae6aa9" title="Get cell keys associated with desired hit." alt="" coords="519,141,667,185"/>
+<area shape="rect" id="node7" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="519,209,666,237"/>
+<area shape="rect" id="node8" href="$d4/d30/classPHG4HitContainer.html#a62c24ef9c00bd714f597939598a87041" title="PHG4HitContainer::findHit" alt="" coords="493,261,692,289"/>
+<area shape="rect" id="node10" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="773,465,926,493"/>
+<area shape="rect" id="node12" href="$d8/d2b/namespaceQAG4Util.html#acb654c77dcfa7a61ba444f92481283c1" title="square" alt="" coords="524,381,661,409"/>
+<area shape="rect" id="node16" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="502,433,683,461"/>
+<area shape="rect" id="node17" href="$da/d29/classFun4AllServer.html#af5885837658eb26f98dbc697b58747a7" title="Fun4AllServer::getHistoManager" alt="" coords="472,553,713,581"/>
+<area shape="rect" id="node19" href="$da/d29/classFun4AllServer.html#a377f113767f24ce6413e678752ed7f53" title="Fun4AllServer::registerHisto\lManager" alt="" coords="487,485,698,529"/>
+<area shape="rect" id="node18" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="761,521,937,549"/>
+</map>

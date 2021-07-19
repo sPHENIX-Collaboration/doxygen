@@ -1,0 +1,25 @@
+var JetScapeLogger_8cc =
+[
+    [ "BLACK", "d3/da1/JetScapeLogger_8cc.html#a7b3b25cba33b07c303f3060fe41887f6", null ],
+    [ "BLUE", "d3/da1/JetScapeLogger_8cc.html#a79d10e672abb49ad63eeaa8aaef57c38", null ],
+    [ "BOLDBLACK", "d3/da1/JetScapeLogger_8cc.html#aef2fe95894117165b29036718221979f", null ],
+    [ "BOLDBLUE", "d3/da1/JetScapeLogger_8cc.html#a11e77c19555cbd15bcc744ff36a18635", null ],
+    [ "BOLDCYAN", "d3/da1/JetScapeLogger_8cc.html#ae87af5e6363eb1913b17f24dcb60a22d", null ],
+    [ "BOLDGREEN", "d3/da1/JetScapeLogger_8cc.html#a4a6c893a1703c33ede7d702fe5f97c91", null ],
+    [ "BOLDMAGENTA", "d3/da1/JetScapeLogger_8cc.html#ac4723c5ee12cfca16e2172b57b99cb07", null ],
+    [ "BOLDRED", "d3/da1/JetScapeLogger_8cc.html#ab912d02c7998c3d47d05f87be4e2c920", null ],
+    [ "BOLDWHITE", "d3/da1/JetScapeLogger_8cc.html#aa4ef051614aa0bd503b0a18ee158c5d7", null ],
+    [ "BOLDYELLOW", "d3/da1/JetScapeLogger_8cc.html#a8cec79108dfc3c61e8e32d390ec28b26", null ],
+    [ "CLEAR", "d3/da1/JetScapeLogger_8cc.html#a611cc9b5f655508482f3d7a9751c182a", null ],
+    [ "CYAN", "d3/da1/JetScapeLogger_8cc.html#ad243f93c16bc4c1d3e0a13b84421d760", null ],
+    [ "GREEN", "d3/da1/JetScapeLogger_8cc.html#acfbc006ea433ad708fdee3e82996e721", null ],
+    [ "MAGENTA", "d3/da1/JetScapeLogger_8cc.html#a6f699060902f800f12aaae150f3a708e", null ],
+    [ "RED", "d3/da1/JetScapeLogger_8cc.html#a8d23feea868a983c8c2b661e1e16972f", null ],
+    [ "WHITE", "d3/da1/JetScapeLogger_8cc.html#a87b537f5fa5c109d3c05c13d6b18f382", null ],
+    [ "YELLOW", "d3/da1/JetScapeLogger_8cc.html#abf681265909adf3d3e8116c93c0ba179", null ],
+    [ "getMemoryUsage", "d3/da1/JetScapeLogger_8cc.html#a990ff28e42cd551e595c5efc8c54a224", null ],
+    [ "null", "d3/da1/JetScapeLogger_8cc.html#ade52e6dd870e89e5cbe9236966c97e54", null ],
+    [ "safe_cerr", "d3/da1/JetScapeLogger_8cc.html#a7c607dcc0b5cc7d239179e2fdfe27c83", null ],
+    [ "safe_cout", "d3/da1/JetScapeLogger_8cc.html#a1f2581a8bc71bd1771e7bbdd59251f3f", null ],
+    [ "safe_null", "d3/da1/JetScapeLogger_8cc.html#a9ac1c344bbff9f0c4d6f40492faf27ef", null ]
+];

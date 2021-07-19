@@ -1,0 +1,33 @@
+<map id="PHG4Detector::topNode" name="PHG4Detector::topNode">
+<area shape="rect" id="node2" href="$d9/d5c/classPHG4MicromegasDetector.html#a248edae10ade5a83ef3eed5a85c07657" title="add geometry node" alt="" coords="279,5,479,49"/>
+<area shape="rect" id="node4" href="$d4/dc1/classPHG4MvtxDetector.html#aeaa7d4f1829031ef0c70b64add0a9b33" title="PHG4MvtxDetector::AddGeometryNode" alt="" coords="236,73,523,101"/>
+<area shape="rect" id="node6" href="$df/dfc/classPHG4EICMvtxDetector.html#ade34c3fa7983a389889399d1f804eccb" title="PHG4EICMvtxDetector\l::AddGeometryNode" alt="" coords="293,125,465,169"/>
+<area shape="rect" id="node8" href="$dc/de8/classPHG4InttDetector.html#a4fd8a72c84ab05c4b858c12dc31debd6" title="PHG4InttDetector::AddGeometryNode" alt="" coords="241,193,518,221"/>
+<area shape="rect" id="node10" href="$de/d1f/classPHG4HcalDetector.html#abd45714fd88b0f9d2abc92fba6c95e13" title="construct" alt="" coords="259,245,499,273"/>
+<area shape="rect" id="node11" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#aed2a21ff80c7f387832f684e8ee7ee16" title="PHG4SpacalPrototype4Detector\l::ConstructMe" alt="" coords="261,297,497,341"/>
+<area shape="rect" id="node12" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#aea582a01978e516e9a623421dc3c1e2c" title="PHG4SpacalPrototypeDetector\l::ConstructMe" alt="" coords="265,365,493,409"/>
+<area shape="rect" id="node13" href="$d0/da4/classPHG4SpacalDetector.html#a332cf236022185ea0873a2c26cf5b12f" title="PHG4SpacalDetector\l::ConstructMe" alt="" coords="298,433,461,477"/>
+<area shape="rect" id="node16" href="$da/dca/classPHG4SectorSubsystem.html#a9251524e8122807319604379c6111eea" title="init" alt="" coords="291,501,467,545"/>
+<area shape="rect" id="node17" href="$d3/d62/classPHG4InnerHcalSubsystem.html#aff7b59edd38b7ee393b7992ef41c5ca1" title="PHG4InnerHcalSubsystem\l::InitRunSubsystem" alt="" coords="281,569,478,613"/>
+<area shape="rect" id="node18" href="$dc/d99/classPHG4SpacalPrototype4Subsystem.html#a70833355abb8992188f66a2e670501f9" title="init" alt="" coords="253,637,505,681"/>
+<area shape="rect" id="node19" href="$d3/d07/classPHG4Prototype2InnerHcalSubsystem.html#ae3541a1e75ede0773e416a663c62d9e0" title="PHG4Prototype2InnerHcalSubsystem\l::InitRunSubsystem" alt="" coords="244,705,515,749"/>
+<area shape="rect" id="node20" href="$d7/d0d/classPHG4TpcSubsystem.html#a94b5332ef69dc3d42772c72be89b0d37" title="PHG4TpcSubsystem::InitRun\lSubsystem" alt="" coords="273,773,486,817"/>
+<area shape="rect" id="node21" href="$de/de0/classPHG4Prototype3InnerHcalSubsystem.html#a2acfdad23f1f9fbed035dcfd27a0ce71" title="PHG4Prototype3InnerHcalSubsystem\l::InitRunSubsystem" alt="" coords="244,841,515,885"/>
+<area shape="rect" id="node22" href="$d2/d00/classPHG4Prototype2OuterHcalSubsystem.html#a530a2fde4a8d74d652362067f24861ab" title="PHG4Prototype2OuterHcalSubsystem\l::InitRunSubsystem" alt="" coords="242,909,517,953"/>
+<area shape="rect" id="node23" href="$dd/d2a/classBeamLineMagnetSubsystem.html#acd07ea5e8eb515d7a63e240b47ae0909" title="init runwise stuff" alt="" coords="273,977,486,1021"/>
+<area shape="rect" id="node24" href="$da/d01/classPHG4OuterHcalSubsystem.html#a1f3de004c8899012a83b82a3072058a5" title="PHG4OuterHcalSubsystem\l::InitRunSubsystem" alt="" coords="279,1045,480,1089"/>
+<area shape="rect" id="node25" href="$d4/d00/classPHG4SpacalPrototypeSubsystem.html#ac8dfb85498d619e99885c19fd6cbc330" title="init" alt="" coords="258,1113,501,1157"/>
+<area shape="rect" id="node26" href="$db/dc5/classPHG4CylinderSubsystem.html#a36e9fe9b69b4314846e245a1c6119cf3" title="init runwise stuff" alt="" coords="285,1181,474,1225"/>
+<area shape="rect" id="node27" href="$df/d14/classPHG4BlockSubsystem.html#a484f9a625742f91e92f8bd82571afbee" title="InitRunSubsystem." alt="" coords="295,1249,464,1293"/>
+<area shape="rect" id="node28" href="$d1/d66/classPHG4ZDCSubsystem.html#a99246274add73c7011c069f8e0fc3f20" title="PHG4ZDCSubsystem::InitRun\lSubsystem" alt="" coords="270,1317,489,1361"/>
+<area shape="rect" id="node29" href="$d9/dbf/classPHG4MvtxSubsystem.html#aaf7e1f3aa39a7095eb64bab00d56509d" title="InitRunSubsystem." alt="" coords="292,1385,467,1429"/>
+<area shape="rect" id="node30" href="$d3/d9f/classPHG4EICMvtxSubsystem.html#aa537d4f8d108162d115c80464e14e2b1" title="InitRunSubsystem." alt="" coords="285,1453,473,1497"/>
+<area shape="rect" id="node31" href="$d6/d09/classPHG4InttSubsystem.html#ab244868cc5a4290031006e1a0ea9849d" title="init" alt="" coords="297,1521,461,1565"/>
+<area shape="rect" id="node32" href="$d6/dca/classPHG4SpacalSubsystem.html#accf179cd9d61965925e99781b26d2966" title="init" alt="" coords="290,1589,469,1633"/>
+<area shape="rect" id="node3" href="$d9/d5c/classPHG4MicromegasDetector.html#a645e1aa98c237126c8e53b9e3f028262" title="construct" alt="" coords="592,5,792,49"/>
+<area shape="rect" id="node5" href="$d4/dc1/classPHG4MvtxDetector.html#a8b1e48980398bde6fd22e58e3c26dd63" title="construct" alt="" coords="571,73,813,101"/>
+<area shape="rect" id="node7" href="$df/dfc/classPHG4EICMvtxDetector.html#a402c325321367210febecd0c48cc14c9" title="construct" alt="" coords="606,125,778,169"/>
+<area shape="rect" id="node9" href="$dc/de8/classPHG4InttDetector.html#a28f158eacdcba41ebc42456e725bbe94" title="construct" alt="" coords="575,193,809,221"/>
+<area shape="rect" id="node14" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a5fff07b9f6daa78ccc2d56ac277bab0e" title="PHG4FullProjSpacalDetector\l::ConstructMe" alt="" coords="587,399,797,443"/>
+<area shape="rect" id="node15" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a4719c5e160407e1b7f02bced47425698" title="PHG4FullProjTiltedSpacal\lDetector::ConstructMe" alt="" coords="597,467,787,511"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="SvtxTrackEval::max_truth_particle_by_nclusters" name="SvtxTrackEval::max_truth_particle_by_nclusters">
+<area shape="rect" id="node2" href="$df/dad/classSvtxTrackEval.html#a62e98f45f00aecf81de1d3df574db70f" title="SvtxTrackEval::all\l_truth_particles" alt="" coords="504,207,644,251"/>
+<area shape="rect" id="node11" href="$d4/de4/classSvtxTruthEval.html#ae575fcf72ce935a72f3c5a157abdd900" title="SvtxTruthEval::get\l_particle" alt="" coords="983,35,1129,79"/>
+<area shape="rect" id="node20" href="$df/dad/classSvtxTrackEval.html#aa97070c7a384cae1a38f4db39c8b5fba" title="SvtxTrackEval::get\l_truth_eval" alt="" coords="743,95,889,139"/>
+<area shape="rect" id="node21" href="$df/dad/classSvtxTrackEval.html#a2cad33eb7f2cc23aa534f06ef5b591e5" title="SvtxTrackEval::has\l_node_pointers" alt="" coords="742,403,890,447"/>
+<area shape="rect" id="node22" href="$df/dad/classSvtxTrackEval.html#a1dd0fdc1d1776c7b0b0643a9ab7cf25f" title="SvtxTrackEval::get\l_nclusters_contribution" alt="" coords="265,275,444,319"/>
+<area shape="rect" id="node3" href="$d1/d1e/classSvtxClusterEval.html#ae2d6f811db24d80dac0f4b247de56bcd" title="SvtxClusterEval::all\l_truth_particles" alt="" coords="740,215,892,259"/>
+<area shape="rect" id="node18" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="704,283,928,311"/>
+<area shape="rect" id="node19" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="711,163,921,191"/>
+<area shape="rect" id="node4" href="$d1/d1e/classSvtxClusterEval.html#a19f61841db8edf09e606635a790b1d2c" title="SvtxClusterEval::all\l_truth_hits" alt="" coords="980,267,1132,311"/>
+<area shape="rect" id="node10" href="$d1/d1e/classSvtxClusterEval.html#a9d557168b84ca9a814166d6523bfe2fd" title="SvtxClusterEval::has\l_node_pointers" alt="" coords="1207,155,1369,199"/>
+<area shape="rect" id="node16" href="$d1/d1e/classSvtxClusterEval.html#a71bb4c981bdde92138eda3a7db1975b8" title="SvtxClusterEval::get\l_truth_eval" alt="" coords="976,103,1136,147"/>
+<area shape="rect" id="node5" href="$d4/d30/classPHG4HitContainer.html#a62c24ef9c00bd714f597939598a87041" title="PHG4HitContainer::findHit" alt="" coords="1189,275,1387,303"/>
+<area shape="rect" id="node6" href="$d7/d8d/classTrkrHitTruthAssoc.html#a405b674f9fab98772fef6bbd43ae6aa9" title="Get cell keys associated with desired hit." alt="" coords="1214,327,1362,371"/>
+<area shape="rect" id="node7" href="$d7/d4f/classTrkrClusterHitAssoc.html#a79099cbebd11459ea55add96711d119d" title="Get all the hits associated with a cluster by key." alt="" coords="1211,395,1365,439"/>
+<area shape="rect" id="node8" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="1184,463,1392,507"/>
+<area shape="rect" id="node9" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="1215,223,1361,251"/>
+<area shape="rect" id="node12" href="$dc/d23/classBaseTruthEval.html#ac3045216b60b1b54d9fdd81e3a07b938" title="which particle left this truth hit?" alt="" coords="1213,35,1363,79"/>
+<area shape="rect" id="node13" href="$d3/d9e/classPHG4Hit.html#ac19cdd97dbd9b8154b8012ec0de01f76" title="PHG4Hit::get_trkid" alt="" coords="1461,73,1607,101"/>
+<area shape="rect" id="node14" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="1441,5,1627,49"/>
+<area shape="rect" id="node15" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="1440,309,1628,353"/>
+<area shape="rect" id="node17" href="$d9/d62/classSvtxHitEval.html#a3ac6af06849daeb8da2684cbfea68e08" title="SvtxHitEval::get_truth_eval" alt="" coords="1186,103,1390,131"/>
+<area shape="rect" id="node23" href="$df/dad/classSvtxTrackEval.html#add4977defc053407dcaccf555ab467de" title="SvtxTrackEval::calc\l_cluster_contribution" alt="" coords="492,275,656,319"/>
+<area shape="rect" id="node24" href="$d4/de4/classSvtxTruthEval.html#a45a358bb04e9d3e415b62047c653ff36" title="SvtxTruthEval::are\l_same_particle" alt="" coords="743,335,889,379"/>
+<area shape="rect" id="node25" href="$dc/d23/classBaseTruthEval.html#ac62b58b54f3e184b28ab9d44ea4292f7" title="do these two particle pointers resolve to the same particle?" alt="" coords="982,523,1130,567"/>
+<area shape="rect" id="node26" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="1189,583,1387,611"/>
+</map>
