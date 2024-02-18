@@ -1,0 +1,51 @@
+<map id="PHG4DetectorSubsystem::InitRun" name="PHG4DetectorSubsystem::InitRun">
+<area shape="rect" id="node2" href="$d5/dca/classPHCompositeNode.html#a15a0c4804399a9de4267647f05bd1ba4" title="PHCompositeNode::addNode" alt="" coords="261,57,477,85"/>
+<area shape="rect" id="node6" href="$d7/d6b/classPHParametersContainer.html#aa35b1c3564c41376d0a31583e5d1b28b" title="PHParametersContainer\l::AddPHParameters" alt="" coords="278,185,461,229"/>
+<area shape="rect" id="node7" href="$db/df7/classPHG4Subsystem.html#aa13094c08ce6992ef22c4a032d2bd6bb" title="PHG4Subsystem::DefineMaterials" alt="" coords="245,253,493,281"/>
+<area shape="rect" id="node8" href="$dd/dae/classPHParameters.html#a60173f5ff12c567632583ea619a7d2fb" title="PHParameters::FillFrom" alt="" coords="921,227,1098,255"/>
+<area shape="rect" id="node12" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="275,133,463,161"/>
+<area shape="rect" id="node14" href="$d5/d29/classPHG4DetectorSubsystem.html#a558a52adb8bd2a591abee5d459da24e3" title="PHG4DetectorSubsystem\l::get_filetype" alt="" coords="273,545,465,589"/>
+<area shape="rect" id="node15" href="$d5/d29/classPHG4DetectorSubsystem.html#ad52af66c96aba423fb908116cd280b83" title="PHG4DetectorSubsystem\l::InitRunSubsystem" alt="" coords="273,613,465,657"/>
+<area shape="rect" id="node16" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="293,681,446,709"/>
+<area shape="rect" id="node17" href="$dd/dae/classPHParameters.html#a38e575beaea219d9420b2fb0776910e1" title="PHParameters::Name" alt="" coords="287,733,452,761"/>
+<area shape="rect" id="node18" href="$d4/d7d/classPdbParameterMapContainer.html#a16c8b0bd57f95cfe149cdd30efa093da" title="PdbParameterMapContainer\l::print" alt="" coords="263,785,475,829"/>
+<area shape="rect" id="node19" href="$d5/d29/classPHG4DetectorSubsystem.html#a24c136df116d218558475a9c3f315a48" title="PHG4DetectorSubsystem\l::ReadDB" alt="" coords="273,853,465,897"/>
+<area shape="rect" id="node20" href="$d5/d29/classPHG4DetectorSubsystem.html#a3cfd4234f147ace0ceb43dec46e9586f" title="PHG4DetectorSubsystem\l::ReadParamsFromCDB" alt="" coords="273,357,465,401"/>
+<area shape="rect" id="node29" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="1201,543,1377,571"/>
+<area shape="rect" id="node30" href="$d5/d29/classPHG4DetectorSubsystem.html#a49578067c987f4e3e60f155ba572975a" title="PHG4DetectorSubsystem\l::ReadParamsFromDB" alt="" coords="273,477,465,521"/>
+<area shape="rect" id="node37" href="$d5/d29/classPHG4DetectorSubsystem.html#a6f07e624d8f4ca680f792b0fd0a93190" title="PHG4DetectorSubsystem\l::ReadParamsFromFile" alt="" coords="273,921,465,965"/>
+<area shape="rect" id="node39" href="$dd/dae/classPHParameters.html#a9485c99fc0bbee6150171583f1048190" title="PHParameters::SaveToNodeTree" alt="" coords="251,989,487,1017"/>
+<area shape="rect" id="node45" href="$d5/d29/classPHG4DetectorSubsystem.html#a77a3c2f18604af4bc24e71703bdfb7de" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="273,1093,465,1137"/>
+<area shape="rect" id="node46" href="$dd/dae/classPHParameters.html#a2c333a2650cdc52db0d0c8a52c545616" title="PHParameters::UpdateNodeTree" alt="" coords="251,1041,488,1069"/>
+<area shape="rect" id="node47" href="$d5/d29/classPHG4DetectorSubsystem.html#a54e48393134b65f1fe6fb3d1048e12d6" title="PHG4DetectorSubsystem\l::UpdateParametersWithMacro" alt="" coords="256,1161,483,1205"/>
+<area shape="rect" id="node3" href="$d6/d86/classPHPointerList.html#ac2176735e9d046a034f1686fd2c477eb" title="PHPointerList::append" alt="" coords="605,5,775,33"/>
+<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="617,109,763,137"/>
+<area shape="rect" id="node5" href="$dc/d82/classPHNode.html#adda2bd6cef2d5067bbe3016a990b7198" title="PHNode::setParent" alt="" coords="616,57,764,85"/>
+<area shape="rect" id="node9" href="$d8/d21/classPdbParameterMap.html#ade341cd2fa2ac009cd6e7741e728f85b" title="PdbParameterMap::get\l_dparam_iters" alt="" coords="1201,79,1378,123"/>
+<area shape="rect" id="node10" href="$d8/d21/classPdbParameterMap.html#ac348934f368cf69d37ce7480fdcd332c" title="PdbParameterMap::get\l_iparam_iters" alt="" coords="1201,147,1378,191"/>
+<area shape="rect" id="node11" href="$d8/d21/classPdbParameterMap.html#ab0e99129bc91837311172241b78f4c82" title="PdbParameterMap::get\l_cparam_iters" alt="" coords="1201,215,1378,259"/>
+<area shape="rect" id="node13" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="621,161,759,189"/>
+<area shape="rect" id="node21" href="$dd/dae/classPHParameters.html#a8bd392c0d324fd6ddace7e7fc7b47b3e" title="PHParameters::ReadFromCDB" alt="" coords="579,361,801,389"/>
+<area shape="rect" id="node22" href="$d5/d4b/classCDBInterface.html#ac1458cd6adb1e2944371c40a90dc9dfe" title="CDBInterface::instance" alt="" coords="921,296,1097,324"/>
+<area shape="rect" id="node24" href="$d5/d4b/classCDBInterface.html#a43822e59a3876434355e4cd55eba6b23" title="CDBInterface::getUrl" alt="" coords="929,373,1089,401"/>
+<area shape="rect" id="node23" href="$d5/d4b/classCDBInterface.html#a0a9c97fd3e4b52cc2148eeab58f7d1de" title="CDBInterface::CDBInterface" alt="" coords="1185,283,1393,311"/>
+<area shape="rect" id="node25" href="$d1/da8/classPHFlag.html#a4b73a422f0076568904d71f40e849da5" title="PHFlag::FlagExist" alt="" coords="1220,491,1359,519"/>
+<area shape="rect" id="node26" href="$d1/da8/classPHFlag.html#aa2dc135d4d458dd420bbead4ea2b5f0b" title="PHFlag::get_StringFlag" alt="" coords="1202,335,1377,363"/>
+<area shape="rect" id="node27" href="$d1/da8/classPHFlag.html#a9912bec8f445c81b296cee7355cdb063" title="PHFlag::get_uint64Flag" alt="" coords="1201,387,1378,415"/>
+<area shape="rect" id="node28" href="$d4/d32/classSphenixClient.html#ac5f598eea561d5cd3d79b83f79209ace" title="SphenixClient::getCalibration" alt="" coords="1180,439,1399,467"/>
+<area shape="rect" id="node31" href="$dd/dae/classPHParameters.html#a9e4ff321ebecd91112e7e09a2a8ad890" title="PHParameters::ReadFromDB" alt="" coords="584,529,796,557"/>
+<area shape="rect" id="node32" href="$dc/ddd/classPdbBankManager.html#a845fef32c14858a7125c77d7e1ed2d6f" title="PdbBankManager::instance" alt="" coords="907,529,1112,557"/>
+<area shape="rect" id="node33" href="$dc/ddd/classPdbBankManager.html#a95e1c32001912315223f34c148468092" title="PdbBankManager::getApplication" alt="" coords="887,581,1132,609"/>
+<area shape="rect" id="node34" href="$dd/df1/classPdbApplication.html#a2813a381c7e42edd7252d3be0d5e9468" title="PdbApplication::startRead" alt="" coords="911,633,1107,661"/>
+<area shape="rect" id="node35" href="$dd/df1/classPdbApplication.html#a3f16b575e6bfc657ebe90189b9490216" title="PdbApplication::abort" alt="" coords="925,685,1093,713"/>
+<area shape="rect" id="node36" href="$dc/ddd/classPdbBankManager.html#a5d31d120214e07ab1803799d4db3877f" title="PdbBankManager::fetchBank" alt="" coords="901,477,1118,505"/>
+<area shape="rect" id="node38" href="$dd/dae/classPHParameters.html#a60c316269386eda743e1151e79ebde53" title="simple read without super detector and layer structures" alt="" coords="583,929,797,957"/>
+<area shape="rect" id="node40" href="$d8/d21/classPdbParameterMap.html#a92a2189dca701d55646b76a5a86e4100" title="Clear Event." alt="" coords="594,989,786,1017"/>
+<area shape="rect" id="node41" href="$dd/dae/classPHParameters.html#a4dc6a076735983c1a66c1739f2905012" title="PHParameters::CopyToPdbParameterMap" alt="" coords="541,1041,839,1069"/>
+<area shape="rect" id="node42" href="$d8/d21/classPdbParameterMap.html#a8ad4dc22c7352f3a20558f177f3aabc1" title="PdbParameterMap::set\l_double_param" alt="" coords="922,965,1097,1009"/>
+<area shape="rect" id="node43" href="$d8/d21/classPdbParameterMap.html#aa47d7a23c66ee4fc4bcedca941892f72" title="PdbParameterMap::set\l_int_param" alt="" coords="922,1033,1097,1077"/>
+<area shape="rect" id="node44" href="$d8/d21/classPdbParameterMap.html#adda244f2d8e7c3020f6dc8a0cffcbf97" title="PdbParameterMap::set\l_string_param" alt="" coords="922,1101,1097,1145"/>
+<area shape="rect" id="node48" href="$dd/dae/classPHParameters.html#a75005aa44390e1eb574603b0b230152b" title="PHParameters::set_double\l_param" alt="" coords="591,1093,789,1137"/>
+<area shape="rect" id="node49" href="$dd/dae/classPHParameters.html#a62881b44dd0564425633070316af66ec" title="PHParameters::set_int\l_param" alt="" coords="605,1161,775,1205"/>
+<area shape="rect" id="node50" href="$dd/dae/classPHParameters.html#a2ebd6e499647b20dd41ca164e71ca061" title="PHParameters::set_string\l_param" alt="" coords="595,1229,785,1273"/>
+</map>

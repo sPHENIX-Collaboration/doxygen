@@ -1,0 +1,38 @@
+<map id="Acts::Surface::type" name="Acts::Surface::type">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a6f6d3818fb0f55adf102134c40bdd840" title="adjust the BinUtility bu to a surface" alt="" coords="237,5,401,33"/>
+<area shape="rect" id="node3" href="$d6/d06/namespaceActs_1_1detail.html#a6846bbd02bf1dd860c2e86bef7d02cb6" title="Acts::detail::angleDescription\lSwitch" alt="" coords="208,57,429,101"/>
+<area shape="rect" id="node6" href="$d0/de6/structActsFatras_1_1PlanarSurfaceMask.html#a9116e533f753f565445510aecb6f2f8e" title="ActsFatras::PlanarSurface\lMask::apply" alt="" coords="221,125,416,169"/>
+<area shape="rect" id="node8" href="$dd/dc2/namespaceActs_1_1Svg_1_1SurfaceConverter.html#a04dd93359ca8b99f6ec6e00ee87c8252" title="Acts::Svg::SurfaceConverter\l::convert" alt="" coords="212,193,425,237"/>
+<area shape="rect" id="node10" href="$d1/dc1/namespaceActs_1_1PodioUtil.html#add79bf9338bf85ffa109758c138fc63c" title="Acts::PodioUtil::convert\lSurfaceToPodio" alt="" coords="229,261,409,305"/>
+<area shape="rect" id="node14" href="$d4/d12/classActs_1_1LayerArrayCreator.html#acefef63c738cce2b27e75db01a0263ee" title="Acts::LayerArrayCreator\l::createNavigationSurface" alt="" coords="220,329,417,373"/>
+<area shape="rect" id="node19" href="$db/d49/GsfComponentMergingTests_8cpp.html#a75ce8dcfb616e963e4f898caba94c329" title="meanFromFree" alt="" coords="258,397,379,425"/>
+<area shape="rect" id="node22" href="$d8/da7/structStrawSelector.html#ad8a41a77700e6bbf4d02772d51a364d5" title="StrawSelector::operator()" alt="" coords="223,449,415,477"/>
+<area shape="rect" id="node23" href="$d5/d93/structActs_1_1Test_1_1PlaneSelector.html#a506b591201ebd91e72b6c811069441aa" title="Acts::Test::PlaneSelector\l::operator()" alt="" coords="224,501,413,545"/>
+<area shape="rect" id="node24" href="$de/d7d/classActs_1_1Surface.html#a7f658ccc34e6a1f0047cedf33d47bb68" title="Acts::Surface::operator==" alt="" coords="219,569,419,597"/>
+<area shape="rect" id="node25" href="$de/d21/structActsFatras_1_1Channelizer.html#ad43a94d949eab3eb6ada4c463c75cac0" title="ActsFatras::Channelizer\l::segments" alt="" coords="228,621,409,665"/>
+<area shape="rect" id="node28" href="$d5/da5/classActs_1_1TGeoCylinderDiscSplitter.html#a6491ad583fbc3bfd7c9f3c8bd70ad5db" title="Acts::TGeoCylinderDiscSplitter\l::split" alt="" coords="204,689,433,733"/>
+<area shape="rect" id="node29" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a9ef9925a437841f9c97b7a1fde912ed3" title="Acts::SurfaceJsonConverter\l::toJson" alt="" coords="215,757,422,801"/>
+<area shape="rect" id="node31" href="$d1/de9/namespaceActs_1_1PortalJsonConverter.html#a9fd7f0452186e70f09e80846e56fb65b" title="Convert to json format &#45; dedicated Detray function." alt="" coords="221,825,416,869"/>
+<area shape="rect" id="node32" href="$da/d33/classActs_1_1AtlasStepper.html#afac476b27e38fce2f1019e5d8186286d" title="Acts::AtlasStepper\l::transportCovarianceToBound" alt="" coords="206,893,431,937"/>
+<area shape="rect" id="node34" href="$da/d33/classActs_1_1AtlasStepper.html#afe9fd822ce7ea0987bbb11630b1f7eb9" title="Acts::AtlasStepper\l::update" alt="" coords="245,961,393,1005"/>
+<area shape="rect" id="node36" href="$d2/d42/classActs_1_1RiddersPropagator.html#a60a42934ffbd7b7b255075870b6c1a5b" title="Acts::RiddersPropagator\l::wiggleAndCalculateJacobian" alt="" coords="208,1029,429,1073"/>
+<area shape="rect" id="node37" href="$de/d4a/classActsExamples_1_1RootMaterialTrackWriter.html#a34f05d081e594e679b5e06e08513052a" title="ActsExamples::RootMaterial\lTrackWriter::writeT" alt="" coords="213,1097,424,1141"/>
+<area shape="rect" id="node4" href="$da/d7b/namespaceActs.html#a2d42e87cd0bd4eb9a52fa04db44f033d" title="Acts::reduceMixtureWithKLDistance" alt="" coords="486,47,749,75"/>
+<area shape="rect" id="node5" href="$df/dc5/GsfMixtureReductionTests_8cpp.html#aed8779c083663876e1567aad9e2c4488" title="BOOST_AUTO_TEST_CASE" alt="" coords="807,47,1003,75"/>
+<area shape="rect" id="node7" href="$da/df8/namespaceActsFatras.html#aa2d2223591b1bea3132041895a5d0349" title="Unit test for testing the Surface mask." alt="" coords="523,99,712,143"/>
+<area shape="rect" id="node9" href="$db/d30/namespaceActs_1_1Svg_1_1SurfaceArrayConverter.html#a24ebb22db79bda5edb4ab0ed4711bf5a" title="Acts::Svg::SurfaceArrayConverter\l::convert" alt="" coords="493,167,742,211"/>
+<area shape="rect" id="node11" href="$db/de3/classActs_1_1MutablePodioTrackContainer.html#a1e89c06d3fcfe06324855abec559d0bc" title="Acts::MutablePodioTrackContainer\l::setReferenceSurface_impl" alt="" coords="491,235,744,279"/>
+<area shape="rect" id="node12" href="$d9/da2/exceptionActs_1_1MutablePodioTrackStateContainer.html#ac02bc689ca30db3677a5582e70b417ff" title="Acts::MutablePodioTrackState\lContainer::setReferenceSurface_impl" alt="" coords="481,303,753,347"/>
+<area shape="rect" id="node13" href="$dc/df5/ConvertTrackPodioTest_8cpp.html#a063cec0a43481ea6944c7af195aa7adc" title="BOOST_AUTO_TEST_CASE" alt="" coords="519,371,715,399"/>
+<area shape="rect" id="node15" href="$d4/d12/classActs_1_1LayerArrayCreator.html#adbcf99ad8a103ce4442ae13ebd5276de" title="Acts::LayerArrayCreator\l::layerArray" alt="" coords="525,423,709,467"/>
+<area shape="rect" id="node16" href="$d1/d48/classActs_1_1CuboidVolumeBuilder.html#a91c773c6fb868e14c760eb440f1f6e88" title="This function creates a TrackingVolume with a configurable number of layers and surfaces. Each surface gets a detector element attached if the template parameter is non&#45;void." alt="" coords="801,355,1008,399"/>
+<area shape="rect" id="node18" href="$d3/d58/structActs_1_1Test_1_1CubicTrackingGeometry.html#aa6fe8224c9e10cbad7323afcbb4082be" title="Call operator to build the standard cubic tracking geometry." alt="" coords="810,423,999,467"/>
+<area shape="rect" id="node17" href="$dd/d7e/namespaceActs_1_1Test.html#a29f38d090533d86121814e1c234950f3" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="1056,355,1244,399"/>
+<area shape="rect" id="node20" href="$db/d49/GsfComponentMergingTests_8cpp.html#a309ddd1f8c82400249a518647743e446" title="test_surface" alt="" coords="565,491,669,519"/>
+<area shape="rect" id="node21" href="$db/d49/GsfComponentMergingTests_8cpp.html#abc49a2f96ac103c6c367092194192b04" title="BOOST_AUTO_TEST_CASE" alt="" coords="807,491,1003,519"/>
+<area shape="rect" id="node26" href="$da/df8/namespaceActsFatras.html#ad94482d91075d25c4a4b985f0dc543af" title="ActsFatras::BOOST_AUTO\l_TEST_CASE" alt="" coords="521,572,713,616"/>
+<area shape="rect" id="node27" href="$da/df8/namespaceActsFatras.html#ae4a19547b33deb9f3b1dcb4887edcf5a" title="Unit test for testing the Channelizer." alt="" coords="523,640,712,684"/>
+<area shape="rect" id="node30" href="$d2/d6b/SurfaceJsonConverterTests_8cpp.html#a1ad34a06e2b4bf87dcfa85e064ee4841" title="BOOST_AUTO_TEST_CASE" alt="" coords="519,765,715,793"/>
+<area shape="rect" id="node33" href="$da/d33/classActs_1_1AtlasStepper.html#a9bcf5549c2347127eff1677d06a692de" title="Acts::AtlasStepper\l::boundState" alt="" coords="543,893,691,937"/>
+<area shape="rect" id="node35" href="$da/d33/classActs_1_1AtlasStepper.html#a621a2e87abb3ce07a4aaeb392f19e4c0" title="Resets the state." alt="" coords="543,961,691,1005"/>
+</map>

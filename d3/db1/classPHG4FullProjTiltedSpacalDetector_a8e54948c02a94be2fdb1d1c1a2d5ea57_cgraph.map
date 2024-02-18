@@ -1,0 +1,51 @@
+<map id="PHG4FullProjTiltedSpacalDetector::Print" name="PHG4FullProjTiltedSpacalDetector::Print">
+<area shape="rect" id="node2" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#ad7dfc95aae75288ee639d3e209f689fa" title="get the v3 cast of the geometry object" alt="" coords="259,233,449,277"/>
+<area shape="rect" id="node3" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="259,301,449,329"/>
+<area shape="rect" id="node4" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#ab15ad149ea75e222394cf00342045569" title="PHG4CylinderGeom_Spacalv3\l::Print" alt="" coords="243,353,465,397"/>
+<area shape="rect" id="node5" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a240cbb1dc072be6fc5eba7c30f45cce5" title="PHG4CylinderGeom_Spacalv1\l::get_construction_verbose" alt="" coords="1096,54,1319,98"/>
+<area shape="rect" id="node6" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a707b7a7383415b81510ef3daed727ecd" title="max tolerance needed for the light guide" alt="" coords="515,114,738,158"/>
+<area shape="rect" id="node7" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a62a413614dddedd21f200dc4ad204a34" title="PHG4CylinderGeom_Spacalv3\l::get_max_phi_bin_in_sec" alt="" coords="515,182,738,226"/>
+<area shape="rect" id="node8" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a1b236f2aacedd2c022120f7b089e70a3" title="sub&#45;tower divider along the polar direction" alt="" coords="807,297,1029,341"/>
+<area shape="rect" id="node9" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a2a8069b03895b6d6273fbf83ea63da9d" title="sub&#45;tower divider along the azimuthal direction" alt="" coords="807,393,1029,437"/>
+<area shape="rect" id="node10" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a1435800c4b608a083284a3bbb88a481d" title="PHG4CylinderGeom_Spacalv3\l::get_sidewall_mat" alt="" coords="515,353,738,397"/>
+<area shape="rect" id="node11" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a9a3573414ce404b36c36b90e2328c353" title="PHG4CylinderGeom_Spacalv3\l::get_sidewall_outer_torr" alt="" coords="515,421,738,465"/>
+<area shape="rect" id="node12" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#af5616980c88bd7bbb66261b6f2cbc4c4" title="PHG4CylinderGeom_Spacalv3\l::get_sidewall_thickness" alt="" coords="515,489,738,533"/>
+<area shape="rect" id="node13" href="$d0/d1f/classEventiterator.html#aca55e3fae164615c2986bb1181aa0c54" title="Eventiterator::identify" alt="" coords="542,557,711,585"/>
+<area shape="rect" id="node14" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a91340b29587e1c381d7ae57bf8cf206e" title="PHG4CylinderGeom_Spacalv2\l::Print" alt="" coords="515,1602,738,1646"/>
+<area shape="rect" id="node50" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a314388ac6e53b1de3ec99da9d8d72375" title="check that all towers has consistent sub&#45;tower divider" alt="" coords="513,609,740,653"/>
+<area shape="rect" id="node15" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a1c1e5ff96ef98b79c948b1183a84b1d4" title="PHG4CylinderGeom_Spacalv2\l::get_assembly_spacing" alt="" coords="1637,1781,1860,1825"/>
+<area shape="rect" id="node16" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a1fcf80a2790007bbfa581530276ac34e" title="azimuthal tilt in rad" alt="" coords="1637,1577,1860,1621"/>
+<area shape="rect" id="node17" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#aa7c83f9765cd39d521dfd263f730fd61" title="PHG4CylinderGeom_Spacalv2\l::get_block_depth" alt="" coords="807,1822,1029,1866"/>
+<area shape="rect" id="node18" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a096b88168e61feeef81052561ce66420" title="PHG4CylinderGeom_Spacalv2\l::get_block_width" alt="" coords="1096,1687,1319,1731"/>
+<area shape="rect" id="node19" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a140bb989a289f3dd8957599911d018eb" title="PHG4CylinderGeom_Spacalv2\l::get_sec_azimuthal_width" alt="" coords="1367,1637,1589,1681"/>
+<area shape="rect" id="node23" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a831f2cf823196b54978e5cfa903b1d8a" title="PHG4CylinderGeom_Spacalv2\l::get_polar_taper_ratio" alt="" coords="1096,1466,1319,1510"/>
+<area shape="rect" id="node24" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#affbb132fed8e7a9b7e2dd3d5e038f08f" title="PHG4CylinderGeom_Spacalv2\l::get_sec_depth" alt="" coords="1096,1870,1319,1914"/>
+<area shape="rect" id="node26" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#acf1b1e9f7de0e5585200d53d18ed73c5" title="regulated fiber distance in the non&#45;tapering direction" alt="" coords="807,1738,1029,1798"/>
+<area shape="rect" id="node28" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a91acc6fcb3f70a639d5fdfa1982d0c8b" title="regulated fiber distance in the tapering direction" alt="" coords="788,1397,1048,1441"/>
+<area shape="rect" id="node29" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#af70147ada6b9c6cfb9f8669eae9d5347" title="PHG4CylinderGeom_Spacalv2\l::is_azimuthal_seg_visible" alt="" coords="807,1517,1029,1561"/>
+<area shape="rect" id="node30" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#ad54faefb41787c1896349ee5d83b5e42" title="PHG4CylinderGeom_Spacalv1\l::Print" alt="" coords="807,683,1029,727"/>
+<area shape="rect" id="node20" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="1715,1130,1783,1158"/>
+<area shape="rect" id="node21" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a8e774c1fa0ee8f946a2947baba40d211" title="PHG4CylinderGeom_Spacalv2\l::get_azimuthal_n_sec" alt="" coords="1637,1697,1860,1741"/>
+<area shape="rect" id="node22" href="$d3/d63/classPHG4CylinderGeomv1.html#abfd6ffac2910c5613f2b29afd06f5235" title="PHG4CylinderGeomv1\l::get_radius" alt="" coords="1908,1101,2079,1145"/>
+<area shape="rect" id="node25" href="$d3/d63/classPHG4CylinderGeomv1.html#aa74a5d1faad8a99c1c1e457e16191a2f" title="PHG4CylinderGeomv1\l::get_thickness" alt="" coords="1908,497,2079,541"/>
+<area shape="rect" id="node27" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a7b1afaff300208b21ff891b5e8b292bd" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_distance" alt="" coords="1637,667,1860,711"/>
+<area shape="rect" id="node31" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#acfe39bd0d4e6921b1b31c8ff14e19725" title="PHG4CylinderGeom_Spacalv1\l::get_absorber_mat" alt="" coords="1096,361,1319,405"/>
+<area shape="rect" id="node32" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a1970987e15df2cb0ae8d855066da5c5a" title="PHG4CylinderGeom_Spacalv1\l::get_azimuthal_distance" alt="" coords="1096,225,1319,269"/>
+<area shape="rect" id="node33" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#aa34ee559cbdabe00ecf58c14b6c47ede" title="PHG4CylinderGeom_Spacalv1\l::get_azimuthal_n_sec" alt="" coords="1367,497,1589,541"/>
+<area shape="rect" id="node34" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#afb05aca95c23074364af0656941e33e9" title="PHG4CylinderGeom_Spacalv1\l::get_half_radius" alt="" coords="1637,497,1860,541"/>
+<area shape="rect" id="node35" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a1f716c0e178a97bfdb656c1e9d0b55c9" title="PHG4CylinderGeom_Spacalv1\l::get_config" alt="" coords="1096,429,1319,473"/>
+<area shape="rect" id="node36" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a03d858d218fda2c928b90874d24e85d3" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_clading_mat" alt="" coords="1096,497,1319,541"/>
+<area shape="rect" id="node37" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#af9c9dfe13a4c109517f21e57dd8e0267" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_clading_thickness" alt="" coords="1367,1134,1589,1178"/>
+<area shape="rect" id="node38" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#aa734a4efc03e2122c1f8aab955e3b065" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_core_diameter" alt="" coords="1367,769,1589,813"/>
+<area shape="rect" id="node39" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a3f8956704fc3f7200e35156a7e93f2a7" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_core_mat" alt="" coords="1096,837,1319,881"/>
+<area shape="rect" id="node40" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#af5f6b90ab676a66dbae45006e02efc82" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_core_step_size" alt="" coords="1096,769,1319,813"/>
+<area shape="rect" id="node41" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#addae9d5cbb9d190afef536207fced06e" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_outer_r" alt="" coords="1096,973,1319,1017"/>
+<area shape="rect" id="node42" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a7f533440a35a804f13778f1c9a7f2f61" title="PHG4CylinderGeom_Spacalv1\l::get_length" alt="" coords="1096,905,1319,949"/>
+<area shape="rect" id="node43" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a36f8b23dbe83a28457b66f4d12b3b706" title="PHG4CylinderGeom_Spacalv1\l::get_max_radius" alt="" coords="1637,429,1860,473"/>
+<area shape="rect" id="node44" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a2111fc2497e1846dc7689c94b0210d67" title="PHG4CylinderGeom_Spacalv1\l::get_xpos" alt="" coords="1096,1041,1319,1085"/>
+<area shape="rect" id="node45" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a1c5bdeaabdcf9479b22579049ab9116b" title="PHG4CylinderGeom_Spacalv1\l::get_ypos" alt="" coords="1096,1109,1319,1153"/>
+<area shape="rect" id="node46" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a6c7052a6c0bbc5d091af54a36bb4ae11" title="PHG4CylinderGeom_Spacalv1\l::get_z_distance" alt="" coords="1367,667,1589,711"/>
+<area shape="rect" id="node47" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a20dfa24858b32072a9cef9a619464af4" title="PHG4CylinderGeom_Spacalv1\l::get_zpos" alt="" coords="1096,1177,1319,1221"/>
+<area shape="rect" id="node48" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a2be29c52b03e02cd2e8c0269dcf321b4" title="PHG4CylinderGeom_Spacalv1\l::identify" alt="" coords="1096,1245,1319,1289"/>
+<area shape="rect" id="node49" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#aa1af17d41825f680fbaef00d27282005" title="PHG4CylinderGeom_Spacalv1\l::is_virualize_fiber" alt="" coords="1096,293,1319,337"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="TpcMonDraw::DrawTPCXYclusters" name="TpcMonDraw::DrawTPCXYclusters">
+<area shape="rect" id="node2" href="$d9/d5e/classTpcMonDraw.html#ac494569bafe50c701012ce41f69b1640" title="TpcMonDraw::Draw" alt="" coords="303,962,457,990"/>
+<area shape="rect" id="node6" href="$d9/d62/classOnlMonClient.html#a623f544f0d5fcd9e034057d75b83c70f" title="OnlMonClient::EventTime" alt="" coords="858,863,1051,891"/>
+<area shape="rect" id="node7" href="$d9/d62/classOnlMonClient.html#a7205fa0929ef0f60c4ebed20be56cd6b" title="OnlMonClient::getHisto" alt="" coords="1127,811,1305,839"/>
+<area shape="rect" id="node8" href="$d9/d62/classOnlMonClient.html#a41b085d450ca2930d86763afa28cc935" title="OnlMonClient::instance" alt="" coords="1127,1067,1305,1095"/>
+<area shape="rect" id="node12" href="$d9/d5e/classTpcMonDraw.html#ad0d760322bc0a665adef990295766fa3" title="TpcMonDraw::MakeCanvas" alt="" coords="853,1170,1057,1198"/>
+<area shape="rect" id="node15" href="$d9/d62/classOnlMonClient.html#a1de0509fec50448ce05cfbe1e7efe18b" title="OnlMonClient::RunNumber" alt="" coords="854,811,1055,839"/>
+<area shape="rect" id="node3" href="$d9/d5e/classTpcMonDraw.html#af64a145b556ef5372d4bfada118b37c2" title="TpcMonDraw::DrawFirst" alt="" coords="557,439,739,467"/>
+<area shape="rect" id="node16" href="$d9/d5e/classTpcMonDraw.html#a8a298043ea74f97f2cf76432d10f23af" title="TpcMonDraw::DrawSecond" alt="" coords="547,491,749,519"/>
+<area shape="rect" id="node17" href="$d9/d5e/classTpcMonDraw.html#a742e4b241da91a6e2d49d4e0be865a08" title="TpcMonDraw::DrawTPCADCSample" alt="" coords="519,647,777,675"/>
+<area shape="rect" id="node18" href="$d9/d5e/classTpcMonDraw.html#ac1fe6b87501435c8046c8f6d58f1bfd1" title="TpcMonDraw::DrawTPCADCSample\lLarge" alt="" coords="519,803,777,847"/>
+<area shape="rect" id="node19" href="$d9/d5e/classTpcMonDraw.html#a773bc2413be3fd3ff52b4b18b729894c" title="TpcMonDraw::DrawTPCchannelphi\l_layer_weighted" alt="" coords="521,1163,775,1207"/>
+<area shape="rect" id="node20" href="$d9/d5e/classTpcMonDraw.html#a702e56ca5c5febd4e396d10dcc7ae5df" title="TpcMonDraw::DrawTPCCheckSum" alt="" coords="523,1299,773,1327"/>
+<area shape="rect" id="node21" href="$d9/d5e/classTpcMonDraw.html#a24e6a4b01b7699b189cf2309d1a7336d" title="TpcMonDraw::DrawTPCMaxADC1D" alt="" coords="521,1043,775,1071"/>
+<area shape="rect" id="node22" href="$d9/d5e/classTpcMonDraw.html#a0759c2d59c636cea40dfc63a9ef6294f" title="TpcMonDraw::DrawTPCMaxADCModule" alt="" coords="505,1351,791,1379"/>
+<area shape="rect" id="node23" href="$d9/d5e/classTpcMonDraw.html#a8162aa3febee61f68257418fbd065c88" title="TpcMonDraw::DrawTPCModules" alt="" coords="530,595,766,623"/>
+<area shape="rect" id="node24" href="$d9/d5e/classTpcMonDraw.html#aca9432cce747a7e4579db82d79dca96e" title="TpcMonDraw::DrawTPCPedest\lSubADC1D" alt="" coords="535,1231,761,1275"/>
+<area shape="rect" id="node25" href="$d9/d5e/classTpcMonDraw.html#a92fd0b213d120166aadc56829b3675ad" title="TpcMonDraw::DrawTPCRawADC1D" alt="" coords="521,699,775,727"/>
+<area shape="rect" id="node26" href="$d9/d5e/classTpcMonDraw.html#a7695b93260f9b8421db004539ce9c915" title="TpcMonDraw::DrawTPCSampleSize" alt="" coords="519,751,777,779"/>
+<area shape="rect" id="node27" href="$d9/d5e/classTpcMonDraw.html#ac272e43e2127636c1d15991827ba7a10" title="TpcMonDraw::DrawTPCXYclusters\l_unweighted" alt="" coords="523,923,773,967"/>
+<area shape="rect" id="node28" href="$d9/d5e/classTpcMonDraw.html#aa30c857392ac1281ae61f1d0f439be67" title="TpcMonDraw::DrawTPCZYclusters" alt="" coords="523,991,773,1019"/>
+<area shape="rect" id="node29" href="$d9/d5e/classTpcMonDraw.html#a451f1dcb018c6825257cacb61c390bdd" title="TpcMonDraw::DrawTPCZYclusters\l_unweighted" alt="" coords="523,1095,773,1139"/>
+<area shape="rect" id="node4" href="$d3/dd1/classOnlMonDraw.html#a61b578f182f943a56c78384473875bef" title="OnlMonDraw::DrawDeadServer" alt="" coords="839,99,1071,127"/>
+<area shape="rect" id="node5" href="$d3/dd1/classOnlMonDraw.html#abc0395305d87829b6ac214c7a8ee12f4" title="OnlMonDraw::Name" alt="" coords="1138,99,1294,127"/>
+<area shape="rect" id="node9" href="$d9/d62/classOnlMonClient.html#ad32f0e30768022d9ceb097a7b5b6864c" title="OnlMonClient::OnlMonClient" alt="" coords="1361,1067,1573,1095"/>
+<area shape="rect" id="node10" href="$d9/d62/classOnlMonClient.html#a89a73339353f94678c7519d8c4a75fed" title="OnlMonClient::InitAll" alt="" coords="1637,1037,1796,1065"/>
+<area shape="rect" id="node11" href="$d9/d62/classOnlMonClient.html#a2fcc925a8b759a2680067cf0879cdfad" title="OnlMonClient::SetStyleTo\lDefault" alt="" coords="1621,1089,1812,1133"/>
+<area shape="rect" id="node13" href="$d9/d62/classOnlMonClient.html#ad062bcad2b3f481942ecb694177fa254" title="OnlMonClient::GetDisplay\lSizeX" alt="" coords="1119,1209,1313,1253"/>
+<area shape="rect" id="node14" href="$d9/d62/classOnlMonClient.html#aab535df3d4cfac6c72a654cf188e7c83" title="OnlMonClient::GetDisplay\lSizeY" alt="" coords="1119,1141,1313,1185"/>
+</map>

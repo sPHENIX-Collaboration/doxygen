@@ -1,0 +1,34 @@
+<map id="macros/blob/master/common/G4_Tracking.C" name="macros/blob/master/common/G4_Tracking.C">
+<area shape="rect" id="node2" href="$dc/dfe/GlobalVariables_8C.html" title="GlobalVariables.C" alt="" coords="233,289,373,317"/>
+<area shape="rect" id="node6" href="$dd/d07/G4__ActsGeom_8C.html" title="G4_ActsGeom.C" alt="" coords="698,105,827,133"/>
+<area shape="rect" id="node8" href="$df/da1/MakeActsGeometry_8h.html" title="Make Acts geometry from sPHENIX TGeometry." alt="" coords="879,197,1110,225"/>
+<area shape="rect" id="node11" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="678,197,855,225"/>
+<area shape="rect" id="node15" href="$d9/db8/G4__TPC_8C.html" title="G4_TPC.C" alt="" coords="1297,105,1383,133"/>
+<area shape="rect" id="node16" href="$dd/d20/macros_2blob_2master_2common_2QA_8C.html" title="QA.C" alt="" coords="1510,105,1565,133"/>
+<area shape="rect" id="node19" href="$d6/dff/SvtxEvaluator_8h.html" title="Compares reconstructed tracks to truth particles." alt="" coords="477,197,654,225"/>
+<area shape="rect" id="node23" href="$dc/da9/SvtxTruthRecoTableEval_8h.html" title="g4eval/SvtxTruthRecoTable\lEval.h" alt="" coords="4323,189,4525,233"/>
+<area shape="rect" id="node26" href="$d9/d89/PHActsSiliconSeeding_8h.html" title="trackreco/PHActsSiliconSeeding.h" alt="" coords="2128,197,2376,225"/>
+<area shape="rect" id="node27" href="$d5/d0f/PHActsTrackProjection_8h.html" title="trackreco/PHActsTrackProjection.h" alt="" coords="2399,197,2649,225"/>
+<area shape="rect" id="node28" href="$dc/d93/PHActsTrkFitter_8h.html" title="Refit SvtxTracks with Acts." alt="" coords="2673,197,2874,225"/>
+<area shape="rect" id="node29" href="$d9/de1/PHActsVertexPropagator_8h.html" title="trackreco/PHActsVertexPropagator.h" alt="" coords="3265,105,3529,133"/>
+<area shape="rect" id="node30" href="$df/de1/PHCASeeding_8h.html" title="trackreco/PHCASeeding.h" alt="" coords="3930,105,4123,133"/>
+<area shape="rect" id="node31" href="$d8/d71/PHTrackSeeding_8h.html" title="Base class for track seeding." alt="" coords="3659,197,3802,225"/>
+<area shape="rect" id="node32" href="$d2/dc6/PHMicromegasTpcTrackMatching_8h.html" title="trackreco/PHMicromegasTpc\lTrackMatching.h" alt="" coords="2899,189,3112,233"/>
+<area shape="rect" id="node33" href="$df/d07/PHSiliconSeedMerger_8h.html" title="trackreco/PHSiliconSeedMerger.h" alt="" coords="3187,197,3431,225"/>
+<area shape="rect" id="node34" href="$dd/d5d/PHSiliconTpcTrackMatching_8h.html" title="trackreco/PHSiliconTpcTrack\lMatching.h" alt="" coords="3826,189,4038,233"/>
+<area shape="rect" id="node35" href="$db/d76/PHSimpleKFProp_8h.html" title="kalman filter based propagator" alt="" coords="1662,197,1874,225"/>
+<area shape="rect" id="node36" href="$d8/d13/PHSimpleVertexFinder_8h.html" title="trackreco/PHSimpleVertex\lFinder.h" alt="" coords="4779,189,4976,233"/>
+<area shape="rect" id="node37" href="$dd/d1c/PHTpcDeltaZCorrection_8h.html" title="Navigate along a given track and correct TPC cluster z position to account for particle finite veloci..." alt="" coords="2713,105,2972,133"/>
+<area shape="rect" id="node38" href="$d9/d04/PHTrackCleaner_8h.html" title="trackreco/PHTrackCleaner.h" alt="" coords="1899,197,2104,225"/>
+<area shape="rect" id="node39" href="$dc/d26/PHTruthSiliconAssociation_8h.html" title="trackreco/PHTruthSilicon\lAssociation.h" alt="" coords="4113,189,4298,233"/>
+<area shape="rect" id="node40" href="$dc/d9c/PHTruthTrackSeeding_8h.html" title="Vertexing using truth info." alt="" coords="2997,105,3241,133"/>
+<area shape="rect" id="node41" href="$d4/db5/PHTruthVertexing_8h.html" title="Vertexing using truth info." alt="" coords="2343,289,2561,317"/>
+<area shape="rect" id="node42" href="$db/d30/SecondaryVertexFinder_8h.html" title="trackreco/SecondaryVertex\lFinder.h" alt="" coords="4550,189,4754,233"/>
+<area shape="rect" id="node43" href="$d4/d80/TpcLoadDistortionCorrection_8h.html" title="loads distortion correction histogram from file to DistortionCorrectionObject and stores on node tree..." alt="" coords="3553,105,3804,133"/>
+<area shape="rect" id="node44" href="$de/d0b/PHTpcResiduals_8h.html" title="tpccalib/PHTpcResiduals.h" alt="" coords="2491,105,2690,133"/>
+<area shape="rect" id="node3" href="$d9/d5f/EDecayType_8hh.html" title="g4decayer/EDecayType.hh" alt="" coords="5,373,205,401"/>
+<area shape="rect" id="node4" href="$da/d81/G4__TrkrVariables_8C.html" title="G4_TrkrVariables.C" alt="" coords="229,373,377,401"/>
+<area shape="rect" id="node7" href="$d3/d9a/macros_2blob_2master_2common_2G4__Magnet_8C.html" title="G4_Magnet.C" alt="" coords="340,197,452,225"/>
+<area shape="rect" id="node9" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="3340,289,3505,317"/>
+<area shape="rect" id="node24" href="$da/d3f/PHG4ParticleSvtxMap_8h.html" title="trackbase_historic\l/PHG4ParticleSvtxMap.h" alt="" coords="4355,281,4541,325"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="TrkrCluster::getOverlap" name="TrkrCluster::getOverlap">
+<area shape="rect" id="node2" href="$d8/da5/classTrkrClusterv4.html#a0ca70da748448602186d4f284cd43e40" title="copy content from base class" alt="" coords="238,5,426,33"/>
+<area shape="rect" id="node3" href="$d2/d06/classTrkrClusterv5.html#a72f9ef44452b7bb3c7fa482ce1cf958a" title="copy content from base class" alt="" coords="238,57,426,85"/>
+<area shape="rect" id="node4" href="$d9/df3/classTrackResiduals.html#ae56e40ad127936833e2420e5319b1d55" title="TrackResiduals::fillCluster\lBranches" alt="" coords="492,152,688,196"/>
+<area shape="rect" id="node6" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="496,84,684,128"/>
+<area shape="rect" id="node8" href="$d4/dc0/classClusterErrorPara.html#af9505cdfcb43bee14451de98118efbfd" title="ClusterErrorPara::get\l_clusterv5_modified_error" alt="" coords="233,340,431,384"/>
+<area shape="rect" id="node5" href="$d9/df3/classTrackResiduals.html#acf3f931165c42ab03b6f41f2116fcbd7" title="TrackResiduals::process\l_event" alt="" coords="763,152,945,196"/>
+<area shape="rect" id="node7" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="766,84,942,128"/>
+<area shape="rect" id="node9" href="$d5/d76/classMakeMilleFiles.html#a5617261d2826ea798d04c3904312d3ec" title="MakeMilleFiles::addTrack\lToMilleFile" alt="" coords="496,528,684,572"/>
+<area shape="rect" id="node11" href="$de/da9/classTrackEvaluation.html#a37430713fe98b52f626e2fe67c541514" title="create cluster structure from cluster" alt="" coords="499,596,681,640"/>
+<area shape="rect" id="node15" href="$d9/df3/classTrackResiduals.html#a24bc1231ee21177540a3fdfd314c4445" title="TrackResiduals::fillClusterTree" alt="" coords="479,220,701,248"/>
+<area shape="rect" id="node16" href="$d2/d93/classTrkrNtuplizer.html#a3ba752b46d320848413bf7ea09ee5dd5" title="dump the evaluator information into ntuple for external analysis" alt="" coords="499,697,681,741"/>
+<area shape="rect" id="node18" href="$d6/d54/classPHCosmicsTrkFitter.html#ad3ed3757477a9872d39ad0827df6b9ce" title="PHCosmicsTrkFitter\l::fillVectors" alt="" coords="515,272,665,316"/>
+<area shape="rect" id="node21" href="$de/dfe/classALICEKF.html#a0c6ab026b1107a689776019a6d8bd346" title="ALICEKF::getClusterError" alt="" coords="495,408,685,436"/>
+<area shape="rect" id="node23" href="$d5/de1/classHelicalFitter.html#a5f3415038dcfad9f3412a0d73edb524a" title="HelicalFitter::getCluster\lError" alt="" coords="499,460,681,504"/>
+<area shape="rect" id="node25" href="$dc/db9/classMakeSourceLinks.html#a80778ca794a89dee94ef431f93978fc1" title="MakeSourceLinks::getSource\lLinks" alt="" coords="483,340,697,384"/>
+<area shape="rect" id="node10" href="$d5/d76/classMakeMilleFiles.html#a125dde1d0314fd7c3dba92d218b59898" title="MakeMilleFiles::process\l_event" alt="" coords="765,528,943,572"/>
+<area shape="rect" id="node12" href="$de/da9/classTrackEvaluation.html#ae323be5c8121d432fb44c719600b6d04" title="evaluate clusters" alt="" coords="755,664,953,708"/>
+<area shape="rect" id="node14" href="$de/da9/classTrackEvaluation.html#ad11e4198c73a2c043b15520bffc57d47" title="evaluate tracks" alt="" coords="755,596,953,640"/>
+<area shape="rect" id="node13" href="$de/da9/classTrackEvaluation.html#a60598315f98935b77e48ecf745b87db1" title="event processing" alt="" coords="1007,629,1197,673"/>
+<area shape="rect" id="node17" href="$d2/d93/classTrkrNtuplizer.html#a399e3058749ac563592644df77083a33" title="TrkrNtuplizer::process\l_event" alt="" coords="769,732,939,776"/>
+<area shape="rect" id="node19" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="779,220,929,264"/>
+<area shape="rect" id="node20" href="$d6/d54/classPHCosmicsTrkFitter.html#af7f27bd06c1766a397916ed87c1a0c4e" title="Process each event by calling the fitter." alt="" coords="1027,216,1177,260"/>
+<area shape="rect" id="node22" href="$de/dfe/classALICEKF.html#a0b1e9dee25db62e0d3fcb2b078dfb663" title="ALICEKF::ALICEKalmanFilter" alt="" coords="749,408,959,436"/>
+<area shape="rect" id="node24" href="$d5/de1/classHelicalFitter.html#a98485e999dddb90f86479a58eb7b53a3" title="HelicalFitter::process\l_event" alt="" coords="773,460,935,504"/>
+<area shape="rect" id="node26" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="753,288,955,316"/>
+<area shape="rect" id="node28" href="$dc/dcf/classPHActsGSF.html#a6c3b895a05a59d9e14bbe0a754ac023b" title="PHActsGSF::process\l_event" alt="" coords="777,340,931,384"/>
+<area shape="rect" id="node27" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="1011,284,1193,328"/>
+</map>

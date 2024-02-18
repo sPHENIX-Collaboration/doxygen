@@ -1,0 +1,51 @@
+<map id="ActsSurfaceMaps::getSurface" name="ActsSurfaceMaps::getSurface">
+<area shape="rect" id="node2" href="$d5/d76/classMakeMilleFiles.html#a5617261d2826ea798d04c3904312d3ec" title="MakeMilleFiles::addTrack\lToMilleFile" alt="" coords="915,72,1103,116"/>
+<area shape="rect" id="node4" href="$d9/df3/classTrackResiduals.html#a16096ac744d4d6ac5795433d70d09737" title="TrackResiduals::fillStates\lWithLineFit" alt="" coords="313,2488,503,2532"/>
+<area shape="rect" id="node6" href="$d6/d54/classPHCosmicsTrkFitter.html#aaa51ecbd3968caa1e7c660f734ff973b" title="PHCosmicsTrkFitter\l::getCharge" alt="" coords="333,1892,483,1936"/>
+<area shape="rect" id="node8" href="$d3/d64/classActsGeometry.html#a74c2c69effa2b19cde731a6b67806fba" title="ActsGeometry::getGlobalPosition" alt="" coords="591,1340,835,1368"/>
+<area shape="rect" id="node10" href="$d5/de1/classHelicalFitter.html#a98485e999dddb90f86479a58eb7b53a3" title="HelicalFitter::process\l_event" alt="" coords="1214,182,1377,226"/>
+<area shape="rect" id="node38" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="1183,566,1408,594"/>
+<area shape="rect" id="node46" href="$dc/db9/classMakeSourceLinks.html#a80778ca794a89dee94ef431f93978fc1" title="MakeSourceLinks::getSource\lLinks" alt="" coords="901,2529,1116,2573"/>
+<area shape="rect" id="node47" href="$d3/d64/classActsGeometry.html#ac2534e5df04d15932c7edb931994888f" title="ActsGeometry::getGlobalPositionTpc" alt="" coords="273,1340,543,1368"/>
+<area shape="rect" id="node48" href="$d5/d76/classMakeMilleFiles.html#aff5f4bc816d9f477cb169642d5133d13" title="MakeMilleFiles::getLocal\lVtxDerivativesXY" alt="" coords="621,14,805,58"/>
+<area shape="rect" id="node49" href="$d3/d32/classActsEvaluator.html#a39a1fea8b27426e6a090be1508c254d0" title="ActsEvaluator::getSurface" alt="" coords="309,1392,507,1420"/>
+<area shape="rect" id="node50" href="$d5/de1/classHelicalFitter.html#aa8eaa3a4b4c7e909bc74b6a5db95e125" title="HelicalFitter::getTracklet\lClusterList" alt="" coords="620,192,805,236"/>
+<area shape="rect" id="node3" href="$d5/d76/classMakeMilleFiles.html#a125dde1d0314fd7c3dba92d218b59898" title="MakeMilleFiles::process\l_event" alt="" coords="1206,42,1385,86"/>
+<area shape="rect" id="node5" href="$d9/df3/classTrackResiduals.html#ae56e40ad127936833e2420e5319b1d55" title="TrackResiduals::fillCluster\lBranches" alt="" coords="615,2649,811,2693"/>
+<area shape="rect" id="node7" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="1220,2529,1371,2573"/>
+<area shape="rect" id="node9" href="$d5/d7f/classTrackFitUtils.html#af753ce36e7576ea5a7307daaba37f812" title="TrackFitUtils::addClusters" alt="" coords="912,293,1105,321"/>
+<area shape="rect" id="node11" href="$d5/d7f/classTrackFitUtils.html#a2f4c50b397295adf97e68f232c492251" title="TrackFitUtils::addClusters\lOnLine" alt="" coords="912,1813,1105,1857"/>
+<area shape="rect" id="node12" href="$dd/dfe/classPHCosmicTrackMerger.html#a232bd6c221e9a46db63d968741da536b" title="PHCosmicTrackMerger\l::addKeys" alt="" coords="923,1881,1095,1925"/>
+<area shape="rect" id="node13" href="$d7/d4d/classInttVertexFinder.html#ad28bfc9d06a12879b4a22784dcc9d033" title="InttVertexFinder::calculate\lZvertex" alt="" coords="909,1949,1108,1993"/>
+<area shape="rect" id="node14" href="$d4/d52/classTrackSeed__v1.html#aa0c76b365e9c12f873f7760e3cdc91a0" title="Updates R, X0, Y0." alt="" coords="912,2017,1105,2061"/>
+<area shape="rect" id="node15" href="$d6/d92/namespaceg4evalfn.html#a5313df3f8f0116273895bd65445cafdf" title="g4evalfn::clusloc_PHG4" alt="" coords="919,2085,1099,2113"/>
+<area shape="rect" id="node16" href="$d3/d61/classG4Eval_1_1TrkrClusterComparer.html#a6df4ad5c1ca281426a87a6033b6f9195" title="G4Eval::TrkrClusterComparer\l::clusloc_PHG4" alt="" coords="899,2137,1118,2181"/>
+<area shape="rect" id="node17" href="$d6/d92/namespaceg4evalfn.html#a51bd82af8c439a5ddafd73cbcc668e9b" title="g4evalfn::clusloc_SVTX" alt="" coords="919,2205,1098,2233"/>
+<area shape="rect" id="node18" href="$d3/d61/classG4Eval_1_1TrkrClusterComparer.html#a6b8b1f5eb1123ad089dea82434a4a029" title="G4Eval::TrkrClusterComparer\l::clusloc_SVTX" alt="" coords="899,2257,1118,2301"/>
+<area shape="rect" id="node19" href="$de/da9/classTrackEvaluation.html#a37430713fe98b52f626e2fe67c541514" title="create cluster structure from cluster" alt="" coords="918,2325,1099,2369"/>
+<area shape="rect" id="node20" href="$d4/d7b/classQAG4SimulationMvtx.html#a38de1d710b7e38e7aeab1c9c2c70b773" title="evaluate clusters" alt="" coords="926,2393,1091,2437"/>
+<area shape="rect" id="node21" href="$da/d30/classQAG4SimulationIntt.html#ac83764bf62e096e9bea2d4ebbce6ac6c" title="evaluate clusters" alt="" coords="931,345,1087,389"/>
+<area shape="rect" id="node22" href="$d5/df8/classQAG4SimulationMicromegas.html#a7d91700abab98412e6b427f4098895ca" title="evaluate clusters" alt="" coords="901,413,1116,457"/>
+<area shape="rect" id="node23" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="926,481,1091,525"/>
+<area shape="rect" id="node24" href="$dd/de7/classActsAlignmentStates.html#a89b826cc00a083d22bff9fbed88a7924" title="ActsAlignmentStates\l::fillAlignmentStateMap" alt="" coords="919,549,1099,593"/>
+<area shape="rect" id="node25" href="$d9/df3/classTrackResiduals.html#a24bc1231ee21177540a3fdfd314c4445" title="TrackResiduals::fillClusterTree" alt="" coords="897,617,1120,645"/>
+<area shape="rect" id="node26" href="$d2/d93/classTrkrNtuplizer.html#a3ba752b46d320848413bf7ea09ee5dd5" title="dump the evaluator information into ntuple for external analysis" alt="" coords="918,669,1099,713"/>
+<area shape="rect" id="node27" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="915,737,1103,781"/>
+<area shape="rect" id="node28" href="$d3/d32/classActsEvaluator.html#ab453c2df8bfbcce42b5ccfa29fd56fe5" title="ActsEvaluator::fillProto\lTrack" alt="" coords="921,2461,1096,2505"/>
+<area shape="rect" id="node29" href="$d1/d1c/classPHActsKDTreeSeeding.html#a3d88c1989bbf7f7bcc55f260db746be6" title="PHActsKDTreeSeeding\l::fillTrackSeedContainer" alt="" coords="917,805,1100,849"/>
+<area shape="rect" id="node30" href="$d1/d08/classPHCASeeding.html#a95aa83f09d0cee621417fcf6cb9ec911" title="PHCASeeding::FillTree" alt="" coords="1211,1096,1379,1124"/>
+<area shape="rect" id="node31" href="$d6/d54/classPHCosmicsTrkFitter.html#ad3ed3757477a9872d39ad0827df6b9ce" title="PHCosmicsTrkFitter\l::fillVectors" alt="" coords="933,1301,1084,1345"/>
+<area shape="rect" id="node32" href="$d3/d27/classTpcSpaceChargeReconstruction.html#a6efda41e741b6a648c237b6eb66ed5ed" title="get global position for a given cluster" alt="" coords="890,993,1127,1037"/>
+<area shape="rect" id="node33" href="$d4/d52/classTrackSeed__v1.html#aded8121f1e451bb7549d26bf7d8238f8" title="TrackSeed_v1::get_phi" alt="" coords="922,1061,1095,1089"/>
+<area shape="rect" id="node34" href="$dd/d92/classTrackSeedTrackMapConverter.html#a5f67007dfe14a1473a50a1d88226fda4" title="TrackSeedTrackMapConverter\l::getCosmicCharge" alt="" coords="897,1113,1120,1157"/>
+<area shape="rect" id="node35" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#aba9bcff30885aa9a53e64dd46cdb3eaa" title="PHMicromegasTpcTrackMatching\l::getGlobalPosition" alt="" coords="887,1181,1130,1225"/>
+<area shape="rect" id="node36" href="$d7/d38/classDSTEmulator.html#afcae6a6b5cf6860213be4e8df7e7e1e8" title="DSTEmulator::getGlobalPosition" alt="" coords="891,1369,1127,1397"/>
+<area shape="rect" id="node37" href="$d5/d55/classPHTpcResiduals.html#add43f4bfedd093b97f8300b2b4fbee3d" title="get global position for a given cluster" alt="" coords="907,873,1110,917"/>
+<area shape="rect" id="node39" href="$d9/d69/classPHSimpleKFProp.html#aee4bbd714ff99e513d7b70133954df55" title="get global position for a given cluster" alt="" coords="905,1421,1112,1465"/>
+<area shape="rect" id="node40" href="$d1/d1e/classSvtxClusterEval.html#a35f83f1ab675db36f9b34667b4053698" title="SvtxClusterEval::getGlobal\lPosition" alt="" coords="908,1489,1109,1533"/>
+<area shape="rect" id="node41" href="$d1/d08/classPHCASeeding.html#a6a5bb773ee8e0fd9fb3cc3dbbaa41504" title="get global position for a given cluster" alt="" coords="889,1249,1129,1277"/>
+<area shape="rect" id="node42" href="$de/d25/classPHGenFitTrkFitter.html#a42d070047fb65bff62cb008d99f4a4d8" title="get global position for a given cluster" alt="" coords="936,1557,1081,1601"/>
+<area shape="rect" id="node43" href="$d3/d64/classActsGeometry.html#a1d70c442ef0738a56390e291117f7ea1" title="ActsGeometry::getGlobalPositionF" alt="" coords="883,1625,1135,1653"/>
+<area shape="rect" id="node44" href="$dd/dfe/classPHCosmicTrackMerger.html#a391ad5ab2e5ef93c27fca746565a52f3" title="PHCosmicTrackMerger\l::getGlobalPositions" alt="" coords="923,1677,1095,1721"/>
+<area shape="rect" id="node45" href="$d2/d71/classPHSiliconTpcTrackMatching.html#abb64d4ab842f4682c23c0c6b0cb533fd" title="PHSiliconTpcTrackMatching\l::getInttCrossings" alt="" coords="906,1745,1111,1789"/>
+</map>

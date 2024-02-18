@@ -1,0 +1,5 @@
+<map id="BaseTruthEval::is_g4hit_from_particle" name="BaseTruthEval::is_g4hit_from_particle">
+<area shape="rect" id="node2" href="$d4/de4/classSvtxTruthEval.html#ae02589debf7ffa219d6b8aff732d5f2f" title="SvtxTruthEval::is_g4hit\l_from_particle" alt="" coords="233,5,409,49"/>
+<area shape="rect" id="node3" href="$d7/d3c/classCaloTruthEval.html#a0584fb1d676003959830fffd2ede651e" title="did this particle create this truth hit?" alt="" coords="233,73,409,117"/>
+<area shape="rect" id="node4" href="$d7/d3c/classCaloTruthEval.html#a48340a45153cbec194162cdb99a1357f" title="what truth hits were left behind by this particle in this calo volume?" alt="" coords="457,73,596,117"/>
+</map>

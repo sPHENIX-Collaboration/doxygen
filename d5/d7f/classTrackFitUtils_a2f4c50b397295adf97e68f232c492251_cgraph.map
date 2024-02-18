@@ -1,0 +1,25 @@
+<map id="TrackFitUtils::addClustersOnLine" name="TrackFitUtils::addClustersOnLine">
+<area shape="rect" id="node2" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="287,155,450,199"/>
+<area shape="rect" id="node3" href="$d0/d2c/classTrkrClusterContainer.html#a9b6a31479d24147db018ac23460ac548" title="return all clusters" alt="" coords="287,223,450,267"/>
+<area shape="rect" id="node4" href="$d3/d64/classActsGeometry.html#a74c2c69effa2b19cde731a6b67806fba" title="ActsGeometry::getGlobalPosition" alt="" coords="247,291,491,319"/>
+<area shape="rect" id="node20" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="1441,554,1589,582"/>
+<area shape="rect" id="node22" href="$d0/d2c/classTrkrClusterContainer.html#a616614c184fce4e85ce993f83191ba2b" title="get hitset key list" alt="" coords="287,658,450,702"/>
+<area shape="rect" id="node23" href="$d3/dfb/FillHoughHist_8C.html#a7e49780e97b41ea276e508cdbc5b8656" title="intercept" alt="" coords="327,726,410,754"/>
+<area shape="rect" id="node24" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="335,778,402,806"/>
+<area shape="rect" id="node5" href="$d3/d64/classActsGeometry.html#aef1d7a1753e979a73b28e0ffbe6ab994" title="ActsGeometry::geometry" alt="" coords="870,213,1062,241"/>
+<area shape="rect" id="node6" href="$d3/d64/classActsGeometry.html#ac2534e5df04d15932c7edb931994888f" title="ActsGeometry::getGlobalPositionTpc" alt="" coords="539,162,808,190"/>
+<area shape="rect" id="node7" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="881,265,1051,293"/>
+<area shape="rect" id="node8" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="881,6,1051,34"/>
+<area shape="rect" id="node11" href="$d0/dcd/structActsSurfaceMaps.html#abb92973b5c8f30db082c275b7b5cfc04" title="ActsSurfaceMaps::getSurface" alt="" coords="856,371,1076,399"/>
+<area shape="rect" id="node15" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="1441,254,1588,282"/>
+<area shape="rect" id="node21" href="$d3/d64/classActsGeometry.html#a5de502147722c0e0e8549b706d5d21a8" title="ActsGeometry::maps" alt="" coords="884,58,1048,86"/>
+<area shape="rect" id="node9" href="$d7/db0/namespaceTpcDefs.html#aafa0c31bf0892588a224d8f0726bff11" title="Get the side from hitsetkey." alt="" coords="1446,153,1583,181"/>
+<area shape="rect" id="node10" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1660,314,1783,342"/>
+<area shape="rect" id="node12" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="1143,486,1351,530"/>
+<area shape="rect" id="node13" href="$d0/dcd/structActsSurfaceMaps.html#a495aa227eb961abc63783e594fb433b2" title="ActsSurfaceMaps::getMMSurface" alt="" coords="1125,314,1369,342"/>
+<area shape="rect" id="node14" href="$d0/dcd/structActsSurfaceMaps.html#ab3b444e968e650e0184aefebcaeaaad4" title="ActsSurfaceMaps::getSilicon\lSurface" alt="" coords="1140,366,1353,410"/>
+<area shape="rect" id="node18" href="$d6/dfa/classTrkrCluster.html#a924282f2bc8a157638a88c551e6e0cba" title="TrkrCluster::getSubSurfKey" alt="" coords="1145,434,1349,462"/>
+<area shape="rect" id="node19" href="$d0/dcd/structActsSurfaceMaps.html#ae3624e0027780ed53abd7335f06b79ed" title="ActsSurfaceMaps::getTpcSurface" alt="" coords="1124,554,1369,582"/>
+<area shape="rect" id="node16" href="$d6/d9e/namespaceInttDefs.html#a7bab06e7aa1e8cbfd063c989a690b8e3" title="Zero the crossing bits in a copy of the hitsetkey." alt="" coords="1417,306,1612,350"/>
+<area shape="rect" id="node17" href="$d8/df1/namespaceMvtxDefs.html#acef48eba67fd28443f939a4594317be6" title="Zero the strobe bits in the hitsetkey." alt="" coords="1419,374,1611,418"/>
+</map>

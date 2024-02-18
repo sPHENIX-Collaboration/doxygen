@@ -1,0 +1,51 @@
+<map id="Conversion::refitTracksTruthVtx" name="Conversion::refitTracksTruthVtx">
+<area shape="rect" id="node2" href="$dc/d41/classConversion.html#a2349b2e5589c919110092cc6eda31392" title="Conversion::PHG4VtxPoint\lToSvtxVertex" alt="" coords="285,377,485,421"/>
+<area shape="rect" id="node18" href="$d6/d17/classSVReco.html#aed33c3da67bd3f1b7c3c73127b8187ea" title="SVReco::refitTrack" alt="" coords="313,623,457,651"/>
+<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="840,351,976,379"/>
+<area shape="rect" id="node4" href="$d6/d81/classPHG4VtxPoint.html#a2625f27dc211895d27512cfa089eb631" title="PHG4VtxPoint::get_t" alt="" coords="552,109,711,137"/>
+<area shape="rect" id="node5" href="$d6/d81/classPHG4VtxPoint.html#a9f885c1b879a2f1d6299b07801210a1d" title="PHG4VtxPoint::get_x" alt="" coords="551,161,712,189"/>
+<area shape="rect" id="node6" href="$d6/d81/classPHG4VtxPoint.html#a2073b3294f78491a2124aea6c436d6a8" title="PHG4VtxPoint::get_y" alt="" coords="551,213,712,241"/>
+<area shape="rect" id="node7" href="$d6/d81/classPHG4VtxPoint.html#ae26c6d111c93795d64e3571b6f306ef9" title="PHG4VtxPoint::get_z" alt="" coords="551,265,711,293"/>
+<area shape="rect" id="node8" href="$d2/d6d/classSvtxVertex.html#a8d6f981cf0eba90acb731104c582f8dc" title="SvtxVertex::insert\l_track" alt="" coords="560,317,703,361"/>
+<area shape="rect" id="node9" href="$dc/d41/classConversion.html#ac24ed5367463ba9de80adc6bcf7886fe" title="Conversion::recoCount" alt="" coords="543,385,719,413"/>
+<area shape="rect" id="node10" href="$d2/d6d/classSvtxVertex.html#ab2a8923ddc14797d7e10f7ad0ac18e3d" title="SvtxVertex::set_chisq" alt="" coords="549,437,714,465"/>
+<area shape="rect" id="node11" href="$d2/d6d/classSvtxVertex.html#a76fb3daf23e91e9e1fc31defb6758a88" title="SvtxVertex::set_error" alt="" coords="549,489,713,517"/>
+<area shape="rect" id="node12" href="$d2/d6d/classSvtxVertex.html#afaa76fffc4e4a1d79fc3fb0083a8a77b" title="SvtxVertex::set_ndof" alt="" coords="550,541,713,569"/>
+<area shape="rect" id="node13" href="$d2/d6d/classSvtxVertex.html#ab61dc238485b8f683c80f7cd2a9ae8ed" title="SvtxVertex::set_t0" alt="" coords="559,57,703,85"/>
+<area shape="rect" id="node15" href="$d2/d6d/classSvtxVertex.html#a1a8d873ffc2e49bb7197cfa2336fde03" title="SvtxVertex::set_x" alt="" coords="562,645,701,673"/>
+<area shape="rect" id="node16" href="$d2/d6d/classSvtxVertex.html#a034e8587001fb3e2da1d93140713e705" title="SvtxVertex::set_y" alt="" coords="562,697,701,725"/>
+<area shape="rect" id="node17" href="$d2/d6d/classSvtxVertex.html#a009f37589762f3efbb9a5fbcb1f35f9b" title="SvtxVertex::set_z" alt="" coords="563,5,700,33"/>
+<area shape="rect" id="node14" href="$d2/d6d/classSvtxVertex.html#a8ec8c5f719af4fa8f44288a8879eccc5" title="SvtxVertex::set_t" alt="" coords="840,57,976,85"/>
+<area shape="rect" id="node19" href="$d6/d17/classSVReco.html#af99925be18cc9afbb2b9936df3a925db" title="Uses the tracking clusters exclusively to make a GFTrack." alt="" coords="533,1072,729,1100"/>
+<area shape="rect" id="node20" href="$d2/db8/classSvtxTrack.html#af2317becf2120fcad5cefaa61a01407e" title="SvtxTrack::get_x" alt="" coords="842,507,974,535"/>
+<area shape="rect" id="node21" href="$d2/db8/classSvtxTrack.html#ac4bf3bd4ecaeff1ca06c48942a8b9236" title="SvtxTrack::get_y" alt="" coords="842,559,974,587"/>
+<area shape="rect" id="node22" href="$d2/db8/classSvtxTrack.html#aaaa435dd9d41dbe836f0608712ca12db" title="SvtxTrack::get_z" alt="" coords="843,611,973,639"/>
+<area shape="rect" id="node23" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="837,663,979,691"/>
+<area shape="rect" id="node24" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="837,715,979,743"/>
+<area shape="rect" id="node25" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="838,767,978,795"/>
+<area shape="rect" id="node26" href="$d2/db8/classSvtxTrack.html#a6596a62b7cc2abda9868355a052f17bd" title="SvtxTrack::get_error" alt="" coords="829,819,987,847"/>
+<area shape="rect" id="node27" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="796,871,1020,899"/>
+<area shape="rect" id="node28" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="803,923,1013,951"/>
+<area shape="rect" id="node29" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="827,975,989,1019"/>
+<area shape="rect" id="node30" href="$d6/dfa/classTrkrCluster.html#ab2199dd50ba36b1c843b7344b09869e5" title="TrkrCluster::getPosition" alt="" coords="819,1043,997,1071"/>
+<area shape="rect" id="node31" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="835,1559,981,1587"/>
+<area shape="rect" id="node33" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="834,1163,982,1191"/>
+<area shape="rect" id="node34" href="$d8/df1/namespaceMvtxDefs.html#a0d6fee920baed2f17bed6f7990bb88c3" title="Get the stave id from hitsetkey." alt="" coords="825,1215,991,1243"/>
+<area shape="rect" id="node35" href="$d8/df1/namespaceMvtxDefs.html#abfd7b6c5fe579370c360924854579283" title="Get the chip id from hitsetkey." alt="" coords="829,1267,987,1295"/>
+<area shape="rect" id="node36" href="$d4/de7/classPHG4CylinderGeomContainer.html#a08321019aaff5f57cd416b64d0f536bf" title="PHG4CylinderGeomContainer\l::GetLayerGeom" alt="" coords="797,1319,1019,1363"/>
+<area shape="rect" id="node37" href="$df/d9b/classCylinderGeom__Mvtx.html#a4887d4300a176e27a22e1043a2e53303" title="CylinderGeom_Mvtx::\lfind_sensor_center" alt="" coords="825,1611,991,1655"/>
+<area shape="rect" id="node39" href="$df/d9b/classCylinderGeom__Mvtx.html#aa1c7c0b68aa74bd674206214ffabfe6d" title="CylinderGeom_Mvtx::\lget_stave_phi_tilt" alt="" coords="825,1439,991,1483"/>
+<area shape="rect" id="node40" href="$d9/dcb/classCylinderGeomIntt.html#a332ab60c666f0256069220b3878f3500" title="CylinderGeomIntt::find\l_segment_center" alt="" coords="821,1903,995,1947"/>
+<area shape="rect" id="node42" href="$d6/d9e/namespaceInttDefs.html#aeb0f2c2a834c11791925bdffc211526d" title="Get the ladder id from hitsetkey." alt="" coords="821,1387,995,1415"/>
+<area shape="rect" id="node43" href="$d6/d9e/namespaceInttDefs.html#a28461d6132ff9373b4529e5c0d20c962" title="Get the sensor id from hitsetkey." alt="" coords="815,1507,1001,1535"/>
+<area shape="rect" id="node44" href="$d9/dcb/classCylinderGeomIntt.html#a191bf1e8abfe131f80eb7da8b1639c8b" title="CylinderGeomIntt::get\l_strip_phi_tilt" alt="" coords="822,1679,994,1723"/>
+<area shape="rect" id="node45" href="$d6/dfa/classTrkrCluster.html#a43356b61478edcfaba377cdcd6c658eb" title="TrkrCluster::getPhiError" alt="" coords="818,1747,998,1775"/>
+<area shape="rect" id="node46" href="$d6/dfa/classTrkrCluster.html#a73c9bdc559b2906e6cfc942d1bf355ed" title="TrkrCluster::getZError" alt="" coords="823,1799,993,1827"/>
+<area shape="rect" id="node47" href="$d7/dd5/classPHGenFit_1_1Track.html#a3c6639bba6584ef0fd2581150947b85f" title="PHGenFit::Track::addMeasurements" alt="" coords="777,1851,1039,1879"/>
+<area shape="rect" id="node48" href="$d1/d35/classPHGenFit_1_1Fitter.html#a0ae094389cc773308a3cf9ca98d60bdb" title="PHGenFit::Fitter::process\lTrack" alt="" coords="815,1095,1001,1139"/>
+<area shape="rect" id="node49" href="$d7/dd5/classPHGenFit_1_1Track.html#a8cc267bf5a0014b5ba7e057a3b45ba3e" title="PHGenFit::Track::getGenFit\lTrack" alt="" coords="1087,745,1289,789"/>
+<area shape="rect" id="node50" href="$d6/d8a/classgenfit_1_1Track.html#aa7c2b4ec6f779325c87f4ffe8d5e52a0" title="Set the MCT track id, for MC simulations." alt="" coords="808,455,1008,483"/>
+<area shape="rect" id="node32" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1127,1327,1249,1355"/>
+<area shape="rect" id="node38" href="$df/d9b/classCylinderGeom__Mvtx.html#ab6fa808b40859959cd412de38997d0b4" title="CylinderGeom_Mvtx::\lget_world_from_local\l_coords" alt="" coords="1105,1603,1271,1663"/>
+<area shape="rect" id="node41" href="$d9/dcb/classCylinderGeomIntt.html#ab7096a8d4639810c1c515196aed9f026" title="CylinderGeomIntt::get\l_world_from_local_coords" alt="" coords="1091,1903,1285,1947"/>
+</map>

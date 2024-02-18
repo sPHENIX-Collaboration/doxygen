@@ -1,0 +1,51 @@
+<map id="TpcPrototypeUnpacker::Clustering" name="TpcPrototypeUnpacker::Clustering">
+<area shape="rect" id="node2" href="$df/ddb/classTpcPrototypeUnpacker_1_1PadPlaneData.html#a997e315d69694af69086d02dc39ba7f3" title="3&#45;D Graph clustering based on PHMakeGroups()" alt="" coords="251,81,452,125"/>
+<area shape="rect" id="node5" href="$dd/d60/classTpcPrototypeUnpacker.html#a018feffce2f4cf203fb9efc95d3c701a" title="ClusterData &amp;cluster &#45;&gt; DST / TrkrClusterContainer." alt="" coords="263,1404,439,1448"/>
+<area shape="rect" id="node43" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="557,2661,733,2689"/>
+<area shape="rect" id="node45" href="$df/ddb/classTpcPrototypeUnpacker_1_1PadPlaneData.html#ad555acc2ab0152fa4b6ecf054bf9248f" title="TpcPrototypeUnpacker\l::PadPlaneData::getGroups" alt="" coords="250,1739,453,1783"/>
+<area shape="rect" id="node46" href="$df/ddb/classTpcPrototypeUnpacker_1_1PadPlaneData.html#a78a2826fc7768aec974b94d2a3c038bb" title="TpcPrototypeUnpacker\l::PadPlaneData::getPad" alt="" coords="262,1807,441,1851"/>
+<area shape="rect" id="node47" href="$df/ddb/classTpcPrototypeUnpacker_1_1PadPlaneData.html#abfa2280cf707ca3df195a2278f786f7a" title="TpcPrototypeUnpacker\l::PadPlaneData::IsValidPad" alt="" coords="251,1875,451,1919"/>
+<area shape="rect" id="node48" href="$d4/d81/classTpcPrototypeDefs_1_1FEEv2_1_1SampleFit__PowerLawDoubleExp__PDFMaker.html#ac0f5cc5be5dc4c1d96ef9e01a645e644" title="TpcPrototypeDefs::FEEv2\l::SampleFit_PowerLawDoubleExp\l_PDFMaker::MakeSectionPage" alt="" coords="229,1943,473,2003"/>
+<area shape="rect" id="node49" href="$d4/def/namespacePROTOTYPE4__FEM.html#a326b922b6e178b23a0802e77932602ba" title="Power law double exp fit." alt="" coords="241,2456,462,2500"/>
+<area shape="rect" id="node3" href="$db/d40/structTpcPrototypeUnpacker_1_1PadPlaneData_1_1SampleID.html#a272c921422312d1cd063cb4c73e49591" title="TpcPrototypeUnpacker\l::PadPlaneData::SampleID\l::adjust" alt="" coords="546,5,743,65"/>
+<area shape="rect" id="node4" href="$d1/d77/namespacemvtx__utils.html#a5a9cb9172b6d47ab2637560fe0d2f61f" title="mvtx_utils::comp" alt="" coords="576,89,713,117"/>
+<area shape="rect" id="node6" href="$d2/ddb/classPHG4CylinderCellGeomContainer.html#aa667a12262dc298b8aec717e6096d09f" title="PHG4CylinderCellGeomContainer\l::GetLayerCellGeom" alt="" coords="521,141,768,185"/>
+<area shape="rect" id="node7" href="$d9/d85/classPHG4CylinderCellGeom.html#a4999cf2fcefaae861e8ddc7c489af731" title="PHG4CylinderCellGeom\l::get_phibins" alt="" coords="555,209,735,253"/>
+<area shape="rect" id="node8" href="$d9/d85/classPHG4CylinderCellGeom.html#a0cdfdbb3b06ded109b6229d2bd74e92d" title="PHG4CylinderCellGeom\l::get_zbins" alt="" coords="555,277,735,321"/>
+<area shape="rect" id="node9" href="$d7/db0/namespaceTpcDefs.html#a30fc79495c9e8d14327d1026cd7325c7" title="Generate a hitsetkey for the tpc." alt="" coords="555,345,734,373"/>
+<area shape="rect" id="node10" href="$d7/db0/namespaceTpcDefs.html#a0202375ade5010ae596a2e0b7c7f5fd0" title="Generate a cluster key from indeces." alt="" coords="562,397,727,425"/>
+<area shape="rect" id="node11" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="563,449,726,493"/>
+<area shape="rect" id="node12" href="$d6/dfa/classTrkrCluster.html#a49bdd8bd251f95a45cc7e7f15b560e1e" title="TrkrCluster::identify" alt="" coords="567,517,722,545"/>
+<area shape="rect" id="node13" href="$df/d8c/classTpcPrototypeCluster.html#a36bbc2d4acfb5c8c17568435522acf22" title="TpcPrototypeCluster\l::setClusKey" alt="" coords="565,569,725,613"/>
+<area shape="rect" id="node14" href="$d9/d85/classPHG4CylinderCellGeom.html#a108104cde65d2ca503e306251188e615" title="PHG4CylinderCellGeom\l::get_radius" alt="" coords="555,637,735,681"/>
+<area shape="rect" id="node15" href="$d9/d85/classPHG4CylinderCellGeom.html#a619e05f0264243126360ac83b80f1d89" title="PHG4CylinderCellGeom\l::get_phicenter" alt="" coords="555,705,735,749"/>
+<area shape="rect" id="node16" href="$d9/d85/classPHG4CylinderCellGeom.html#a3de4ba34c361c7a4da2a2b2162491f7d" title="PHG4CylinderCellGeom\l::get_zcenter" alt="" coords="555,773,735,817"/>
+<area shape="rect" id="node17" href="$df/d8c/classTpcPrototypeCluster.html#afe2f181569cd52d3d61b7c7bc0cf5c82" title="TpcPrototypeCluster\l::setAdc" alt="" coords="565,841,725,885"/>
+<area shape="rect" id="node18" href="$df/d8c/classTpcPrototypeCluster.html#a862f94dfdc20554107167a3f7bcdf0f3" title="TpcPrototypeCluster\l::setPosition" alt="" coords="565,909,725,953"/>
+<area shape="rect" id="node19" href="$df/d8c/classTpcPrototypeCluster.html#a60a784d055df308c18ed91273b80abbb" title="TpcPrototypeCluster\l::setGlobal" alt="" coords="565,977,725,1021"/>
+<area shape="rect" id="node20" href="$df/d8c/classTpcPrototypeCluster.html#add1860ee9b3a72cd471de47b6567c837" title="TpcPrototypeCluster\l::getPosition" alt="" coords="816,1816,976,1860"/>
+<area shape="rect" id="node21" href="$df/d8c/classTpcPrototypeCluster.html#abbd779f4cae1bf7bcd1a5cf7019c7233" title="TpcPrototypeCluster\l::setPadRadials" alt="" coords="565,1097,725,1141"/>
+<area shape="rect" id="node22" href="$df/d8c/classTpcPrototypeCluster.html#a1daba4b552ea7a037dfa1c29d0a6d050" title="TpcPrototypeCluster\l::setPadAzimuths" alt="" coords="565,1165,725,1209"/>
+<area shape="rect" id="node23" href="$df/d8c/classTpcPrototypeCluster.html#a488198095f6e27e02ab663890aa4b782" title="TpcPrototypeCluster\l::setSamples" alt="" coords="565,1233,725,1277"/>
+<area shape="rect" id="node24" href="$df/d8c/classTpcPrototypeCluster.html#ad78ed592501913796add899ea2a2fe5c" title="TpcPrototypeCluster\l::setPadRadialSamples" alt="" coords="557,1301,732,1345"/>
+<area shape="rect" id="node25" href="$df/d8c/classTpcPrototypeCluster.html#a836241e93501607ca1b8bf3be3a517f7" title="TpcPrototypeCluster\l::setPadAzimuthSamples" alt="" coords="550,1369,739,1413"/>
+<area shape="rect" id="node26" href="$df/d8c/classTpcPrototypeCluster.html#a4578bdba3093abf9b97ca1a6859202b5" title="TpcPrototypeCluster\l::setSumSamples" alt="" coords="565,1437,725,1481"/>
+<area shape="rect" id="node27" href="$df/d8c/classTpcPrototypeCluster.html#a54f53cc378ede27f14259c54bcaac77f" title="TpcPrototypeCluster\l::setMinSample" alt="" coords="565,1505,725,1549"/>
+<area shape="rect" id="node28" href="$df/d8c/classTpcPrototypeCluster.html#a46613069c2f7534ca3c7ab98899e5c33" title="TpcPrototypeCluster\l::setMaxSample" alt="" coords="565,1573,725,1617"/>
+<area shape="rect" id="node29" href="$df/d8c/classTpcPrototypeCluster.html#a03025475fbeee78f8ff5f7d1bd806c58" title="TpcPrototypeCluster\l::setMinPadAzimuth" alt="" coords="565,1641,725,1685"/>
+<area shape="rect" id="node30" href="$df/d8c/classTpcPrototypeCluster.html#ac05d49ffb807118a04b7ecd289049911" title="TpcPrototypeCluster\l::setMaxPadAzimuth" alt="" coords="565,1709,725,1753"/>
+<area shape="rect" id="node31" href="$df/d8c/classTpcPrototypeCluster.html#a8de45350a3508a8147e286243274be14" title="TpcPrototypeCluster\l::setPeak" alt="" coords="565,1777,725,1821"/>
+<area shape="rect" id="node32" href="$df/d8c/classTpcPrototypeCluster.html#aa35f235be34ef664573eab0a9b81659d" title="TpcPrototypeCluster\l::setPeakSample" alt="" coords="565,1845,725,1889"/>
+<area shape="rect" id="node33" href="$df/d8c/classTpcPrototypeCluster.html#a05469c6c8b265b1ec6efa61402a3f85e" title="TpcPrototypeCluster\l::setPedstal" alt="" coords="565,1913,725,1957"/>
+<area shape="rect" id="node34" href="$df/d8c/classTpcPrototypeCluster.html#a44f1f5ddb05e82bfb44e8d21c92686a8" title="TpcPrototypeCluster\l::setPadAzimuthPeaks" alt="" coords="559,1981,730,2025"/>
+<area shape="rect" id="node35" href="$df/d8c/classTpcPrototypeCluster.html#a5f23b64db68a2188f0c298f11df0b883" title="TpcPrototypeCluster\l::setAvgPadRadial" alt="" coords="565,2049,725,2093"/>
+<area shape="rect" id="node36" href="$df/d8c/classTpcPrototypeCluster.html#afcd85354396663554ff95d495a913fb5" title="TpcPrototypeCluster\l::setAvgPadAzimuth" alt="" coords="565,2117,725,2161"/>
+<area shape="rect" id="node37" href="$df/d8c/classTpcPrototypeCluster.html#af8f1850abf934a32c5ff77437bf79490" title="TpcPrototypeCluster\l::setSizePadRadial" alt="" coords="565,2185,725,2229"/>
+<area shape="rect" id="node38" href="$df/d8c/classTpcPrototypeCluster.html#ab7267a58d557cafb3f31eaf526374998" title="TpcPrototypeCluster\l::setSizePadAzimuth" alt="" coords="565,2253,725,2297"/>
+<area shape="rect" id="node39" href="$df/d8c/classTpcPrototypeCluster.html#ab0daa0d392c2e287b768f006f7a4371a" title="TpcPrototypeCluster\l::setDeltaAzimuthBin" alt="" coords="563,2321,727,2365"/>
+<area shape="rect" id="node40" href="$df/d8c/classTpcPrototypeCluster.html#ae958137a01edb5311efcd1dc10a89d2b" title="TpcPrototypeCluster\l::setDeltaZ" alt="" coords="565,2389,725,2433"/>
+<area shape="rect" id="node41" href="$df/d8c/classTpcPrototypeCluster.html#ade2b5a766da03a0148b387ad51ede07d" title="TpcPrototypeCluster\l::setSize" alt="" coords="565,2457,725,2501"/>
+<area shape="rect" id="node42" href="$df/d8c/classTpcPrototypeCluster.html#a5647e0b8be84cbd203ce00fb971cdada" title="TpcPrototypeCluster\l::setError" alt="" coords="565,2525,725,2569"/>
+<area shape="rect" id="node44" href="$df/d8c/classTpcPrototypeCluster.html#ad77cf2efd1eac752f88a715b94800d8e" title="TpcPrototypeCluster\l::identify" alt="" coords="565,2593,725,2637"/>
+<area shape="rect" id="node50" href="$d9/d9e/evDisplay_8C.html#aa88c4e96fb52fe557d1b37b229d46f38" title="pedestal" alt="" coords="605,2713,684,2741"/>
+</map>

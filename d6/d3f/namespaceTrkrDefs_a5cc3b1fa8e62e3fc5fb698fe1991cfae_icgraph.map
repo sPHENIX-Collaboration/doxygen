@@ -1,0 +1,51 @@
+<map id="TrkrDefs::genClusKey" name="TrkrDefs::genClusKey">
+<area shape="rect" id="node2" href="$d9/d24/classPHTruthClustering.html#aaec01b2b7b23d1de28de24b0ab3d28b1" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="521,161,672,205"/>
+<area shape="rect" id="node4" href="$d4/de4/classSvtxTruthEval.html#a6051f9387f039a6604738f6a451c704b" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="527,229,666,273"/>
+<area shape="rect" id="node23" href="$dd/dc0/classTpcClusterBuilder.html#a0ccc39c3be0dddc61924ba6856176c40" title="TpcClusterBuilder::\lcluster_hits" alt="" coords="253,459,403,503"/>
+<area shape="rect" id="node25" href="$dd/deb/classPHG4InttHitReco.html#a24ff325d501e01348b41c5838aff759d" title="PHG4InttHitReco::cluster\l_truthhits" alt="" coords="233,583,423,627"/>
+<area shape="rect" id="node29" href="$de/d4d/classPHG4MvtxHitReco.html#a47ee1b5da3713a14740e0ec0e48ebe2f" title="PHG4MvtxHitReco::cluster\l_truthhits" alt="" coords="229,667,427,711"/>
+<area shape="rect" id="node33" href="$d5/d86/classInttClusterizer.html#aa896d5f1adf8ac34a5ae766fd4d557bc" title="InttClusterizer::Cluster\lLadderCells" alt="" coords="241,735,415,779"/>
+<area shape="rect" id="node35" href="$d5/d86/classInttClusterizer.html#ac5a5a9870f03e1eb8cc4751c78caa983" title="InttClusterizer::Cluster\lLadderCellsRaw" alt="" coords="241,803,415,847"/>
+<area shape="rect" id="node36" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="220,871,436,899"/>
+<area shape="rect" id="node38" href="$dc/d12/classMvtxClusterizer.html#a06720c4fe2300a02b948e71ef1c81525" title="MvtxClusterizer::Cluster\lMvtxRaw" alt="" coords="236,923,420,967"/>
+<area shape="rect" id="node39" href="$d7/db0/namespaceTpcDefs.html#a0202375ade5010ae596a2e0b7c7f5fd0" title="Generate a cluster key from indeces." alt="" coords="245,357,411,385"/>
+<area shape="rect" id="node43" href="$d6/d9e/namespaceInttDefs.html#a5ba0dd67ed80d91514f9136028cc9338" title="Generate a cluster key from indeces." alt="" coords="247,253,409,281"/>
+<area shape="rect" id="node44" href="$d8/df1/namespaceMvtxDefs.html#acef315b1153c420f248be5073c2600c1" title="Generate a cluster key from indeces." alt="" coords="242,149,414,177"/>
+<area shape="rect" id="node47" href="$d9/da6/classTrkrClusterContainerv4.html#a4cf74b0d9d9b4363734bf41d0d72e0bd" title="get all clusters matching hitset" alt="" coords="239,991,417,1035"/>
+<area shape="rect" id="node48" href="$dc/d6c/classTpcSimpleClusterizer.html#a8df0e97e451c7d395491f49b58e57b7a" title="TpcSimpleClusterizer\l::process_event" alt="" coords="245,1059,411,1103"/>
+<area shape="rect" id="node49" href="$d1/dbc/classMicromegasClusterizer.html#ac19bbb046a5690d0612157dae3cebda4" title="event processing" alt="" coords="240,1127,416,1171"/>
+<area shape="rect" id="node50" href="$de/d25/classTpcClusterizer.html#ac66fda514e9c1985f3f083ef79934137" title="TpcClusterizer::process\l_event" alt="" coords="238,1195,418,1239"/>
+<area shape="rect" id="node3" href="$d9/d24/classPHTruthClustering.html#a32f3b05811ac36d8f08ae3c565edcfca" title="PHTruthClustering::\lprocess_event" alt="" coords="789,73,940,117"/>
+<area shape="rect" id="node5" href="$d5/df8/classQAG4SimulationMicromegas.html#a7d91700abab98412e6b427f4098895ca" title="evaluate clusters" alt="" coords="757,396,972,440"/>
+<area shape="rect" id="node7" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="782,141,947,185"/>
+<area shape="rect" id="node9" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1311,277,1499,321"/>
+<area shape="rect" id="node11" href="$d1/d1e/classSvtxClusterEval.html#a4ed068393b7f131534926b87b7b59e10" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="1043,192,1235,236"/>
+<area shape="rect" id="node18" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="767,312,963,372"/>
+<area shape="rect" id="node6" href="$d5/df8/classQAG4SimulationMicromegas.html#aaf9244726798d2865626790e62f3a218" title="QAG4SimulationMicromegas\l::process_event" alt="" coords="1031,483,1246,527"/>
+<area shape="rect" id="node8" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="1056,124,1221,168"/>
+<area shape="rect" id="node10" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1558,277,1734,321"/>
+<area shape="rect" id="node12" href="$d3/d32/classActsEvaluator.html#a3589a79fdae3c6914d290a2741a5e4d7" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="1310,209,1499,253"/>
+<area shape="rect" id="node15" href="$d9/d03/classTrackClusterEvaluator.html#a66cad1df2e8397a40eefe607cc3a792b" title="TrackClusterEvaluator\l::processRecoTracks" alt="" coords="1319,73,1490,117"/>
+<area shape="rect" id="node17" href="$d9/d03/classTrackClusterEvaluator.html#a9ca3bdf0977a57e152003b989bd2e1ae" title="TrackClusterEvaluator\l::processTruthTracks" alt="" coords="1319,141,1490,185"/>
+<area shape="rect" id="node13" href="$d3/d32/classActsEvaluator.html#ab453c2df8bfbcce42b5ccfa29fd56fe5" title="ActsEvaluator::fillProto\lTrack" alt="" coords="1559,141,1733,185"/>
+<area shape="rect" id="node14" href="$d3/d32/classActsEvaluator.html#a45f99d2573de6956de5f6e5c01512bf2" title="ActsEvaluator::visitTrack\lStates" alt="" coords="1552,209,1740,253"/>
+<area shape="rect" id="node16" href="$d9/d03/classTrackClusterEvaluator.html#aad981fb932ceca8568402877088f2fad" title="TrackClusterEvaluator\l::process_event" alt="" coords="1561,73,1731,117"/>
+<area shape="rect" id="node19" href="$d6/da9/classdNdEtaINTT.html#a8cb9dae21c919eb7b141265ad44299e3" title="dNdEtaINTT::GetRecoClusterInfo" alt="" coords="1020,431,1257,459"/>
+<area shape="rect" id="node21" href="$d5/df4/classQAG4SimulationKFParticle.html#af3433c8a4e0dd83d8c6034d8f47e69e3" title="QAG4SimulationKFParticle\l::getTruthTrack" alt="" coords="1039,363,1238,407"/>
+<area shape="rect" id="node20" href="$d6/da9/classdNdEtaINTT.html#a9930cd234487ae62549a5d3b4d0dd7fa" title="dNdEtaINTT::process\l_event" alt="" coords="1325,427,1485,471"/>
+<area shape="rect" id="node22" href="$d5/df4/classQAG4SimulationKFParticle.html#a4bbecab91502593c1e95321460626c5d" title="QAG4SimulationKFParticle\l::makeHepLV" alt="" coords="1305,359,1504,403"/>
+<area shape="rect" id="node24" href="$d7/ddb/classPHG4TpcElectronDrift.html#aeea2d1046042fabf274bc85a6221955f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="513,433,681,477"/>
+<area shape="rect" id="node26" href="$dd/deb/classPHG4InttHitReco.html#a98397731dbc936040016e9eae166e9b1" title="PHG4InttHitReco::end\l_event_truthcluster" alt="" coords="513,553,681,597"/>
+<area shape="rect" id="node27" href="$dd/deb/classPHG4InttHitReco.html#a2c07a1ba7e82432a7d5de16339a80099" title="event processing" alt="" coords="767,553,962,597"/>
+<area shape="rect" id="node28" href="$dd/deb/classPHG4InttHitReco.html#a0e7b837f8d0a9d582570cae695beebda" title="PHG4InttHitReco::truthcheck\l_g4hit" alt="" coords="489,621,705,665"/>
+<area shape="rect" id="node30" href="$de/d4d/classPHG4MvtxHitReco.html#a8af47803abd8f17be6b5d7cb15e52e2e" title="PHG4MvtxHitReco::end\l_event_truthcluster" alt="" coords="508,741,685,785"/>
+<area shape="rect" id="node31" href="$de/d4d/classPHG4MvtxHitReco.html#a909a81a9eb5c91d222f0ed65462e4ed7" title="event processing" alt="" coords="763,741,967,785"/>
+<area shape="rect" id="node32" href="$de/d4d/classPHG4MvtxHitReco.html#acded27d87ad75c33578355b8cbdad2ea" title="PHG4MvtxHitReco::truthcheck\l_g4hit" alt="" coords="484,809,709,853"/>
+<area shape="rect" id="node34" href="$d5/d86/classInttClusterizer.html#a12f21f7ac9373c592f8ba3e7287f6c8a" title="event processing" alt="" coords="508,877,685,921"/>
+<area shape="rect" id="node37" href="$dc/d12/classMvtxClusterizer.html#a65c6ecb960ca545df424342dbe6de5b8" title="event processing" alt="" coords="503,945,690,989"/>
+<area shape="rect" id="node40" href="$dd/d60/classTpcPrototypeUnpacker.html#a018feffce2f4cf203fb9efc95d3c701a" title="ClusterData &amp;cluster &#45;&gt; DST / TrkrClusterContainer." alt="" coords="509,297,685,341"/>
+<area shape="rect" id="node42" href="$d6/d03/classTpcPrototypeClusterizer.html#ad790455b460f30f668670fcd15cc36fb" title="TpcPrototypeClusterizer\l::process_event" alt="" coords="504,365,689,409"/>
+<area shape="rect" id="node41" href="$dd/d60/classTpcPrototypeUnpacker.html#a3f531b94d26bba622c59c5b71ca4dd8e" title="Clustering then prepare IOs." alt="" coords="777,464,953,508"/>
+<area shape="rect" id="node45" href="$df/d74/classMvtxPrototype2Clusterizer.html#a842489301c71c7d134ffb3a8e3dfbfba" title="MvtxPrototype2Clusterizer\l::ClusterMvtx" alt="" coords="497,49,697,93"/>
+<area shape="rect" id="node46" href="$df/d74/classMvtxPrototype2Clusterizer.html#a0d7f0ea368406a28618206850e92e97e" title="event processing" alt="" coords="765,5,965,49"/>
+</map>

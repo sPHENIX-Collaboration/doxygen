@@ -1,0 +1,26 @@
+var classTruthJetTagging =
+[
+    [ "TruthJetTagging", "dd/d48/classTruthJetTagging.html#aaefa192a3b56cf9d33b6d366af7be0cc", null ],
+    [ "~TruthJetTagging", "dd/d48/classTruthJetTagging.html#ac2e3717034405e3c2549e8ed4ffe6b12", null ],
+    [ "add_algo", "dd/d48/classTruthJetTagging.html#a5c907a37d7068cac8274bbbadee8bb6d", null ],
+    [ "add_radius", "dd/d48/classTruthJetTagging.html#aad78d49d4d7b6a8e9f3a269ad6afef67", null ],
+    [ "deltaR", "dd/d48/classTruthJetTagging.html#ac3185adca5a7ea2b7512473625131f50", null ],
+    [ "do_hf_tagging", "dd/d48/classTruthJetTagging.html#aba00a81af3b5ef5bd81358b95f695230", null ],
+    [ "do_photon_tagging", "dd/d48/classTruthJetTagging.html#aa4de570a915ab5228df5b869bb731218", null ],
+    [ "End", "dd/d48/classTruthJetTagging.html#a0e09e5f363086dca7de2dd062d4165ba", null ],
+    [ "EndRun", "dd/d48/classTruthJetTagging.html#adb327f504924fb063ee8164faca7aa9e", null ],
+    [ "hadron_tagging", "dd/d48/classTruthJetTagging.html#ad83032e5048ccf509c211c81e7a85a4e", null ],
+    [ "Init", "dd/d48/classTruthJetTagging.html#a31d0d83ad1ccbe17d778579aefdeb383", null ],
+    [ "InitRun", "dd/d48/classTruthJetTagging.html#a7a796b6065b244011884c366418434a3", null ],
+    [ "Print", "dd/d48/classTruthJetTagging.html#a6116df0de106ac85be239f971662e90f", null ],
+    [ "process_event", "dd/d48/classTruthJetTagging.html#ab747be3f11acabfa62626e71f94466ac", null ],
+    [ "Reset", "dd/d48/classTruthJetTagging.html#a5fc650318777f699b93dc3c5bfc01959", null ],
+    [ "ResetEvent", "dd/d48/classTruthJetTagging.html#ab6c833ea63f8cd995e70af2748364272", null ],
+    [ "set_embedding_id", "dd/d48/classTruthJetTagging.html#adf2416f01ca5dc14ee77076c40b457fc", null ],
+    [ "TruthPhotonTagging", "dd/d48/classTruthJetTagging.html#a775b14a909be97479828c193ea0ae74f", null ],
+    [ "_algorithms", "dd/d48/classTruthJetTagging.html#a8d845bb91b502bd897d1f025de75d6be", null ],
+    [ "_do_hf_tagging", "dd/d48/classTruthJetTagging.html#a8d6c8737b02405efb58213629fb72494", null ],
+    [ "_do_photon_tagging", "dd/d48/classTruthJetTagging.html#a354ab42c980355120b581ae203fd0e5d", null ],
+    [ "_embedding_id", "dd/d48/classTruthJetTagging.html#a39e5c87d9903db067daf8b31d8ec5d27", null ],
+    [ "_radii", "dd/d48/classTruthJetTagging.html#a0116e6c577a0ab438f706e8177f34076", null ]
+];

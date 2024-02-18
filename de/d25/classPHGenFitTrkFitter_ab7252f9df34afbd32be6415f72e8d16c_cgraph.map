@@ -1,0 +1,21 @@
+<map id="PHGenFitTrkFitter::FillSvtxVertexMap" name="PHGenFitTrkFitter::FillSvtxVertexMap">
+<area shape="rect" id="node2" href="$d7/db4/classSvtxVertex__v1.html#a86ad41b8e4778b1031eb484bab06cca0" title="SvtxVertex_v1::get\l_position" alt="" coords="241,5,390,49"/>
+<area shape="rect" id="node3" href="$db/da0/classgenfit_1_1GFRaveVertex.html#aa226bc70ee2447569467de599e6d05e7" title="genfit::GFRaveVertex\l::getChi2" alt="" coords="233,73,398,117"/>
+<area shape="rect" id="node4" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a25d5cd4f3c081231c4d77f80fefbade1" title="get 3x3 covariance (error) of position." alt="" coords="233,141,398,185"/>
+<area shape="rect" id="node5" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a49fda0bfc9f1bd338c21ca973e8552b9" title="genfit::GFRaveVertex\l::getNdf" alt="" coords="233,209,398,253"/>
+<area shape="rect" id="node6" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a47ada7742989e3e294a3cc9f1342fee7" title="Number of tracks the vertex is made of." alt="" coords="233,277,398,321"/>
+<area shape="rect" id="node7" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a14875bcfb7c0b9373ec2bb6010c78d8d" title="genfit::GFRaveVertex\l::getParameters" alt="" coords="233,345,398,389"/>
+<area shape="rect" id="node8" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a4818bdeb821d19b283ae026af388e92b" title="get Position" alt="" coords="233,413,398,457"/>
+<area shape="rect" id="node9" href="$d8/d8c/classgenfit_1_1GFRaveTrackParameters.html#ae57b8111cfcb4426a9d00096ad045de4" title="genfit::GFRaveTrackParameters\l::getTrack" alt="" coords="199,481,432,525"/>
+<area shape="rect" id="node10" href="$db/dd7/classSvtxVertexMap.html#ae237ec09fbf77b40d99bc5f4bdafb979" title="SvtxVertexMap::identify" alt="" coords="224,549,407,577"/>
+<area shape="rect" id="node11" href="$db/dd7/classSvtxVertexMap.html#a780daa21ddd8373886046e3953280740" title="legacy interface. Add vertex to container. Note the container does not take ownership" alt="" coords="230,601,401,645"/>
+<area shape="rect" id="node12" href="$d7/db4/classSvtxVertex__v1.html#a5126dd4c9c245c80b978790dc705285f" title="SvtxVertex_v1::insert\l_track" alt="" coords="233,669,398,713"/>
+<area shape="rect" id="node13" href="$d7/db4/classSvtxVertex__v1.html#a2497512d39eed82b3fa9851b5e846d0c" title="SvtxVertex_v1::set\l_chisq" alt="" coords="241,737,389,781"/>
+<area shape="rect" id="node14" href="$d7/db4/classSvtxVertex__v1.html#a267683b4ccd4b7a99c902d0fe12ca4ed" title="SvtxVertex_v1::set\l_error" alt="" coords="241,805,389,849"/>
+<area shape="rect" id="node18" href="$d7/db4/classSvtxVertex__v1.html#a89f92f7992a9d131cceb8bafc31e44f9" title="SvtxVertex_v1::set_ndof" alt="" coords="223,873,408,901"/>
+<area shape="rect" id="node19" href="$d7/db4/classSvtxVertex__v1.html#a74a1e770f68e06861aa344ea6b8134d7" title="SvtxVertex_v1::set\l_position" alt="" coords="241,925,389,969"/>
+<area shape="rect" id="node20" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="227,993,403,1021"/>
+<area shape="rect" id="node15" href="$d7/db4/classSvtxVertex__v1.html#a61d2847d9367ae86143579a1b2427b1f" title="SvtxVertex_v1::covar\l_index" alt="" coords="480,805,645,849"/>
+<area shape="rect" id="node16" href="$d6/db0/fjcore_8hh.html#ac71f249d840a70f8b3aaffb721843eaa" title="swap" alt="" coords="693,813,749,841"/>
+<area shape="rect" id="node17" href="$d7/d15/classSharedPtr.html#a4e51626f69ba6c846cc99f066e486e47" title="SharedPtr::swap" alt="" coords="797,813,928,841"/>
+</map>

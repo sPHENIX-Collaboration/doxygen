@@ -1,0 +1,22 @@
+<map id="EmcCluster::GetSubClusters" name="EmcCluster::GetSubClusters">
+<area shape="rect" id="node2" href="$d9/d04/classEmcCluster.html#aa7a15cfe3a8d3216d001e205e1001151" title="EmcCluster::ABS" alt="" coords="307,5,440,33"/>
+<area shape="rect" id="node3" href="$df/d23/classBEmcRec.html#a6c1fae589914f01ab293cafabd2c433f" title="BEmcRec::fTowerDist" alt="" coords="836,135,1000,163"/>
+<area shape="rect" id="node5" href="$d9/d04/classEmcCluster.html#a0b5cc9c27f1706ebec4bc221b9bc7648" title="Returns the EmcModule with the maximum energy." alt="" coords="274,109,473,137"/>
+<area shape="rect" id="node6" href="$df/d23/classBEmcRec.html#a076636e1f88a3585429f1822ca14a3c7" title="BEmcRec::GetNx" alt="" coords="306,161,441,189"/>
+<area shape="rect" id="node7" href="$df/d23/classBEmcRec.html#a6c22401dba8d2d275958b6e2f2f338b7" title="BEmcRec::GetPeakThreshold" alt="" coords="265,213,481,241"/>
+<area shape="rect" id="node8" href="$df/d23/classBEmcRec.html#a682b9025d0023667e2c0873150ea0ff5" title="BEmcRec::HitNCompare" alt="" coords="282,265,465,293"/>
+<area shape="rect" id="node9" href="$df/d23/classBEmcRec.html#a4bd50aa9b08ec11f0dbc65fd9f10a099" title="BEmcRec::iTowerDist" alt="" coords="837,447,999,475"/>
+<area shape="rect" id="node10" href="$df/d23/classBEmcRec.html#a98e49a2e854a71a7c56ff4a2c9daeae6" title="BEmcRec::PredictEnergy" alt="" coords="280,317,467,345"/>
+<area shape="rect" id="node20" href="$d9/d04/classEmcCluster.html#a8866b733f3168297f8b1f231693b7697" title="Reinitializes EmcCluster supplying new Hit List." alt="" coords="283,421,463,449"/>
+<area shape="rect" id="node21" href="$df/d23/classBEmcRec.html#aee23f44ae363f4e32d7dc297ed08af0e" title="BEmcRec::ZeroVector" alt="" coords="289,473,457,501"/>
+<area shape="rect" id="node4" href="$d9/dbb/buildEdges_8cpp.html#a1c7c5a664ae255650d4dd47dffef1835" title="dist" alt="" coords="1170,135,1217,163"/>
+<area shape="rect" id="node11" href="$df/d23/classBEmcRec.html#a71c746ef3aa29ab463352ff177330f6f" title="BEmcRec::PredictEnergyParam" alt="" coords="529,265,759,293"/>
+<area shape="rect" id="node12" href="$df/d23/classBEmcRec.html#a27562d25417207a7f823d99f000bf265" title="BEmcRec::PredictEnergyProb" alt="" coords="536,317,752,345"/>
+<area shape="rect" id="node13" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="849,239,987,267"/>
+<area shape="rect" id="node14" href="$df/d23/classBEmcRec.html#a4c1027d894ef61213ba6cea6b23b2ba5" title="BEmcRec::GetImpactThetaPhi" alt="" coords="807,291,1029,319"/>
+<area shape="rect" id="node15" href="$d1/dc6/classBEmcProfile.html#aa054fc47bbc9802ac9013021b555fba8" title="BEmcProfile::PredictEnergy" alt="" coords="816,343,1020,371"/>
+<area shape="rect" id="node16" href="$d1/dc6/classBEmcProfile.html#a1261be391047e52b7d774f400382141c" title="BEmcProfile::PredictEnergyR" alt="" coords="811,395,1025,423"/>
+<area shape="rect" id="node17" href="$df/d23/classBEmcRec.html#ac115997c94dd0b83b134d54b052d9031" title="BEmcRec::Tower2Global" alt="" coords="826,187,1010,215"/>
+<area shape="rect" id="node18" href="$df/d23/classBEmcRec.html#a850709f1194904e5218520a128a8173d" title="BEmcRec::CorrectShowerDepth" alt="" coords="1077,239,1309,267"/>
+<area shape="rect" id="node19" href="$df/d23/classBEmcRec.html#a8b3cf9ce5eaa158a9793e350809d7a4b" title="BEmcRec::GetTowerGeometry" alt="" coords="1081,187,1305,215"/>
+</map>

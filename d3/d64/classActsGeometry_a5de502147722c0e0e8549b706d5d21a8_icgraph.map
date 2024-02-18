@@ -1,0 +1,51 @@
+<map id="ActsGeometry::maps" name="ActsGeometry::maps">
+<area shape="rect" id="node2" href="$d5/d76/classMakeMilleFiles.html#a5617261d2826ea798d04c3904312d3ec" title="MakeMilleFiles::addTrack\lToMilleFile" alt="" coords="840,815,1028,859"/>
+<area shape="rect" id="node4" href="$dd/d8f/classAlignmentTransformation.html#a23db75a5ef5b77f824a0a26ea028150d" title="AlignmentTransformation\l::createMap" alt="" coords="255,73,449,117"/>
+<area shape="rect" id="node5" href="$d7/d38/classDSTEmulator.html#ad5fccb3bb1d9c015921b7efeec2d9704" title="evaluate tracks" alt="" coords="263,141,441,185"/>
+<area shape="rect" id="node7" href="$d9/df3/classTrackResiduals.html#ab58ccca999b43d7a6b909f06a29aa944" title="TrackResiduals::fillHitTree" alt="" coords="559,200,754,228"/>
+<area shape="rect" id="node9" href="$d9/df3/classTrackResiduals.html#a16096ac744d4d6ac5795433d70d09737" title="TrackResiduals::fillStates\lWithLineFit" alt="" coords="257,5,447,49"/>
+<area shape="rect" id="node11" href="$d3/d5f/classCylinderGeomMicromegas.html#a6fee891a8d09adb27417ef21f2d4332e" title="get strip for a give world location and tile" alt="" coords="252,516,452,576"/>
+<area shape="rect" id="node14" href="$d9/d24/classPHTruthClustering.html#a640ac87ab7188e07892031b8fa9064be" title="PHTruthClustering::\lG4ClusterSize" alt="" coords="277,312,427,356"/>
+<area shape="rect" id="node16" href="$d4/de4/classSvtxTruthEval.html#a2e8dab339df3331c05a1d21b12fc794e" title="SvtxTruthEval::G4ClusterSize" alt="" coords="243,380,461,408"/>
+<area shape="rect" id="node18" href="$d3/d5f/classCylinderGeomMicromegas.html#aac3858ab1b6338b7938e8b3f7e4650ab" title="get local coordinates for a given tile and strip" alt="" coords="252,736,452,780"/>
+<area shape="rect" id="node20" href="$d3/d5f/classCylinderGeomMicromegas.html#ae77b8f035814c95e79f07ba6db42e4f9" title="convert world to local position coordinates in (planar) tile reference frame" alt="" coords="252,432,452,492"/>
+<area shape="rect" id="node21" href="$d3/d5f/classCylinderGeomMicromegas.html#aa47ef402ea02e01add607dcc92c68e4d" title="convert world to local direction coordinates in (planar) tile reference frame" alt="" coords="247,668,457,712"/>
+<area shape="rect" id="node22" href="$d3/d5f/classCylinderGeomMicromegas.html#aa364b6324cfb332fb3233bc0cbb8770b" title="get number of strips" alt="" coords="252,600,452,644"/>
+<area shape="rect" id="node23" href="$d3/d5f/classCylinderGeomMicromegas.html#a6d7f21643a605b8ce793eec8f87e1d83" title="get strip length for a given tile" alt="" coords="252,804,452,848"/>
+<area shape="rect" id="node24" href="$d3/d64/classActsGeometry.html#ac5b712e1a96551417fd0c4dbd1d32f22" title="ActsGeometry::get_tpc\l_surface_from_coords" alt="" coords="264,1128,440,1172"/>
+<area shape="rect" id="node27" href="$d3/d5f/classCylinderGeomMicromegas.html#a17bdf578c682c308c3b1ef44dc7faa44" title="convert local to world position coordinates in (planar) tile reference frame" alt="" coords="252,872,452,932"/>
+<area shape="rect" id="node28" href="$d3/d5f/classCylinderGeomMicromegas.html#a7187bf0a9ca11deb77016b31794f5ea8" title="convert local to world direction coordinates in (planar) tile reference frame" alt="" coords="247,1008,457,1052"/>
+<area shape="rect" id="node29" href="$d6/d54/classPHCosmicsTrkFitter.html#aaa51ecbd3968caa1e7c660f734ff973b" title="PHCosmicsTrkFitter\l::getCharge" alt="" coords="859,883,1009,927"/>
+<area shape="rect" id="node31" href="$d3/d64/classActsGeometry.html#a74c2c69effa2b19cde731a6b67806fba" title="ActsGeometry::getGlobalPosition" alt="" coords="535,1223,779,1251"/>
+<area shape="rect" id="node33" href="$d5/de1/classHelicalFitter.html#a98485e999dddb90f86479a58eb7b53a3" title="HelicalFitter::process\l_event" alt="" coords="1109,1471,1272,1515"/>
+<area shape="rect" id="node37" href="$dc/db9/classMakeSourceLinks.html#a80778ca794a89dee94ef431f93978fc1" title="MakeSourceLinks::getSource\lLinks" alt="" coords="827,1275,1041,1319"/>
+<area shape="rect" id="node38" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="1089,1743,1292,1771"/>
+<area shape="rect" id="node39" href="$d1/d1c/classPHActsKDTreeSeeding.html#afa37236f7da83fb340bb68dc77f48ffc" title="PHActsKDTreeSeeding\l::matchInttClusters" alt="" coords="849,1343,1019,1387"/>
+<area shape="rect" id="node40" href="$d3/df0/classPHActsSiliconSeeding.html#a1340538fe65a02f0546c6d35281c00eb" title="PHActsSiliconSeeding\l::matchInttClusters" alt="" coords="851,1411,1017,1455"/>
+<area shape="rect" id="node41" href="$d3/d64/classActsGeometry.html#ac2534e5df04d15932c7edb931994888f" title="ActsGeometry::getGlobalPositionTpc" alt="" coords="217,1248,487,1276"/>
+<area shape="rect" id="node42" href="$d5/d76/classMakeMilleFiles.html#aff5f4bc816d9f477cb169642d5133d13" title="MakeMilleFiles::getLocal\lVtxDerivativesXY" alt="" coords="565,252,749,296"/>
+<area shape="rect" id="node43" href="$d1/d1c/classPHActsKDTreeSeeding.html#a137dd8c035a4fa9663f2be4e219fcb46" title="PHActsKDTreeSeeding\l::getMvtxSpacePoints" alt="" coords="267,1555,437,1599"/>
+<area shape="rect" id="node44" href="$d3/df0/classPHActsSiliconSeeding.html#aafb75ca5e46bb9f8ad099672f1024360" title="Get all space points for the seeder." alt="" coords="263,1623,441,1667"/>
+<area shape="rect" id="node45" href="$d3/d32/classActsEvaluator.html#a39a1fea8b27426e6a090be1508c254d0" title="ActsEvaluator::getSurface" alt="" coords="253,1691,451,1719"/>
+<area shape="rect" id="node46" href="$d1/d49/classPHActsTrkFitter.html#acc5917f8ce6e9708a1f97fca3c787cb8" title="PHActsTrkFitter::getSurface\lVector" alt="" coords="555,1795,759,1839"/>
+<area shape="rect" id="node47" href="$d5/de1/classHelicalFitter.html#aa8eaa3a4b4c7e909bc74b6a5db95e125" title="HelicalFitter::getTracklet\lClusterList" alt="" coords="564,1455,749,1499"/>
+<area shape="rect" id="node48" href="$de/d4d/classPHG4MvtxHitReco.html#a909a81a9eb5c91d222f0ed65462e4ed7" title="event processing" alt="" coords="250,1845,454,1889"/>
+<area shape="rect" id="node49" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="239,1913,465,1941"/>
+<area shape="rect" id="node50" href="$de/d25/classPHGenFitTrkFitter.html#af07c5ea2636426357d02b5b697376db2" title="PHGenFitTrkFitter::\lReFitTrack" alt="" coords="279,1965,425,2009"/>
+<area shape="rect" id="node3" href="$d5/d76/classMakeMilleFiles.html#a125dde1d0314fd7c3dba92d218b59898" title="MakeMilleFiles::process\l_event" alt="" coords="1101,659,1280,703"/>
+<area shape="rect" id="node6" href="$d7/d38/classDSTEmulator.html#a370eb59a09a213c757a2a83b9f1c06cc" title="event processing" alt="" coords="571,132,742,176"/>
+<area shape="rect" id="node8" href="$d9/df3/classTrackResiduals.html#acf3f931165c42ab03b6f41f2116fcbd7" title="TrackResiduals::process\l_event" alt="" coords="843,113,1025,157"/>
+<area shape="rect" id="node10" href="$d9/df3/classTrackResiduals.html#ae56e40ad127936833e2420e5319b1d55" title="TrackResiduals::fillCluster\lBranches" alt="" coords="559,35,755,79"/>
+<area shape="rect" id="node12" href="$d3/d5f/classCylinderGeomMicromegas.html#a5543b836c08ce87bab79b083cd86941c" title="get strip for a give world location and tile" alt="" coords="557,487,757,547"/>
+<area shape="rect" id="node13" href="$d6/d5c/classPHG4MicromegasHitReco.html#ab8399535384a06088e989b9ba9f9b815" title="distribute a Gaussian charge across adjacent strips" alt="" coords="561,600,753,644"/>
+<area shape="rect" id="node15" href="$d9/d24/classPHTruthClustering.html#aaec01b2b7b23d1de28de24b0ab3d28b1" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="581,320,732,364"/>
+<area shape="rect" id="node17" href="$d4/de4/classSvtxTruthEval.html#a6051f9387f039a6604738f6a451c704b" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="587,388,726,432"/>
+<area shape="rect" id="node19" href="$d3/d5f/classCylinderGeomMicromegas.html#aa3a14bac5a0d6f7d092a0334ef2b3484" title="get world coordinates for a given tile and strip" alt="" coords="557,808,757,852"/>
+<area shape="rect" id="node25" href="$dd/dc0/classTpcClusterBuilder.html#a0ccc39c3be0dddc61924ba6856176c40" title="TpcClusterBuilder::\lcluster_hits" alt="" coords="581,1155,732,1199"/>
+<area shape="rect" id="node26" href="$d5/d78/classPHTpcClusterMover.html#a7c36fbf3ee710fdb11069cfbaf71c3c6" title="PHTpcClusterMover::\lprocess_event" alt="" coords="853,951,1015,995"/>
+<area shape="rect" id="node30" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="1115,1079,1266,1123"/>
+<area shape="rect" id="node32" href="$d5/d7f/classTrackFitUtils.html#af753ce36e7576ea5a7307daaba37f812" title="TrackFitUtils::addClusters" alt="" coords="837,1223,1031,1251"/>
+<area shape="rect" id="node34" href="$d5/d7f/classTrackFitUtils.html#a2f4c50b397295adf97e68f232c492251" title="TrackFitUtils::addClusters\lOnLine" alt="" coords="837,1019,1031,1063"/>
+<area shape="rect" id="node35" href="$dd/dfe/classPHCosmicTrackMerger.html#a232bd6c221e9a46db63d968741da536b" title="PHCosmicTrackMerger\l::addKeys" alt="" coords="848,1087,1020,1131"/>
+<area shape="rect" id="node36" href="$d7/d4d/classInttVertexFinder.html#ad28bfc9d06a12879b4a22784dcc9d033" title="InttVertexFinder::calculate\lZvertex" alt="" coords="835,1155,1033,1199"/>
+</map>

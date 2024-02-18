@@ -1,0 +1,9 @@
+<map id="mvtx::PayLoadCont::add" name="mvtx::PayLoadCont::add">
+<area shape="rect" id="node2" href="$d1/d6f/classmvtx_1_1PayLoadCont.html#ab2e7657b7c5af4e3f558f615f8bba22c" title="add new byte to the buffer w/o checking for the size" alt="" coords="240,5,400,49"/>
+<area shape="rect" id="node3" href="$d1/d6f/classmvtx_1_1PayLoadCont.html#a3a545de0f8c1ef90c91d26c09dab543d" title="fill n bytes with given symbol w/o checking for the size" alt="" coords="240,73,400,117"/>
+<area shape="rect" id="node4" href="$d1/d6f/classmvtx_1_1PayLoadCont.html#a35022f601efa5b8c325dda71642c8d6f" title="make sure buffer may accept at least n bytes" alt="" coords="448,5,608,49"/>
+<area shape="rect" id="node6" href="$d1/d6f/classmvtx_1_1PayLoadCont.html#af295df97cc7e9ec7b5a5db60c8370f79" title="mvtx::PayLoadCont::\lexpand" alt="" coords="448,73,608,117"/>
+<area shape="rect" id="node8" href="$d1/d6f/classmvtx_1_1PayLoadCont.html#a148b702150366d2f4bec059f9b85a0ad" title="number of bytes still can accept w/o expanding the buffer" alt="" coords="448,141,608,185"/>
+<area shape="rect" id="node5" href="$d1/d6f/classmvtx_1_1PayLoadCont.html#af51e68e5b9f0e8b8e50ac62fc7c35a5f" title="get offset of the current ptr from the head" alt="" coords="656,5,816,49"/>
+<area shape="rect" id="node7" href="$d1/d6f/classmvtx_1_1PayLoadCont.html#a44deb721264113b0273ff6f21517b86e" title="get unused size" alt="" coords="656,73,816,117"/>
+</map>

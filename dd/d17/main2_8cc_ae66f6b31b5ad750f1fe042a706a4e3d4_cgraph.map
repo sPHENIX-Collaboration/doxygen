@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a273f0f885e02d740befd1d3b18489a16" title="Add new event." alt="" coords="131,95,290,139"/>
+<area shape="rect" id="node3" href="$d6/d8a/classgenfit_1_1Track.html#aee4eab9e952ee6f0e0c1f1d980552759" title="genfit::Track::checkConsistency" alt="" coords="940,125,1175,153"/>
+<area shape="rect" id="node9" href="$d0/dea/display_8C.html#a079407b6fbb9d5b7a0928cbb8ff8fdcd" title="display" alt="" coords="176,1149,245,1177"/>
+<area shape="rect" id="node16" href="$d6/d8a/classgenfit_1_1Track.html#abf156957d701a9a10a02fef8ac54e4d9" title="Shortcut to get FittedStates." alt="" coords="971,537,1144,581"/>
+<area shape="rect" id="node21" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a15a93d367165ade368e6caec713d0934" title="genfit::MaterialEffects\l::getInstance" alt="" coords="125,1201,296,1245"/>
+<area shape="rect" id="node23" href="$d4/d1a/classgenfit_1_1EventDisplay.html#acc398c4fb9fce23fbc106453d5a55718" title="genfit::EventDisplay\l::getInstance" alt="" coords="696,565,855,609"/>
+<area shape="rect" id="node25" href="$de/d8e/classgenfit_1_1FieldManager.html#aaf0b56fea4f0deb428de8749febf792d" title="Get singleton instance." alt="" coords="130,1269,291,1313"/>
+<area shape="rect" id="node27" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a9c604002cb66d43e99da8802e3b8918e" title="set the material interface here. Material interface classes must be derived from AbsMaterialInterface..." alt="" coords="125,1337,296,1381"/>
+<area shape="rect" id="node29" href="$de/d8e/classgenfit_1_1FieldManager.html#a0360198b189d2d5acaebfca7a468437e" title="set the magnetic field here. Magnetic field classes must be derived from AbsBField." alt="" coords="130,1405,291,1449"/>
+<area shape="rect" id="node30" href="$d6/d8a/classgenfit_1_1Track.html#a7e61ada0d84db561ede923db92c4ab01" title="Insert TrackPoint BEFORE TrackPoint with position id, if id &gt;= 0." alt="" coords="117,848,304,876"/>
+<area shape="rect" id="node38" href="$d4/d1a/classgenfit_1_1EventDisplay.html#ae4db6c8ff56045f6c9d7aee52d3dd695" title="Open the event display." alt="" coords="131,395,290,439"/>
+<area shape="rect" id="node43" href="$d2/d74/classgenfit_1_1MeasuredStateOnPlane.html#af7fb7f4101eb24f1b97f20aaefa51d16" title="genfit::MeasuredStateOnPlane\l::Print" alt="" coords="944,725,1171,769"/>
+<area shape="rect" id="node48" href="$d0/dba/classgenfit_1_1AbsFitter.html#a03e279c67ca889f5fe6480eb8a1691cf" title="genfit::AbsFitter::\lprocessTrack" alt="" coords="707,215,844,259"/>
+<area shape="rect" id="node50" href="$dd/d7d/classgenfit_1_1PlanarMeasurement.html#a7aa7bdc0bf2ea6ac64683a40399a569d" title="genfit::PlanarMeasurement\l::setPlane" alt="" coords="108,1473,313,1517"/>
+<area shape="rect" id="node4" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#ab74f13ab4f4f1ac99a29e1fa55b83413" title="genfit::KalmanFitterInfo\l::hasReferenceState" alt="" coords="1258,253,1438,297"/>
+<area shape="rect" id="node5" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#a580ecd10b0c09b257533ca04f2ba460b" title="genfit::KalmanFitterInfo\l::getReferenceState" alt="" coords="1258,125,1438,169"/>
+<area shape="rect" id="node6" href="$d2/d6a/classgenfit_1_1ReferenceStateOnPlane.html#abcae7586bd838e27b384e4e001c9b3d3" title="genfit::ReferenceStateOn\lPlane::getForwardSegmentLength" alt="" coords="1223,5,1473,49"/>
+<area shape="rect" id="node7" href="$d6/d8a/classgenfit_1_1Track.html#aae3d3066dbd7ab39d87b56e17db5adf9" title="This is used when streaming TrackPoints." alt="" coords="1251,73,1445,101"/>
+<area shape="rect" id="node8" href="$d8/db3/classgenfit_1_1Exception.html#a13619975a1e1be5c1bd504b254e01f7a" title="Set fatal flag." alt="" coords="1558,197,1702,241"/>
+<area shape="rect" id="node10" href="$d9/d9e/evDisplay_8C.html#a493aff38bcceaba17aef8c5257ff963a" title="channel" alt="" coords="449,1201,523,1229"/>
+<area shape="rect" id="node11" href="$da/d9c/namespaceTowerInfoDefs.html#ac6148dae05763661a28e4f40856b96ed" title="TowerInfoDefs::decode\l_emcal" alt="" coords="398,1253,574,1297"/>
+<area shape="rect" id="node12" href="$da/d9c/namespaceTowerInfoDefs.html#a00c72a0d930085024ae2d7c90e9a36f0" title="TowerInfoDefs::encode\l_emcal" alt="" coords="398,1321,574,1365"/>
+<area shape="rect" id="node13" href="$da/d9c/namespaceTowerInfoDefs.html#acb37f4f1b13f1761640f02c036b4506d" title="TowerInfoDefs::getCaloTower\lEtaBin" alt="" coords="377,1389,595,1433"/>
+<area shape="rect" id="node14" href="$da/d9c/namespaceTowerInfoDefs.html#af1de44c462a3a6bba5c1790021e6809c" title="TowerInfoDefs::getCaloTower\lPhiBin" alt="" coords="377,1081,595,1125"/>
+<area shape="rect" id="node15" href="$d9/d52/HoughTransformSeeder_8cpp.html#a1f2cfb6e3644c66f2bfe3c54f699a72a" title="to_string" alt="" coords="446,1149,526,1177"/>
+<area shape="rect" id="node17" href="$d6/d8a/classgenfit_1_1Track.html#a402b35300e81a48c7f0b9eb082b1cf24" title="Get cardinal track representation." alt="" coords="1521,485,1739,513"/>
+<area shape="rect" id="node18" href="$d6/d8a/classgenfit_1_1Track.html#ad8961b1ff4809ccde5f6f100ffbccb9d" title="genfit::Track::getPointWith\lFitterInfo" alt="" coords="1248,537,1448,581"/>
+<area shape="rect" id="node19" href="$db/d40/classgenfit_1_1TrackPoint.html#ae8b3e743fb436dd6689e0dad4c35ffd9" title="Get fitterInfo for rep. Per default, use cardinal rep." alt="" coords="1279,417,1417,461"/>
+<area shape="rect" id="node20" href="$d9/d8c/classgenfit_1_1AbsFitterInfo.html#a985d0203f46dfbd5dc253bb03b21d76f" title="genfit::AbsFitterInfo\l::getFittedState" alt="" coords="1271,657,1425,701"/>
+<area shape="rect" id="node22" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a0cab227e2f45bd20ba63cf1b2ad260be" title="genfit::MaterialEffects\l::MaterialEffects" alt="" coords="401,1457,571,1501"/>
+<area shape="rect" id="node24" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a3aa96da8f0486f3420b620cebb6b9f00" title="genfit::EventDisplay\l::EventDisplay" alt="" coords="978,793,1137,837"/>
+<area shape="rect" id="node26" href="$de/d8e/classgenfit_1_1FieldManager.html#a01194f10c4efe8d19286492ba01e104e" title="genfit::FieldManager\l::FieldManager" alt="" coords="405,1525,567,1569"/>
+<area shape="rect" id="node28" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="417,1593,555,1621"/>
+<area shape="rect" id="node31" href="$db/d40/classgenfit_1_1TrackPoint.html#a70f6a8e9214edad4fce38eafeeee820e" title="genfit::TrackPoint\l::setTrack" alt="" coords="417,753,555,797"/>
+<area shape="rect" id="node32" href="$d6/d8a/classgenfit_1_1Track.html#ad4ead0ee2abc2bcb6b616f8976bc559a" title="genfit::Track::trackHasChanged" alt="" coords="659,900,892,928"/>
+<area shape="rect" id="node33" href="$db/d40/classgenfit_1_1TrackPoint.html#ada7b4d8c988a1798e455fb70929f88b7" title="genfit::TrackPoint\l::hasRawMeasurements" alt="" coords="966,619,1149,663"/>
+<area shape="rect" id="node34" href="$d6/d8a/classgenfit_1_1Track.html#aef6313a66e86853f9eef2e38f519bc37" title="genfit::Track::deleteReferenceInfo" alt="" coords="361,977,611,1005"/>
+<area shape="rect" id="node35" href="$d6/d8a/classgenfit_1_1Track.html#ad6ac9e44842a18fbba2577a887f008c5" title="genfit::Track::deleteForwardInfo" alt="" coords="368,925,604,953"/>
+<area shape="rect" id="node36" href="$d6/d8a/classgenfit_1_1Track.html#a409abb47dc8fb5134031f8af1ce9b44a" title="genfit::Track::deleteBackwardInfo" alt="" coords="362,821,610,849"/>
+<area shape="rect" id="node37" href="$d6/d8a/classgenfit_1_1Track.html#aebe51cd12b541bb8821c1b919480371d" title="genfit::Track::fillPoints\lWithMeasurement" alt="" coords="401,685,571,729"/>
+<area shape="rect" id="node39" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a1b1544012896871ee09cdb954ce4dde4" title="Get the total number of events stored." alt="" coords="407,395,565,439"/>
+<area shape="rect" id="node40" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a294470305559030667e010db718d3f3a" title="Draw an event." alt="" coords="696,359,855,403"/>
+<area shape="rect" id="node46" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a493a1ff074a94d20fb52ec58e121aa9f" title="Go to event with index id." alt="" coords="407,275,565,319"/>
+<area shape="rect" id="node47" href="$d4/d1a/classgenfit_1_1EventDisplay.html#aab151dae9bfe4998add390ffa953d536" title="Build the buttons for event navigation." alt="" coords="407,515,565,559"/>
+<area shape="rect" id="node41" href="$d6/d8a/classgenfit_1_1Track.html#a366154650c41b0ad4d43ec51e28208d9" title="genfit::Track::getNumReps" alt="" coords="957,281,1157,309"/>
+<area shape="rect" id="node42" href="$d6/d8a/classgenfit_1_1Track.html#ae4148c577b790e5e7d5a1a85c5bcd43a" title="genfit::Track::getTrackRep" alt="" coords="959,229,1156,257"/>
+<area shape="rect" id="node44" href="$de/dd5/classgenfit_1_1StateOnPlane.html#a14f25e4575846dcb14bd91ddb2a534d2" title="genfit::StateOnPlane\l::getRep" alt="" coords="1267,725,1429,769"/>
+<area shape="rect" id="node45" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#ae6f4c4eeb3e4fbadcc930f53e2ca4ad7" title="Translates MeasuredStateOnPlane into 3D position, momentum and 6x6 covariance." alt="" coords="1270,793,1426,837"/>
+<area shape="rect" id="node49" href="$d0/dba/classgenfit_1_1AbsFitter.html#a78e589db9e548b60ad129ec631ce9a8e" title="genfit::AbsFitter::\lprocessTrackWithRep" alt="" coords="975,57,1140,101"/>
+</map>

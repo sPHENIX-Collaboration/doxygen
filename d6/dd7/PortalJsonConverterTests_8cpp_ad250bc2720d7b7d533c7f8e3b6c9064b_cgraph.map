@@ -1,0 +1,26 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d4/dc6/namespaceActs_1_1Experimental_1_1detail_1_1PortalHelper.html#af98cfcd1d53e1f5e7d699edc96ebe807" title="Create and attach the multi link updator, the portal will get a volume updator attached, that points to the different sub volumes depending on the global position and binning &#45; single assignment case." alt="" coords="249,321,493,381"/>
+<area shape="rect" id="node14" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="875,499,1051,527"/>
+<area shape="rect" id="node17" href="$d4/dc6/namespaceActs_1_1Experimental_1_1detail_1_1PortalHelper.html#ad117b59b89e7115e02fd9074f31febc4" title="Method to attach a single detector volume to a portal." alt="" coords="253,593,490,653"/>
+<area shape="rect" id="node19" href="$d6/d5a/classActs_1_1Experimental_1_1Portal.html#a7b22af97620bf1d0292af0872df3adfa" title="Factory for producing memory managed instances of Portal." alt="" coords="290,500,453,544"/>
+<area shape="rect" id="node20" href="$d1/de9/namespaceActs_1_1PortalJsonConverter.html#a7469b7d571dd0101aa16f0ebe3ed77ee" title="Convert to json format." alt="" coords="274,108,469,152"/>
+<area shape="rect" id="node3" href="$d6/d5a/classActs_1_1Experimental_1_1Portal.html#a42578b0dc667623b86aef459f5856890" title="Const access to the surface representation." alt="" coords="590,141,739,185"/>
+<area shape="rect" id="node4" href="$de/d7d/classActs_1_1Surface.html#a094d716342a3f36de3219927986c9a66" title="Acts::Surface::transform" alt="" coords="571,209,758,237"/>
+<area shape="rect" id="node6" href="$da/d7b/namespaceActs.html#aa6c4243b5a11435617c65568f287eae3" title="Acts::unpack_shared\l_const_vector" alt="" coords="584,261,745,305"/>
+<area shape="rect" id="node7" href="$df/d57/namespaceActs_1_1KalmanVertexTrackUpdater.html#abb363e1aaee90a3145009d060586bd22" title="Refits a single track with the knowledge of the vertex it has originated from." alt="" coords="543,329,787,373"/>
+<area shape="rect" id="node15" href="$d6/d5a/classActs_1_1Experimental_1_1Portal.html#a0d4e0f8326c733efe07d51b58da1e61c" title="Acts::Experimental\l::Portal::assignDetectorVolume\lUpdator" alt="" coords="549,551,780,611"/>
+<area shape="rect" id="node5" href="$de/d33/Volume_8cpp.html#a0ce60e705eae0758e42adda551820bce" title="m_transform" alt="" coords="910,207,1017,235"/>
+<area shape="rect" id="node8" href="$df/d7d/classActs_1_1Vertex.html#a1ad6f0be4f81179d3f73be1ad5167237" title="Acts::Vertex::fullPosition" alt="" coords="871,259,1056,287"/>
+<area shape="rect" id="node9" href="$d6/d06/namespaceActs_1_1detail.html#aabe4598a8c49726b0ef4223280c29835" title="Acts::detail::normalizePhi\lTheta" alt="" coords="867,311,1060,355"/>
+<area shape="rect" id="node12" href="$df/d7d/classActs_1_1Vertex.html#a8ca3710006569a3b77a082caac32fc70" title="Acts::Vertex::fullCovariance" alt="" coords="859,379,1068,407"/>
+<area shape="rect" id="node13" href="$d7/d27/namespaceActs_1_1KalmanVertexTrackUpdater_1_1detail.html#a7327b3b3d4a7eb85cbc987333e9eab24" title="reates a new covariance matrix for the refitted track parameters" alt="" coords="836,431,1091,475"/>
+<area shape="rect" id="node10" href="$d6/d06/namespaceActs_1_1detail.html#ac6f4cd4732a94d6786858ded16d6b678" title="Calculate the equivalent angle in the [0, 2*pi) range." alt="" coords="1141,345,1322,373"/>
+<area shape="rect" id="node11" href="$d6/d06/namespaceActs_1_1detail.html#af08fbfd2843e4f5c141ed9148537f984" title="Calculate the equivalent angle in the [&#45;pi, pi) range." alt="" coords="1139,293,1324,321"/>
+<area shape="rect" id="node16" href="$d3/d8d/exceptionActs_1_1Direction.html#aa3883b0be2a5d2beb4b3e91890ec157d" title="Acts::Direction::index" alt="" coords="880,567,1047,595"/>
+<area shape="rect" id="node18" href="$da/d46/structActs_1_1Experimental_1_1SingleDetectorVolumeImpl.html#adc9798ef34e5f4b5a456967421479c49" title="a null volume link &#45; explicitly" alt="" coords="559,687,770,747"/>
+<area shape="rect" id="node21" href="$d6/ddc/namespaceActs_1_1Transform3JsonConverter.html#ac77a3325dee1f8aa53cd0df4dfaadf2b" title="The Transform converter to json." alt="" coords="549,5,781,49"/>
+<area shape="rect" id="node25" href="$d6/d5a/classActs_1_1Experimental_1_1Portal.html#ab9582b49aeba2cabe9f7517c001ba4ce" title="Acts::Experimental\l::Portal::detectorVolumeUpdators" alt="" coords="541,73,788,117"/>
+<area shape="rect" id="node22" href="$df/da5/translation_8cxx.html#a6b10c89eba28d5a59fcb6e8c47952817" title="translation" alt="" coords="917,13,1010,41"/>
+<area shape="rect" id="node23" href="$d2/d0e/export_8cxx.html#a931e6cec5d0f09c278a5f142766bf70c" title="getNode" alt="" coords="1192,13,1271,41"/>
+<area shape="rect" id="node24" href="$d2/d0e/export_8cxx.html#a386cad5f90f21dcd158f39eae1c4c1ba" title="dfs" alt="" coords="1372,13,1415,41"/>
+</map>

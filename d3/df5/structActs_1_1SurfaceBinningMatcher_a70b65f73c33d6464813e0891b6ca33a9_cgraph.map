@@ -1,0 +1,25 @@
+<map id="Acts::SurfaceBinningMatcher::operator()" name="Acts::SurfaceBinningMatcher::operator()">
+<area shape="rect" id="node2" href="$dd/d9e/structActs_1_1Polyhedron.html#a1c4a5f6a725234c74230dfa93ced4b05" title="Acts::Polyhedron::extent" alt="" coords="276,312,464,340"/>
+<area shape="rect" id="node23" href="$db/d01/classActs_1_1Extent.html#a3e47cb5ea5dd54c718c7642f07e1079a" title="Acts::Extent::min" alt="" coords="301,364,439,392"/>
+<area shape="rect" id="node24" href="$de/d7d/classActs_1_1Surface.html#a8580e9839bf7b3207b3f01b0a822febf" title="Acts::Surface::polyhedron\lRepresentation" alt="" coords="272,416,468,460"/>
+<area shape="rect" id="node3" href="$dc/d25/Fun4All__FillDCMap_8C.html#a90e3b243519cdf73802cbf9811fa0f42" title="closest" alt="" coords="593,5,662,33"/>
+<area shape="rect" id="node4" href="$d9/dbb/buildEdges_8cpp.html#a1c7c5a664ae255650d4dd47dffef1835" title="dist" alt="" coords="604,57,651,85"/>
+<area shape="rect" id="node5" href="$d0/d85/classActs_1_1Range1D.html#ad1cdaa36161815b8ae43ed9b0faee439" title="Expand a range by decreasing the minimum value." alt="" coords="525,109,729,137"/>
+<area shape="rect" id="node6" href="$db/d01/classActs_1_1Extent.html#a2558b60a6b87c579141d0c71c0cb14ad" title="Acts::Extent::extend" alt="" coords="548,161,707,189"/>
+<area shape="rect" id="node13" href="$dc/dba/namespaceActs_1_1detail_1_1VerticesHelper.html#a5c89699f8b3e182580538a4cee23c035" title="Acts::detail::VerticesHelper\l::isInsidePolygon" alt="" coords="524,213,731,257"/>
+<area shape="rect" id="node14" href="$db/d01/classActs_1_1Extent.html#ae7788546b8f7ed1e3cbe569b979cd166" title="Acts::Extent::medium" alt="" coords="543,281,711,309"/>
+<area shape="rect" id="node15" href="$dc/dba/namespaceActs_1_1detail_1_1VerticesHelper.html#a06f9e24976b63fc69d099f94a1cf650b" title="Acts::detail::VerticesHelper\l::onHyperPlane" alt="" coords="524,333,731,377"/>
+<area shape="rect" id="node16" href="$dd/d7e/namespaceActs_1_1Test.html#a25144f827aaec56765c0d318216c94a5" title="Acts::Test::origin" alt="" coords="561,401,694,429"/>
+<area shape="rect" id="node17" href="$db/d01/classActs_1_1Extent.html#a920a7b0c91a1dfa51a336ea1fe8059a2" title="Acts::Extent::range" alt="" coords="551,453,703,481"/>
+<area shape="rect" id="node18" href="$d0/d85/classActs_1_1Range1D.html#ab3f722855f3f24e31e42e46f56f635d9" title="Set the minimum and maximum value." alt="" coords="551,505,703,533"/>
+<area shape="rect" id="node19" href="$d0/d85/classActs_1_1Range1D.html#a3ea738a8666b1d2d9f7efb29f812b0cb" title="Set the minimum value." alt="" coords="540,557,715,585"/>
+<area shape="rect" id="node20" href="$d5/da9/namespaceActsExamples_1_1HepMC3Event.html#a0bd8b25628fbd0f18b886f46089d182e" title="Get list of vertices." alt="" coords="516,609,739,653"/>
+<area shape="rect" id="node7" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a1fb640755e4c0146d289cd5b3f4d33db" title="Acts::VectorHelpers\l::cast" alt="" coords="823,153,977,197"/>
+<area shape="rect" id="node8" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="1312,183,1467,227"/>
+<area shape="rect" id="node9" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a397d5e8143b34171258deef4f9cca9ad" title="Acts::VectorHelpers::phi" alt="" coords="1062,131,1246,159"/>
+<area shape="rect" id="node10" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a1c1a90bc524259263f553410691dd9ad" title="Acts::VectorHelpers\l::theta" alt="" coords="1077,183,1231,227"/>
+<area shape="rect" id="node11" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="1061,251,1247,279"/>
+<area shape="rect" id="node12" href="$df/d93/namespaceautodiff_1_1detail.html#a1002a374a47c67229dd43c66f7ffc449" title="autodiff::detail::copysign" alt="" coords="1295,251,1484,279"/>
+<area shape="rect" id="node21" href="$d9/d37/namespaceActsExamples_1_1HepMC3Vertex.html#aba05f71532091fac5073d444d91cf61e" title="Returns a vertex translated into Acts." alt="" coords="787,609,1013,653"/>
+<area shape="rect" id="node22" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="1066,617,1242,645"/>
+</map>

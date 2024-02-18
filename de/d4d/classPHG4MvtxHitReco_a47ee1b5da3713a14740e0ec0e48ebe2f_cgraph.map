@@ -1,0 +1,33 @@
+<map id="PHG4MvtxHitReco::cluster_truthhits" name="PHG4MvtxHitReco::cluster_truthhits">
+<area shape="rect" id="node2" href="$de/dc0/classTrkrTruthTrack.html#a13e4570982e11bd1d0605edc9235a9cf" title="TrkrTruthTrack::addCluster" alt="" coords="263,5,463,33"/>
+<area shape="rect" id="node3" href="$d0/d2c/classTrkrClusterContainer.html#a9b2004350d970df2cef8e85c1382c718" title="add a cluster with specific key" alt="" coords="274,57,451,101"/>
+<area shape="rect" id="node4" href="$d9/dc1/classTrkrHitSet.html#a984e80c93c409c7d0d3ea41847b202b5" title="Add a hit to this container using a specific key." alt="" coords="253,125,473,153"/>
+<area shape="rect" id="node5" href="$dd/d2b/classClusHitsVerbosev1.html#a379f45bc7519107ccff361c50d9ab61a" title="ClusHitsVerbosev1::\laddPhiCutHit" alt="" coords="285,177,441,221"/>
+<area shape="rect" id="node6" href="$dd/d2b/classClusHitsVerbosev1.html#ac1472961980ebac047d69ae02ee3c87c" title="ClusHitsVerbosev1::\laddPhiHit" alt="" coords="285,245,441,289"/>
+<area shape="rect" id="node7" href="$dd/d2b/classClusHitsVerbosev1.html#ab14ab5c7c46aae746822449a50840c07" title="ClusHitsVerbosev1::\laddZCutHit" alt="" coords="285,313,441,357"/>
+<area shape="rect" id="node8" href="$dd/d2b/classClusHitsVerbosev1.html#a07f0b360615bcd898336e596811e71bf" title="ClusHitsVerbosev1::\laddZHit" alt="" coords="285,381,441,425"/>
+<area shape="rect" id="node9" href="$d5/d76/classTrkrHitSetContainer.html#a3f961090a0dca45b0da236b603105b5a" title="return a given HitSet based on its key" alt="" coords="285,449,441,493"/>
+<area shape="rect" id="node10" href="$d5/d76/classTrkrHitSetContainer.html#aee7de3f6af1b2564963057f4c638d43a" title="find or add HitSet" alt="" coords="285,517,441,561"/>
+<area shape="rect" id="node11" href="$d6/d3f/namespaceTrkrDefs.html#a5cc3b1fa8e62e3fc5fb698fe1991cfae" title="generate cluster key from hitset key and cluster index" alt="" coords="527,585,694,613"/>
+<area shape="rect" id="node13" href="$d8/df1/namespaceMvtxDefs.html#a024ad0bf5de2d32614825f36645eb49e" title="Generate a hitsetkey for the mvtx." alt="" coords="270,637,455,665"/>
+<area shape="rect" id="node15" href="$d8/df1/namespaceMvtxDefs.html#abfd7b6c5fe579370c360924854579283" title="Get the chip id from hitsetkey." alt="" coords="532,741,689,769"/>
+<area shape="rect" id="node16" href="$d8/df1/namespaceMvtxDefs.html#a1168eb31a2fe1f73988744e3bdedd24f" title="Get the strobe id from the cluskey." alt="" coords="543,793,679,821"/>
+<area shape="rect" id="node17" href="$d9/dc1/classTrkrHitSet.html#af4ebc18f92b53b2b0f3a080088da6e19" title="Get a specific hit based on its index." alt="" coords="293,792,433,820"/>
+<area shape="rect" id="node18" href="$d9/dc1/classTrkrHitSet.html#a2a362e326ba49a53a7675dc4c9b39c2a" title="Get all hits." alt="" coords="289,844,436,872"/>
+<area shape="rect" id="node19" href="$d9/dc1/classTrkrHitSet.html#acffcc2223e9568b469109de4790fd734" title="Get the key for this object." alt="" coords="269,896,456,924"/>
+<area shape="rect" id="node20" href="$d5/d76/classTrkrHitSetContainer.html#a0e347bd66bf03e9a34651410a79d5cab" title="return all HitSets matching a given detid" alt="" coords="285,948,441,992"/>
+<area shape="rect" id="node21" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="537,931,685,959"/>
+<area shape="rect" id="node22" href="$d4/de7/classPHG4CylinderGeomContainer.html#a08321019aaff5f57cd416b64d0f536bf" title="PHG4CylinderGeomContainer\l::GetLayerGeom" alt="" coords="252,1068,473,1112"/>
+<area shape="rect" id="node23" href="$d8/df1/namespaceMvtxDefs.html#a8c10f1bd18a4e4eb490f2809ed6ad9aa" title="Get the row index from hitkey." alt="" coords="539,991,683,1019"/>
+<area shape="rect" id="node24" href="$d8/df1/namespaceMvtxDefs.html#a0d6fee920baed2f17bed6f7990bb88c3" title="Get the stave id from hitsetkey." alt="" coords="528,1059,693,1087"/>
+<area shape="rect" id="node25" href="$d8/df1/namespaceMvtxDefs.html#ae43da17a66c57ba42223bd0a01be56ce" title="Get the chip id from hitsetkey." alt="" coords="525,1143,697,1171"/>
+<area shape="rect" id="node26" href="$d9/dc1/classTrkrHitSet.html#acfd901e60a6d01d3c38a997d269517e7" title="TObject functions." alt="" coords="288,1289,437,1317"/>
+<area shape="rect" id="node27" href="$dd/d2b/classClusHitsVerbosev1.html#a157be5e74bcfa7d7e53113eab894cf43" title="ClusHitsVerbosev1::\lpush_hits" alt="" coords="285,1341,441,1385"/>
+<area shape="rect" id="node28" href="$d5/d76/classTrkrHitSetContainer.html#a6b2b49265e69e938f009597b27a524ab" title="preferred removal method, key is currently the hit id" alt="" coords="285,1409,441,1453"/>
+<area shape="rect" id="node29" href="$d5/d76/classTrkrHitSetContainer.html#ad60fbfa985f8702e3baa9f1423a221a6" title="PHObject functions." alt="" coords="285,1477,441,1521"/>
+<area shape="rect" id="node30" href="$da/d9b/classTrkrHit.html#a2b328710e55704e72a391113bccc8e76" title="TrkrHit::setAdc" alt="" coords="302,1545,423,1573"/>
+<area shape="rect" id="node31" href="$d9/dc1/classTrkrHitSet.html#a1a36d728b7b07de978d16cea7cb288e1" title="Get the number of hits stored." alt="" coords="301,1597,425,1625"/>
+<area shape="rect" id="node32" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="275,1649,451,1677"/>
+<area shape="rect" id="node12" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="748,793,871,821"/>
+<area shape="rect" id="node14" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="521,689,700,717"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="DbForm::HandleExecuteQuery" name="DbForm::HandleExecuteQuery">
+<area shape="rect" id="node2" href="$d5/dc3/classDbForm.html#a99257013f3094cee4717c1cb1228e5c1" title="DbForm::ClearCanvas" alt="" coords="325,24,493,52"/>
+<area shape="rect" id="node3" href="$d7/d95/classTSQLResultSetMetaData.html#a12d3efdbfd53b07f4d4d81af3435846f" title="TSQLResultSetMetaData\l::GetColumnCount" alt="" coords="603,5,789,49"/>
+<area shape="rect" id="node4" href="$dd/d85/classTSQLConnection.html#a7bfca405ed849d7fc90270b0fdccfe61" title="TSQLConnection::CreateStatement" alt="" coords="280,184,539,212"/>
+<area shape="rect" id="node5" href="$d2/d58/classTSQLStatement.html#a74c6794fc585a834d31e71bf3fe9d3f3" title="TSQLStatement::ExecuteQuery" alt="" coords="293,236,525,264"/>
+<area shape="rect" id="node15" href="$d7/d95/classTSQLResultSetMetaData.html#a339fe80e1f5c41d8d36c2d885e92794c" title="TSQLResultSetMetaData\l::GetColumnName" alt="" coords="603,401,789,445"/>
+<area shape="rect" id="node16" href="$d7/d95/classTSQLResultSetMetaData.html#a353f35211485b7247cba84991094024d" title="TSQLResultSetMetaData\l::GetColumnType" alt="" coords="317,340,502,384"/>
+<area shape="rect" id="node17" href="$d0/db4/classTSQLResultSet.html#a53f804225d7fd6c27fe3550a70dfd85e" title="TSQLResultSet::GetMetaData" alt="" coords="300,408,519,436"/>
+<area shape="rect" id="node18" href="$d0/db4/classTSQLResultSet.html#af6fbef60d0a118f97c4d0756e82598e6" title="TSQLResultSet::GetRow" alt="" coords="318,460,501,488"/>
+<area shape="rect" id="node19" href="$d5/dc3/classDbForm.html#abafca6f9f24ade4fcaacdf0ccc5b5cfd" title="DbForm::SetForwardOnly" alt="" coords="314,512,505,540"/>
+<area shape="rect" id="node6" href="$dd/d4d/classTSQL.html#a5f3e7a10e954e822f96fee7185b9c46f" title="TSQL::ClearWarnings" alt="" coords="614,245,778,273"/>
+<area shape="rect" id="node7" href="$d0/db4/classTSQLResultSet.html#a26f7c0f5d3f023ced26cd62c6df48ec8" title="TSQLResultSet::Close" alt="" coords="613,297,779,325"/>
+<area shape="rect" id="node8" href="$dd/d85/classTSQLConnection.html#aa75ade25fcebc5a884dae09f1f1cd59b" title="TSQLConnection::GetCatalog" alt="" coords="587,125,805,153"/>
+<area shape="rect" id="node10" href="$dd/d4d/classTSQL.html#a12129fd04a2499449c8d13ed374f007a" title="TSQL::Throw" alt="" coords="899,349,1007,377"/>
+<area shape="rect" id="node13" href="$dd/d85/classTSQLConnection.html#af4750098d4214bd8390565896e148013" title="TSQLConnection::SetCatalog" alt="" coords="588,73,804,101"/>
+<area shape="rect" id="node14" href="$da/d0b/classMySQLConnectionPrivate.html#a77ac562ef61183382b70e7a04027c209" title="MySQLConnectionPrivate\l::CheckIfServerIsAlive" alt="" coords="601,177,791,221"/>
+<area shape="rect" id="node9" href="$dd/d85/classTSQLConnection.html#a89016b2a42450757a7233a43f28f3ded" title="TSQLConnection::IsClosed" alt="" coords="853,100,1052,128"/>
+<area shape="rect" id="node11" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1153,323,1211,351"/>
+<area shape="rect" id="node12" href="$d8/d8f/classTSQLException.html#a395335cef98b7d73b7cb158032dcd7e4" title="TSQLException::Print" alt="" coords="1100,375,1264,403"/>
+</map>

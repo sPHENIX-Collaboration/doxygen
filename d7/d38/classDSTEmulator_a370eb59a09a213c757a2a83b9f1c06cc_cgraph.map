@@ -1,0 +1,51 @@
+<map id="DSTEmulator::process_event" name="DSTEmulator::process_event">
+<area shape="rect" id="node2" href="$d7/d38/classDSTEmulator.html#ad5fccb3bb1d9c015921b7efeec2d9704" title="evaluate tracks" alt="" coords="241,564,419,608"/>
+<area shape="rect" id="node48" href="$d7/d38/classDSTEmulator.html#aabdbaf681372d0e65e689dda049f2e4a" title="load nodes" alt="" coords="232,933,428,961"/>
+<area shape="rect" id="node50" href="$de/de7/classTrackEvaluationContainerv1.html#ada00fda0c7877ed5e036a87e0434320d" title="reset" alt="" coords="224,985,436,1029"/>
+<area shape="rect" id="node3" href="$de/de7/classTrackEvaluationContainerv1.html#a807129643a8c412cdff0ca0aa15b1304" title="TrackEvaluationContainerv1\l::clearTracks" alt="" coords="496,177,708,221"/>
+<area shape="rect" id="node4" href="$d7/d38/classDSTEmulator.html#aed7610e930744f972a6af2261b87336d" title="DSTEmulator::compress_dx" alt="" coords="499,297,705,325"/>
+<area shape="rect" id="node8" href="$d7/d38/classDSTEmulator.html#a9f68ef49b01495d7650e7666622e4bf3" title="DSTEmulator::compress_dy" alt="" coords="499,245,705,273"/>
+<area shape="rect" id="node11" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="521,349,683,393"/>
+<area shape="rect" id="node12" href="$d1/da8/classPHFlag.html#a4b73a422f0076568904d71f40e849da5" title="PHFlag::FlagExist" alt="" coords="533,417,671,445"/>
+<area shape="rect" id="node13" href="$d3/d64/classActsGeometry.html#aef1d7a1753e979a73b28e0ffbe6ab994" title="ActsGeometry::geometry" alt="" coords="1068,520,1260,548"/>
+<area shape="rect" id="node14" href="$d7/d38/classDSTEmulator.html#ad2c528b0be8d4b5369e334b167a65a41" title="get embedded id for given g4track" alt="" coords="505,935,699,963"/>
+<area shape="rect" id="node17" href="$d1/da8/classPHFlag.html#a07899067141a5f12333cc37183caddc8" title="PHFlag::get_IntFlag" alt="" coords="526,987,678,1015"/>
+<area shape="rect" id="node25" href="$d7/d38/classDSTEmulator.html#ae863c88b927b8e97eec4ce7f0bc15b27" title="get G4Particle id of max contributor to a given track" alt="" coords="513,749,691,793"/>
+<area shape="rect" id="node32" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="1060,916,1268,960"/>
+<area shape="rect" id="node33" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="1091,624,1237,652"/>
+<area shape="rect" id="node36" href="$d8/d2b/namespaceQAG4Util.html#a61d46189a0883ae4af122eb5ef596946" title="radius" alt="" coords="539,1039,665,1067"/>
+<area shape="rect" id="node38" href="$d4/d32/structActsTrackingGeometry.html#a21111b468314bf411c1742355ab7d1f5" title="ActsTrackingGeometry\l::getGeoContext" alt="" coords="515,1091,689,1135"/>
+<area shape="rect" id="node39" href="$d7/d38/classDSTEmulator.html#afcae6a6b5cf6860213be4e8df7e7e1e8" title="DSTEmulator::getGlobalPosition" alt="" coords="484,572,720,600"/>
+<area shape="rect" id="node41" href="$d3/d64/classActsGeometry.html#a5de502147722c0e0e8549b706d5d21a8" title="ActsGeometry::maps" alt="" coords="1082,572,1246,600"/>
+<area shape="rect" id="node42" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="816,468,964,496"/>
+<area shape="rect" id="node43" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="509,1159,695,1203"/>
+<area shape="rect" id="node44" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="521,5,683,33"/>
+<area shape="rect" id="node46" href="$de/de0/matchedfilter_8C.html#ac662fab4d6569f9ab320da1b95bcd663" title="round" alt="" coords="572,57,632,85"/>
+<area shape="rect" id="node47" href="$de/de7/classTrackEvaluationContainerv1.html#a50ddaef525e19aeb1f1a7ddbd7950b3a" title="TrackEvaluationContainerv1\l::tracks" alt="" coords="496,109,708,153"/>
+<area shape="rect" id="node5" href="$dc/d29/classDSTCompressor.html#a1ff0b5e02704e2ca97faa6591aef8e34" title="DSTCompressor::compressPhi" alt="" coords="779,297,1001,325"/>
+<area shape="rect" id="node7" href="$dc/d29/classDSTCompressor.html#a5f6023cfbb2b170962eaaa568b533368" title="DSTCompressor::decompressPhi" alt="" coords="771,349,1009,377"/>
+<area shape="rect" id="node6" href="$de/d27/compressor__generator_8h.html#a033c736bc21fe5627ab36ce53b9cbd1c" title="residesIn" alt="" coords="1123,272,1205,300"/>
+<area shape="rect" id="node9" href="$dc/d29/classDSTCompressor.html#a9bd23bfab38391b35e5ed4be06b7c829" title="DSTCompressor::compressZ" alt="" coords="784,245,996,273"/>
+<area shape="rect" id="node10" href="$dc/d29/classDSTCompressor.html#ab4c6d67c6cc6c10fac31f05a63bbfcb4" title="DSTCompressor::decompressZ" alt="" coords="776,193,1004,221"/>
+<area shape="rect" id="node15" href="$de/dc9/classPHG4Particle.html#a057540307b3af50a74b4d40d7edd8dfb" title="PHG4Particle::get_primary_id" alt="" coords="781,935,999,963"/>
+<area shape="rect" id="node16" href="$da/d6c/classPHG4TruthInfoContainer.html#a20c4cc7019b477ad8490ddbb5ddaf547" title="PHG4TruthInfoContainer\l::isEmbeded" alt="" coords="797,987,983,1031"/>
+<area shape="rect" id="node18" href="$d1/da8/classPHFlag.html#a5be3faf4dda955a43deee72b2f8b8bde" title="PHFlag::PrintStackTrace" alt="" coords="800,1055,980,1083"/>
+<area shape="rect" id="node19" href="$d1/da8/classPHFlag.html#a7c2615c6c6570b73c005f98d2d7adee2" title="PHFlag::Print" alt="" coords="836,1107,944,1135"/>
+<area shape="rect" id="node20" href="$d1/da8/classPHFlag.html#ad1b9a7480bf5f4c89b9d3c7a8bc0a80a" title="PHFlag::PrintIntFlags" alt="" coords="1083,1003,1245,1031"/>
+<area shape="rect" id="node21" href="$d1/da8/classPHFlag.html#a8cd889a7b07b5e99051241c68355916b" title="PHFlag::Printuint64Flags" alt="" coords="1071,1055,1257,1083"/>
+<area shape="rect" id="node22" href="$d1/da8/classPHFlag.html#ac342a6f0241b1db3bbf5cbb82635a572" title="PHFlag::PrintFloatFlags" alt="" coords="1075,1107,1253,1135"/>
+<area shape="rect" id="node23" href="$d1/da8/classPHFlag.html#a1ff4c6fb4381385006ee1a1a98127db5" title="PHFlag::PrintDoubleFlags" alt="" coords="1068,1159,1260,1187"/>
+<area shape="rect" id="node24" href="$d1/da8/classPHFlag.html#a0252ef9f9c5331ecb3756b24f6a96b73" title="PHFlag::PrintStringFlags" alt="" coords="1072,1211,1256,1239"/>
+<area shape="rect" id="node26" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="778,831,1002,859"/>
+<area shape="rect" id="node27" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="785,779,995,807"/>
+<area shape="rect" id="node28" href="$d7/d38/classDSTEmulator.html#a107e870c2a11e5d8670c980dcb4ec5ca" title="DSTEmulator::find_g4hits" alt="" coords="793,727,987,755"/>
+<area shape="rect" id="node29" href="$d4/d30/classPHG4HitContainer.html#a62c24ef9c00bd714f597939598a87041" title="PHG4HitContainer::findHit" alt="" coords="1065,676,1263,704"/>
+<area shape="rect" id="node30" href="$d7/d8d/classTrkrHitTruthAssoc.html#aead420bbb592bb8382bfb10a57a0ff30" title="Get cell keys associated with desired hit." alt="" coords="1090,728,1238,772"/>
+<area shape="rect" id="node31" href="$d7/d4f/classTrkrClusterHitAssoc.html#a79099cbebd11459ea55add96711d119d" title="Get all the hits associated with a cluster by key." alt="" coords="1087,796,1241,840"/>
+<area shape="rect" id="node35" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="1076,864,1252,892"/>
+<area shape="rect" id="node34" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1316,547,1439,575"/>
+<area shape="rect" id="node37" href="$d8/d2b/namespaceQAG4Util.html#acb654c77dcfa7a61ba444f92481283c1" title="square" alt="" coords="821,1159,959,1187"/>
+<area shape="rect" id="node40" href="$d3/d64/classActsGeometry.html#a74c2c69effa2b19cde731a6b67806fba" title="ActsGeometry::getGlobalPosition" alt="" coords="768,572,1012,600"/>
+<area shape="rect" id="node45" href="$d8/d14/classrecoConsts.html#ae882d6adc62f783ec78114fe3dee3c24" title="recoConsts::recoConsts" alt="" coords="800,5,980,33"/>
+<area shape="rect" id="node49" href="$d0/d2c/classTrkrClusterContainer.html#a2afed9b08029c94a400bdcfe998eb7d9" title="total number of clusters" alt="" coords="521,1227,683,1271"/>
+</map>

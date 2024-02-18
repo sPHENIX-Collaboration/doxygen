@@ -1,0 +1,16 @@
+<map id="ActsExamples::EDM4hepSimHitWriter::writeT" name="ActsExamples::EDM4hepSimHitWriter::writeT">
+<area shape="rect" id="node2" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="288,108,464,136"/>
+<area shape="rect" id="node3" href="$d4/d7c/namespaceActsExamples_1_1EDM4hepUtil.html#acc5558a0fe81bb758024d23ab5aeeba6" title="ActsExamples::EDM4hepUtil\l::writeParticle" alt="" coords="269,160,483,204"/>
+<area shape="rect" id="node10" href="$d4/d7c/namespaceActsExamples_1_1EDM4hepUtil.html#a8dc7c04e606f3e7f0525000e50cfcb4f" title="ActsExamples::EDM4hepUtil\l::writeSimHit" alt="" coords="269,415,483,459"/>
+<area shape="rect" id="node4" href="$db/dfd/classActsFatras_1_1Particle.html#afb30f8d2e20e1c91cb7160239e2e1c7f" title="PDG particle number that identifies the type." alt="" coords="546,5,731,33"/>
+<area shape="rect" id="node5" href="$db/dfd/classActsFatras_1_1Particle.html#acf597772d569b8a942ba010e572b3af7" title="Particle charge." alt="" coords="563,57,714,101"/>
+<area shape="rect" id="node6" href="$db/dfd/classActsFatras_1_1Particle.html#a9e136f344c2d49ee1220040c8be090c1" title="Particle mass." alt="" coords="563,125,714,169"/>
+<area shape="rect" id="node7" href="$db/dfd/classActsFatras_1_1Particle.html#a1086c72f8e0b531866be9e7046e61cfb" title="Three&#45;position, i.e. spatial coordinates without the time." alt="" coords="563,193,714,237"/>
+<area shape="rect" id="node8" href="$db/dfd/classActsFatras_1_1Particle.html#a6fa44e26dadc6e8425b6b67b6c2c1c13" title="Energy&#45;momentum four&#45;vector." alt="" coords="563,261,714,305"/>
+<area shape="rect" id="node9" href="$db/dfd/classActsFatras_1_1Particle.html#aac32c3f5cf0a4fb9c031f25bf043ba09" title="Total energy, i.e. norm of the four&#45;momentum." alt="" coords="795,261,945,305"/>
+<area shape="rect" id="node11" href="$d9/d47/classActsFatras_1_1Hit.html#ac25a5799bf8ab2274e08a79dabf13080" title="Space&#45;time position four&#45;vector." alt="" coords="535,329,743,357"/>
+<area shape="rect" id="node12" href="$d9/d47/classActsFatras_1_1Hit.html#a7bec20d0b37094a3b7ac26b463a31b50" title="Particle four&#45;momentum before the hit." alt="" coords="531,381,747,425"/>
+<area shape="rect" id="node13" href="$d9/d47/classActsFatras_1_1Hit.html#a6ea7d56aaccf98efba37d17d0fb9930f" title="Particle four&#45;momentum after the hit." alt="" coords="531,449,747,493"/>
+<area shape="rect" id="node14" href="$d9/d47/classActsFatras_1_1Hit.html#a3e2b2b1ed5f32b2ae199949fbebff5c8" title="Particle identifier of the particle that generated the hit." alt="" coords="543,517,735,545"/>
+<area shape="rect" id="node15" href="$d9/d47/classActsFatras_1_1Hit.html#a3139d3a5bbd8233d8105d6e51818cd29" title="Geometry identifier of the hit surface." alt="" coords="535,569,742,597"/>
+</map>

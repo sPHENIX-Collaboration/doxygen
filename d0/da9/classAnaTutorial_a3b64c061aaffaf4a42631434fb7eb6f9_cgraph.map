@@ -1,0 +1,51 @@
+<map id="AnaTutorial::process_event" name="AnaTutorial::process_event">
+<area shape="rect" id="node2" href="$d0/da9/classAnaTutorial.html#a04c6cb82e3dc8b29662a1bc82fc2ce91" title="AnaTutorial::getEMCalClusters" alt="" coords="226,328,453,356"/>
+<area shape="rect" id="node14" href="$d0/da9/classAnaTutorial.html#aecb38decbfa9a905f326b60e67f76ae6" title="AnaTutorial::getHEPMCTruth" alt="" coords="233,761,445,789"/>
+<area shape="rect" id="node18" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="537,813,713,841"/>
+<area shape="rect" id="node19" href="$d0/da9/classAnaTutorial.html#a02242b2bc3e84ba81f6c6c35527dfdb2" title="AnaTutorial::getPHG4Truth" alt="" coords="239,1745,440,1773"/>
+<area shape="rect" id="node26" href="$d0/da9/classAnaTutorial.html#a9068984e2eafee47f54de4c802d23168" title="AnaTutorial::getReconstructedJets" alt="" coords="213,1193,465,1221"/>
+<area shape="rect" id="node41" href="$d0/da9/classAnaTutorial.html#a54c32a62e705c4464d9652e91c7d46fa" title="Methods for grabbing the data." alt="" coords="253,1953,425,1981"/>
+<area shape="rect" id="node50" href="$d0/da9/classAnaTutorial.html#af69547260745ac326654881490df1cb0" title="AnaTutorial::getTruthJets" alt="" coords="245,1141,433,1169"/>
+<area shape="rect" id="node3" href="$d5/dc4/classGlobalVertexMap.html#a36c346881da7997e34fa203c523a7925" title="GlobalVertexMap::begin" alt="" coords="534,485,717,513"/>
+<area shape="rect" id="node4" href="$d5/dc4/classGlobalVertexMap.html#a80c3c9063cfd435589959fae05d80660" title="GlobalVertexMap::empty" alt="" coords="531,537,720,565"/>
+<area shape="rect" id="node5" href="$d5/dc4/classGlobalVertexMap.html#a3cbdedef449e96bbbe387dbed749cf31" title="GlobalVertexMap::end" alt="" coords="540,589,711,617"/>
+<area shape="rect" id="node6" href="$d1/d39/classGlobalVertex.html#a5e5238fb1a568bea1ab7d826fc232058" title="GlobalVertex::end_vtxids" alt="" coords="530,5,721,33"/>
+<area shape="rect" id="node7" href="$d1/d39/classGlobalVertex.html#aa707eb4913167efbcabcc4e2a17d892d" title="GlobalVertex::find\l_vtxids" alt="" coords="554,57,697,101"/>
+<area shape="rect" id="node8" href="$d4/dfa/classCaloTriggerInfo.html#af1a5c369f28d5eb2d36d3378543ab15e" title="CaloTriggerInfo::get\l_best_EMCal_4x4_E" alt="" coords="548,125,703,169"/>
+<area shape="rect" id="node9" href="$d1/d39/classGlobalVertex.html#a97493c07f81f703dd545fe3409be10a4" title="GlobalVertex::get_x" alt="" coords="548,193,703,221"/>
+<area shape="rect" id="node10" href="$d1/d39/classGlobalVertex.html#a13edb1c021409c4a7c53bd29e6ff05e5" title="GlobalVertex::get_y" alt="" coords="548,245,703,273"/>
+<area shape="rect" id="node11" href="$d1/d39/classGlobalVertex.html#a46b4a0bd3afc9c251899dce7c4a0f001" title="GlobalVertex::get_z" alt="" coords="549,297,702,325"/>
+<area shape="rect" id="node12" href="$d6/d12/classRawClusterContainer.html#ace1a68bfa284b6851520189b36f81ca6" title="return all clusters" alt="" coords="543,349,707,393"/>
+<area shape="rect" id="node13" href="$d0/d0e/classRawClusterUtility.html#a27157c0f1f777419cf427e72593c1e21" title="Get energy vector of cluster based on E_core." alt="" coords="553,417,697,461"/>
+<area shape="rect" id="node15" href="$d5/d41/classPHHepMCGenEventMap.html#a4d8fb4d75f0ceefd149e5caf412cb6c7" title="iterator from lowest ID to highest, i.e. background to signal" alt="" coords="534,641,717,685"/>
+<area shape="rect" id="node16" href="$d5/d41/classPHHepMCGenEventMap.html#a208ae12476d3349858e3c56e6ee6fc26" title="PHHepMCGenEventMap::end" alt="" coords="517,709,733,737"/>
+<area shape="rect" id="node17" href="$d7/d7b/classPHHepMCGenEvent.html#a086a77104ec225e191885f9db7538521" title="PHHepMCGenEvent::getEvent" alt="" coords="513,761,737,789"/>
+<area shape="rect" id="node20" href="$de/dc9/classPHG4Particle.html#ac4a56068140437bf45a67dae571cae48" title="PHG4Particle::get_e" alt="" coords="548,1693,703,1721"/>
+<area shape="rect" id="node21" href="$de/dc9/classPHG4Particle.html#a474033dbd058eea155c71fc4d17aaf4d" title="PHG4Particle::get_pid" alt="" coords="542,1745,709,1773"/>
+<area shape="rect" id="node22" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="544,1797,707,1825"/>
+<area shape="rect" id="node23" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="544,1849,707,1877"/>
+<area shape="rect" id="node24" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="544,1901,707,1929"/>
+<area shape="rect" id="node25" href="$da/d6c/classPHG4TruthInfoContainer.html#a2817b4438bb80cacb28f457975342cf2" title="PHG4TruthInfoContainer\l::GetPrimaryParticleRange" alt="" coords="526,1625,725,1669"/>
+<area shape="rect" id="node27" href="$d7/d97/classJetMap.html#a822b861e7cc9ae458a7e5edf7dcdf970" title="JetMap::begin" alt="" coords="568,1037,683,1065"/>
+<area shape="rect" id="node28" href="$d7/d97/classJetMap.html#a84dec46acee0e4d46509494cc387e25b" title="JetMap::end" alt="" coords="574,1089,677,1117"/>
+<area shape="rect" id="node29" href="$d7/da6/classJet.html#a85015347b5a5742dcf218e258f0460ae" title="Jet::get_e" alt="" coords="583,1141,668,1169"/>
+<area shape="rect" id="node30" href="$d7/da6/classJet.html#aa7219b7e6fafba21362c4591f4ed8f06" title="Jet::get_eta" alt="" coords="576,1193,675,1221"/>
+<area shape="rect" id="node31" href="$d7/da6/classJet.html#a3909f0f65817d152de5c46e216154a29" title="Jet::get_id" alt="" coords="581,1245,670,1273"/>
+<area shape="rect" id="node32" href="$d7/da6/classJet.html#a1da0c61a547e5d93332dc5e15cb64bee" title="Jet::get_p" alt="" coords="582,1297,669,1325"/>
+<area shape="rect" id="node33" href="$d7/da6/classJet.html#aaf7b661627240eff2b2b5bc596b8736e" title="Jet::get_phi" alt="" coords="576,1349,675,1377"/>
+<area shape="rect" id="node34" href="$d7/da6/classJet.html#ab0298c30da3364739d73c36a28e76dfb" title="Jet::get_pt" alt="" coords="579,1401,671,1429"/>
+<area shape="rect" id="node35" href="$d7/da6/classJet.html#a5bf014c85e80f6f2ea41f93ef52db0c6" title="Jet::get_px" alt="" coords="578,1453,673,1481"/>
+<area shape="rect" id="node36" href="$d7/da6/classJet.html#aa5b2ac25a412072360e100e1445ee49a" title="Jet::get_py" alt="" coords="578,865,673,893"/>
+<area shape="rect" id="node37" href="$d7/da6/classJet.html#a4009a0f20c0b95dc1ba3d9f00988fcdd" title="Jet::get_pz" alt="" coords="579,917,672,945"/>
+<area shape="rect" id="node38" href="$dd/df3/classJetEvalStack.html#af2b69e41293b355f3e93216e439416ea" title="JetEvalStack::get_reco_eval" alt="" coords="521,1573,729,1601"/>
+<area shape="rect" id="node39" href="$dd/d75/classJetRecoEval.html#af4bff244a32d216f097c7fab76c9b95a" title="which truth jet contributed the most energy to this reconstructed jet?" alt="" coords="536,1505,715,1549"/>
+<area shape="rect" id="node40" href="$dd/df3/classJetEvalStack.html#ab85ba05ab4fea5909c8faa238ba5f8e6" title="JetEvalStack::next\l_event" alt="" coords="553,969,698,1013"/>
+<area shape="rect" id="node42" href="$d2/db8/classSvtxTrack.html#ab6a08270648338e6acee123ddbeea833" title="SvtxTrack::get_charge" alt="" coords="540,2005,711,2033"/>
+<area shape="rect" id="node43" href="$d2/db8/classSvtxTrack.html#ab0dfef96ff528427922596ca5b2fb3c7" title="SvtxTrack::get_chisq" alt="" coords="546,2057,705,2085"/>
+<area shape="rect" id="node44" href="$d2/db8/classSvtxTrack.html#aaa8c7ee52139738e741d371fb4975ddd" title="SvtxTrack::get_dca" alt="" coords="551,2109,699,2137"/>
+<area shape="rect" id="node45" href="$d2/db8/classSvtxTrack.html#a991a05caa213e0922d00c76568dade57" title="SvtxTrack::get_eta" alt="" coords="553,2161,698,2189"/>
+<area shape="rect" id="node46" href="$d2/db8/classSvtxTrack.html#a65bd7f7464194995552b517c05183067" title="SvtxTrack::get_ndf" alt="" coords="552,2213,699,2241"/>
+<area shape="rect" id="node47" href="$d2/db8/classSvtxTrack.html#a8ffb0c9b9181cc2dedd6e21f4b462129" title="SvtxTrack::get_phi" alt="" coords="553,2265,698,2293"/>
+<area shape="rect" id="node48" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="555,2317,696,2345"/>
+<area shape="rect" id="node49" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="555,1953,696,1981"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="pedestal" name="pedestal">
+<area shape="rect" id="node2" href="$d4/dc9/classCaloTemplateFit.html#abb68b744dd937c2e77a7293fa6710d7a" title="CaloTemplateFit::calo\l_processing_perchnl" alt="" coords="187,5,352,49"/>
+<area shape="rect" id="node4" href="$d4/dc9/classCaloTemplateFit.html#a9aa5fa379f213a761e4b274199761060" title="CaloTemplateFit::calo\l_processing_singlethread" alt="" coords="173,73,366,117"/>
+<area shape="rect" id="node5" href="$d7/d58/classCaloWaveformFitting.html#a184bfa3902fc23168ce6be2de79a0d72" title="CaloWaveformFitting\l::calo_processing_templatefit" alt="" coords="159,141,379,185"/>
+<area shape="rect" id="node8" href="$d2/d7c/classMicromegasRawDataCalibration.html#aeddb37f882e153c33b7d3e6b90524bb7" title="end of processing" alt="" coords="457,255,727,283"/>
+<area shape="rect" id="node9" href="$d3/d17/classhcal.html#ae841ab3f63268e61cf90e80f6ae82940" title="hcal::fitShape" alt="" coords="212,329,327,357"/>
+<area shape="rect" id="node10" href="$db/de6/classHcalMon.html#a61705e91b54bcf562ef9534ab3f40489" title="HcalMon::process_event" alt="" coords="176,381,363,409"/>
+<area shape="rect" id="node11" href="$dc/db6/classTemplateCreation.html#a3d0b91b86b477c18eb8fb6facd742431" title="TemplateCreation::process\l_event" alt="" coords="168,433,371,477"/>
+<area shape="rect" id="node12" href="$dc/db9/classTpotMon.html#abf90bd697ed89989ecd6b6303a3037eb" title="TpotMon::process_event" alt="" coords="175,501,363,529"/>
+<area shape="rect" id="node13" href="$de/d37/classTpcMon.html#a97cb2a265cfbd98b3db6176a1e99d035" title="TpcMon::process_event" alt="" coords="178,553,361,581"/>
+<area shape="rect" id="node14" href="$d1/dbc/classMicromegasClusterizer.html#ac19bbb046a5690d0612157dae3cebda4" title="event processing" alt="" coords="181,605,357,649"/>
+<area shape="rect" id="node15" href="$d8/d18/classMicromegasRawDataDecoder.html#a5f3f52ec9828e6457b5c13047ccc5c7e" title="event processing" alt="" coords="159,673,379,717"/>
+<area shape="rect" id="node16" href="$d4/d6a/classMicromegasCombinedDataDecoder.html#aa05e5cbee2a1e33f005515927de080f8" title="event processing" alt="" coords="139,741,400,785"/>
+<area shape="rect" id="node17" href="$da/d18/classMicromegasCombinedDataEvaluation.html#a8e3333b031d37632a44dd7f1ea1e569e" title="event processing" alt="" coords="132,809,407,853"/>
+<area shape="rect" id="node18" href="$da/d53/classMicromegasRawDataEvaluation.html#a9f45cee5f08386bbb2cb7da9d639a7fb" title="event processing" alt="" coords="152,877,387,921"/>
+<area shape="rect" id="node19" href="$d1/ddb/classTpcRawDataDecoder.html#a6e9b91527ebce847f5c2e1b668fab9cd" title="TpcRawDataDecoder::\lprocess_event" alt="" coords="183,945,355,989"/>
+<area shape="rect" id="node20" href="$d8/dcc/classMicromegasCalibrationData.html#ae232d25678922bec170f3180526aa6be" title="read calibration from file" alt="" coords="165,1013,373,1057"/>
+<area shape="rect" id="node27" href="$d5/dee/classTPCFEETestRecov1.html#a91d7202c7e408b1e1c171280460da61b" title="TPCFEETestRecov1::roughZero\lSuppression" alt="" coords="155,1081,383,1125"/>
+<area shape="rect" id="node28" href="$dd/d60/classTpcPrototypeUnpacker.html#a96e07782593b9a871872e0ce47646ff2" title="TpcPrototypeUnpacker\l::roughZeroSuppression" alt="" coords="178,1149,361,1193"/>
+<area shape="rect" id="node29" href="$d4/def/namespacePROTOTYPE4__FEM.html#a42a001c7088e3829d7b9cf947b1eb9e7" title="Just return the max sample..." alt="" coords="159,1217,380,1261"/>
+<area shape="rect" id="node30" href="$d4/def/namespacePROTOTYPE4__FEM.html#a326b922b6e178b23a0802e77932602ba" title="Power law double exp fit." alt="" coords="481,1389,703,1433"/>
+<area shape="rect" id="node31" href="$da/dda/namespaceTpcPrototypeDefs_1_1FEEv2.html#af0ba9165d6cb4aad7432af33788ef084" title="Power law double exp fit." alt="" coords="470,1457,714,1501"/>
+<area shape="rect" id="node32" href="$d8/dde/namespaceTPCDaqDefs_1_1FEEv1.html#a42bf9a7bb6181e2df0b95778841815a3" title="Power law double exp fit." alt="" coords="475,1525,709,1569"/>
+<area shape="rect" id="node33" href="$d9/db3/namespacePROTOTYPE2__FEM.html#ab30e022f6c700747e2f8e42be0443524" title="Abhisek&#39;s power&#45;law + exp fit." alt="" coords="481,1593,703,1637"/>
+<area shape="rect" id="node34" href="$d3/d75/namespacePROTOTYPE3__FEM.html#a783fc0ae340a67d4d9e0c32e6f8fcc7f" title="Abhisek&#39;s power&#45;law + exp fit." alt="" coords="481,1661,703,1705"/>
+<area shape="rect" id="node35" href="$d4/def/namespacePROTOTYPE4__FEM.html#aa6ebbde278c2d8123773d8e92986dc29" title="Abhisek&#39;s power&#45;law + exp fit." alt="" coords="481,1729,703,1773"/>
+<area shape="rect" id="node36" href="$da/d55/classTowerInfov2.html#a6f6cf58e15d58ba4c889bad0d6da6628" title="TowerInfov2::set_pedestal" alt="" coords="171,1865,368,1893"/>
+<area shape="rect" id="node37" href="$d3/d17/classhcal.html#ace9f45ddbe7cae23e11457ba6d4b691f" title="hcal::SignalShape" alt="" coords="198,1917,341,1945"/>
+<area shape="rect" id="node38" href="$d1/ded/hcalUtil_8h.html#a33f331fb5be17a06936e29f910014973" title="signalShape" alt="" coords="217,1969,321,1997"/>
+<area shape="rect" id="node39" href="$d4/def/namespacePROTOTYPE4__FEM.html#ae65737748da7972bbcb34ae7688c89ae" title="PROTOTYPE4_FEM::SignalShape\l_PowerLawDoubleExp" alt="" coords="151,1337,388,1381"/>
+<area shape="rect" id="node40" href="$da/dda/namespaceTpcPrototypeDefs_1_1FEEv2.html#a5ce61c4b2ca6229f0eacd2c766a9f8ff" title="TpcPrototypeDefs::FEEv2\l::SignalShape_PowerLawDoubleExp" alt="" coords="138,1405,401,1449"/>
+<area shape="rect" id="node41" href="$d8/dde/namespaceTPCDaqDefs_1_1FEEv1.html#abd2061ecda45294b4af7a576942bdec5" title="TPCDaqDefs::FEEv1::\lSignalShape_PowerLawDoubleExp" alt="" coords="143,2021,396,2065"/>
+<area shape="rect" id="node42" href="$d9/db3/namespacePROTOTYPE2__FEM.html#a694ddc98e18edb9b5e75b7909328a585" title="PROTOTYPE2_FEM::SignalShape\l_PowerLawExp" alt="" coords="151,2089,388,2133"/>
+<area shape="rect" id="node43" href="$d3/d75/namespacePROTOTYPE3__FEM.html#a9164c03d8db0490dbf7a64e228ec13a9" title="PROTOTYPE3_FEM::SignalShape\l_PowerLawExp" alt="" coords="151,2157,388,2201"/>
+<area shape="rect" id="node44" href="$d4/def/namespacePROTOTYPE4__FEM.html#a0ee2e9e248f6628ea4696ce89fee609d" title="PROTOTYPE4_FEM::SignalShape\l_PowerLawExp" alt="" coords="151,1576,388,1620"/>
+<area shape="rect" id="node45" href="$da/dda/namespaceTpcPrototypeDefs_1_1FEEv2.html#a1a484f9ff3a36c1183a3fdf4c541b45f" title="TpcPrototypeDefs::FEEv2\l::SignalShape_PowerLawExp" alt="" coords="162,1644,377,1688"/>
+<area shape="rect" id="node46" href="$d8/dde/namespaceTPCDaqDefs_1_1FEEv1.html#a47c72b7f30d93c45803dab7b7a2adb53" title="TPCDaqDefs::FEEv1::\lSignalShape_PowerLawExp" alt="" coords="167,2225,372,2269"/>
+<area shape="rect" id="node47" href="$d3/d17/classhcal.html#acabdf165843583128cb5d6786068c050" title="hcal::SignalShapeNegative" alt="" coords="168,2293,371,2321"/>
+<area shape="rect" id="node48" href="$d0/db9/classRawTowerDigitizer.html#aeb73760406e61ae728bd2a932b4e4b61" title="RawTowerDigitizer::\lsimple_photon_digitization" alt="" coords="168,2345,371,2389"/>
+<area shape="rect" id="node49" href="$df/d6c/TPC__Channel__QA_8C.html#af2c7dafa9ae16cf5a56b3f76d249bab1" title="TPC_Channel_QA_Backup" alt="" coords="173,2413,366,2441"/>
+<area shape="rect" id="node50" href="$d8/dcc/classMicromegasCalibrationData.html#aff1e8ec02ac0084c449bf8ad4238f66e" title="write calibration to file" alt="" coords="165,261,373,305"/>
+<area shape="rect" id="node3" href="$d4/dc9/classCaloTemplateFit.html#abc494bbd49561dac7ad8416af04c3abc" title="CaloTemplateFit::process\l_event" alt="" coords="497,5,687,49"/>
+<area shape="rect" id="node6" href="$d7/d58/classCaloWaveformFitting.html#a79f158bd2f28038d5e6e3b57383df8e0" title="CaloWaveformFitting\l::process_waveform" alt="" coords="511,103,673,147"/>
+<area shape="rect" id="node7" href="$dd/de5/classCaloWaveformProcessing.html#a925b32d054349941bc7bf2d92624f0c5" title="CaloWaveformProcessing\l::process_waveform" alt="" coords="497,171,687,215"/>
+<area shape="rect" id="node21" href="$d1/dbc/classMicromegasClusterizer.html#a7976fd9d9dee7dd070c299e9a5781163" title="global initialization" alt="" coords="504,844,680,888"/>
+<area shape="rect" id="node22" href="$d4/d6a/classMicromegasCombinedDataDecoder.html#aa4f40fcddc7a9f6b8ee98097e5e2abc8" title="global initialization" alt="" coords="461,912,723,956"/>
+<area shape="rect" id="node23" href="$da/d18/classMicromegasCombinedDataEvaluation.html#ab4de77d610297b4288404c3bd2c3f775" title="global initialization" alt="" coords="455,980,729,1024"/>
+<area shape="rect" id="node24" href="$d8/d18/classMicromegasRawDataDecoder.html#aa4b28122967de81f9c189fa2f520f264" title="global initialization" alt="" coords="482,1048,702,1092"/>
+<area shape="rect" id="node25" href="$da/d53/classMicromegasRawDataEvaluation.html#a0104745f1aedf534f628f7e31f0045ff" title="global initialization" alt="" coords="475,1116,709,1160"/>
+<area shape="rect" id="node26" href="$dc/db9/classTpotMon.html#a1b300fd55ba54d413384f400ca3118b0" title="TpotMon::Init" alt="" coords="535,1184,649,1212"/>
+</map>

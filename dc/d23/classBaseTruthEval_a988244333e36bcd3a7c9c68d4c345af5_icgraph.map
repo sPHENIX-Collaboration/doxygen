@@ -1,0 +1,51 @@
+<map id="BaseTruthEval::has_reduced_node_pointers" name="BaseTruthEval::has_reduced_node_pointers">
+<area shape="rect" id="node2" href="$dc/d23/classBaseTruthEval.html#a443a09b6f15a320ff923ef5d930f44c4" title="which secondary showers are inside this shower?" alt="" coords="259,23,421,67"/>
+<area shape="rect" id="node3" href="$dc/d23/classBaseTruthEval.html#ac62b58b54f3e184b28ab9d44ea4292f7" title="do these two particle pointers resolve to the same particle?" alt="" coords="266,91,414,135"/>
+<area shape="rect" id="node6" href="$dc/d23/classBaseTruthEval.html#adaeb22c1c26b4729c1185c13156bc22a" title="do these two shower pointers resolve to the same shower?" alt="" coords="266,176,414,220"/>
+<area shape="rect" id="node8" href="$dc/d23/classBaseTruthEval.html#a431bd69deaddb2d0de37aecf771518a5" title="do these two vertex pointers resolve to the same vertex?" alt="" coords="266,277,414,321"/>
+<area shape="rect" id="node11" href="$dc/d23/classBaseTruthEval.html#a4283b2f124d147df8499373f59372773" title="what was the embed flag set for this particle?" alt="" coords="754,500,903,544"/>
+<area shape="rect" id="node25" href="$dc/d23/classBaseTruthEval.html#ac3045216b60b1b54d9fdd81e3a07b938" title="which particle left this truth hit?" alt="" coords="754,388,903,432"/>
+<area shape="rect" id="node29" href="$dc/d23/classBaseTruthEval.html#a7def33b4d1e4fe19922faa02ea287a5c" title="what was the primary particle that is associated with this particle?" alt="" coords="511,704,660,748"/>
+<area shape="rect" id="node35" href="$dc/d23/classBaseTruthEval.html#a33511b72aa6663af766391a6da4f7663" title="what was the primary shower for this possibly secondary shower?" alt="" coords="511,927,660,971"/>
+<area shape="rect" id="node37" href="$dc/d23/classBaseTruthEval.html#ad3f606dcf24aeca41b79f5d64f68dc0e" title="what was the vertex creation point of the particle?" alt="" coords="754,252,903,296"/>
+<area shape="rect" id="node40" href="$dc/d23/classBaseTruthEval.html#a722677b3dde86c733aa0f7a9a0fb2749" title="BaseTruthEval::has\l_full_node_pointers" alt="" coords="263,448,417,492"/>
+<area shape="rect" id="node42" href="$d7/d3c/classCaloTruthEval.html#a76f4b5a05af04a6b6a8515f9309d680f" title="has the eval initialized correctly for reduced sim DST nodes?" alt="" coords="735,1012,923,1056"/>
+<area shape="rect" id="node43" href="$dc/d23/classBaseTruthEval.html#ac0e4471cf9a8a877339f46ba903d0c14" title="was this truth hit left by this particle?" alt="" coords="250,516,430,560"/>
+<area shape="rect" id="node46" href="$dc/d23/classBaseTruthEval.html#a8b3bfeea64a5eee4a3bb2c3fcc380b7e" title="is this truth hit inside this shower?" alt="" coords="250,876,430,920"/>
+<area shape="rect" id="node47" href="$dc/d23/classBaseTruthEval.html#a98bebdc989a84ce46fff6fa958476041" title="is this a primary shower?" alt="" coords="241,772,439,800"/>
+<area shape="rect" id="node4" href="$d4/de4/classSvtxTruthEval.html#a45a358bb04e9d3e415b62047c653ff36" title="SvtxTruthEval::are\l_same_particle" alt="" coords="513,5,658,49"/>
+<area shape="rect" id="node5" href="$d7/d3c/classCaloTruthEval.html#ada3679e31869d7888b3578dbfd37183e" title="are these two pointers in fact the same particle?" alt="" coords="513,73,658,117"/>
+<area shape="rect" id="node7" href="$d7/d3c/classCaloTruthEval.html#a772d0ce50c1e06e4b4e021072a2eddb3" title="are these two pointers in fact the same shower?" alt="" coords="513,141,658,185"/>
+<area shape="rect" id="node9" href="$d4/de4/classSvtxTruthEval.html#a563ba6e1e3a600c83f360d84158dedc5" title="SvtxTruthEval::are\l_same_vertex" alt="" coords="513,209,658,253"/>
+<area shape="rect" id="node10" href="$d7/d3c/classCaloTruthEval.html#a787367b52bf7395d9f5ab7bb0fc3004b" title="are these two pointers in fact the same vertex?" alt="" coords="513,277,658,321"/>
+<area shape="rect" id="node12" href="$d4/de4/classSvtxTruthEval.html#acba57da6300f3a718d9547ec1c96bb73" title="SvtxTruthEval::get\l_embed" alt="" coords="997,592,1143,636"/>
+<area shape="rect" id="node24" href="$d7/d3c/classCaloTruthEval.html#acc021440691d410ba3b017ce742be69b" title="what was the embed flag passed with this particle?" alt="" coords="997,524,1143,568"/>
+<area shape="rect" id="node13" href="$db/d4b/classEMCalAna.html#a058c1f2ec1ef8b8f7786737eb6e3151b" title="EMCalAna::eval_trk" alt="" coords="1257,291,1409,319"/>
+<area shape="rect" id="node14" href="$de/da4/classEMCalCalib.html#ac80fa52a42070fa6210a5c69f9c10fed" title="project a photon to calorimeters and collect towers around it" alt="" coords="1239,239,1427,267"/>
+<area shape="rect" id="node15" href="$d8/d98/classpsTOFTimezeroEval.html#ae9fd1570652089bed4ec7eb81009b318" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1251,343,1414,387"/>
+<area shape="rect" id="node16" href="$d9/d59/classSimpleTrackingAnalysis.html#a60dd2938667eebaafcb17118a6bdb8f3" title="SimpleTrackingAnalysis\l::process_event" alt="" coords="1243,547,1423,591"/>
+<area shape="rect" id="node17" href="$d7/ded/classSTACalorimeterCharacterization.html#aebaae010ab7828d310691192de7d16fe" title="STACalorimeterCharacterization\l::process_event" alt="" coords="1215,751,1451,795"/>
+<area shape="rect" id="node18" href="$d0/da1/classSvtxSimPerformanceCheckReco.html#a1d70a654fae75f20cf3566e08119d80e" title="SvtxSimPerformanceCheckReco\l::process_event" alt="" coords="1215,479,1451,523"/>
+<area shape="rect" id="node19" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a0fd261422264aedc22d0506ef5e897c4" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1245,411,1420,455"/>
+<area shape="rect" id="node20" href="$d9/d03/classTrackClusterEvaluator.html#a9ca3bdf0977a57e152003b989bd2e1ae" title="TrackClusterEvaluator\l::processTruthTracks" alt="" coords="1247,683,1418,727"/>
+<area shape="rect" id="node21" href="$d9/d03/classTrackClusterEvaluator.html#a66cad1df2e8397a40eefe607cc3a792b" title="TrackClusterEvaluator\l::processRecoTracks" alt="" coords="1247,615,1418,659"/>
+<area shape="rect" id="node22" href="$d5/df8/classQAG4SimulationMicromegas.html#a7d91700abab98412e6b427f4098895ca" title="evaluate clusters" alt="" coords="1225,819,1440,863"/>
+<area shape="rect" id="node23" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="1250,887,1415,931"/>
+<area shape="rect" id="node26" href="$d7/d3c/classCaloTruthEval.html#a779273ce684af1f8e041f05f7e180e2c" title="what particle created this truth hit?" alt="" coords="997,320,1143,364"/>
+<area shape="rect" id="node27" href="$d4/de4/classSvtxTruthEval.html#ae575fcf72ce935a72f3c5a157abdd900" title="SvtxTruthEval::get\l_particle" alt="" coords="997,456,1143,500"/>
+<area shape="rect" id="node28" href="$dc/d23/classBaseTruthEval.html#ab61d7f1ac372d54076f59f6fcebd3585" title="which primary particle resulted in this truth hit?" alt="" coords="995,388,1145,432"/>
+<area shape="rect" id="node30" href="$d4/de4/classSvtxTruthEval.html#a6c3c1df82c4d5b954d71cb9288071171" title="SvtxTruthEval::get\l_primary_particle" alt="" coords="755,636,902,680"/>
+<area shape="rect" id="node31" href="$dc/d23/classBaseTruthEval.html#adc3cb5b39ad856e0b0cb19a09a04e0df" title="what was the primary particle that is associated with this shower?" alt="" coords="754,704,903,748"/>
+<area shape="rect" id="node32" href="$d7/d3c/classCaloTruthEval.html#a8cf23ffd62bf8e3fe09775bf807b64bc" title="what was the primary particle associated with the shower object?" alt="" coords="755,824,902,868"/>
+<area shape="rect" id="node34" href="$dc/d23/classBaseTruthEval.html#a1fbb3b7ea61e2d734fb56448565d5518" title="what was the primary shower that is associated with this particle?" alt="" coords="754,568,903,612"/>
+<area shape="rect" id="node33" href="$d7/d3c/classCaloTruthEval.html#a282bab9b4231f9160e7c2b012186558e" title="how much energy did this primary and its shower deposit in the calo volume?" alt="" coords="975,913,1165,957"/>
+<area shape="rect" id="node36" href="$d7/d3c/classCaloTruthEval.html#a4d2ab62ada677f474c71eaf2222bb3e8" title="what was the primary shower associated with the shower object?" alt="" coords="755,944,902,988"/>
+<area shape="rect" id="node38" href="$d4/de4/classSvtxTruthEval.html#afd61a22f7958141564f39aae028580dc" title="SvtxTruthEval::get\l_vertex" alt="" coords="997,252,1143,296"/>
+<area shape="rect" id="node39" href="$d7/d3c/classCaloTruthEval.html#a59dcdec9abaa7c6e8805732fa9596ce5" title="what was particle&#39;s creation point?" alt="" coords="997,184,1143,228"/>
+<area shape="rect" id="node41" href="$d7/d3c/classCaloTruthEval.html#a0800a3435e313f45f7d54a05c7263baf" title="has the eval initialized correctly for full sim DST nodes?" alt="" coords="509,448,662,492"/>
+<area shape="rect" id="node44" href="$d7/d3c/classCaloTruthEval.html#a0584fb1d676003959830fffd2ede651e" title="did this particle create this truth hit?" alt="" coords="497,516,673,560"/>
+<area shape="rect" id="node45" href="$d4/de4/classSvtxTruthEval.html#ae02589debf7ffa219d6b8aff732d5f2f" title="SvtxTruthEval::is_g4hit\l_from_particle" alt="" coords="497,584,673,628"/>
+<area shape="rect" id="node48" href="$dc/d23/classBaseTruthEval.html#a6f415bfe15e689b3fbb6426fd80f9e2b" title="is this a primary particle?" alt="" coords="487,875,684,903"/>
+<area shape="rect" id="node49" href="$d7/d3c/classCaloTruthEval.html#af490b912237dbd18f10b41c2396f3e61" title="is this a primary shower?" alt="" coords="732,892,925,920"/>
+<area shape="rect" id="node50" href="$d4/de4/classSvtxTruthEval.html#af3301c0ffc7ae211a2a964e5efba970f" title="SvtxTruthEval::is_primary" alt="" coords="973,691,1167,719"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="RawTowerGeomContainer::get_phicenter" name="RawTowerGeomContainer::get_phicenter">
+<area shape="rect" id="node2" href="$d3/d07/classPHG4OHCalDetector.html#a1b73a2b42250fd6eb7a6fdbd4fdf8ea7" title="PHG4OHCalDetector::\lAddGeometryNode" alt="" coords="305,5,472,49"/>
+<area shape="rect" id="node4" href="$db/d76/classPHG4IHCalDetector.html#aac5ebf109c536d2db04385846d65a881" title="PHG4IHCalDetector::\lAddGeometryNode" alt="" coords="309,73,469,117"/>
+<area shape="rect" id="node6" href="$df/d74/classPHG4OuterHcalDetector.html#a52b9577fb8bb467e25e4cd0538db5466" title="PHG4OuterHcalDetector\l::AddGeometryNode" alt="" coords="296,141,481,185"/>
+<area shape="rect" id="node8" href="$d5/d80/classPHG4InnerHcalDetector.html#a9308f1728ca9cca9a544fa813d9c15de" title="PHG4InnerHcalDetector\l::AddGeometryNode" alt="" coords="297,209,480,253"/>
+<area shape="rect" id="node10" href="$d0/da4/classPHG4SpacalDetector.html#a6adf2ae56b8cfea0ee63c01ec7d5dd2f" title="PHG4SpacalDetector\l::AddTowerGeometryNode" alt="" coords="290,277,487,321"/>
+<area shape="rect" id="node12" href="$dd/dfc/classcemcReco.html#a0f44f04621cc2f52b120ed85445200c2" title="cemcReco::calculateTSP" alt="" coords="296,345,481,373"/>
+<area shape="rect" id="node14" href="$d2/d39/classCaloGeomMapping.html#a799637d7b2bdd4ccb69486c20d9d1908" title="Clean up internals after each event." alt="" coords="249,397,528,425"/>
+<area shape="rect" id="node16" href="$d7/d10/classRawTowerBuilder.html#a01f91227474fd72e2e630a577973b67b" title="RawTowerBuilder::CreateNodes" alt="" coords="273,449,505,477"/>
+<area shape="rect" id="node18" href="$df/d0d/classRawTowerCombiner.html#a9dbc0b9dfed20dcd3a9a5f6dcf53636d" title="RawTowerCombiner::Create\lNodes" alt="" coords="285,501,492,545"/>
+<area shape="rect" id="node20" href="$de/da4/classEMCalCalib.html#a391db11d0f991de20f00c9a485602016" title="EMCalCalib::eval_photon_proj" alt="" coords="278,569,499,597"/>
+<area shape="rect" id="node24" href="$db/d4b/classEMCalAna.html#a1158ea15e948f053751b7d169c3cef4d" title="EMCalAna::eval_trk_proj" alt="" coords="297,621,481,649"/>
+<area shape="rect" id="node29" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a2d446f5f510ab16326c0b748163849e1" title="fetch tower around track and histogram energy distributions" alt="" coords="283,673,495,717"/>
+<area shape="rect" id="node32" href="$d1/dec/classHcalRawTowerBuilder.html#a994bccbb0d39fa5e9d29d3b9c2ed42de" title="HcalRawTowerBuilder\l::InitRun" alt="" coords="305,741,472,785"/>
+<area shape="rect" id="node33" href="$d8/d5d/classRawClusterBuilderTemplate.html#aad683d1abee8726e4fdf4ab11bb889f0" title="RawClusterBuilderTemplate\l::PrintCylGeom" alt="" coords="285,809,492,853"/>
+<area shape="rect" id="node34" href="$dc/d1a/classRecoInfoExport.html#a24f2497e65b413dd1452dc6e7cb8316e" title="RecoInfoExport::process\l_event" alt="" coords="296,877,481,921"/>
+<area shape="rect" id="node35" href="$dc/d81/classG4TowerNtuple.html#a057879b332a3155cdca74d178f5e8f16" title="event processing method" alt="" coords="296,945,481,989"/>
+<area shape="rect" id="node36" href="$df/d1c/classTowerTiming.html#a9e932811ed85fe9b4da1300a8e7cd157" title="event processing method" alt="" coords="304,1013,473,1057"/>
+<area shape="rect" id="node37" href="$d9/d8f/classCaloTriggerSim.html#a11ddf4c1a6c8b80e55a6820ad9781d52" title="CaloTriggerSim::process\l_event" alt="" coords="297,1081,481,1125"/>
+<area shape="rect" id="node38" href="$d6/d02/classDetermineTowerBackground.html#a2f2c2c1d59dbf0df2debbedb977dfb57" title="DetermineTowerBackground\l::process_event" alt="" coords="283,1149,495,1193"/>
+<area shape="rect" id="node3" href="$d3/d07/classPHG4OHCalDetector.html#a61b5b2b66294e6016c7e416fd37181aa" title="construct" alt="" coords="605,5,771,49"/>
+<area shape="rect" id="node5" href="$db/d76/classPHG4IHCalDetector.html#a19b454a01a7750863b5f88e5259f0032" title="construct" alt="" coords="608,73,768,117"/>
+<area shape="rect" id="node7" href="$df/d74/classPHG4OuterHcalDetector.html#ae159c3d2a294c687f9c0f4af6dbce281" title="construct" alt="" coords="595,141,781,185"/>
+<area shape="rect" id="node9" href="$d5/d80/classPHG4InnerHcalDetector.html#adcc55f5d190de67371fb9bf28015c68a" title="construct" alt="" coords="597,209,779,253"/>
+<area shape="rect" id="node11" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a4719c5e160407e1b7f02bced47425698" title="PHG4FullProjTiltedSpacal\lDetector::ConstructMe" alt="" coords="593,277,783,321"/>
+<area shape="rect" id="node13" href="$dd/dfc/classcemcReco.html#aed0e3901be11851c1c1d00c51d4a2162" title="cemcReco::process_event" alt="" coords="589,345,787,373"/>
+<area shape="rect" id="node15" href="$d2/d39/classCaloGeomMapping.html#a062a4db99a2e6645d206d4c2b97058d4" title="CaloGeomMapping::Init" alt="" coords="597,397,779,425"/>
+<area shape="rect" id="node17" href="$d7/d10/classRawTowerBuilder.html#a0de2c995e7f7cc3bd357d65af5d5d987" title="RawTowerBuilder::InitRun" alt="" coords="592,449,784,477"/>
+<area shape="rect" id="node19" href="$df/d0d/classRawTowerCombiner.html#a09f1dc91a89b5f30ab1bd5f1965d3cb3" title="RawTowerCombiner::InitRun" alt="" coords="583,509,793,537"/>
+<area shape="rect" id="node21" href="$de/da4/classEMCalCalib.html#ac80fa52a42070fa6210a5c69f9c10fed" title="project a photon to calorimeters and collect towers around it" alt="" coords="594,565,782,593"/>
+<area shape="rect" id="node22" href="$de/da4/classEMCalCalib.html#a8d33bc88a464878c873f29c9230ce7fe" title="EMCalCalib::process\l_event_MCPhoton" alt="" coords="881,529,1038,573"/>
+<area shape="rect" id="node23" href="$de/da4/classEMCalCalib.html#aa70da6270813e434e35da37b6ec2a350" title="EMCalCalib::process\l_event" alt="" coords="1138,529,1295,573"/>
+<area shape="rect" id="node25" href="$db/d4b/classEMCalAna.html#a058c1f2ec1ef8b8f7786737eb6e3151b" title="EMCalAna::eval_trk" alt="" coords="612,621,764,649"/>
+<area shape="rect" id="node26" href="$db/d4b/classEMCalAna.html#a9647db89feef6823b38bbdeaf7de06c2" title="EMCalAna::process_event\l_UpslisonTrig" alt="" coords="861,597,1057,641"/>
+<area shape="rect" id="node28" href="$db/d4b/classEMCalAna.html#a2e20101b8705ea086e2c7de88e95767d" title="EMCalAna::process_event_Trk" alt="" coords="848,665,1071,693"/>
+<area shape="rect" id="node27" href="$db/d4b/classEMCalAna.html#a3b829b80df0fd8625130f3d9c11f5d3d" title="EMCalAna::process_event" alt="" coords="1119,635,1315,663"/>
+<area shape="rect" id="node30" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a552be18b8bd8920596f2020f0b49275f" title="QAG4SimulationCalorimeter\lSum::process_event_TrackProj" alt="" coords="576,688,800,732"/>
+<area shape="rect" id="node31" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a2104cb16e224c7eb39b9c5aed8aed4f0" title="QAG4SimulationCalorimeter\lSum::process_event" alt="" coords="853,717,1065,761"/>
+</map>

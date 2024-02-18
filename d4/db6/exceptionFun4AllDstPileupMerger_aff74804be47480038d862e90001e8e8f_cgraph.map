@@ -1,0 +1,51 @@
+<map id="Fun4AllDstPileupMerger::copy_background_event" name="Fun4AllDstPileupMerger::copy_background_event">
+<area shape="rect" id="node2" href="$da/d6c/classPHG4TruthInfoContainer.html#a1a44e285ef27b597b3480124d29aa3a0" title="PHG4TruthInfoContainer\l::AddEmbededTrkId" alt="" coords="267,69,453,113"/>
+<area shape="rect" id="node3" href="$da/d6c/classPHG4TruthInfoContainer.html#add42f5cae49b7bd193ec85bc1eb394ee" title="PHG4TruthInfoContainer\l::AddEmbededVtxId" alt="" coords="267,137,453,181"/>
+<area shape="rect" id="node4" href="$da/d6c/classPHG4TruthInfoContainer.html#a2d296833e72596ba63cc1ec8bae8618e" title="Add a particle that the user has created." alt="" coords="267,205,453,249"/>
+<area shape="rect" id="node11" href="$da/d6c/classPHG4TruthInfoContainer.html#ac3800b9c5d96062db80120f2dfcfb44a" title="Add a vertex and return an iterator to the user." alt="" coords="267,377,453,421"/>
+<area shape="rect" id="node15" href="$d3/dd5/jewel-2_82_80_8f.html#aeb24fa7919aa21c652e9c8f2ec45cb91" title="genevent" alt="" coords="317,876,403,904"/>
+<area shape="rect" id="node44" href="$d7/d7b/classPHHepMCGenEvent.html#a086a77104ec225e191885f9db7538521" title="PHHepMCGenEvent::getEvent" alt="" coords="248,928,472,956"/>
+<area shape="rect" id="node45" href="$d5/d41/classPHHepMCGenEventMap.html#a95d0dcb2a0100f9da5da5abbf6f24b9f" title="insert a event of background, e.g. Au+Au collision background. First event has embedding ID = 0..." alt="" coords="259,980,461,1024"/>
+<area shape="rect" id="node47" href="$da/d6c/classPHG4TruthInfoContainer.html#a3ba073aa005881ef4086c836432a25a8" title="PHG4TruthInfoContainer\l::maxtrkindex" alt="" coords="267,1048,453,1092"/>
+<area shape="rect" id="node48" href="$da/d6c/classPHG4TruthInfoContainer.html#a5aff515e206cb2cd82ddcb705ab81af0" title="PHG4TruthInfoContainer\l::maxvtxindex" alt="" coords="267,1116,453,1160"/>
+<area shape="rect" id="node49" href="$da/d6c/classPHG4TruthInfoContainer.html#a43a1eff1c88f960af83397783f6ee04a" title="PHG4TruthInfoContainer\l::mintrkindex" alt="" coords="267,1184,453,1228"/>
+<area shape="rect" id="node50" href="$da/d6c/classPHG4TruthInfoContainer.html#a808b5f4866d1bf7a14e5e1cae1c559ad" title="PHG4TruthInfoContainer\l::minvtxindex" alt="" coords="267,1252,453,1296"/>
+<area shape="rect" id="node5" href="$de/dc9/classPHG4Particle.html#aaf95cb29207cce8188669625f7287471" title="PHG4Particle::get_name" alt="" coords="533,5,717,33"/>
+<area shape="rect" id="node6" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="525,57,724,85"/>
+<area shape="rect" id="node7" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="543,109,706,137"/>
+<area shape="rect" id="node8" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="543,161,706,189"/>
+<area shape="rect" id="node9" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="543,213,706,241"/>
+<area shape="rect" id="node10" href="$de/dc9/classPHG4Particle.html#aefb22aefc07d013f8ec9bee4f02fb7b2" title="PHG4Particle::get_parent_id" alt="" coords="520,265,729,293"/>
+<area shape="rect" id="node12" href="$da/d6c/classPHG4TruthInfoContainer.html#a696b04fd20d5d1ddb53b73b16885e775" title="PHG4TruthInfoContainer\l::identify" alt="" coords="532,317,717,361"/>
+<area shape="rect" id="node14" href="$d6/d81/classPHG4VtxPoint.html#a4d37c5414acb21cf6bfb451bcb30b385" title="PHG4VtxPoint::set_id" alt="" coords="543,385,706,413"/>
+<area shape="rect" id="node13" href="$da/d6c/classPHG4TruthInfoContainer.html#a77051a88c6708ed10465eca6b73c2272" title="PHG4TruthInfoContainer\l::GetPrimaryVertexIndex" alt="" coords="801,109,987,153"/>
+<area shape="rect" id="node16" href="$de/d56/classFatras_1_1Test_1_1Particle.html#a13975fe3d3caeb017d7837bbc7d8d048" title="Access methods: beta." alt="" coords="547,1371,703,1415"/>
+<area shape="rect" id="node17" href="$d9/d9e/evDisplay_8C.html#a493aff38bcceaba17aef8c5257ff963a" title="channel" alt="" coords="857,489,931,517"/>
+<area shape="rect" id="node18" href="$d3/dc7/classRawTowerContainer.html#a555d52b05fc064faf6c8bc2145814412" title="RawTowerContainer::\lcompress" alt="" coords="813,692,975,736"/>
+<area shape="rect" id="node20" href="$d3/dd5/jewel-2_82_80_8f.html#ac81138f304bda7ec1fd2c2fafd517ef9" title="converttohepmc" alt="" coords="559,437,691,465"/>
+<area shape="rect" id="node25" href="$d3/dd5/jewel-2_82_80_8f.html#a5de87273c33caeed2d04b5b02a09cb6a" title="isdiquark" alt="" coords="1472,516,1556,544"/>
+<area shape="rect" id="node28" href="$d2/d18/medium-simple_8f.html#a58e0410e81664819969cd2981fd7cd27" title="npart" alt="" coords="865,541,923,569"/>
+<area shape="rect" id="node29" href="$d0/d83/classActsFatras_1_1LandauDistribution.html#a692e73569c82329696eadc0fe9ff5bdf" title="Return the currently configured distribution parameters." alt="" coords="779,769,1009,813"/>
+<area shape="rect" id="node30" href="$d2/d18/medium-simple_8f.html#a37c7f4eb1ac3cabcac15da535b1c78d7" title="getltimemax" alt="" coords="571,643,678,671"/>
+<area shape="rect" id="node31" href="$d3/dd5/jewel-2_82_80_8f.html#a6a7de1452a015a48823a6f8e9233de63" title="getmass" alt="" coords="585,851,664,879"/>
+<area shape="rect" id="node32" href="$d4/d3e/classActs_1_1Logger.html#a2e009357e8b3be1d10f072a71074ba58" title="log a debug message" alt="" coords="826,1215,962,1243"/>
+<area shape="rect" id="node33" href="$d6/dcf/pythia6425mod_8f.html#ac28b7ef95cee2881a46f71d3a88d05ac" title="pyr" alt="" coords="872,1059,916,1087"/>
+<area shape="rect" id="node34" href="$d1/d08/structActs_1_1MultiEigenStepperLoop_1_1ComponentProxyBase.html#ad7d2b751fd58f99c3eb54a7af086727b" title="Acts::MultiEigenStepperLoop\l::ComponentProxyBase::weight" alt="" coords="777,868,1011,912"/>
+<area shape="rect" id="node35" href="$d3/dd5/jewel-2_82_80_8f.html#ae4babd1fd98f3de7eb1da1c259c99065" title="makecascade" alt="" coords="568,747,681,775"/>
+<area shape="rect" id="node36" href="$d3/dd5/jewel-2_82_80_8f.html#af2a855ea607d8089b0254268b557100b" title="makestrings" alt="" coords="573,955,677,983"/>
+<area shape="rect" id="node37" href="$da/d72/structActs_1_1detail_1_1PhiBoundParameterLimits.html#a04ea1c8ef7fa6ef9596ffec9da84eae1" title="Acts::detail::PhiBoundParameter\lLimits::max" alt="" coords="1059,1284,1300,1328"/>
+<area shape="rect" id="node38" href="$d2/d18/medium-simple_8f.html#a4cb6e969ad6295a9ec499dd59e4fefa1" title="mednextevt" alt="" coords="573,1059,677,1087"/>
+<area shape="rect" id="node39" href="$d2/d18/medium-simple_8f.html#a64062e3dc7ddcfa521f1c731eb9e810f" title="pickvtx" alt="" coords="589,1111,660,1139"/>
+<area shape="rect" id="node40" href="$d6/dcf/pythia6425mod_8f.html#ac81fa418f8cd77b0873b2de2a4140933" title="pyevnt" alt="" coords="590,1163,659,1191"/>
+<area shape="rect" id="node41" href="$d6/dcf/pythia6425mod_8f.html#a018da81d5f23cd9c6d55f5151fb0f541" title="pyexec" alt="" coords="859,1319,929,1347"/>
+<area shape="rect" id="node42" href="$d6/dcf/pythia6425mod_8f.html#a6cee1eea51c820d9e90932c9eca205b7" title="pyp" alt="" coords="601,1267,648,1295"/>
+<area shape="rect" id="node43" href="$d6/dcf/pythia6425mod_8f.html#a98ffa3df00dbe1c8a9944e3453e44580" title="pyrobo" alt="" coords="591,1319,659,1347"/>
+<area shape="rect" id="node19" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="1093,700,1266,728"/>
+<area shape="rect" id="node21" href="$d5/d89/classValueGen1.html#a072deb230ac8bf0f6742e0484e030c52" title="ValueGen1::i2" alt="" coords="835,177,953,205"/>
+<area shape="rect" id="node22" href="$d5/d89/classValueGen1.html#a0a32cfdf50e9bb9c84580912795b1e41" title="ValueGen1::i3" alt="" coords="835,229,953,257"/>
+<area shape="rect" id="node23" href="$d3/dd5/jewel-2_82_80_8f.html#a5f82b2fc3ff62fca6b9d65ce59e02c1c" title="ishadron" alt="" coords="854,281,934,309"/>
+<area shape="rect" id="node24" href="$d3/dd5/jewel-2_82_80_8f.html#ab6496ca6cba6a43f6f584e9b3272ffe6" title="isparton" alt="" coords="1348,412,1424,440"/>
+<area shape="rect" id="node26" href="$d3/dd5/jewel-2_82_80_8f.html#aa3a168383217ddc535b33caad4424f7b" title="isprimhadron" alt="" coords="839,385,949,413"/>
+<area shape="rect" id="node27" href="$d3/dd5/jewel-2_82_80_8f.html#a4acf146d6918fa718c7aef09cbece102" title="isprimstring" alt="" coords="1129,437,1230,465"/>
+<area shape="rect" id="node46" href="$d7/d7b/classPHHepMCGenEvent.html#a03da97991279b9b2598f0c5956400329" title="PHHepMCGenEvent::set\l_embedding_id" alt="" coords="533,1541,717,1585"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="PHSiliconHelicalPropagator::process_event" name="PHSiliconHelicalPropagator::process_event">
+<area shape="rect" id="node2" href="$d5/d7f/classTrackFitUtils.html#af753ce36e7576ea5a7307daaba37f812" title="TrackFitUtils::addClusters" alt="" coords="275,239,469,267"/>
+<area shape="rect" id="node4" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="1729,78,1877,106"/>
+<area shape="rect" id="node7" href="$d3/d64/classActsGeometry.html#a74c2c69effa2b19cde731a6b67806fba" title="ActsGeometry::getGlobalPosition" alt="" coords="535,377,779,405"/>
+<area shape="rect" id="node17" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="1729,497,1876,525"/>
+<area shape="rect" id="node27" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="575,429,738,473"/>
+<area shape="rect" id="node28" href="$dc/d80/classTrackSeed.html#abf1912560332b934e99c95bc24795730" title="TrackSeed::begin_cluster_keys" alt="" coords="257,489,487,517"/>
+<area shape="rect" id="node29" href="$dc/d80/classTrackSeed.html#ab8e91b9697988f41d2ee352285f8ce75" title="TrackSeed::end_cluster_keys" alt="" coords="264,541,480,569"/>
+<area shape="rect" id="node30" href="$d1/d09/classTrackSeedContainer.html#a10d2a98784bdbd6ec3349594677bce6e" title="TrackSeedContainer\l::find" alt="" coords="293,593,451,637"/>
+<area shape="rect" id="node31" href="$d5/d7f/classTrackFitUtils.html#affbfb7e571a6892378113a4d32960c65" title="TrackFitUtils::fitClusters" alt="" coords="281,833,463,861"/>
+<area shape="rect" id="node36" href="$d1/d09/classTrackSeedContainer.html#a94b6021b19ce9a7a3a76c6cd0a42c290" title="TrackSeedContainer::get" alt="" coords="277,713,467,741"/>
+<area shape="rect" id="node37" href="$d0/d23/classTrkrClusterCrossingAssoc.html#a15cef3e977cbb928a4b6f412d618ab36" title="TrkrClusterCrossingAssoc\l::getCrossings" alt="" coords="276,765,468,809"/>
+<area shape="rect" id="node38" href="$d5/d7f/classTrackFitUtils.html#af2f1a4d0204a490454bf1307bc66a417" title="TrackFitUtils::getTracklet\lClusters" alt="" coords="278,369,466,413"/>
+<area shape="rect" id="node39" href="$d1/d09/classTrackSeedContainer.html#aaba67f48d166768345a18bf24c672e1f" title="TrackSeedContainer\l::insert" alt="" coords="293,885,451,929"/>
+<area shape="rect" id="node40" href="$d4/d52/classTrackSeed__v1.html#acc31d0fc86e09531d514e9c464d763d3" title="TrackSeed_v1::insert\l_cluster_key" alt="" coords="290,953,454,997"/>
+<area shape="rect" id="node41" href="$d8/d29/classSvtxTrackSeed__v1.html#aff1a5d41ea3650bb6ae79062ffe5cb44" title="SvtxTrackSeed_v1::set\l_silicon_seed_index" alt="" coords="285,1021,459,1065"/>
+<area shape="rect" id="node42" href="$d8/d29/classSvtxTrackSeed__v1.html#a85a01639073c2297e8bf9d46d76a7fb2" title="SvtxTrackSeed_v1::set\l_tpc_seed_index" alt="" coords="285,1089,459,1133"/>
+<area shape="rect" id="node43" href="$d1/d09/classTrackSeedContainer.html#a1fcaea7903505ae896d000d1c3cf506d" title="TrackSeedContainer\l::size" alt="" coords="293,1157,451,1201"/>
+<area shape="rect" id="node44" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="284,1225,460,1253"/>
+<area shape="rect" id="node3" href="$d0/d2c/classTrkrClusterContainer.html#a616614c184fce4e85ce993f83191ba2b" title="get hitset key list" alt="" coords="575,111,738,155"/>
+<area shape="rect" id="node6" href="$d0/d2c/classTrkrClusterContainer.html#a9b6a31479d24147db018ac23460ac548" title="return all clusters" alt="" coords="575,43,738,87"/>
+<area shape="rect" id="node23" href="$d5/d7f/classTrackFitUtils.html#a18dad9ad18ffffd799eb07fc099053c9" title="TrackFitUtils::get\l_helix_pca" alt="" coords="589,231,724,275"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1948,231,2071,259"/>
+<area shape="rect" id="node8" href="$d3/d64/classActsGeometry.html#aef1d7a1753e979a73b28e0ffbe6ab994" title="ActsGeometry::geometry" alt="" coords="1158,558,1350,586"/>
+<area shape="rect" id="node9" href="$d3/d64/classActsGeometry.html#ac2534e5df04d15932c7edb931994888f" title="ActsGeometry::getGlobalPositionTpc" alt="" coords="827,402,1096,430"/>
+<area shape="rect" id="node10" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="1169,247,1339,275"/>
+<area shape="rect" id="node11" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="1169,454,1339,482"/>
+<area shape="rect" id="node13" href="$d0/dcd/structActsSurfaceMaps.html#abb92973b5c8f30db082c275b7b5cfc04" title="ActsSurfaceMaps::getSurface" alt="" coords="1144,299,1364,327"/>
+<area shape="rect" id="node22" href="$d3/d64/classActsGeometry.html#a5de502147722c0e0e8549b706d5d21a8" title="ActsGeometry::maps" alt="" coords="1172,506,1336,534"/>
+<area shape="rect" id="node12" href="$d7/db0/namespaceTpcDefs.html#aafa0c31bf0892588a224d8f0726bff11" title="Get the side from hitsetkey." alt="" coords="1734,367,1871,395"/>
+<area shape="rect" id="node14" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="1431,223,1639,267"/>
+<area shape="rect" id="node15" href="$d0/dcd/structActsSurfaceMaps.html#a495aa227eb961abc63783e594fb433b2" title="ActsSurfaceMaps::getMMSurface" alt="" coords="1413,291,1657,319"/>
+<area shape="rect" id="node16" href="$d0/dcd/structActsSurfaceMaps.html#ab3b444e968e650e0184aefebcaeaaad4" title="ActsSurfaceMaps::getSilicon\lSurface" alt="" coords="1428,155,1641,199"/>
+<area shape="rect" id="node20" href="$d6/dfa/classTrkrCluster.html#a924282f2bc8a157638a88c551e6e0cba" title="TrkrCluster::getSubSurfKey" alt="" coords="1433,343,1637,371"/>
+<area shape="rect" id="node21" href="$d0/dcd/structActsSurfaceMaps.html#ae3624e0027780ed53abd7335f06b79ed" title="ActsSurfaceMaps::getTpcSurface" alt="" coords="1412,103,1657,131"/>
+<area shape="rect" id="node18" href="$d6/d9e/namespaceInttDefs.html#a7bab06e7aa1e8cbfd063c989a690b8e3" title="Zero the crossing bits in a copy of the hitsetkey." alt="" coords="1705,155,1900,199"/>
+<area shape="rect" id="node19" href="$d8/df1/namespaceMvtxDefs.html#acef48eba67fd28443f939a4594317be6" title="Zero the strobe bits in the hitsetkey." alt="" coords="1707,223,1899,267"/>
+<area shape="rect" id="node24" href="$d5/d7f/classTrackFitUtils.html#ace12678e4df927da3d37405578917cf2" title="TrackFitUtils::get\l_circle_point_pca" alt="" coords="893,163,1030,207"/>
+<area shape="rect" id="node26" href="$d5/d7f/classTrackFitUtils.html#a7e2b88ee7150691c7f252be65013b687" title="TrackFitUtils::getPCALine\lPoint" alt="" coords="867,231,1056,275"/>
+<area shape="rect" id="node25" href="$dd/d7e/namespaceActs_1_1Test.html#a25144f827aaec56765c0d318216c94a5" title="Acts::Test::origin" alt="" coords="1187,171,1321,199"/>
+<area shape="rect" id="node32" href="$d5/d7f/classTrackFitUtils.html#a1fc66cec7006835f80cb395bb4731d67" title="TrackFitUtils::circle\l_fit_by_taubin" alt="" coords="583,738,731,782"/>
+<area shape="rect" id="node35" href="$d5/d7f/classTrackFitUtils.html#ab6471f5f4cdcf5bdcaaaca83504ac04e" title="line_fit" alt="" coords="577,806,736,834"/>
+<area shape="rect" id="node33" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="928,803,995,831"/>
+<area shape="rect" id="node34" href="$d2/db7/namespacestd_1_1tr1.html#af7e12a0f5b5791b5b7c49a5a17b85359" title="std::tr1::make_tuple" alt="" coords="883,750,1040,778"/>
+</map>

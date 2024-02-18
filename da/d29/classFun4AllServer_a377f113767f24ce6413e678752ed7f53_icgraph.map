@@ -1,0 +1,51 @@
+<map id="Fun4AllServer::registerHistoManager" name="Fun4AllServer::registerHistoManager">
+<area shape="rect" id="node2" href="$d8/df7/classPHAna.html#a4319b120f322c3ebe5c73173638dbe8a" title="PHAna::create_histos" alt="" coords="297,49,461,77"/>
+<area shape="rect" id="node4" href="$dd/d5d/classEMCalLikelihood.html#ad998d4100310842ece15b6a8c8c3f86b" title="EMCalLikelihood::get\l_HistoManager" alt="" coords="297,144,460,188"/>
+<area shape="rect" id="node8" href="$df/d26/classProto4SampleFrac.html#a3454ce88fe49feed710b98261804c873" title="get manager of histograms" alt="" coords="291,304,466,348"/>
+<area shape="rect" id="node12" href="$df/d19/classjetrtrack.html#a5f784cb414d47a318fd877aed963606b" title="jetrtrack::get_HistoManager" alt="" coords="273,492,485,520"/>
+<area shape="rect" id="node16" href="$d4/db0/classanalysis.html#a4b4a5980cadba4e0ac320ff5acb421c8" title="analysis::get_HistoManager" alt="" coords="274,652,483,680"/>
+<area shape="rect" id="node20" href="$db/d4b/classEMCalAna.html#ae233191e8f4b750903ff27bf3880160e" title="EMCalAna::get_HistoManager" alt="" coords="268,833,489,861"/>
+<area shape="rect" id="node26" href="$de/da4/classEMCalCalib.html#a6dd1b66ac9a1dcb879cd486fff88bcfb" title="EMCalCalib::get_HistoManager" alt="" coords="264,885,493,913"/>
+<area shape="rect" id="node32" href="$d8/dd6/classEMCalCalib__TestBeam.html#a444f2647e1250bbed36bd3fc209e10bd" title="EMCalCalib_TestBeam\l::get_HistoManager" alt="" coords="294,937,463,981"/>
+<area shape="rect" id="node33" href="$d4/d6e/classProto4ShowerCalib.html#a5e32bce8a66ebc3ded81b651b03ec9f4" title="Proto4ShowerCalib::\lget_HistoManager" alt="" coords="300,1005,457,1049"/>
+<area shape="rect" id="node34" href="$d6/da1/classProto2ShowerCalib.html#ad008a4af36e7d831328a333fa6a918f1" title="Proto2ShowerCalib::\lget_HistoManager" alt="" coords="300,1073,457,1117"/>
+<area shape="rect" id="node35" href="$d9/d84/classProto3ShowerCalib.html#a1c3cad4da2ea19f89d376604c96b0077" title="Proto3ShowerCalib::\lget_HistoManager" alt="" coords="300,1141,457,1185"/>
+<area shape="rect" id="node36" href="$dd/d7f/classProto4TowerCalib.html#a38334757b1846b13a28b4b42fb0734e9" title="get manager of histograms" alt="" coords="294,1209,463,1253"/>
+<area shape="rect" id="node37" href="$d2/d90/classExampleAnalysisModule.html#aeefbe956abdd9340fe80e47e9ac966eb" title="get manager of histograms" alt="" coords="286,1277,471,1321"/>
+<area shape="rect" id="node38" href="$d8/db5/namespaceQAHistManagerDef.html#a95764557eee8578107f3f8cac5a640da" title="Get a pointer to the default hist manager for QA modules." alt="" coords="271,1345,486,1389"/>
+<area shape="rect" id="node39" href="$dc/d86/classTPCIntegratedCharge.html#ae6a7e4eb80d648c7db1fa084ae193c30" title="TPCIntegratedCharge\l::getHistoManager" alt="" coords="295,1413,462,1457"/>
+<area shape="rect" id="node40" href="$da/d27/classTPCDataStreamEmulator.html#adf70ab7db51470a007efba77e78ba324" title="TPCDataStreamEmulator\l::getHistoManager" alt="" coords="283,1481,474,1525"/>
+<area shape="rect" id="node41" href="$dc/dd7/classPHG4ScoringManager.html#ac02cb8f43e68a495bb66fcf774bbc991" title="PHG4ScoringManager\l::getHistoManager" alt="" coords="294,1549,463,1593"/>
+<area shape="rect" id="node42" href="$da/daf/classJetHepMCLoader.html#a7f0ea46a1d4ee2481561fd3c0f660082" title="JetHepMCLoader::getHisto\lManager" alt="" coords="279,1617,478,1661"/>
+<area shape="rect" id="node43" href="$d8/d7c/classTPCMLDataInterface.html#a428faab790dd1c321c84fd4aaddabdbc" title="TPCMLDataInterface\l::getHistoManager" alt="" coords="299,1685,458,1729"/>
+<area shape="rect" id="node44" href="$d2/df0/classSynRadAna.html#a656aae40ff00e4375ee3f7890a39d321" title="Get a pointer to the default hist manager for QA modules." alt="" coords="267,1753,491,1781"/>
+<area shape="rect" id="node45" href="$d0/dc8/classSoftLeptonTaggingTruth.html#abab3d5685a91a88b9fa631c562e14cb3" title="Get a pointer to the default hist manager for QA modules." alt="" coords="289,1805,469,1849"/>
+<area shape="rect" id="node46" href="$d5/dee/classTPCFEETestRecov1.html#a5a06654aaabb11da20651e8fe46e3ae0" title="TPCFEETestRecov1::getHisto\lManager" alt="" coords="271,1873,486,1917"/>
+<area shape="rect" id="node47" href="$dd/d60/classTpcPrototypeUnpacker.html#a783640c17a4ae3d6e8ad1ce752128b97" title="TpcPrototypeUnpacker\l::getHistoManager" alt="" coords="291,1941,467,1985"/>
+<area shape="rect" id="node48" href="$dd/d0c/classAnalyzeSimpleTree.html#a6b60b70006cc13a9cc3e7486a2d426d4" title="AnalyzeSimpleTree::Init" alt="" coords="288,2009,469,2037"/>
+<area shape="rect" id="node49" href="$d2/d73/classPHAJMaker.html#a2d8dd0c64020856388d448b40034cf10" title="PHAJMaker::Init" alt="" coords="317,2061,441,2089"/>
+<area shape="rect" id="node50" href="$da/d29/classFun4AllServer.html#aa1939c3e2c3113cce0a6415103b4f5a5" title="Fun4AllServer::InitAll" alt="" coords="297,2113,460,2141"/>
+<area shape="rect" id="node3" href="$d8/df7/classPHAna.html#a2e28a1c1a4caa8e16b133a9b1b25e67c" title="PHAna::Init" alt="" coords="603,5,700,33"/>
+<area shape="rect" id="node5" href="$dd/d5d/classEMCalLikelihood.html#a6a779ca1c32380a264774f52fc6ff24a" title="EMCalLikelihood::ApplyEMCal\lGanging" alt="" coords="541,57,761,101"/>
+<area shape="rect" id="node6" href="$dd/d5d/classEMCalLikelihood.html#add2c2efcb48129fe34a89154021cdb67" title="Called at the end of all processing." alt="" coords="569,125,734,153"/>
+<area shape="rect" id="node7" href="$dd/d5d/classEMCalLikelihood.html#affc4ae932b7804b7d06186a623778340" title="EMCalLikelihood::Init" alt="" coords="570,177,733,205"/>
+<area shape="rect" id="node9" href="$df/d26/classProto4SampleFrac.html#aa63070bee429c4c753c86f9b1a539d9e" title="Standard function called at the end of processing. Save your stuff here." alt="" coords="563,229,740,257"/>
+<area shape="rect" id="node10" href="$df/d26/classProto4SampleFrac.html#a0a3d0f7a605a9ce225738285103ad242" title="Standard function called at initialization." alt="" coords="564,281,739,309"/>
+<area shape="rect" id="node11" href="$df/d26/classProto4SampleFrac.html#a0233b792645a661433b6874cfd589e96" title="Standard function called at each event." alt="" coords="549,333,753,377"/>
+<area shape="rect" id="node13" href="$df/d19/classjetrtrack.html#a80404b87b1594b3f6bc6b0ed3e249bfd" title="jetrtrack::InitRun" alt="" coords="584,401,719,429"/>
+<area shape="rect" id="node14" href="$df/d19/classjetrtrack.html#a758b4304d032e00e4c9c6c1ce966d64b" title="jetrtrack::process\l_event" alt="" coords="581,453,721,497"/>
+<area shape="rect" id="node15" href="$df/d19/classjetrtrack.html#ad6600ee41bb574359dc6341d16366b51" title="Called at the end of all processing." alt="" coords="595,521,708,549"/>
+<area shape="rect" id="node17" href="$d4/db0/classanalysis.html#af046662c23266076400e9d203f0bef53" title="Called at the end of all processing." alt="" coords="596,573,707,601"/>
+<area shape="rect" id="node18" href="$d4/db0/classanalysis.html#ad62963c0ad6e46c894654567b0a7eff6" title="analysis::InitRun" alt="" coords="585,625,717,653"/>
+<area shape="rect" id="node19" href="$d4/db0/classanalysis.html#a90b0cea30514b2a753d23c16a997789c" title="analysis::process_event" alt="" coords="560,677,743,705"/>
+<area shape="rect" id="node21" href="$db/d4b/classEMCalAna.html#a9082f1891dc4967016d84bea32c49542" title="Called at the end of all processing." alt="" coords="589,729,713,757"/>
+<area shape="rect" id="node22" href="$db/d4b/classEMCalAna.html#a281a22c319ff2f5e7c7e327bf9a1c4f2" title="EMCalAna::Init_SF" alt="" coords="580,781,723,809"/>
+<area shape="rect" id="node23" href="$db/d4b/classEMCalAna.html#a50dacf6316394cf827c56d49459bfba1" title="EMCalAna::Init_Tower" alt="" coords="568,833,735,861"/>
+<area shape="rect" id="node24" href="$db/d4b/classEMCalAna.html#ab478dd11f24604db6fece30078120c73" title="EMCalAna::process_event_SF" alt="" coords="542,885,761,913"/>
+<area shape="rect" id="node25" href="$db/d4b/classEMCalAna.html#a2dc76e382cb983e3e7765aee0655572e" title="EMCalAna::process_event\l_Tower" alt="" coords="553,937,749,981"/>
+<area shape="rect" id="node27" href="$de/da4/classEMCalCalib.html#a9a51df14ce2f12864d6b65afe4e2ac20" title="Called at the end of all processing." alt="" coords="586,1005,717,1033"/>
+<area shape="rect" id="node28" href="$de/da4/classEMCalCalib.html#add3b7f63137dc2c9eeb7ef64dc892a1c" title="EMCalCalib::Init_SF" alt="" coords="576,1057,727,1085"/>
+<area shape="rect" id="node29" href="$de/da4/classEMCalCalib.html#a94d2bfb62544f43f39b25a4c6290dac5" title="EMCalCalib::Init_Tower" alt="" coords="565,1109,738,1137"/>
+<area shape="rect" id="node30" href="$de/da4/classEMCalCalib.html#af3ce97ca1edf6391105d268935e2872f" title="EMCalCalib::process\l_event_SF" alt="" coords="573,1161,730,1205"/>
+<area shape="rect" id="node31" href="$de/da4/classEMCalCalib.html#aa0b96923b3a6aa979859ed0628ce6807" title="EMCalCalib::process\l_event_Tower" alt="" coords="573,1229,730,1273"/>
+</map>

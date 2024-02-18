@@ -1,0 +1,25 @@
+var classPHG4InttDigitizer =
+[
+    [ "PHG4InttDigitizer", "dd/da0/classPHG4InttDigitizer.html#aeb4bda6da20ab0af088abea296261174", null ],
+    [ "~PHG4InttDigitizer", "dd/da0/classPHG4InttDigitizer.html#a8abd7e5a378f0c463d9b4fd7a90a7a54", null ],
+    [ "added_noise", "dd/da0/classPHG4InttDigitizer.html#ad2662813f677b5609988129fea7134e8", null ],
+    [ "CalculateLadderCellADCScale", "dd/da0/classPHG4InttDigitizer.html#a8fd9fb7a2b7bfb6f247f60cfdac8ea00", null ],
+    [ "Detector", "dd/da0/classPHG4InttDigitizer.html#a194a621965943201e99d412e9ef03506", null ],
+    [ "DigitizeLadderCells", "dd/da0/classPHG4InttDigitizer.html#a1abd54009150500d799f667169b0b35a", null ],
+    [ "End", "dd/da0/classPHG4InttDigitizer.html#adb3feb0d3a8d1401e8cad0df88bc6d9e", null ],
+    [ "InitRun", "dd/da0/classPHG4InttDigitizer.html#a1add524430b73f19c7dc69184d243742", null ],
+    [ "process_event", "dd/da0/classPHG4InttDigitizer.html#aec310cc05309c369b9d87b67ae4e4c6d", null ],
+    [ "set_adc_scale", "dd/da0/classPHG4InttDigitizer.html#a72824a433f4bd6cde503b12b41622ded", null ],
+    [ "SetDefaultParameters", "dd/da0/classPHG4InttDigitizer.html#aad1ff1a2980443dba9d0319fffb18820", null ],
+    [ "_energy_scale", "dd/da0/classPHG4InttDigitizer.html#a799dbf8ebc97b99b2c3cd31ef6aa34fe", null ],
+    [ "_max_adc", "dd/da0/classPHG4InttDigitizer.html#a343be788413b6c0ef6e58217115837eb", null ],
+    [ "_max_fphx_adc", "dd/da0/classPHG4InttDigitizer.html#aa70915cfabf78817813f3b985da4ebd1", null ],
+    [ "detector", "dd/da0/classPHG4InttDigitizer.html#a4c613836e879c0ffc964096a7e997461", null ],
+    [ "m_nCells", "dd/da0/classPHG4InttDigitizer.html#a301212b9f650bd3b90917b848385e518", null ],
+    [ "m_nDeadCells", "dd/da0/classPHG4InttDigitizer.html#aa208d093469a695cee98e113b3b913ea", null ],
+    [ "mEnergyPerPair", "dd/da0/classPHG4InttDigitizer.html#a54e6698ec3d09462750283280cfb27d3", null ],
+    [ "mNoiseMean", "dd/da0/classPHG4InttDigitizer.html#ac218314cc98b30262d36029762d2bd81", null ],
+    [ "mNoiseSigma", "dd/da0/classPHG4InttDigitizer.html#a6219605e88cfe51289c2332276822867", null ],
+    [ "nadcbins", "dd/da0/classPHG4InttDigitizer.html#a80f46d3189aa122413da121a88bbbb92", null ],
+    [ "RandomGenerator", "dd/da0/classPHG4InttDigitizer.html#ac8bf5b9e37a4c6cc9a82e21e0093970c", null ]
+];

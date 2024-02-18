@@ -1,0 +1,32 @@
+<map id="PHTimer::get_clock_counts" name="PHTimer::get_clock_counts">
+<area shape="rect" id="node2" href="$d0/d5e/classPHTimer.html#a976738876ad978116fdc4549a3765685" title="retrieve elapsed value since last restart (in ms)" alt="" coords="204,440,344,468"/>
+<area shape="rect" id="node6" href="$d0/d5e/classPHTimer.html#adce6f9a85834e59bd154b9c624ee4e41" title="stops the counter" alt="" coords="400,832,516,860"/>
+<area shape="rect" id="node30" href="$d0/d5e/classPHTimer.html#a433d96c3401380d49ff01acfd16ac69c" title="Restart timer." alt="" coords="392,492,524,520"/>
+<area shape="rect" id="node3" href="$d0/d5e/classPHTimer.html#a888198bd40c6e112b820d6b78406e3aa" title="Dump elapsed time to provided ostream." alt="" coords="398,104,518,132"/>
+<area shape="rect" id="node5" href="$d9/d69/classPHSimpleKFProp.html#a0e11d66809451e62d6001f3aa4cf392e" title="PHSimpleKFProp::process\l_event" alt="" coords="583,57,776,101"/>
+<area shape="rect" id="node4" href="$d0/d5e/classPHTimer.html#a01cc1f85cc7a3303d38cb5a7a2f0a749" title="test PHTimer for a given amount of time (in ms)" alt="" coords="623,5,736,33"/>
+<area shape="rect" id="node7" href="$da/daa/classPgPostBankBackupManager.html#a235748109f2b58dfa188d3c20d9fbe9a" title="TFile &#45;&gt; Database for official operation use." alt="" coords="575,688,784,732"/>
+<area shape="rect" id="node8" href="$da/daa/classPgPostBankBackupManager.html#a48e85fa7beea90b4d7f828c59b5e5676" title="Database &#45;&gt; TFile for all all records satisifying record_selection." alt="" coords="575,756,784,800"/>
+<area shape="rect" id="node9" href="$da/daa/classPgPostBankBackupManager.html#a0a04a1d872f424730592d5b01a9952be" title="PgPostBankBackupManager\l::CleanTable" alt="" coords="575,892,784,936"/>
+<area shape="rect" id="node10" href="$d2/d93/classTrkrNtuplizer.html#afc7ba965de3d067c72454afb56e013b4" title="TrkrNtuplizer::Init" alt="" coords="609,1251,749,1279"/>
+<area shape="rect" id="node11" href="$d2/d93/classTrkrNtuplizer.html#a3ba752b46d320848413bf7ea09ee5dd5" title="dump the evaluator information into ntuple for external analysis" alt="" coords="589,296,770,340"/>
+<area shape="rect" id="node13" href="$dc/db9/classMakeSourceLinks.html#a80778ca794a89dee94ef431f93978fc1" title="MakeSourceLinks::getSource\lLinks" alt="" coords="572,364,787,408"/>
+<area shape="rect" id="node16" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="1072,615,1275,643"/>
+<area shape="rect" id="node17" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="1323,607,1505,651"/>
+<area shape="rect" id="node19" href="$d1/d49/classPHActsTrkFitter.html#abef281afb12f30e5b3571ec8c512b3da" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="835,756,1024,800"/>
+<area shape="rect" id="node20" href="$d1/d49/classPHActsTrkFitter.html#a84b45cab5f4f054cb5820c80cc71c639" title="Convert the acts track fit result to an svtx track." alt="" coords="575,824,783,868"/>
+<area shape="rect" id="node21" href="$d5/daa/classPHRaveVertexing.html#a650b76ab2fb4616857eb52bb3a838971" title="Initialization Run, called for initialization of a run." alt="" coords="583,1423,776,1451"/>
+<area shape="rect" id="node22" href="$d5/daa/classPHRaveVertexing.html#ade0da1a90e1049f199a249e87a72d793" title="Process Event, called for each event." alt="" coords="580,552,779,596"/>
+<area shape="rect" id="node23" href="$d6/d11/classSvtxEvaluator.html#abe5ead14f181c95a72b0d70f81d7ab81" title="SvtxEvaluator::Init" alt="" coords="606,1199,753,1227"/>
+<area shape="rect" id="node24" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="585,620,773,664"/>
+<area shape="rect" id="node26" href="$d9/d7a/classPHG4PhenixEventAction.html#ae701649221992b4705441f9aa9744ddd" title="PHG4PhenixEventAction\l::EndOfEventAction" alt="" coords="587,1355,772,1399"/>
+<area shape="rect" id="node27" href="$df/ddb/classMvtxAlign.html#a240c06bef0b584d24b39f36eed0712a3" title="event processing" alt="" coords="605,960,754,1004"/>
+<area shape="rect" id="node28" href="$d4/d42/classMvtxApplyHotDead.html#a1cb301d37a72775b01e2204f3f2f1039" title="event processing" alt="" coords="573,1028,785,1072"/>
+<area shape="rect" id="node29" href="$db/d0b/classMvtxPrototype2Align.html#a0b7add8a0728af136698ec976f4878fb" title="event processing" alt="" coords="599,484,760,528"/>
+<area shape="rect" id="node12" href="$d2/d93/classTrkrNtuplizer.html#a399e3058749ac563592644df77083a33" title="TrkrNtuplizer::process\l_event" alt="" coords="845,296,1014,340"/>
+<area shape="rect" id="node14" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="854,364,1005,408"/>
+<area shape="rect" id="node18" href="$dc/dcf/classPHActsGSF.html#a6c3b895a05a59d9e14bbe0a754ac023b" title="PHActsGSF::process\l_event" alt="" coords="852,432,1007,476"/>
+<area shape="rect" id="node15" href="$d6/d54/classPHCosmicsTrkFitter.html#af7f27bd06c1766a397916ed87c1a0c4e" title="Process each event by calling the fitter." alt="" coords="1098,364,1249,408"/>
+<area shape="rect" id="node25" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="841,620,1017,664"/>
+<area shape="rect" id="node31" href="$d9/d7a/classPHG4PhenixEventAction.html#a5d07c4be9c44299c0c04949eef4cf068" title="PHG4PhenixEventAction\l::BeginOfEventAction" alt="" coords="587,125,772,169"/>
+</map>

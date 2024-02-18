@@ -1,0 +1,40 @@
+<map id="Conversion::setRecoTracks" name="Conversion::setRecoTracks">
+<area shape="rect" id="node2" href="$df/dad/classSvtxTrackEval.html#ab2ddb740e23faee0f77302194255261f" title="SvtxTrackEval::best\l_track_from" alt="" coords="280,384,435,428"/>
+<area shape="rect" id="node6" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="735,41,933,69"/>
+<area shape="rect" id="node34" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="289,452,425,480"/>
+<area shape="rect" id="node35" href="$dc/d41/classConversion.html#a4bd3bba1322a022ffd2a5d0b1109e75e" title="constructs a tlv for a photon by adding the tlvs for the reco tracks" alt="" coords="255,744,460,772"/>
+<area shape="rect" id="node3" href="$df/dad/classSvtxTrackEval.html#a2cad33eb7f2cc23aa534f06ef5b591e5" title="SvtxTrackEval::has\l_node_pointers" alt="" coords="983,552,1131,596"/>
+<area shape="rect" id="node4" href="$d4/d4e/classPHG4ParticleSvtxMap.html#ad528c3421eaf8eef3dc9d36d3005ebe6" title="PHG4ParticleSvtxMap\l::processed" alt="" coords="751,93,917,137"/>
+<area shape="rect" id="node5" href="$d4/d4e/classPHG4ParticleSvtxMap.html#a653ad5e4163a460dc189b2fd0b069bae" title="PHG4ParticleSvtxMap::get" alt="" coords="735,365,933,393"/>
+<area shape="rect" id="node7" href="$d7/d8b/classSvtxTrackMap.html#a08561d1123c35a7f953038f8d684a6d5" title="SvtxTrackMap::get" alt="" coords="761,417,907,445"/>
+<area shape="rect" id="node8" href="$d0/d34/tracks_8C.html#ac926d763061c5568ecb5f5e062e9c778" title="tracks" alt="" coords="803,469,865,497"/>
+<area shape="rect" id="node9" href="$df/dad/classSvtxTrackEval.html#a4397d3a27e4b53b5475e15ec92d43cbb" title="SvtxTrackEval::all\l_tracks_from" alt="" coords="527,276,667,320"/>
+<area shape="rect" id="node32" href="$df/dad/classSvtxTrackEval.html#a1dd0fdc1d1776c7b0b0643a9ab7cf25f" title="SvtxTrackEval::get\l_nclusters_contribution" alt="" coords="508,521,687,565"/>
+<area shape="rect" id="node10" href="$df/dad/classSvtxTrackEval.html#a785fc87054e02f7a0302036b0e9664e7" title="SvtxTrackEval::get\l_track_ckeys" alt="" coords="984,155,1131,199"/>
+<area shape="rect" id="node15" href="$d1/d1e/classSvtxClusterEval.html#ae2d6f811db24d80dac0f4b247de56bcd" title="SvtxClusterEval::all\l_truth_particles" alt="" coords="981,369,1133,413"/>
+<area shape="rect" id="node31" href="$df/dad/classSvtxTrackEval.html#aa97070c7a384cae1a38f4db39c8b5fba" title="SvtxTrackEval::get\l_truth_eval" alt="" coords="984,469,1131,513"/>
+<area shape="rect" id="node11" href="$d2/db8/classSvtxTrack.html#acb4941f7a57a2a9a78e66b42cbbb10ae" title="SvtxTrack::get_tpc_seed" alt="" coords="1204,59,1388,87"/>
+<area shape="rect" id="node12" href="$d2/db8/classSvtxTrack.html#a23d9ea48f961c456c10198df28b1ac23" title="SvtxTrack::get_silicon_seed" alt="" coords="1193,111,1399,139"/>
+<area shape="rect" id="node13" href="$dc/d80/classTrackSeed.html#abf1912560332b934e99c95bc24795730" title="TrackSeed::begin_cluster_keys" alt="" coords="1181,163,1411,191"/>
+<area shape="rect" id="node14" href="$dc/d80/classTrackSeed.html#ab8e91b9697988f41d2ee352285f8ce75" title="TrackSeed::end_cluster_keys" alt="" coords="1188,215,1404,243"/>
+<area shape="rect" id="node16" href="$d1/d1e/classSvtxClusterEval.html#a9d557168b84ca9a814166d6523bfe2fd" title="SvtxClusterEval::has\l_node_pointers" alt="" coords="1482,449,1643,493"/>
+<area shape="rect" id="node17" href="$d1/d1e/classSvtxClusterEval.html#a19f61841db8edf09e606635a790b1d2c" title="SvtxClusterEval::all\l_truth_hits" alt="" coords="1220,337,1372,381"/>
+<area shape="rect" id="node24" href="$d1/d1e/classSvtxClusterEval.html#a71bb4c981bdde92138eda3a7db1975b8" title="SvtxClusterEval::get\l_truth_eval" alt="" coords="1216,469,1376,513"/>
+<area shape="rect" id="node26" href="$d4/de4/classSvtxTruthEval.html#ae575fcf72ce935a72f3c5a157abdd900" title="SvtxTruthEval::get\l_particle" alt="" coords="1223,268,1369,312"/>
+<area shape="rect" id="node18" href="$d7/d4f/classTrkrClusterHitAssoc.html#a79099cbebd11459ea55add96711d119d" title="Get all the hits associated with a cluster by key." alt="" coords="1486,141,1639,185"/>
+<area shape="rect" id="node19" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="1459,209,1667,253"/>
+<area shape="rect" id="node20" href="$d7/d8d/classTrkrHitTruthAssoc.html#aead420bbb592bb8382bfb10a57a0ff30" title="Get cell keys associated with desired hit." alt="" coords="1489,277,1637,321"/>
+<area shape="rect" id="node21" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="1489,345,1636,373"/>
+<area shape="rect" id="node23" href="$d4/d30/classPHG4HitContainer.html#a62c24ef9c00bd714f597939598a87041" title="PHG4HitContainer::findHit" alt="" coords="1463,397,1662,425"/>
+<area shape="rect" id="node22" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1747,345,1870,373"/>
+<area shape="rect" id="node25" href="$d9/d62/classSvtxHitEval.html#a3ac6af06849daeb8da2684cbfea68e08" title="SvtxHitEval::get_truth_eval" alt="" coords="1461,517,1665,545"/>
+<area shape="rect" id="node27" href="$dc/d23/classBaseTruthEval.html#ac3045216b60b1b54d9fdd81e3a07b938" title="which particle left this truth hit?" alt="" coords="1488,73,1637,117"/>
+<area shape="rect" id="node28" href="$d3/d9e/classPHG4Hit.html#ac19cdd97dbd9b8154b8012ec0de01f76" title="PHG4Hit::get_trkid" alt="" coords="1735,141,1882,169"/>
+<area shape="rect" id="node29" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="1716,5,1901,49"/>
+<area shape="rect" id="node30" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="1715,73,1903,117"/>
+<area shape="rect" id="node33" href="$df/dad/classSvtxTrackEval.html#add4977defc053407dcaccf555ab467de" title="SvtxTrackEval::calc\l_cluster_contribution" alt="" coords="752,521,916,565"/>
+<area shape="rect" id="node36" href="$d2/db8/classSvtxTrack.html#aa455c367aed4671a5d34330cad61f7dc" title="SvtxTrack::get_p" alt="" coords="531,796,664,824"/>
+<area shape="rect" id="node37" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="527,848,668,876"/>
+<area shape="rect" id="node38" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="527,692,668,720"/>
+<area shape="rect" id="node39" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="527,744,667,772"/>
+</map>

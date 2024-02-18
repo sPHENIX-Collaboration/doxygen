@@ -1,0 +1,48 @@
+<map id="Acts::CombinatorialKalmanFilter::Actor::operator()" name="Acts::CombinatorialKalmanFilter::Actor::operator()">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a0fb9330028a5f6a2d19ebd1e1c48e0f5" title="Acts::ACTS_VERBOSE" alt="" coords="1175,480,1340,508"/>
+<area shape="rect" id="node3" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a8492310b344821f3602d1c0e431f5874" title="CombinatorialKalmanFilter actor operation:" alt="" coords="259,428,464,472"/>
+<area shape="rect" id="node21" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a5270cc5995eb8a8966efa4b7cc3a1122" title="Acts::CombinatorialKalman\lFilter::Actor::logger" alt="" coords="845,881,1050,925"/>
+<area shape="rect" id="node22" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#ad4c4bf69db2e11c40c999da121d4a1f8" title="CombinatorialKalmanFilter actor operation: material interaction." alt="" coords="832,949,1063,993"/>
+<area shape="rect" id="node40" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a8cacc4f1e8e28179d1f5785a3dc7c960" title="Kalman actor operation: reset propagation." alt="" coords="542,859,747,903"/>
+<area shape="rect" id="node42" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a8f90893aa8d170800f330eda1843d7e8" title="Kalman actor operation: finalize." alt="" coords="542,637,747,681"/>
+<area shape="rect" id="node4" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a8d3de00e0571b81c9cda1b715b0c4b79" title="CombinatorialKalmanFilter actor operation: add a hole or material track state." alt="" coords="512,300,777,344"/>
+<area shape="rect" id="node5" href="$d6/d06/namespaceActs_1_1detail.html#a0e0f42ca1e85e039921add1ba7a948f2" title="It does not check if the transported state is at the surface, this needs to be guaranteed by the prop..." alt="" coords="855,180,1040,208"/>
+<area shape="rect" id="node15" href="$de/d7d/classActs_1_1Surface.html#a3f80b8bc27b461cd9c4d8c39a9fceb53" title="Acts::Surface::associated\lDetectorElement" alt="" coords="549,232,741,276"/>
+<area shape="rect" id="node16" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a77a7f5959c1b72bc993171e62c30454b" title="Acts::CombinatorialKalman\lFilter::Actor::createSourceLink\lTrackStates" alt="" coords="533,96,757,156"/>
+<area shape="rect" id="node19" href="$d2/dce/namespaceActs_1_1MultiTrajectoryHelpers.html#abe60fed5273ebaef1485b500deb8827d" title="Transforms the filtered parameters from a TrackStateProxy to free parameters." alt="" coords="539,11,751,55"/>
+<area shape="rect" id="node20" href="$d3/d07/classActs_1_1GeometryObject.html#abc805e37f184d25c4d25b5f99330125c" title="Acts::GeometryObject\l::geometryId" alt="" coords="1171,771,1343,815"/>
+<area shape="rect" id="node35" href="$de/d7d/classActs_1_1Surface.html#a923534097ac7a9b86a9ee7946041ddf7" title="Acts::Surface::surfaceMaterial" alt="" coords="1145,839,1370,867"/>
+<area shape="rect" id="node39" href="$d4/dc6/classActs_1_1CombinatorialKalmanFilter_1_1Actor.html#a7c7ac4da09fa57902fd0187a8c08327f" title="Acts::CombinatorialKalman\lFilter::Actor::processSelected\lTrackStates" alt="" coords="536,420,753,480"/>
+<area shape="rect" id="node6" href="$d6/d06/namespaceActs_1_1detail.html#a75bad44f969bf3b430239dd074c33f1d" title="Method for on&#45;demand covariance transport of a bound/curvilinear to another bound representation..." alt="" coords="1135,107,1380,151"/>
+<area shape="rect" id="node10" href="$d6/d06/namespaceActs_1_1detail.html#a373051176d14fc9027bfc2a8734f3776" title="Acts::detail::transformFree\lToBoundParameters" alt="" coords="1157,331,1358,375"/>
+<area shape="rect" id="node12" href="$d2/db7/namespacestd_1_1tr1.html#af7e12a0f5b5791b5b7c49a5a17b85359" title="std::tr1::make_tuple" alt="" coords="1179,175,1336,203"/>
+<area shape="rect" id="node13" href="$de/d7d/classActs_1_1Surface.html#a64d681efb4e7ff11c8cfc075d359ba96" title="Acts::Surface::getSharedPtr" alt="" coords="1153,227,1362,255"/>
+<area shape="rect" id="node14" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="1169,279,1345,307"/>
+<area shape="rect" id="node7" href="$d6/d06/namespaceActs_1_1detail.html#a2d329cb6dbd21114be502950a0e2e49c" title="Acts::detail::transformBound\lToFreeParameters" alt="" coords="1471,107,1687,151"/>
+<area shape="rect" id="node8" href="$da/d7b/namespaceActs.html#ade380e3fafcce0335e8f7564adb4af58" title="Acts::makeDirectionFromPhi\lTheta" alt="" coords="1778,77,1990,121"/>
+<area shape="rect" id="node9" href="$de/d7d/classActs_1_1Surface.html#a7b2cbad2c5f7f25915035cc0fa2c6e96" title="Acts::Surface::localToGlobal" alt="" coords="1779,145,1989,173"/>
+<area shape="rect" id="node11" href="$de/d7d/classActs_1_1Surface.html#a28a8d9a49bebefcde3bf757305176b76" title="Acts::Surface::globalToLocal" alt="" coords="1474,339,1685,367"/>
+<area shape="rect" id="node17" href="$d2/d5a/ExaTrkXEdgeBuildingTest_8cpp.html#a6c3fdf667362d0fcd29829e3a34003f8" title="distance" alt="" coords="908,80,987,108"/>
+<area shape="rect" id="node18" href="$da/d55/TPCRateLayered_8m.html#a7507ef556477c204b499f1e189d40796" title="sum" alt="" coords="1232,55,1283,83"/>
+<area shape="rect" id="node23" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#ae34e9a63e62a6c62c2baea2b933fd8f0" title="This function evaluates the material properties to interact with." alt="" coords="1134,1087,1381,1131"/>
+<area shape="rect" id="node26" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#af72a38a4955e14f3661b64fc038a5bdc" title="This function evaluate the material effects." alt="" coords="1117,891,1397,951"/>
+<area shape="rect" id="node36" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#aeb76836f791fdaaa49791ddbf3bed205" title="Update the state." alt="" coords="1145,975,1370,1019"/>
+<area shape="rect" id="node24" href="$de/d7d/classActs_1_1Surface.html#abc1b37b98fdda34da35d19e65ab7c85c" title="Acts::Surface::pathCorrection" alt="" coords="1469,1095,1689,1123"/>
+<area shape="rect" id="node25" href="$da/ddf/classActs_1_1MaterialSlab.html#ab8bce015bb67c770f4cd9d749a888f9e" title="Scale the material thickness by the given factor." alt="" coords="1507,1147,1651,1191"/>
+<area shape="rect" id="node27" href="$da/d7b/namespaceActs.html#a7969e3bd01832c6be8de5ef2c3e070ef" title="Acts::computeEnergyLossBethe" alt="" coords="1461,812,1697,840"/>
+<area shape="rect" id="node29" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a852805642b7f5c67392359904233d7c7" title="Evaluates the contributions to the covariance matrix." alt="" coords="1445,899,1713,943"/>
+<area shape="rect" id="node28" href="$d0/d75/namespacetesting.html#afe42d41d5171234cb9da5da27faeb7e8" title="testing::Ne" alt="" coords="1837,779,1931,807"/>
+<area shape="rect" id="node30" href="$da/d7b/namespaceActs.html#a3dabf99c3b7798ef4ea7ec13c13c5795" title="Acts::computeMultipleScattering\lTheta0" alt="" coords="1763,899,2005,943"/>
+<area shape="rect" id="node32" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="1807,967,1961,1011"/>
+<area shape="rect" id="node33" href="$da/d7b/namespaceActs.html#ae16ecda47ec9e373b988bb80f0bd7ef3" title="Acts::computeEnergyLossLandau\lSigmaQOverP" alt="" coords="1761,831,2007,875"/>
+<area shape="rect" id="node31" href="$da/d7b/namespaceActs.html#ad340f3a8c5e2c06a6912b8537aa08fb4" title="Convert an anti&#45;particle to its particle and leave particles as&#45;is." alt="" coords="2083,907,2313,935"/>
+<area shape="rect" id="node34" href="$da/d7b/namespaceActs.html#aad4db30b6dc42d8043e312d4936ced86" title="Acts::computeEnergyLossLandauFwhm" alt="" coords="2055,839,2341,867"/>
+<area shape="rect" id="node37" href="$df/d93/namespaceautodiff_1_1detail.html#a1002a374a47c67229dd43c66f7ffc449" title="autodiff::detail::copysign" alt="" coords="1789,1035,1979,1063"/>
+<area shape="rect" id="node38" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a3a05a84cb61c00e852e345a09767bdd8" title="Convenience method for better readability." alt="" coords="1467,1027,1692,1071"/>
+<area shape="rect" id="node41" href="$d6/d06/namespaceActs_1_1detail.html#a28fd09a3f9744a42beea19f14db354b8" title="Estimate the loop protection limit." alt="" coords="825,727,1069,755"/>
+<area shape="rect" id="node43" href="$d4/d58/classActs_1_1ObjectMultiIntersection.html#a5c0e324b75e685f975387b76e9d3da53" title="Acts::ObjectMultiIntersection\l::closest" alt="" coords="839,659,1055,703"/>
+<area shape="rect" id="node46" href="$d2/dce/namespaceActs_1_1MultiTrajectoryHelpers.html#a2c1e59cb76d07c1cfff24e7b650805d2" title="Transforms the smoothed parameters from a TrackStateProxy to free parameters." alt="" coords="841,385,1053,429"/>
+<area shape="rect" id="node47" href="$de/d7d/classActs_1_1Surface.html#a2859d0c6bc2adbf4c5fff4ea4bf0061e" title="Acts::Surface::intersect" alt="" coords="857,607,1037,635"/>
+<area shape="rect" id="node44" href="$d4/d58/classActs_1_1ObjectMultiIntersection.html#a07ee819ed447afad523be191568879a3" title="Acts::ObjectMultiIntersection\l::split" alt="" coords="1149,659,1365,703"/>
+<area shape="rect" id="node45" href="$d4/d58/classActs_1_1ObjectMultiIntersection.html#a52cfd6e3698db22b64cbf8e0b26e5550" title="Acts::ObjectMultiIntersection\l::size" alt="" coords="1471,659,1687,703"/>
+</map>

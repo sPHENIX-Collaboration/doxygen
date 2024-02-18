@@ -1,0 +1,41 @@
+<map id="SvtxClusterEval::reco_cluster_from_truth_cluster" name="SvtxClusterEval::reco_cluster_from_truth_cluster">
+<area shape="rect" id="node2" href="$d1/d1e/classSvtxClusterEval.html#a084923c9a81dba1d830b390970ac3c8d" title="SvtxClusterEval::all\l_clusters_from" alt="" coords="285,212,437,256"/>
+<area shape="rect" id="node18" href="$d1/d1e/classSvtxClusterEval.html#a71bb4c981bdde92138eda3a7db1975b8" title="SvtxClusterEval::get\l_truth_eval" alt="" coords="1149,365,1309,409"/>
+<area shape="rect" id="node23" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="279,439,442,483"/>
+<area shape="rect" id="node24" href="$d4/de4/classSvtxTruthEval.html#a6a789385e323a93d5a156d0b868924ed" title="SvtxTruthEval::get\l_truth_hits_from_truth\l_cluster" alt="" coords="275,507,446,567"/>
+<area shape="rect" id="node25" href="$d1/d1e/classSvtxClusterEval.html#a35f83f1ab675db36f9b34667b4053698" title="SvtxClusterEval::getGlobal\lPosition" alt="" coords="260,613,461,657"/>
+<area shape="rect" id="node39" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="1703,945,1851,973"/>
+<area shape="rect" id="node3" href="$d1/d1e/classSvtxClusterEval.html#a376a1d2e98fc7e63fcb2801ae387bb38" title="SvtxClusterEval::FillReco\lClusterFromG4HitCache" alt="" coords="538,212,725,256"/>
+<area shape="rect" id="node12" href="$d1/d1e/classSvtxClusterEval.html#a9d557168b84ca9a814166d6523bfe2fd" title="SvtxClusterEval::has\l_node_pointers" alt="" coords="1429,5,1590,49"/>
+<area shape="rect" id="node4" href="$d1/d1e/classSvtxClusterEval.html#ae2d6f811db24d80dac0f4b247de56bcd" title="SvtxClusterEval::all\l_truth_particles" alt="" coords="860,111,1012,155"/>
+<area shape="rect" id="node20" href="$d0/d2c/classTrkrClusterContainer.html#a9b6a31479d24147db018ac23460ac548" title="return all clusters" alt="" coords="855,315,1017,359"/>
+<area shape="rect" id="node21" href="$d0/d2c/classTrkrClusterContainer.html#a616614c184fce4e85ce993f83191ba2b" title="get hitset key list" alt="" coords="855,179,1017,223"/>
+<area shape="rect" id="node22" href="$da/d6c/classPHG4TruthInfoContainer.html#a1ee31482bc1d9463f16bf4de90273c41" title="Get a range of iterators covering the entire container." alt="" coords="843,247,1029,291"/>
+<area shape="rect" id="node5" href="$d1/d1e/classSvtxClusterEval.html#a19f61841db8edf09e606635a790b1d2c" title="SvtxClusterEval::all\l_truth_hits" alt="" coords="1153,209,1305,253"/>
+<area shape="rect" id="node13" href="$d4/de4/classSvtxTruthEval.html#ae575fcf72ce935a72f3c5a157abdd900" title="SvtxTruthEval::get\l_particle" alt="" coords="1155,113,1302,157"/>
+<area shape="rect" id="node6" href="$d4/d30/classPHG4HitContainer.html#a62c24ef9c00bd714f597939598a87041" title="PHG4HitContainer::findHit" alt="" coords="1410,277,1609,305"/>
+<area shape="rect" id="node7" href="$d7/d8d/classTrkrHitTruthAssoc.html#aead420bbb592bb8382bfb10a57a0ff30" title="Get cell keys associated with desired hit." alt="" coords="1435,141,1583,185"/>
+<area shape="rect" id="node8" href="$d7/d4f/classTrkrClusterHitAssoc.html#a79099cbebd11459ea55add96711d119d" title="Get all the hits associated with a cluster by key." alt="" coords="1433,209,1586,253"/>
+<area shape="rect" id="node9" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="1405,653,1613,697"/>
+<area shape="rect" id="node10" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="1704,576,1851,604"/>
+<area shape="rect" id="node11" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1923,713,2045,741"/>
+<area shape="rect" id="node14" href="$dc/d23/classBaseTruthEval.html#ac3045216b60b1b54d9fdd81e3a07b938" title="which particle left this truth hit?" alt="" coords="1435,73,1584,117"/>
+<area shape="rect" id="node15" href="$d3/d9e/classPHG4Hit.html#ac19cdd97dbd9b8154b8012ec0de01f76" title="PHG4Hit::get_trkid" alt="" coords="1704,81,1851,109"/>
+<area shape="rect" id="node16" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="1685,133,1870,177"/>
+<area shape="rect" id="node17" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="1683,13,1871,57"/>
+<area shape="rect" id="node19" href="$d9/d62/classSvtxHitEval.html#a3ac6af06849daeb8da2684cbfea68e08" title="SvtxHitEval::get_truth_eval" alt="" coords="1407,381,1611,409"/>
+<area shape="rect" id="node26" href="$d3/d64/classActsGeometry.html#a74c2c69effa2b19cde731a6b67806fba" title="ActsGeometry::getGlobalPosition" alt="" coords="509,632,753,660"/>
+<area shape="rect" id="node27" href="$d3/d64/classActsGeometry.html#aef1d7a1753e979a73b28e0ffbe6ab994" title="ActsGeometry::geometry" alt="" coords="1133,485,1325,513"/>
+<area shape="rect" id="node28" href="$d3/d64/classActsGeometry.html#ac2534e5df04d15932c7edb931994888f" title="ActsGeometry::getGlobalPositionTpc" alt="" coords="801,635,1071,663"/>
+<area shape="rect" id="node29" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="1143,537,1314,565"/>
+<area shape="rect" id="node30" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="1143,744,1314,772"/>
+<area shape="rect" id="node32" href="$d0/dcd/structActsSurfaceMaps.html#abb92973b5c8f30db082c275b7b5cfc04" title="ActsSurfaceMaps::getSurface" alt="" coords="1119,692,1339,720"/>
+<area shape="rect" id="node40" href="$d3/d64/classActsGeometry.html#a5de502147722c0e0e8549b706d5d21a8" title="ActsGeometry::maps" alt="" coords="1147,796,1311,824"/>
+<area shape="rect" id="node31" href="$d7/db0/namespaceTpcDefs.html#aafa0c31bf0892588a224d8f0726bff11" title="Get the side from hitsetkey." alt="" coords="1709,640,1846,668"/>
+<area shape="rect" id="node33" href="$d0/dcd/structActsSurfaceMaps.html#a495aa227eb961abc63783e594fb433b2" title="ActsSurfaceMaps::getMMSurface" alt="" coords="1387,893,1631,921"/>
+<area shape="rect" id="node34" href="$d0/dcd/structActsSurfaceMaps.html#ab3b444e968e650e0184aefebcaeaaad4" title="ActsSurfaceMaps::getSilicon\lSurface" alt="" coords="1403,773,1616,817"/>
+<area shape="rect" id="node37" href="$d6/dfa/classTrkrCluster.html#a924282f2bc8a157638a88c551e6e0cba" title="TrkrCluster::getSubSurfKey" alt="" coords="1407,841,1611,869"/>
+<area shape="rect" id="node38" href="$d0/dcd/structActsSurfaceMaps.html#ae3624e0027780ed53abd7335f06b79ed" title="ActsSurfaceMaps::getTpcSurface" alt="" coords="1387,945,1632,973"/>
+<area shape="rect" id="node35" href="$d6/d9e/namespaceInttDefs.html#a7bab06e7aa1e8cbfd063c989a690b8e3" title="Zero the crossing bits in a copy of the hitsetkey." alt="" coords="1680,773,1875,817"/>
+<area shape="rect" id="node36" href="$d8/df1/namespaceMvtxDefs.html#acef48eba67fd28443f939a4594317be6" title="Zero the strobe bits in the hitsetkey." alt="" coords="1681,705,1873,749"/>
+</map>

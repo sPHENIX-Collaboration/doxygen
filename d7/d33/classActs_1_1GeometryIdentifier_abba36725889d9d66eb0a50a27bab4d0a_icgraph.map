@@ -1,0 +1,51 @@
+<map id="Acts::GeometryIdentifier::setBits" name="Acts::GeometryIdentifier::setBits">
+<area shape="rect" id="node2" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ad8026c444eca861f1048624ef65c2134" title="Set the approach identifier." alt="" coords="243,431,432,475"/>
+<area shape="rect" id="node21" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ad16dff2f099c193e28416cd4d8ae4f13" title="Set the boundary identifier." alt="" coords="243,363,432,407"/>
+<area shape="rect" id="node23" href="$d7/d33/classActs_1_1GeometryIdentifier.html#aeeb44522f01facbf69602da5e0626420" title="Set the extra identifier." alt="" coords="243,659,432,703"/>
+<area shape="rect" id="node25" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a78646d595690eed970f9de63db924590" title="Set the layer identifier." alt="" coords="243,727,432,771"/>
+<area shape="rect" id="node38" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a9636e78499137dac07bf22bd65b0ffcc" title="Set the approach identifier &#45; shared with Passive." alt="" coords="243,591,432,635"/>
+<area shape="rect" id="node40" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a2251b0859f703d093338cb9afa1c73a1" title="Set the sensitive identifier." alt="" coords="243,523,432,567"/>
+<area shape="rect" id="node42" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a2fe70f2ef38b9a25d0a4b2cf8714c7b1" title="Set the volume identifier." alt="" coords="243,924,432,968"/>
+<area shape="rect" id="node3" href="$dc/dab/namespaceActs_1_1Python.html#a49f182a504a1cfa573d43b158363ae21" title="Acts::Python::addGeometry" alt="" coords="535,663,744,691"/>
+<area shape="rect" id="node5" href="$da/d28/classActs_1_1Layer.html#a6cf41f704edf1d6c9c9a6d787605a801" title="Acts::Layer::closeGeometry" alt="" coords="535,319,743,347"/>
+<area shape="rect" id="node7" href="$df/dd4/namespaceActsExamples.html#aca47ad627924837a55b3f1ab4ca1749e" title="ActsExamples::from_json" alt="" coords="543,439,735,467"/>
+<area shape="rect" id="node8" href="$d0/d89/RootMaterialDecorator_8cpp.html#a4b8c06d95427a31437458445fdf71d3b" title="while" alt="" coords="611,267,668,295"/>
+<area shape="rect" id="node20" href="$de/d4a/classActsExamples_1_1RootMaterialTrackWriter.html#a34f05d081e594e679b5e06e08513052a" title="ActsExamples::RootMaterial\lTrackWriter::writeT" alt="" coords="534,371,745,415"/>
+<area shape="rect" id="node4" href="$d2/d88/ModuleEntry_8cpp.html#a67bb088b1bb5c0fd6de84f6601af1310" title="PYBIND11_MODULE" alt="" coords="1153,839,1306,867"/>
+<area shape="rect" id="node6" href="$dd/dcd/classActs_1_1TrackingVolume.html#a2b8b7877e6c103d2e9ca6ba725fab215" title="Acts::TrackingVolume\l::closeGeometry" alt="" coords="871,535,1038,579"/>
+<area shape="rect" id="node9" href="$d5/de4/classoncsSub__idinttv0.html#a50b7d1308033a679ffee724ea31d085b" title="oncsSub_idinttv0::intt\l_decode" alt="" coords="870,225,1039,269"/>
+<area shape="rect" id="node13" href="$dc/d7f/classdaq__device__filenumbers.html#a86d8a0fd6da09d9bde958d8413c5b165" title="daq_device_filenumbers\l::put_data" alt="" coords="862,293,1047,337"/>
+<area shape="rect" id="node14" href="$de/d34/classoncsSub__idtpcfeev2.html#ac3c6defe80373b4dc4e7d6036bfda0cc" title="oncsSub_idtpcfeev2\l::tpc_decode" alt="" coords="877,361,1033,405"/>
+<area shape="rect" id="node16" href="$d9/d64/classoncsSub__idtpcfeev3.html#afb49db7473ab1d1d4da518aa679bb41f" title="oncsSub_idtpcfeev3\l::tpc_decode" alt="" coords="877,95,1033,139"/>
+<area shape="rect" id="node10" href="$d5/de4/classoncsSub__idinttv0.html#a4ec410699ba170018e1cbe840ba8a728" title="oncsSub_idinttv0::dump" alt="" coords="1396,245,1581,273"/>
+<area shape="rect" id="node11" href="$d5/de4/classoncsSub__idinttv0.html#a29187c5e89fe45d547abd73699656e9a" title="oncsSub_idinttv0::iValue" alt="" coords="1136,245,1323,273"/>
+<area shape="rect" id="node12" href="$d5/de4/classoncsSub__idinttv0.html#ae19b61e388e7bc019d7e6846a1342590" title="oncsSub_idinttv0::lValue" alt="" coords="1136,297,1323,325"/>
+<area shape="rect" id="node15" href="$de/d34/classoncsSub__idtpcfeev2.html#a45250d269bec7e52578d1fbb4ff464cd" title="oncsSub_idtpcfeev2\l::iValue" alt="" coords="1151,361,1307,405"/>
+<area shape="rect" id="node17" href="$d9/d64/classoncsSub__idtpcfeev3.html#aadda7b7b96c17b843ee26aec4f224eac" title="oncsSub_idtpcfeev3\l::dump" alt="" coords="1411,65,1567,109"/>
+<area shape="rect" id="node18" href="$d9/d64/classoncsSub__idtpcfeev3.html#ab3e7ed94690a7c56c72887e34ef5b5e0" title="SAMPA waveform interfaces." alt="" coords="1151,125,1307,169"/>
+<area shape="rect" id="node19" href="$d9/d64/classoncsSub__idtpcfeev3.html#a6a254d56a50daf485e8187301c9a2028" title="Expose the Level 1 trigger and endat taggers." alt="" coords="1151,5,1307,49"/>
+<area shape="rect" id="node22" href="$df/d97/exceptionActs_1_1Experimental_1_1GeometryIdGenerator.html#a001a0460f89e33ae66df57414a515f0a" title="Method for assigning a geometry id to a portal." alt="" coords="550,131,729,191"/>
+<area shape="rect" id="node24" href="$dd/d7e/namespaceActs_1_1Test.html#a50b256557b44fa320e69f5606fec03e0" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="545,715,733,759"/>
+<area shape="rect" id="node26" href="$df/d97/exceptionActs_1_1Experimental_1_1GeometryIdGenerator.html#a3b8ffe8b1446f98f526aa9a9d8773607" title="Helper method to get the volume id from the cache." alt="" coords="550,955,729,1015"/>
+<area shape="rect" id="node27" href="$d2/db5/structActsExamples_1_1DigitizationConfigurator.html#a77e16bbda2f2ffb4a8db57df385e9860" title="ActsExamples::Digitization\lConfigurator::operator()" alt="" coords="538,887,741,931"/>
+<area shape="rect" id="node28" href="$df/dd4/namespaceActsExamples.html#a5d961f053cac8b1e1ebf373b9f31b9a0" title="Select all elements within the given layer." alt="" coords="537,1091,741,1119"/>
+<area shape="rect" id="node36" href="$dd/d39/namespacedetail.html#a7a02485f34470e8cec52dc75121bb9c1" title="detail::parseMapKey" alt="" coords="559,835,719,863"/>
+<area shape="rect" id="node29" href="$dd/d9f/classActsExamples_1_1HitsPrinter.html#a144c83073dc245ec4a3ea06ccbda28e7" title="ActsExamples::HitsPrinter\l::execute" alt="" coords="856,1075,1053,1119"/>
+<area shape="rect" id="node30" href="$df/dd4/namespaceActsExamples.html#a26e8aa34f8cef7099e0ac5e63009f4cd" title="ActsExamples::selectLayer" alt="" coords="853,955,1057,983"/>
+<area shape="rect" id="node31" href="$df/dd4/namespaceActsExamples.html#af5b70eaeb7e32865721a100abda978ce" title="ActsExamples::selectLowest\lNonZeroGeometryObject" alt="" coords="848,1143,1061,1187"/>
+<area shape="rect" id="node35" href="$dc/dab/namespaceActs_1_1Python.html#aca3ea7934da619bd69ba9f9562cbde41" title="Acts::Python::addExample\lAlgorithms" alt="" coords="855,1007,1055,1051"/>
+<area shape="rect" id="node32" href="$d7/d04/exceptionActsExamples_1_1HoughTransformSeeder.html#a0dab4dc51a10c72acf99289cad25b6e3" title="ActsExamples::HoughTransform\lSeeder::addMeasurements" alt="" coords="1111,1075,1348,1119"/>
+<area shape="rect" id="node33" href="$d4/d6c/exceptionActsExamples_1_1SpacePointMaker.html#aee41b6ebb8adf6001a9d8e20981aff6a" title="ActsExamples::SpacePoint\lMaker::execute" alt="" coords="1129,1143,1330,1187"/>
+<area shape="rect" id="node34" href="$d7/d12/exceptionActsExamples_1_1MeasurementMapSelector.html#ac0646010ff4cd93a0a4d1f1484b5af12" title="ActsExamples::Measurement\lMapSelector::execute" alt="" coords="1119,1211,1339,1255"/>
+<area shape="rect" id="node37" href="$dd/d39/namespacedetail.html#a358ba3904d73cadd3bf8b2cd6971f909" title="detail::readMaps" alt="" coords="887,835,1022,863"/>
+<area shape="rect" id="node39" href="$d8/dd9/classSurfaceGeoIdGenerator.html#ae44fabb56c67589be554224836851864" title="SurfaceGeoIdGenerator\l::assignGeometryId" alt="" coords="549,595,730,639"/>
+<area shape="rect" id="node41" href="$d6/df6/DetectorTests_8cpp.html#a2e5f22a89329fda5a1488d59f14d8465" title="BOOST_AUTO_TEST_CASE" alt="" coords="541,491,737,519"/>
+<area shape="rect" id="node43" href="$df/dd4/namespaceActsExamples.html#a4fc10faa4562fc6b1871698519c13b13" title="Select all elements within the given volume." alt="" coords="531,1143,747,1171"/>
+<area shape="rect" id="node45" href="$df/dac/Common_2HoughExample_8cpp.html#aff4bad8a17b19cc4713b773b667da9c8" title="runHoughExample" alt="" coords="566,1315,713,1343"/>
+<area shape="rect" id="node47" href="$df/da6/MeasurementsToSpacepoints_8cpp.html#a3d86e2ea260cf491650dedf294c962d5" title="runMeasurementsToSP" alt="" coords="552,1263,727,1291"/>
+<area shape="rect" id="node49" href="$d7/d3f/classActs_1_1GeometryHierarchyMapJsonConverter.html#a6054c203930739601bc68e4ef3fb4c96" title="Decode a geometry identifier from a json object." alt="" coords="480,1367,799,1443"/>
+<area shape="rect" id="node50" href="$da/df7/classVolumeGeoIdGenerator.html#a7c6fa2f87b807e15bcb89ede7f2050d4" title="VolumeGeoIdGenerator\l::assignGeometryId" alt="" coords="548,1195,731,1239"/>
+<area shape="rect" id="node44" href="$df/dd4/namespaceActsExamples.html#a9dd4e5332db2cd1ef9c939ab82d08cd3" title="Select all elements within the given volume." alt="" coords="847,1211,1063,1239"/>
+<area shape="rect" id="node46" href="$d7/d58/HoughExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="927,1315,982,1343"/>
+<area shape="rect" id="node48" href="$d5/d71/MeasurementsToSPGeneric_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="927,1263,982,1291"/>
+</map>

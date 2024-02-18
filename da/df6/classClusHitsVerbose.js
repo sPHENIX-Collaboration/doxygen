@@ -1,0 +1,26 @@
+var classClusHitsVerbose =
+[
+    [ "BinData", "da/df6/classClusHitsVerbose.html#a4924f7205290ab22e3126926a572e3be", null ],
+    [ "Map", "da/df6/classClusHitsVerbose.html#a9f204c0a1127c0796b38964d24a96c29", null ],
+    [ "PairVector", "da/df6/classClusHitsVerbose.html#a48d64ce5d4bd173be9d4a5670bb94e69", null ],
+    [ "VecInt", "da/df6/classClusHitsVerbose.html#affda4ddfb817bb1dd38efbb4ea9d0bc4", null ],
+    [ "Vector", "da/df6/classClusHitsVerbose.html#ad64c710a155858ba8bf07c9158f22e0a", null ],
+    [ "ClusHitsVerbose", "da/df6/classClusHitsVerbose.html#a51418b92e886339ef1c117548a3b4c5e", null ],
+    [ "addPhiCutHit", "da/df6/classClusHitsVerbose.html#ab9feeae69eaeafbaf6044c4e3c0a4a54", null ],
+    [ "addPhiHit", "da/df6/classClusHitsVerbose.html#a4e2fbd8ed85d68ed5bed594bcb099f9d", null ],
+    [ "addZCutHit", "da/df6/classClusHitsVerbose.html#ab889881e97a800266a47be77ec3573ea", null ],
+    [ "addZHit", "da/df6/classClusHitsVerbose.html#a2a4336f091a2d8db22baded2633503b3", null ],
+    [ "getMap", "da/df6/classClusHitsVerbose.html#aa432e7e275a82dfe62bf1eabda9db15a", null ],
+    [ "hasClusKey", "da/df6/classClusHitsVerbose.html#ab9c4910c9c49be570f3794b16c33b8d1", null ],
+    [ "identify", "da/df6/classClusHitsVerbose.html#ada3046a2a90f04503978915a1acabd37", null ],
+    [ "phiBins", "da/df6/classClusHitsVerbose.html#a9c1e6a0a6dd6c0ca171d21b0871a1b18", null ],
+    [ "phiBins_pvecIE", "da/df6/classClusHitsVerbose.html#aba7692f927a4366b737a44062cd6b238", null ],
+    [ "phiCutBins", "da/df6/classClusHitsVerbose.html#a73b6f6a3393e943daba0a8181e2ffc7c", null ],
+    [ "phiCutBins_pvecIE", "da/df6/classClusHitsVerbose.html#a1a7a3cfa3aa1706d7a21008cb3cc802c", null ],
+    [ "push_hits", "da/df6/classClusHitsVerbose.html#a3c03d1cec64e4fbe47989ab38668a1f4", null ],
+    [ "Reset", "da/df6/classClusHitsVerbose.html#adbdccb01ae3cfa9717fb7c2b5278efad", null ],
+    [ "zBins", "da/df6/classClusHitsVerbose.html#a18bb9151ddb2095a36550c25c94abb54", null ],
+    [ "zBins_pvecIE", "da/df6/classClusHitsVerbose.html#a0e64c7394b0867c06594e42bce8d206e", null ],
+    [ "zCutBins", "da/df6/classClusHitsVerbose.html#a0623f67617d49d89598c72b86f703475", null ],
+    [ "zCutBins_pvecIE", "da/df6/classClusHitsVerbose.html#af203ec4b0f0cdc37789ca27765cefb01", null ]
+];

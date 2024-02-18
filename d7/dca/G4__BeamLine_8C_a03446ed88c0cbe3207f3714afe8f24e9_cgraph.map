@@ -1,0 +1,20 @@
+<map id="BeamLineDefineMagnets" name="BeamLineDefineMagnets">
+<area shape="rect" id="node2" href="$d7/dca/G4__BeamLine_8C.html#a840e5c09ec31e0b45644355c49c4bb98" title="AngleFlip" alt="" coords="321,5,406,33"/>
+<area shape="rect" id="node3" href="$df/d7a/namespaceG4BEAMLINE.html#a57daf882a46eb7f79a77cd7b867f05c0" title="G4BEAMLINE::BackwardBeam\lLineEnclosure" alt="" coords="252,57,475,101"/>
+<area shape="rect" id="node4" href="$d5/d29/classPHG4DetectorSubsystem.html#a59a7a51adb7ebe0fdbc9d41e97ac8fd6" title="PHG4DetectorSubsystem\l::BlackHole" alt="" coords="267,125,459,169"/>
+<area shape="rect" id="node5" href="$df/d7a/namespaceG4BEAMLINE.html#ae1211eb6ccf9848e54443fc46988d29d" title="G4BEAMLINE::ForwardBeamLine\lEnclosure" alt="" coords="244,193,483,237"/>
+<area shape="rect" id="node6" href="$d7/dca/G4__BeamLine_8C.html#a6c2ab2a9389d8d82f5a1a23984564db9" title="MagFieldFlip" alt="" coords="311,261,416,289"/>
+<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="267,313,459,357"/>
+<area shape="rect" id="node8" href="$d7/dca/G4__BeamLine_8C.html#a778da027d5859ef58f34011bb15df6a3" title="PosFlip" alt="" coords="329,381,397,409"/>
+<area shape="rect" id="node9" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="250,433,477,461"/>
+<area shape="rect" id="node10" href="$db/dc5/classPHG4CylinderSubsystem.html#a720cfcefbc8548018e28bbad59acaab3" title="PHG4CylinderSubsystem\l::set_color" alt="" coords="269,485,458,529"/>
+<area shape="rect" id="node11" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="267,553,459,597"/>
+<area shape="rect" id="node12" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="267,621,459,665"/>
+<area shape="rect" id="node13" href="$d5/d29/classPHG4DetectorSubsystem.html#adf60f69cc9a72740cf39329f91a96451" title="PHG4DetectorSubsystem\l::SetAbsorberActive" alt="" coords="267,689,459,733"/>
+<area shape="rect" id="node14" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="267,757,459,801"/>
+<area shape="rect" id="node15" href="$db/df7/classPHG4Subsystem.html#ac78574e8db50df21c354ebb23c779dab" title="PHG4Subsystem::SetMother\lSubsystem" alt="" coords="257,825,469,869"/>
+<area shape="rect" id="node18" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="267,893,459,937"/>
+<area shape="rect" id="node19" href="$d5/dec/classFun4AllBase.html#a05da2261577843028cf78e99171343b9" title="Sets the verbosity of this module (0 by default=quiet)." alt="" coords="275,961,451,989"/>
+<area shape="rect" id="node16" href="$db/df7/classPHG4Subsystem.html#a46114ad1fae6087925acbc758430620e" title="PHG4Subsystem::CanBeMother\lSubsystem" alt="" coords="531,796,765,840"/>
+<area shape="rect" id="node17" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="571,864,725,892"/>
+</map>

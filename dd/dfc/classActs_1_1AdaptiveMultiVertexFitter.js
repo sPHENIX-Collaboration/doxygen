@@ -1,0 +1,26 @@
+var classActs_1_1AdaptiveMultiVertexFitter =
+[
+    [ "Config", "dc/db1/structActs_1_1AdaptiveMultiVertexFitter_1_1Config.html", "dc/db1/structActs_1_1AdaptiveMultiVertexFitter_1_1Config" ],
+    [ "State", "d7/d8b/structActs_1_1AdaptiveMultiVertexFitter_1_1State.html", "d7/d8b/structActs_1_1AdaptiveMultiVertexFitter_1_1State" ],
+    [ "InputTrack_t", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a8a044efe63ed89a8069d2211b93e3449", null ],
+    [ "IPEstimator", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a6200758bd7290bff1df93b51ad6b7e3a", null ],
+    [ "Linearizer_t", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a9b5921373a79caf03455b9c19b783045", null ],
+    [ "Propagator_t", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#ad88b0c2951f883054f43b6d54706d2b7", null ],
+    [ "AdaptiveMultiVertexFitter", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#abfd7423afad06ce03f284abde660957f", null ],
+    [ "AdaptiveMultiVertexFitter", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#ac18edd90b0cd0860ea24a7c931bdcb99", null ],
+    [ "addVtxToFit", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a43b4c33d0274ea135114b7a5eb8e9edd", null ],
+    [ "checkSmallShift", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#ab1f92d0330f126d6a8821974ea8e31da", null ],
+    [ "collectTrackToVertexCompatibilities", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a3d95088e4a9aaedf0cf545e2e24882b8", null ],
+    [ "doVertexSmoothing", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#afe55a15dfc02b408a188d875727d667d", null ],
+    [ "fit", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a8da30c6f8c9cfdd9fb93459ab329125f", null ],
+    [ "fitImpl", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a390e8cdc8a2786815b6db04c02b83f35", null ],
+    [ "isAlreadyInList", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a096f7652da557397ae4fd0670d09137a", null ],
+    [ "logger", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a82b49b68afa8698d0f4c275a9eb819b7", null ],
+    [ "m_logger", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a784fea6ea7c747e58f2c192baefdc68d", null ],
+    [ "prepareVertexForFit", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a45ac39bfee12faa882f923ce44bf0ea2", null ],
+    [ "setAllVertexCompatibilities", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a18e3c009819e3b24626fa5c111d39928", null ],
+    [ "setWeightsAndUpdate", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a2354246bea1f51e0f7fa30d2442a1e3b", null ],
+    [ "m_cfg", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#ad829e01603f6ddef57e2659302d324df", null ],
+    [ "m_extractParameters", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a0e66fdde3db7cbe2f9f6d3ab830a008b", null ],
+    [ "m_logger", "dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a2c7b01d895f038740d3bba1f1c9bc4ea", null ]
+];

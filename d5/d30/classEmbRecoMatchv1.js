@@ -1,0 +1,27 @@
+var classEmbRecoMatchv1 =
+[
+    [ "~EmbRecoMatchv1", "d5/d30/classEmbRecoMatchv1.html#aa5590aeb24b99106209dce6b7e1f0111", null ],
+    [ "EmbRecoMatchv1", "d5/d30/classEmbRecoMatchv1.html#a3aa0dee50c0b09bfe6dfdcca8bd3736d", null ],
+    [ "add_match", "d5/d30/classEmbRecoMatchv1.html#a2f60a1fc25c3c555928804cb11ebf874", null ],
+    [ "identify", "d5/d30/classEmbRecoMatchv1.html#af535c81fc5f5356fa7616a90c77624de", null ],
+    [ "idRecoTrack", "d5/d30/classEmbRecoMatchv1.html#acb5ff4bbde9b55245ccb3eb75a77d129", null ],
+    [ "idSvtxTrackSeed", "d5/d30/classEmbRecoMatchv1.html#a20b45cfb43cb247f6e4a275ecf58d106", null ],
+    [ "idTpcTrackSeed", "d5/d30/classEmbRecoMatchv1.html#ac20a6cb0d73b62f01f7bf2097dccb318", null ],
+    [ "idTruthTrack", "d5/d30/classEmbRecoMatchv1.html#a7a8ed405b4298ed90deeb7fdef75668e", null ],
+    [ "nClustersMatched", "d5/d30/classEmbRecoMatchv1.html#ab3946a1f0756ed8c0a438cad5dd20c67", null ],
+    [ "nClustersReco", "d5/d30/classEmbRecoMatchv1.html#ac548f6b157dcc374548051f591693490", null ],
+    [ "nClustersTruth", "d5/d30/classEmbRecoMatchv1.html#a6c56d9c834c44a88ce21523279822f0e", null ],
+    [ "nMatches", "d5/d30/classEmbRecoMatchv1.html#ad500302a3e86d08101f2c00771e6bd00", null ],
+    [ "m_idTruthTrack", "d5/d30/classEmbRecoMatchv1.html#a944d8584067f6e210c71f0ff6458e5ba", null ],
+    [ "m_matches", "d5/d30/classEmbRecoMatchv1.html#afb74e16162effcb50e2ac48fa299bc8c", null ],
+    [ "m_matches", "d5/d30/classEmbRecoMatchv1.html#af274a9c446189e2f6b70f3b2c1aa962e", null ],
+    [ "m_nClustersTruth", "d5/d30/classEmbRecoMatchv1.html#a4c8c9ec6d07171ad44d836d220aa63c9", null ],
+    [ "m_nClustersTruth", "d5/d30/classEmbRecoMatchv1.html#a0b9255e42a5d2c339ef1158e90cd1b1c", null ],
+    [ "m_nMatches", "d5/d30/classEmbRecoMatchv1.html#abad96ca6c38c5c07163d11f4a53f237a", null ],
+    [ "m_nMatches", "d5/d30/classEmbRecoMatchv1.html#ae36164304a094784552cc6b209ae5d4a", null ],
+    [ "MATCH_idReco", "d5/d30/classEmbRecoMatchv1.html#ae748ac2e47080eed99511e32e8a52a2a", null ],
+    [ "MATCH_idSvtxSeed", "d5/d30/classEmbRecoMatchv1.html#afb920a1b79925d5a2dfd0884c38df89a", null ],
+    [ "MATCH_idTpcSeed", "d5/d30/classEmbRecoMatchv1.html#a04cadb5ab8194cfb581e25f702ce5545", null ],
+    [ "MATCH_nClustersMatched", "d5/d30/classEmbRecoMatchv1.html#abe38727d7a112fe9387e20cb4ee234a8", null ],
+    [ "MATCH_nClustersReco", "d5/d30/classEmbRecoMatchv1.html#a902b3235296b89fad2a2cd55a19ddb3d", null ]
+];

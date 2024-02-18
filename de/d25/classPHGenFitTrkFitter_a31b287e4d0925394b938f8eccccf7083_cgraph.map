@@ -1,0 +1,51 @@
+<map id="PHGenFitTrkFitter::InitRun" name="PHGenFitTrkFitter::InitRun">
+<area shape="rect" id="node2" href="$de/d25/classPHGenFitTrkFitter.html#a3d203db8c0f19a4ef29c5f64188bb58c" title="Create New nodes." alt="" coords="249,839,395,883"/>
+<area shape="rect" id="node6" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="513,899,689,927"/>
+<area shape="rect" id="node7" href="$d3/d2b/classPHTFileServer.html#a5a3ed7a2a70cc2e38dbe1cb33afe9c2f" title="return reference to class singleton" alt="" coords="249,959,395,987"/>
+<area shape="rect" id="node8" href="$df/d4d/classPHFieldUtility.html#a3afdd4e878d02b30b6f2c396e52b8e48" title="Get transient PHField from DST nodes. If not found, make a new one based on default_config." alt="" coords="235,645,409,689"/>
+<area shape="rect" id="node30" href="$d1/d35/classPHGenFit_1_1Fitter.html#ad3729fabd2bd8a7feebbd79317b38a77" title="PHGenFit::Fitter::getInstance" alt="" coords="215,1011,429,1039"/>
+<area shape="rect" id="node44" href="$d2/da1/classPHGeomUtility.html#aa80925b14430021ea70d0b906af8e885" title="Main user interface: DST node &#45;&gt; TGeoManager for downstream use." alt="" coords="199,1063,445,1091"/>
+<area shape="rect" id="node48" href="$de/d25/classPHGenFitTrkFitter.html#a67f735f5dcbe7444b69c04cfb6ca26b8" title="PHGenFitTrkFitter::\linit_eval_tree" alt="" coords="249,1115,395,1159"/>
+<area shape="rect" id="node49" href="$d3/d2b/classPHTFileServer.html#aaae99c6748eb17d5f8d7df375bc6d615" title="open a SafeTFile. If filename is not found in the map, create a new TFile and append to the map; incr..." alt="" coords="243,1183,401,1211"/>
+<area shape="rect" id="node3" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="787,781,975,809"/>
+<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="1094,744,1231,772"/>
+<area shape="rect" id="node5" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="1090,796,1235,824"/>
+<area shape="rect" id="node9" href="$df/d4d/classPHFieldUtility.html#a2a6d0bd545c3ec0d6695fd455fded86b" title="Build or build field map with a configuration object." alt="" coords="495,252,708,280"/>
+<area shape="rect" id="node17" href="$df/d4d/classPHFieldUtility.html#a07ef04ada5649c7a0873d275420df255" title="DST node name for RunTime field map object." alt="" coords="501,645,702,689"/>
+<area shape="rect" id="node18" href="$df/d4d/classPHFieldUtility.html#a822dcd7d1978f7a23a5f6f26b13f2468" title="Get persistent PHGeomIOTGeo from DST nodes. If not found, make a new one." alt="" coords="515,577,688,621"/>
+<area shape="rect" id="node22" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="791,705,972,733"/>
+<area shape="rect" id="node29" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="791,465,972,493"/>
+<area shape="rect" id="node10" href="$d9/d8c/classPHFieldConfig.html#a4b51387f91ab20a8d537819102aa95b2" title="PHFieldConfig::get\l_field_config" alt="" coords="808,209,955,253"/>
+<area shape="rect" id="node11" href="$d9/d8c/classPHFieldConfig.html#a49d0bd7e2e150074e735a47bbb4c05c6" title="field value in Tesla for uniform field model ONLY for PHFieldConfig_v2" alt="" coords="808,277,955,321"/>
+<area shape="rect" id="node12" href="$d9/d8c/classPHFieldConfig.html#a3df85ac04c7899fb74d90393c29a680a" title="field value in Tesla for uniform field model ONLY for PHFieldConfig_v2" alt="" coords="808,345,955,389"/>
+<area shape="rect" id="node13" href="$d9/d8c/classPHFieldConfig.html#a6322d2c7c5107ee1faac0fd163bc9a67" title="field value in Tesla for uniform field model ONLY for PHFieldConfig_v2" alt="" coords="808,5,955,49"/>
+<area shape="rect" id="node14" href="$d9/d8c/classPHFieldConfig.html#a71d2542effbedda6c27a10c5fbbcb3c3" title="PHFieldConfig::get\l_filename" alt="" coords="808,73,955,117"/>
+<area shape="rect" id="node15" href="$d9/d8c/classPHFieldConfig.html#a2528025d5db34d08bc418b2acc1bd166" title="PHFieldConfig::get\l_magfield_rescale" alt="" coords="808,141,955,185"/>
+<area shape="rect" id="node16" href="$d9/d8c/classPHFieldConfig.html#aebf3d60f40704f8ad76ccb0f8a614f46" title="PHFieldConfig::identify" alt="" coords="794,413,969,441"/>
+<area shape="rect" id="node19" href="$d9/d24/classPHObject.html#a73715f9eb6a05b9d7b8db898be0087bb" title="Virtual copy constructor." alt="" coords="806,653,957,681"/>
+<area shape="rect" id="node20" href="$df/d4d/classPHFieldUtility.html#a5e2323118f8ce5c3d9eeb849d0fc40af" title="PHFieldUtility::DefaultField\lConfig" alt="" coords="782,517,981,561"/>
+<area shape="rect" id="node21" href="$df/d4d/classPHFieldUtility.html#a92c5072e604275392df5081946c85b28" title="DST node name for persistent field configuration node." alt="" coords="775,585,987,629"/>
+<area shape="rect" id="node23" href="$da/d29/classFun4AllServer.html#a90e27f05f0b2e8b6fe462387b14bfb92" title="Fun4AllServer::Fun4AllServer" alt="" coords="1053,692,1272,720"/>
+<area shape="rect" id="node24" href="$da/d29/classFun4AllServer.html#aa1939c3e2c3113cce0a6415103b4f5a5" title="Fun4AllServer::InitAll" alt="" coords="1320,692,1483,720"/>
+<area shape="rect" id="node25" href="$da/d29/classFun4AllServer.html#a2ebfcdcf706670c98c189bfa93c3ff89" title="Fun4AllServer::InitNodeTree" alt="" coords="1531,601,1741,629"/>
+<area shape="rect" id="node26" href="$d5/d4f/classFun4AllMonitoring.html#a4d2dc73220d8300c356f258b8c6283a8" title="Fun4AllMonitoring::\linstance" alt="" coords="1560,653,1712,697"/>
+<area shape="rect" id="node27" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="1559,721,1713,749"/>
+<area shape="rect" id="node28" href="$da/d29/classFun4AllServer.html#a1d7daeb59511a7dc61a2566f4116a6ec" title="Fun4AllServer::registerHisto" alt="" coords="1531,773,1741,801"/>
+<area shape="rect" id="node31" href="$d0/d75/namespacetesting.html#a4df3849391696aa93ac3a7703a717c2a" title="testing::Field" alt="" coords="827,833,935,861"/>
+<area shape="rect" id="node33" href="$d1/d35/classPHGenFit_1_1Fitter.html#ab245e2833a4d6880cc1c836bc46389b2" title="Default constructor." alt="" coords="516,1012,687,1040"/>
+<area shape="rect" id="node32" href="$d0/d75/namespacetesting.html#a667ca94f190ec2e17ee2fbfdb7d3da04" title="testing::MakePolymorphic\lMatcher" alt="" coords="1065,848,1261,892"/>
+<area shape="rect" id="node34" href="$de/d8e/classgenfit_1_1FieldManager.html#aaf0b56fea4f0deb428de8749febf792d" title="Get singleton instance." alt="" coords="801,1225,962,1269"/>
+<area shape="rect" id="node36" href="$de/d8e/classgenfit_1_1FieldManager.html#a0360198b189d2d5acaebfca7a468437e" title="set the magnetic field here. Magnetic field classes must be derived from AbsBField." alt="" coords="801,885,962,929"/>
+<area shape="rect" id="node37" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a15a93d367165ade368e6caec713d0934" title="genfit::MaterialEffects\l::getInstance" alt="" coords="796,953,967,997"/>
+<area shape="rect" id="node39" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a9c604002cb66d43e99da8802e3b8918e" title="set the material interface here. Material interface classes must be derived from AbsMaterialInterface..." alt="" coords="796,1021,967,1065"/>
+<area shape="rect" id="node41" href="$d4/d1a/classgenfit_1_1EventDisplay.html#acc398c4fb9fce23fbc106453d5a55718" title="genfit::EventDisplay\l::getInstance" alt="" coords="802,1089,961,1133"/>
+<area shape="rect" id="node43" href="$d8/db3/classgenfit_1_1Exception.html#adc12ce3fb68f9869627e0551a5a7822c" title="&quot;std::cerr &lt;&lt; e.what();&quot; will not write anything." alt="" coords="809,1157,953,1201"/>
+<area shape="rect" id="node35" href="$de/d8e/classgenfit_1_1FieldManager.html#a01194f10c4efe8d19286492ba01e104e" title="genfit::FieldManager\l::FieldManager" alt="" coords="1082,1225,1243,1269"/>
+<area shape="rect" id="node38" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a0cab227e2f45bd20ba63cf1b2ad260be" title="genfit::MaterialEffects\l::MaterialEffects" alt="" coords="1077,953,1248,997"/>
+<area shape="rect" id="node40" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="1093,1029,1232,1057"/>
+<area shape="rect" id="node42" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a3aa96da8f0486f3420b620cebb6b9f00" title="genfit::EventDisplay\l::EventDisplay" alt="" coords="1083,1089,1242,1133"/>
+<area shape="rect" id="node45" href="$d7/d6d/classPHGeomTGeo.html#abdec55181f592bbdd6e63882d83b4c5f" title="isValid returns non zero if object contains vailid data" alt="" coords="517,1065,685,1093"/>
+<area shape="rect" id="node47" href="$d7/d6d/classPHGeomTGeo.html#a3e111f6229f7ce6392b14a98fdf5bea9" title="PHGeomTGeo::GetGeometry" alt="" coords="493,1119,709,1147"/>
+<area shape="rect" id="node46" href="$d7/d6d/classPHGeomTGeo.html#af37739b87530fe2bbd5d8d03098c1821" title="PHGeomTGeo::ConsistencyCheck" alt="" coords="757,1293,1005,1321"/>
+<area shape="rect" id="node50" href="$da/dbc/classPHTFileServer_1_1SafeTFile.html#af878cc9c0b4dbe271c278d16aacd7fc4" title="PHTFileServer::SafeTFile\l::file_map" alt="" coords="509,1175,693,1219"/>
+</map>

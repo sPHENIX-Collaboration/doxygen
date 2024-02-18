@@ -1,0 +1,35 @@
+var classActs_1_1TrapezoidVolumeBounds =
+[
+    [ "BoundValues", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#accfa85a0833b4a795ff09a9283bc69f2", [
+      [ "eHalfLengthXnegY", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#accfa85a0833b4a795ff09a9283bc69f2a14470b811c896c201bb59ad6315becf3", null ],
+      [ "eHalfLengthXposY", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#accfa85a0833b4a795ff09a9283bc69f2a9e48364d3ec9e64848928c0dbe62fd94", null ],
+      [ "eHalfLengthY", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#accfa85a0833b4a795ff09a9283bc69f2af0f7f73234f52cef724af7b47ecd5e91", null ],
+      [ "eHalfLengthZ", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#accfa85a0833b4a795ff09a9283bc69f2a568f8a91c4ebf841ca3c84d396babe8c", null ],
+      [ "eAlpha", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#accfa85a0833b4a795ff09a9283bc69f2acf3843a4edc1576d9903afc503fadddb", null ],
+      [ "eBeta", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#accfa85a0833b4a795ff09a9283bc69f2a699ed56f4a2c313e04ffbc42064306e6", null ],
+      [ "eSize", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#accfa85a0833b4a795ff09a9283bc69f2a836494cbc616bfee978d729f82c3e760", null ]
+    ] ],
+    [ "TrapezoidVolumeBounds", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a68f0bb62a94c63a43e286809775447f1", null ],
+    [ "TrapezoidVolumeBounds", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#ac566b8bbd22b9b44f63c6d088a71bd48", null ],
+    [ "TrapezoidVolumeBounds", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a48a18f8ce37f212d0b2ad04579a6ea9a", null ],
+    [ "TrapezoidVolumeBounds", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a4f0c5434cf03d13497722efea4e57a0a", null ],
+    [ "TrapezoidVolumeBounds", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#abc12807d3c8c3337f3710aef6dbedf86", null ],
+    [ "~TrapezoidVolumeBounds", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a91dd6ad1c050f44d24c9ef3a78cd1477", null ],
+    [ "boundingBox", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a293ca3cbf951933f2f71591ac4377594", null ],
+    [ "buildSurfaceBounds", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#ab7cae0be068f31907ae9b1bce0337f1e", null ],
+    [ "checkConsistency", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a1567fb6f849b453f78674fa18372d768", null ],
+    [ "dumpT", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a6821d8fe7f8ff508668f1985bfb153a8", null ],
+    [ "get", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a85780d4b84ee87192f9e6aa98e69b6f6", null ],
+    [ "inside", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a730e7b4504ec9c4f1afcd9032a56a6a8", null ],
+    [ "operator=", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#ad1d67e9e76c9b42380be9ffa9f8e0502", null ],
+    [ "orientedSurfaces", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a7e8e9c5d1e8860bc04e42852f2002bc1", null ],
+    [ "toStream", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a0df347175bd64e4d0069271315c25ab7", null ],
+    [ "type", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a8b285c4b2886f21aa4649a75abbf4dcd", null ],
+    [ "values", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#aac26a8908494c01aa8d6fa9c44b07f8a", null ],
+    [ "m_faceAlphaRectangleBounds", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#ad0afa8643865aa29d37d88e3e2b37bc9", null ],
+    [ "m_faceBetaRectangleBounds", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#aadb1ea5a5d37871bf8faca8187dd4922", null ],
+    [ "m_faceXYTrapezoidBounds", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a3af9463013590fb0c086564883a35acf", null ],
+    [ "m_faceZXRectangleBoundsBottom", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a7994347a7db54c1a8e673666bde9a93c", null ],
+    [ "m_faceZXRectangleBoundsTop", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a16609d8e989544763f3ceca5b70453ad", null ],
+    [ "m_values", "dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a01fba0693076cd1b460dae7a6a5c3ac6", null ]
+];

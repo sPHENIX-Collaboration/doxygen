@@ -1,0 +1,32 @@
+<map id="TSQLImporter::TSQLImporter" name="TSQLImporter::TSQLImporter">
+<area shape="rect" id="node2" href="$d0/dba/classTSQLImporter.html#ab2b0998076e184db4cbed27757ca35cf" title="TSQLImporter::Import" alt="" coords="272,568,441,596"/>
+<area shape="rect" id="node3" href="$d0/dba/classTSQLImporter.html#a9dc13175bb0e6fec9985c39e112149cd" title="TSQLImporter::LoadCatalog" alt="" coords="489,593,697,621"/>
+<area shape="rect" id="node4" href="$d0/dba/classTSQLImporter.html#aed2bf053363970ddef1b086b2429e5a6" title="TSQLImporter::LoadTable" alt="" coords="765,356,957,384"/>
+<area shape="rect" id="node14" href="$d7/db0/classTSQLImportClient.html#a3c0a30efc6ddde3f13fd8c4f797b3ebf" title="TSQLImportClient::GetTableName" alt="" coords="1030,541,1279,569"/>
+<area shape="rect" id="node16" href="$dd/d85/classTSQLConnection.html#a7bfca405ed849d7fc90270b0fdccfe61" title="TSQLConnection::CreateStatement" alt="" coords="1025,593,1284,621"/>
+<area shape="rect" id="node20" href="$d2/d58/classTSQLStatement.html#a74c6794fc585a834d31e71bf3fe9d3f3" title="TSQLStatement::ExecuteQuery" alt="" coords="745,757,977,785"/>
+<area shape="rect" id="node30" href="$d0/db4/classTSQLResultSet.html#a91d513d9731181f4d01127d59da91522" title="TSQLResultSet::Next" alt="" coords="780,645,943,673"/>
+<area shape="rect" id="node31" href="$d0/db4/classTSQLResultSet.html#a43772f9b242b2779437df9a2ecf69599" title="TSQLResultSet::GetString" alt="" coords="764,891,959,919"/>
+<area shape="rect" id="node5" href="$d7/db0/classTSQLImportClient.html#a7f2cd99d495957b22fe7d134e92c4dd3" title="TSQLImportClient::Init" alt="" coords="1069,385,1241,413"/>
+<area shape="rect" id="node9" href="$d7/db0/classTSQLImportClient.html#af7d96f4a21ba0481b889ff79a26ceb02" title="TSQLImportClient::IsValid" alt="" coords="1058,437,1251,465"/>
+<area shape="rect" id="node10" href="$d7/db0/classTSQLImportClient.html#acc7535fa85ec1ccfc214018d0eb2bace" title="TSQLImportClient::GetStatus" alt="" coords="1046,489,1263,517"/>
+<area shape="rect" id="node11" href="$d7/db0/classTSQLImportClient.html#a12abe5cc1310f7c177d72d0f10a14db8" title="TSQLImportClient::GetException" alt="" coords="1035,5,1275,33"/>
+<area shape="rect" id="node12" href="$d0/dba/classTSQLImporter.html#a0db8529023ad798f2492030bb8b22539" title="TSQLImporter::Throw" alt="" coords="1071,57,1238,85"/>
+<area shape="rect" id="node13" href="$d7/db0/classTSQLImportClient.html#ab4e0ae932986490539e3ee95976aa83f" title="TSQLImportClient::GetColumns" alt="" coords="1038,109,1271,137"/>
+<area shape="rect" id="node15" href="$d7/db0/classTSQLImportClient.html#a7824dc123f32e923cb4d039ece1767a3" title="TSQLImportClient::GetLocalFile" alt="" coords="1039,161,1271,189"/>
+<area shape="rect" id="node17" href="$d2/d58/classTSQLStatement.html#a6eddfc317081f91097f514f4f396eb3c" title="TSQLStatement::ExecuteUpdate" alt="" coords="1035,213,1275,241"/>
+<area shape="rect" id="node18" href="$d7/db0/classTSQLImportClient.html#aefca4f35d7fdbe7adbb884da9b4fcc18" title="TSQLImportClient::GetLocal" alt="" coords="1051,265,1259,293"/>
+<area shape="rect" id="node19" href="$d7/db0/classTSQLImportClient.html#a2867f0ad940680b08d383014189690c3" title="TSQLImportClient::GetSkip\lLines" alt="" coords="1053,317,1256,361"/>
+<area shape="rect" id="node6" href="$da/de5/ThicknessScan_8m.html#a5f84f51058cdb4f43c29d2c875659f42" title="fclose" alt="" coords="1401,333,1462,361"/>
+<area shape="rect" id="node7" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1370,385,1493,413"/>
+<area shape="rect" id="node8" href="$d8/db1/TSQLImportClient_8cxx.html#a3b2e5061932a086f0cb701213ea229dd" title="Validate" alt="" coords="1393,437,1470,465"/>
+<area shape="rect" id="node21" href="$dd/d4d/classTSQL.html#a5f3e7a10e954e822f96fee7185b9c46f" title="TSQL::ClearWarnings" alt="" coords="1073,817,1237,845"/>
+<area shape="rect" id="node22" href="$d0/db4/classTSQLResultSet.html#a26f7c0f5d3f023ced26cd62c6df48ec8" title="TSQLResultSet::Close" alt="" coords="1071,869,1238,897"/>
+<area shape="rect" id="node23" href="$dd/d85/classTSQLConnection.html#aa75ade25fcebc5a884dae09f1f1cd59b" title="TSQLConnection::GetCatalog" alt="" coords="1045,697,1264,725"/>
+<area shape="rect" id="node25" href="$dd/d4d/classTSQL.html#a12129fd04a2499449c8d13ed374f007a" title="TSQL::Throw" alt="" coords="1377,809,1485,837"/>
+<area shape="rect" id="node28" href="$dd/d85/classTSQLConnection.html#af4750098d4214bd8390565896e148013" title="TSQLConnection::SetCatalog" alt="" coords="1047,645,1263,673"/>
+<area shape="rect" id="node29" href="$da/d0b/classMySQLConnectionPrivate.html#a77ac562ef61183382b70e7a04027c209" title="MySQLConnectionPrivate\l::CheckIfServerIsAlive" alt="" coords="1059,749,1250,793"/>
+<area shape="rect" id="node24" href="$dd/d85/classTSQLConnection.html#a89016b2a42450757a7233a43f28f3ded" title="TSQLConnection::IsClosed" alt="" coords="1332,672,1531,700"/>
+<area shape="rect" id="node26" href="$d8/d8f/classTSQLException.html#a395335cef98b7d73b7cb158032dcd7e4" title="TSQLException::Print" alt="" coords="1579,783,1743,811"/>
+<area shape="rect" id="node27" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1631,835,1690,863"/>
+</map>

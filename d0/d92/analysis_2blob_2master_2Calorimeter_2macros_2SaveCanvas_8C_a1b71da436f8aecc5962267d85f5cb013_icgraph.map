@@ -1,0 +1,51 @@
+<map id="SavePad" name="SavePad">
+<area shape="rect" id="node2" href="$d0/d92/analysis_2blob_2master_2Calorimeter_2macros_2SaveCanvas_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="132,1233,236,1261"/>
+<area shape="rect" id="node50" href="$d6/d9a/analysis_2blob_2master_2EMCal-analysis_2macro_2SaveCanvas_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="145,1285,223,1313"/>
+<area shape="rect" id="node3" href="$d0/d64/analysis__tpc__prototype_2blob_2master_2fnal__2019_2example__plot__macros_2DrawTPCFEE_8C.html#aa6e75df9412a49bfab51758679ff7602" title="AmplitudeCheck" alt="" coords="333,5,467,33"/>
+<area shape="rect" id="node4" href="$de/de0/Draw__EICRate_8C.html#ace6e25211437fc6a6bf8e377442aac15" title="CentralCalorimeterRate" alt="" coords="310,57,490,85"/>
+<area shape="rect" id="node5" href="$d0/d64/analysis__tpc__prototype_2blob_2master_2fnal__2019_2example__plot__macros_2DrawTPCFEE_8C.html#a49ffba2571b68c5f8f86663ea8c4d3ff" title="ChannelCheck" alt="" coords="341,109,459,137"/>
+<area shape="rect" id="node6" href="$d2/da8/DrawTPCDataStreamEmulator_8C.html#a5fc1eebee0edbc81f8b8d887179a2ce3" title="ChargeCheck" alt="" coords="344,161,456,189"/>
+<area shape="rect" id="node7" href="$df/d38/DrawTPCIntegratedCharge_8C.html#a647f3dbdb0bba4c518297814fc982a82" title="ChargePerLayer" alt="" coords="335,213,465,241"/>
+<area shape="rect" id="node8" href="$d1/dc1/DrawFluence_8C.html#a189971c975b6e8a6584d580ab0becdd5" title="Check" alt="" coords="368,265,432,293"/>
+<area shape="rect" id="node9" href="$d2/da8/DrawTPCDataStreamEmulator_8C.html#ab055799c0d4919469bdc745b0a97cca3" title="Check1" alt="" coords="365,317,435,345"/>
+<area shape="rect" id="node10" href="$d2/da8/DrawTPCDataStreamEmulator_8C.html#a596f3edcff0e9de7f7c6b84517423953" title="Check2" alt="" coords="365,369,435,397"/>
+<area shape="rect" id="node11" href="$df/de9/analysis__tpc__prototype_2blob_2master_2fnal__2019_2example__plot__macros_2DrawTpcPrototypeUnpacker_8C.html#a051a8593f65b59ebe0b9f2b34cc094c8" title="ClusterQA" alt="" coords="355,421,445,449"/>
+<area shape="rect" id="node12" href="$df/de9/analysis__tpc__prototype_2blob_2master_2fnal__2019_2example__plot__macros_2DrawTpcPrototypeUnpacker_8C.html#a874fbf53cf69924663f184badbace183" title="Clusters3D" alt="" coords="353,473,447,501"/>
+<area shape="rect" id="node13" href="$d5/d51/DrawHadronShowers_8C.html#ad9c40c9fc396649115016a88930fa152" title="ClusterSizeScan" alt="" coords="335,525,465,553"/>
+<area shape="rect" id="node14" href="$d1/d4a/Draw__HFJetTruth_8C.html#a7d6873d890f9ea4fc341f980d01ca445" title="CrossSection2RAA" alt="" coords="327,577,473,605"/>
+<area shape="rect" id="node15" href="$d1/d4a/Draw__HFJetTruth_8C.html#a63ec22d68a397ddc21d053eccf4c5943" title="CrossSection2RAA_Proposal" alt="" coords="296,629,504,657"/>
+<area shape="rect" id="node16" href="$d1/d4a/Draw__HFJetTruth_8C.html#ab2e0dd1f12aea8323ecefae4c50c608b" title="CrossSection2v2" alt="" coords="333,681,467,709"/>
+<area shape="rect" id="node17" href="$de/def/Draw__HFJetTruth3yr_8C.html#a58bae4b08b9bf77a238c154ad78b76b6" title="CrossSection2zg" alt="" coords="334,733,466,761"/>
+<area shape="rect" id="node18" href="$d2/da8/DrawTPCDataStreamEmulator_8C.html#a2b71f28a5e627544a31fbc098bc9b973" title="DataRate" alt="" coords="358,785,442,813"/>
+<area shape="rect" id="node19" href="$df/df7/DrawTrackingEval_8C.html#ae1babcc538ab3db90ec76048447ac6a7" title="DCACheck" alt="" coords="354,837,446,865"/>
+<area shape="rect" id="node20" href="$d1/dc1/DrawFluence_8C.html#aa69167a8f62ec9e1a33b643d7bda2646" title="dNchdEta" alt="" coords="357,889,443,917"/>
+<area shape="rect" id="node21" href="$d2/da8/DrawTPCDataStreamEmulator_8C.html#a0e50cb9215ce8497c0db82c280fa646f" title="dNdeta" alt="" coords="365,941,435,969"/>
+<area shape="rect" id="node22" href="$d1/d4a/Draw__HFJetTruth_8C.html#a52e5a05738d9b4d7942aee96009e0c87" title="Draw_HFJetTruth_DrawCross\lSection_PR" alt="" coords="295,993,505,1037"/>
+<area shape="rect" id="node23" href="$df/d6a/Draw__HFJetTruth__InvMass_8C.html#a7efc3f47da84b29406e74a5847481758" title="Draw_HFJetTruth_InvMass\l_DrawCrossSection_PR" alt="" coords="303,1061,497,1105"/>
+<area shape="rect" id="node24" href="$d0/d1b/Draw__PHG4DSTReader_8C.html#ab17c6748450934ca01d2da52268c12af" title="DrawCalibratedE" alt="" coords="333,1129,467,1157"/>
+<area shape="rect" id="node25" href="$d0/d1b/Draw__PHG4DSTReader_8C.html#a4c8395955b07e5b7969b315424cbeb34" title="DrawCalibratedE_Plot" alt="" coords="316,1181,484,1209"/>
+<area shape="rect" id="node26" href="$d0/d1b/Draw__PHG4DSTReader_8C.html#a5d5637c3659889725491271ba4d42680" title="DrawCalibratedE_PlotTestBeam" alt="" coords="284,1233,516,1261"/>
+<area shape="rect" id="node27" href="$d0/d1b/Draw__PHG4DSTReader_8C.html#aeab774dff8df0f1b29400cfca4301b22" title="DrawCalibratedE_Tower" alt="" coords="309,1285,491,1313"/>
+<area shape="rect" id="node28" href="$dc/d17/DrawEcal_8C.html#a6d8675559726c98566df80995e8709cb" title="DrawCluster_Linearality" alt="" coords="309,1337,491,1365"/>
+<area shape="rect" id="node29" href="$dc/d17/DrawEcal_8C.html#a2242b1f583b55d029e323e2fc94e10b8" title="DrawCluster_Res" alt="" coords="333,1389,467,1417"/>
+<area shape="rect" id="node30" href="$dc/d17/DrawEcal_8C.html#a6c111008951e2b139a24c7fc736b7096" title="DrawCluster_Res_2Fit" alt="" coords="317,1441,483,1469"/>
+<area shape="rect" id="node31" href="$dc/d17/DrawEcal_8C.html#ae42f43722953e01a097c045f7ac28ec3" title="DrawCluster_Res_2Fit\l_1DSpacalNoSVX" alt="" coords="317,1493,483,1537"/>
+<area shape="rect" id="node32" href="$dc/d17/DrawEcal_8C.html#a4e044e355d2e37a056492b616689b507" title="DrawCluster_Res_2Fit\l_1DSpacalNoSVX_Eta3" alt="" coords="312,1561,488,1605"/>
+<area shape="rect" id="node33" href="$dc/d17/DrawEcal_8C.html#a0b165c6aff910165400179b3bf34ddf1" title="DrawCluster_Res_2Fit\l_2DSpacalNoSVX" alt="" coords="317,1629,483,1673"/>
+<area shape="rect" id="node34" href="$dc/d17/DrawEcal_8C.html#a083327b21417b8b855bca63b32fa6dce" title="DrawCluster_Res_2Fit\l_Electron_NoSVX" alt="" coords="317,1697,483,1741"/>
+<area shape="rect" id="node35" href="$d1/d4a/Draw__HFJetTruth_8C.html#a91ccdaec29871e1d8f43ab4f462a1a46" title="DrawCrossSection" alt="" coords="329,1765,471,1793"/>
+<area shape="rect" id="node36" href="$d0/d1b/Draw__PHG4DSTReader_8C.html#adf8dfc4d214ebb8347fa3ab9cd09f2bf" title="DrawDist" alt="" coords="359,1817,441,1845"/>
+<area shape="rect" id="node37" href="$d1/d43/DrawEcal__BlockCalibration_8C.html#a8e07c6f77a9ca24e0c20a1bc8b24ae8b" title="DrawEcal_BlockCalibration" alt="" coords="299,1869,501,1897"/>
+<area shape="rect" id="node38" href="$d0/dc2/Prototype2_2EMCal_2macros_2DrawEMCalTower__LineShape_8C.html#a41d24642691cf704c1256426a4e5e83b" title="DrawEMCalTower_LineShape" alt="" coords="293,1921,507,1949"/>
+<area shape="rect" id="node39" href="$d9/de3/Prototype2_2EMCal_2macros_2DrawEMCalTower__Resolution_8C.html#a4b6d7641c481c76344c5c79d68dbbe5c" title="DrawEMCalTower_Resolution" alt="" coords="293,1973,507,2001"/>
+<area shape="rect" id="node40" href="$d9/de3/Prototype2_2EMCal_2macros_2DrawEMCalTower__Resolution_8C.html#ac5dfbd060270c7dc6ee2c2c3d07f0ca8" title="DrawEMCalTower_Resolution\l_Compare" alt="" coords="293,2025,507,2069"/>
+<area shape="rect" id="node41" href="$dc/d17/DrawEcal_8C.html#ac066a567959fcaedbcbe344fc8857d05" title="DrawEnergyDensity" alt="" coords="323,2093,477,2121"/>
+<area shape="rect" id="node42" href="$dc/d17/DrawEcal_8C.html#ae0776e4c7ce71db54b51f5ea830e258a" title="DrawEnergyDensityXY" alt="" coords="313,2145,487,2173"/>
+<area shape="rect" id="node43" href="$d9/d3b/DrawFieldMap_8C.html#aa1a5d83fa585f034aee426efa2e24e7b" title="DrawFieldMap" alt="" coords="342,2197,458,2225"/>
+<area shape="rect" id="node44" href="$d0/d1b/Draw__PHG4DSTReader_8C.html#ae2f1bc713ee9245316099330dc16a015" title="DrawLeakage" alt="" coords="344,2249,456,2277"/>
+<area shape="rect" id="node45" href="$d0/d1b/Draw__PHG4DSTReader_8C.html#a931a2ed2e5efaec5c69d2f26f4437708" title="DrawLeakage_LY" alt="" coords="333,2301,467,2329"/>
+<area shape="rect" id="node46" href="$d0/d1b/Draw__PHG4DSTReader_8C.html#a03c5a5b3b1f67d701fcc6693de74c4ec" title="DrawLeakage_Phi" alt="" coords="331,2353,469,2381"/>
+<area shape="rect" id="node47" href="$d0/d1b/Draw__PHG4DSTReader_8C.html#a2e2340f9f9cc5e139ff241c5e85beb09" title="DrawLeakage_Phi_Folding" alt="" coords="303,2405,497,2433"/>
+<area shape="rect" id="node48" href="$d0/d1b/Draw__PHG4DSTReader_8C.html#a3bf2e5fbbf5e27d161f9638edef0d8d3" title="DrawLeakage_Wide" alt="" coords="323,2457,477,2485"/>
+<area shape="rect" id="node49" href="$d3/d8e/DrawPrototype2EMCalTower__Resolution_8C.html#a7591a0a0d9c683c2b88b4f9d4cdcf585" title="DrawPrototype2EMCalTower\l_Resolution" alt="" coords="295,2509,505,2553"/>
+</map>

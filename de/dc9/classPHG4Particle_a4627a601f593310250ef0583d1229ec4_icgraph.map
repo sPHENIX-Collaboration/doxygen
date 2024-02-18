@@ -1,0 +1,26 @@
+<map id="PHG4Particle::identify" name="PHG4Particle::identify">
+<area shape="rect" id="node2" href="$d2/d81/classpythiaEMCalAna.html#a945e571a7336ceb309b7e07a811b980f" title="pythiaEMCalAna::addPrimary\lFromGeant" alt="" coords="233,5,452,49"/>
+<area shape="rect" id="node4" href="$d9/d36/classHFTrackEfficiency.html#a0564523c895d646c3901a6ffc4084d8a" title="HFTrackEfficiency::\lfindTracks" alt="" coords="269,73,416,117"/>
+<area shape="rect" id="node6" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a25f5176857128e2009be02655d32dabe" title="print out the ancestry information for detailed diagnosis" alt="" coords="255,141,430,185"/>
+<area shape="rect" id="node8" href="$d8/d98/classpsTOFTimezeroEval.html#a506f1d899507a34d445b7c1bbf514fb0" title="print out the ancestry information for detailed diagnosis" alt="" coords="261,209,424,253"/>
+<area shape="rect" id="node10" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="229,277,457,305"/>
+<area shape="rect" id="node11" href="$dc/d41/classConversion.html#ae7364438f1e0494458af1ae6826deaaf" title="print the info relating to photon reconstruction" alt="" coords="221,329,464,357"/>
+<area shape="rect" id="node14" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="963,344,1124,388"/>
+<area shape="rect" id="node15" href="$dc/d41/classConversion.html#a020b9619f9abf844a9eeb5895f9c2b6b" title="print the reco info calls reco1&#45;&gt;identify(), reco2&#45;&gt;identify(), recoVertex&#45;&gt;identify(), recoPhoton&#45;&gt;print()" alt="" coords="257,433,428,461"/>
+<area shape="rect" id="node16" href="$dc/d41/classConversion.html#af06d52ed1eef6694f560e1b1ca5387c0" title="print the truth info calls e1&#45;&gt;identify(), e2&#45;&gt;identify(), vtx&#45;&gt;identify(), photon&#45;&gt;identify()" alt="" coords="257,485,429,513"/>
+<area shape="rect" id="node17" href="$d7/dd6/classPHSiliconTruthTrackSeeding.html#ac9ded997e4f8f07f2bd103e9fa294d27" title="PHSiliconTruthTrackSeeding\l::Process" alt="" coords="239,537,447,581"/>
+<area shape="rect" id="node18" href="$d5/da2/classPHTruthTrackSeeding.html#a37f708048770642f57f15675683c2cac" title="PHTruthTrackSeeding\l::Process" alt="" coords="261,605,425,649"/>
+<area shape="rect" id="node19" href="$dc/d38/classPHG4ConsistencyCheck.html#a0f2a0035c9e3302807a1bb99c41781d9" title="event processing" alt="" coords="251,673,434,717"/>
+<area shape="rect" id="node20" href="$da/d7d/classQAG4SimulationUpsilon.html#ab79aed70b129c1906b4d1986fe2a52d9" title="QAG4SimulationUpsilon\l::process_event" alt="" coords="251,741,434,785"/>
+<area shape="rect" id="node21" href="$de/dbf/classQAG4SimulationTracking.html#ac2aeab5238fcf828f70c61b4976b57fe" title="QAG4SimulationTracking\l::process_event" alt="" coords="249,809,437,853"/>
+<area shape="rect" id="node22" href="$d2/df0/classSynRadAna.html#a6c0e398679d70c47b26fec84aa644673" title="SynRadAna::process\l_event" alt="" coords="263,877,423,921"/>
+<area shape="rect" id="node23" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a3989ff17a01ba304478d558b99c3214f" title="SoftLeptonTaggingTruth\l::process_Spectrum" alt="" coords="253,945,433,989"/>
+<area shape="rect" id="node25" href="$d9/d91/classPHG4TrackFastSim.html#aaf5c166b63822e4eb712f93328186293" title="PHG4TrackFastSim::Pseudo\lPatternRecognition" alt="" coords="241,1013,445,1057"/>
+<area shape="rect" id="node3" href="$d2/d81/classpythiaEMCalAna.html#af5632c83151d75609b4145827245f616" title="pythiaEMCalAna::process\l_event" alt="" coords="512,5,705,49"/>
+<area shape="rect" id="node5" href="$d9/d36/classHFTrackEfficiency.html#a3c90b36f97a43aee44042c2a6d89c2a3" title="HFTrackEfficiency::\lprocess_event" alt="" coords="535,73,682,117"/>
+<area shape="rect" id="node7" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="521,141,696,185"/>
+<area shape="rect" id="node9" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="527,209,690,253"/>
+<area shape="rect" id="node12" href="$d9/d3a/classTruthConversionEval.html#a30309a3143d74dac7ff1f62cf275a5ac" title="TruthConversionEval\l::recordConversion" alt="" coords="528,313,689,357"/>
+<area shape="rect" id="node13" href="$d9/d3a/classTruthConversionEval.html#a802d15f00a153397546daabb7dbabbd2" title="TruthConversionEval\l::numUnique" alt="" coords="753,313,915,357"/>
+<area shape="rect" id="node24" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a152a3015fe9e7c089637c981a45787fe" title="SoftLeptonTaggingTruth\l::process_event" alt="" coords="519,945,699,989"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="Acts::Test::BOOST_AUTO_TEST_CASE" name="Acts::Test::BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a416682d6e3c57849e8aa3e26a536e166" title="access value stored in bin with given local bin numbers" alt="" coords="285,24,420,68"/>
+<area shape="rect" id="node3" href="$d5/dcc/classActs_1_1BinUtility.html#a32c9c639c2752e8620a9fa6c11e3d51b" title="Return the binning data vector." alt="" coords="512,13,724,41"/>
+<area shape="rect" id="node4" href="$da/d7b/namespaceActs.html#ab3f75e84a1d5b2668d9e990ed8cdb2d6" title="Create a 3DGrid using a BinUtility. Also determine the corresponding global to local transform and gr..." alt="" coords="277,144,428,172"/>
+<area shape="rect" id="node12" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a2cbebd4262c09edb5d7d0d4d5f34c4e2" title="dimensionality of grid" alt="" coords="285,493,420,537"/>
+<area shape="rect" id="node13" href="$dd/d14/classActs_1_1Material.html#a867ca598bcffaf78024b77fbdad5b434" title="Acts::Material::fromMolar\lDensity" alt="" coords="256,561,449,605"/>
+<area shape="rect" id="node14" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a84beda0096bab7aa65e8634976fb627e" title="determine local bin index of the bin with the lower left edge closest to the given point for each axi..." alt="" coords="241,629,464,673"/>
+<area shape="rect" id="node15" href="$da/d7b/namespaceActs.html#a41d64355ab4563bc37532797f9c24355" title="Average the material collected in a 2D grid and use it to create a 2D material grid." alt="" coords="260,339,445,367"/>
+<area shape="rect" id="node17" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#afc2dfe706ae17c88069626c48e8992ed" title="get the maximum value of all axes of one grid" alt="" coords="551,221,685,265"/>
+<area shape="rect" id="node18" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#adc9aa0386bff96e4f1615957fe29bd4c" title="get the minimum value of all axes of one grid" alt="" coords="551,461,685,505"/>
+<area shape="rect" id="node19" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a53e780b2130802fb3140d7e1af78ec52" title="get number of bins along each specific axis" alt="" coords="551,529,685,573"/>
+<area shape="rect" id="node21" href="$dd/d14/classActs_1_1Material.html#a098c19a1063462df60afb9be8deefd25" title="Encode the properties into an opaque parameters vector." alt="" coords="251,697,454,725"/>
+<area shape="rect" id="node5" href="$da/d7b/namespaceActs.html#af606ddd30facee2106770ebbeca88cd8" title="Helper method that creates the cache grid for the mapping. This grid allows the collection of materia..." alt="" coords="553,117,683,145"/>
+<area shape="rect" id="node8" href="$da/d7b/namespaceActs.html#aa8f83e5d8e65555b3fd6a58027073d2e" title="return a function that return the coordinate corresponding to type of bin" alt="" coords="515,65,721,93"/>
+<area shape="rect" id="node11" href="$d5/dcc/classActs_1_1BinUtility.html#a997fa242d921ca8adb4cde4a03cb09cf" title="Acts::BinUtility::transform" alt="" coords="520,169,716,197"/>
+<area shape="rect" id="node6" href="$d2/db7/namespacestd_1_1tr1.html#af7e12a0f5b5791b5b7c49a5a17b85359" title="std::tr1::make_tuple" alt="" coords="785,293,943,321"/>
+<area shape="rect" id="node7" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="776,125,952,153"/>
+<area shape="rect" id="node9" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="787,57,941,101"/>
+<area shape="rect" id="node10" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a397d5e8143b34171258deef4f9cca9ad" title="Acts::VectorHelpers::phi" alt="" coords="772,5,956,33"/>
+<area shape="rect" id="node16" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#af1740f025f852ded59760beee4f0d33d" title="access value stored in bin with given global bin number" alt="" coords="539,357,697,385"/>
+<area shape="rect" id="node20" href="$d0/df4/exceptionActs_1_1detail_1_1Grid.html#a8bad247a0af6a316a9bc8922342a279b" title="total number of bins" alt="" coords="551,289,685,333"/>
+</map>

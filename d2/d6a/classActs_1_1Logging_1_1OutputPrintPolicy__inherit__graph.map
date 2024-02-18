@@ -1,0 +1,8 @@
+<map id="Acts::Logging::OutputPrintPolicy" name="Acts::Logging::OutputPrintPolicy">
+<area shape="rect" id="node2" href="$d0/df5/exceptionActs_1_1Logging_1_1DefaultPrintPolicy.html" title="default print policy for debug messages" alt="" coords="271,48,475,92"/>
+<area shape="rect" id="node3" href="$dd/def/classActs_1_1Logging_1_1OutputDecorator.html" title="base class for decorating the debug output" alt="" coords="255,116,492,144"/>
+<area shape="rect" id="node4" href="$d9/dd9/exceptionActs_1_1Logging_1_1LevelOutputDecorator.html" title="decorate debug message with its debug level" alt="" coords="547,5,752,49"/>
+<area shape="rect" id="node5" href="$d8/dc7/exceptionActs_1_1Logging_1_1NamedOutputDecorator.html" title="decorate debug message with a name" alt="" coords="540,73,759,117"/>
+<area shape="rect" id="node6" href="$d7/d19/exceptionActs_1_1Logging_1_1ThreadOutputDecorator.html" title="decorate debug message with a thread ID" alt="" coords="541,141,758,185"/>
+<area shape="rect" id="node7" href="$d3/dc5/exceptionActs_1_1Logging_1_1TimedOutputDecorator.html" title="decorate debug message with a time stamp" alt="" coords="543,209,755,253"/>
+</map>

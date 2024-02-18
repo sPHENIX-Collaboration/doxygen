@@ -1,0 +1,36 @@
+<map id="Acts::Surface::bounds" name="Acts::Surface::bounds">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a6f6d3818fb0f55adf102134c40bdd840" title="adjust the BinUtility bu to a surface" alt="" coords="277,73,441,101"/>
+<area shape="rect" id="node3" href="$d0/de6/structActsFatras_1_1PlanarSurfaceMask.html#a9116e533f753f565445510aecb6f2f8e" title="ActsFatras::PlanarSurface\lMask::apply" alt="" coords="261,125,456,169"/>
+<area shape="rect" id="node5" href="$dd/dc2/namespaceActs_1_1Svg_1_1SurfaceConverter.html#a04dd93359ca8b99f6ec6e00ee87c8252" title="Acts::Svg::SurfaceConverter\l::convert" alt="" coords="252,193,465,237"/>
+<area shape="rect" id="node7" href="$d1/dc1/namespaceActs_1_1PodioUtil.html#add79bf9338bf85ffa109758c138fc63c" title="Acts::PodioUtil::convert\lSurfaceToPodio" alt="" coords="269,261,449,305"/>
+<area shape="rect" id="node11" href="$d4/d12/classActs_1_1LayerArrayCreator.html#acefef63c738cce2b27e75db01a0263ee" title="Acts::LayerArrayCreator\l::createNavigationSurface" alt="" coords="260,329,457,373"/>
+<area shape="rect" id="node16" href="$d4/da6/classActs_1_1SurfaceArrayCreator.html#ad433fe9809c3b9cf11873919afd8fe42" title="Acts::SurfaceArrayCreator\l::createVariableAxis" alt="" coords="259,397,458,441"/>
+<area shape="rect" id="node18" href="$de/d8b/exceptionActsExamples_1_1SeedingFTFAlgorithm.html#a7d4ee48e0a89705c80a444f48b4d0976" title="ActsExamples::SeedingFTFAlgorithm\l::LayerNumbering" alt="" coords="224,465,493,509"/>
+<area shape="rect" id="node20" href="$db/d49/GsfComponentMergingTests_8cpp.html#a75ce8dcfb616e963e4f898caba94c329" title="meanFromFree" alt="" coords="298,533,419,561"/>
+<area shape="rect" id="node23" href="$d2/db5/structActsExamples_1_1DigitizationConfigurator.html#a77e16bbda2f2ffb4a8db57df385e9860" title="ActsExamples::Digitization\lConfigurator::operator()" alt="" coords="257,585,460,629"/>
+<area shape="rect" id="node24" href="$de/d7d/classActs_1_1Surface.html#a7f658ccc34e6a1f0047cedf33d47bb68" title="Acts::Surface::operator==" alt="" coords="259,653,459,681"/>
+<area shape="rect" id="node25" href="$d5/da5/classActs_1_1TGeoCylinderDiscSplitter.html#a6491ad583fbc3bfd7c9f3c8bd70ad5db" title="Acts::TGeoCylinderDiscSplitter\l::split" alt="" coords="244,705,473,749"/>
+<area shape="rect" id="node26" href="$dc/d89/classActsExamples_1_1TGeoITkModuleSplitter.html#a26fc4e48d7b597bd2e98afb043e988cc" title="If applicable, returns a split detector element." alt="" coords="243,773,474,817"/>
+<area shape="rect" id="node28" href="$dc/d89/classActsExamples_1_1TGeoITkModuleSplitter.html#a85e62756fff86f8c51aefbd595187449" title="If applicable, returns a split detector element." alt="" coords="243,841,474,885"/>
+<area shape="rect" id="node29" href="$d3/df2/namespaceDD4hepTestsHelper.html#a52f6166bc09dd705e7a8604ed88f3c5e" title="Helper method to convert a Surface into XML." alt="" coords="277,909,440,953"/>
+<area shape="rect" id="node31" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a9ef9925a437841f9c97b7a1fde912ed3" title="Acts::SurfaceJsonConverter\l::toJson" alt="" coords="255,977,462,1021"/>
+<area shape="rect" id="node33" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a061759e23fca8e3af2794ff923edb788" title="Acts::SurfaceJsonConverter\l::toJsonDetray" alt="" coords="255,1045,462,1089"/>
+<area shape="rect" id="node35" href="$de/d4a/classActsExamples_1_1RootMaterialTrackWriter.html#a34f05d081e594e679b5e06e08513052a" title="ActsExamples::RootMaterial\lTrackWriter::writeT" alt="" coords="253,1113,464,1157"/>
+<area shape="rect" id="node4" href="$da/df8/namespaceActsFatras.html#aa2d2223591b1bea3132041895a5d0349" title="Unit test for testing the Surface mask." alt="" coords="583,5,772,49"/>
+<area shape="rect" id="node6" href="$db/d30/namespaceActs_1_1Svg_1_1SurfaceArrayConverter.html#a24ebb22db79bda5edb4ab0ed4711bf5a" title="Acts::Svg::SurfaceArrayConverter\l::convert" alt="" coords="553,73,802,117"/>
+<area shape="rect" id="node8" href="$db/de3/classActs_1_1MutablePodioTrackContainer.html#a1e89c06d3fcfe06324855abec559d0bc" title="Acts::MutablePodioTrackContainer\l::setReferenceSurface_impl" alt="" coords="551,141,804,185"/>
+<area shape="rect" id="node9" href="$d9/da2/exceptionActs_1_1MutablePodioTrackStateContainer.html#ac02bc689ca30db3677a5582e70b417ff" title="Acts::MutablePodioTrackState\lContainer::setReferenceSurface_impl" alt="" coords="541,209,813,253"/>
+<area shape="rect" id="node10" href="$dc/df5/ConvertTrackPodioTest_8cpp.html#a063cec0a43481ea6944c7af195aa7adc" title="BOOST_AUTO_TEST_CASE" alt="" coords="579,277,775,305"/>
+<area shape="rect" id="node12" href="$d4/d12/classActs_1_1LayerArrayCreator.html#adbcf99ad8a103ce4442ae13ebd5276de" title="Acts::LayerArrayCreator\l::layerArray" alt="" coords="585,329,769,373"/>
+<area shape="rect" id="node13" href="$d1/d48/classActs_1_1CuboidVolumeBuilder.html#a91c773c6fb868e14c760eb440f1f6e88" title="This function creates a TrackingVolume with a configurable number of layers and surfaces. Each surface gets a detector element attached if the template parameter is non&#45;void." alt="" coords="861,296,1068,340"/>
+<area shape="rect" id="node15" href="$d3/d58/structActs_1_1Test_1_1CubicTrackingGeometry.html#aa6fe8224c9e10cbad7323afcbb4082be" title="Call operator to build the standard cubic tracking geometry." alt="" coords="870,364,1059,408"/>
+<area shape="rect" id="node14" href="$dd/d7e/namespaceActs_1_1Test.html#a29f38d090533d86121814e1c234950f3" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="1116,296,1304,340"/>
+<area shape="rect" id="node17" href="$d7/dc3/structActs_1_1Test_1_1SurfaceArrayCreatorFixture.html#a34e76f2701cdbf35ab2256ac1389f9af" title="Acts::Test::SurfaceArray\lCreatorFixture::createVariableAxis" alt="" coords="551,397,803,441"/>
+<area shape="rect" id="node19" href="$de/d8b/exceptionActsExamples_1_1SeedingFTFAlgorithm.html#a77739a0d2959a33ab8fb0896e4b30cae" title="ActsExamples::SeedingFTFAlgorithm\l::SeedingFTFAlgorithm" alt="" coords="543,465,812,509"/>
+<area shape="rect" id="node21" href="$db/d49/GsfComponentMergingTests_8cpp.html#a309ddd1f8c82400249a518647743e446" title="test_surface" alt="" coords="625,533,729,561"/>
+<area shape="rect" id="node22" href="$db/d49/GsfComponentMergingTests_8cpp.html#abc49a2f96ac103c6c367092194192b04" title="BOOST_AUTO_TEST_CASE" alt="" coords="867,533,1063,561"/>
+<area shape="rect" id="node27" href="$dc/d89/classActsExamples_1_1TGeoITkModuleSplitter.html#a01364c2071483b632156182b93c5b874" title="If applicable, returns a split detector element." alt="" coords="562,807,793,851"/>
+<area shape="rect" id="node30" href="$d5/d9c/DD4hepCylinderLayerStructureTests_8cpp.html#ac2ef124e83381fd6cb33cafe9a0c6068" title="BOOST_AUTO_TEST_CASE" alt="" coords="579,917,775,945"/>
+<area shape="rect" id="node32" href="$d2/d6b/SurfaceJsonConverterTests_8cpp.html#a1ad34a06e2b4bf87dcfa85e064ee4841" title="BOOST_AUTO_TEST_CASE" alt="" coords="579,985,775,1013"/>
+<area shape="rect" id="node34" href="$d2/d6b/SurfaceJsonConverterTests_8cpp.html#a1c9d7fd28364df2ec928987206ba0249" title="BOOST_AUTO_TEST_CASE" alt="" coords="579,1053,775,1081"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Acts::GeometryIdentifier::getBits" name="Acts::GeometryIdentifier::getBits">
+<area shape="rect" id="node2" href="$d7/d33/classActs_1_1GeometryIdentifier.html#af844a7c6ef60a5c3118d95f563ca3b0f" title="Return the approach identifier." alt="" coords="243,217,432,261"/>
+<area shape="rect" id="node11" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ad96b687187d7c01a9d22c104b5086ed3" title="Return the boundary identifier." alt="" coords="243,149,432,193"/>
+<area shape="rect" id="node13" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ae316c63cf0d4b3a9a60c1f4be7a62f2b" title="Acts::GeometryIdentifier\l::extra" alt="" coords="243,81,432,125"/>
+<area shape="rect" id="node14" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a67b1bfbab773f4ca99a12164b2bdbf61" title="Return the layer identifier." alt="" coords="243,528,432,572"/>
+<area shape="rect" id="node26" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a1658d6de1734e3f155b83df7a52888fa" title="Return the approach identifier." alt="" coords="243,957,432,1001"/>
+<area shape="rect" id="node27" href="$d7/d33/classActs_1_1GeometryIdentifier.html#afb698536104f96ff92d3c8bdb7aaa3a7" title="Return the sensitive identifier." alt="" coords="243,308,432,352"/>
+<area shape="rect" id="node30" href="$d7/d33/classActs_1_1GeometryIdentifier.html#abc1ccf966fe5fc7f517c6775b5d38623" title="Return the volume identifier." alt="" coords="243,889,432,933"/>
+<area shape="rect" id="node3" href="$dc/dab/namespaceActs_1_1Python.html#a49f182a504a1cfa573d43b158363ae21" title="Acts::Python::addGeometry" alt="" coords="510,89,719,117"/>
+<area shape="rect" id="node5" href="$df/dd4/namespaceActsExamples.html#af5b70eaeb7e32865721a100abda978ce" title="ActsExamples::selectLowest\lNonZeroGeometryObject" alt="" coords="508,261,721,305"/>
+<area shape="rect" id="node9" href="$df/dd4/namespaceActsExamples.html#ade210b75e8d5378653df942807b59a29" title="ActsExamples::to_json" alt="" coords="528,141,701,169"/>
+<area shape="rect" id="node10" href="$da/d29/classActsExamples_1_1RootMaterialWriter.html#ac6cae03e2a7d029ed1fc6702e084447c" title="ActsExamples::RootMaterial\lWriter::writeMaterial" alt="" coords="509,193,720,237"/>
+<area shape="rect" id="node4" href="$d2/d88/ModuleEntry_8cpp.html#a67bb088b1bb5c0fd6de84f6601af1310" title="PYBIND11_MODULE" alt="" coords="855,89,1009,117"/>
+<area shape="rect" id="node6" href="$d7/d04/exceptionActsExamples_1_1HoughTransformSeeder.html#a0dab4dc51a10c72acf99289cad25b6e3" title="ActsExamples::HoughTransform\lSeeder::addMeasurements" alt="" coords="813,303,1051,347"/>
+<area shape="rect" id="node7" href="$d4/d6c/exceptionActsExamples_1_1SpacePointMaker.html#aee41b6ebb8adf6001a9d8e20981aff6a" title="ActsExamples::SpacePoint\lMaker::execute" alt="" coords="831,167,1033,211"/>
+<area shape="rect" id="node8" href="$d7/d12/exceptionActsExamples_1_1MeasurementMapSelector.html#ac0646010ff4cd93a0a4d1f1484b5af12" title="ActsExamples::Measurement\lMapSelector::execute" alt="" coords="822,235,1042,279"/>
+<area shape="rect" id="node12" href="$dd/d89/structActs_1_1VolumeMaterialMapper_1_1BoundSurfaceSelector.html#a056446e58d83b2adfeb306051e4c6c75" title="Acts::VolumeMaterialMapper\l::BoundSurfaceSelector::\loperator()" alt="" coords="506,5,723,65"/>
+<area shape="rect" id="node15" href="$d2/db5/structActsExamples_1_1DigitizationConfigurator.html#a77e16bbda2f2ffb4a8db57df385e9860" title="ActsExamples::Digitization\lConfigurator::operator()" alt="" coords="513,753,716,797"/>
+<area shape="rect" id="node16" href="$d7/d04/exceptionActsExamples_1_1HoughTransformSeeder.html#a5a263620fdd9dba6f35569fd4f3ba7b6" title="ActsExamples::HoughTransform\lSeeder::HoughTransformSeeder" alt="" coords="496,821,733,865"/>
+<area shape="rect" id="node17" href="$de/d8b/exceptionActsExamples_1_1SeedingFTFAlgorithm.html#a7d4ee48e0a89705c80a444f48b4d0976" title="ActsExamples::SeedingFTFAlgorithm\l::LayerNumbering" alt="" coords="480,565,749,609"/>
+<area shape="rect" id="node19" href="$d4/d6c/exceptionActsExamples_1_1SpacePointMaker.html#a12701c35bfe4ebf47de683edbe16b76e" title="ActsExamples::SpacePoint\lMaker::SpacePointMaker" alt="" coords="514,889,715,933"/>
+<area shape="rect" id="node20" href="$d6/dec/structActsExamples_1_1RootMeasurementWriter_1_1DigitizationTree.html#abaa550ba0a3410c28756361c1531b4f4" title="Constructor from GeometryIdentifier." alt="" coords="490,397,739,457"/>
+<area shape="rect" id="node21" href="$d6/dec/structActsExamples_1_1RootMeasurementWriter_1_1DigitizationTree.html#ae6814b890878092f9e8bc39baab1c7c8" title="ActsExamples::RootMeasurement\lWriter::DigitizationTree\l::fillIdentification" alt="" coords="490,481,739,541"/>
+<area shape="rect" id="node22" href="$d4/d7c/namespaceActs_1_1Svg_1_1TrackingGeometryConverter.html#a9db8bcf06f1ba9f6ef1f9b1186a16bba" title="Acts::Svg::TrackingGeometry\lConverter::convert" alt="" coords="505,957,724,1001"/>
+<area shape="rect" id="node23" href="$d1/d3d/structResidualOutlierFinder.html#ae49496c2b9034428fb085dbf73fd269c" title="ResidualOutlierFinder\l::operator()" alt="" coords="531,633,698,677"/>
+<area shape="rect" id="node24" href="$d2/dea/classActsPropagator.html#a4117ff810377f778b5f147d9020a799a" title="ActsPropagator::checkLayer" alt="" coords="509,701,721,729"/>
+<area shape="rect" id="node18" href="$de/d8b/exceptionActsExamples_1_1SeedingFTFAlgorithm.html#a77739a0d2959a33ab8fb0896e4b30cae" title="ActsExamples::SeedingFTFAlgorithm\l::SeedingFTFAlgorithm" alt="" coords="797,565,1067,609"/>
+<area shape="rect" id="node25" href="$d2/dea/classActsPropagator.html#a71f3e36b60641f6f4c119f8df48e76c3" title="ActsPropagator::propagate\lTrack" alt="" coords="831,693,1033,737"/>
+<area shape="rect" id="node28" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a061759e23fca8e3af2794ff923edb788" title="Acts::SurfaceJsonConverter\l::toJsonDetray" alt="" coords="511,329,718,373"/>
+<area shape="rect" id="node29" href="$d2/d6b/SurfaceJsonConverterTests_8cpp.html#a1c9d7fd28364df2ec928987206ba0249" title="BOOST_AUTO_TEST_CASE" alt="" coords="834,371,1030,399"/>
+<area shape="rect" id="node31" href="$df/d97/exceptionActs_1_1Experimental_1_1GeometryIdGenerator.html#a0594de84063df5a5cefb209ff0971e81" title="Method for assigning a geometry id to a detector volume." alt="" coords="525,1537,704,1597"/>
+<area shape="rect" id="node33" href="$d6/d42/classActs_1_1SurfaceMaterialMapper.html#a2049d309e48185689638cb7de95d2dd8" title="check and insert" alt="" coords="505,1621,724,1665"/>
+<area shape="rect" id="node34" href="$d8/d7e/classActs_1_1VolumeMaterialMapper.html#a7dccd4a8ac5121bb6cd6906140c8f40f" title="check and insert" alt="" coords="506,1689,723,1733"/>
+<area shape="rect" id="node35" href="$d8/d7e/classActs_1_1VolumeMaterialMapper.html#a2d025c2bbb56348878f0ded383949504" title="Acts::VolumeMaterialMapper\l::mapMaterialTrack" alt="" coords="506,1757,723,1801"/>
+<area shape="rect" id="node36" href="$d2/d3f/structActs_1_1GeometryView3D.html#a2b57942c5d50e7175af6f396a2b8c54b" title="Acts::GeometryView3D\l::drawTrackingVolume" alt="" coords="525,1025,704,1069"/>
+<area shape="rect" id="node39" href="$dc/d4e/classActs_1_1MappingMaterialDecorator.html#ab142e9303ca549796d9082a044dfd91f" title="Acts::MappingMaterialDecorator\l::volumeLoop" alt="" coords="494,1093,735,1137"/>
+<area shape="rect" id="node40" href="$dd/d7a/Mat__map__detector__plot_8C.html#ac0d08f0933de5ca6053592441e00dacb" title="Fill the histograms for the detector." alt="" coords="595,1161,634,1189"/>
+<area shape="rect" id="node46" href="$d5/d27/classActs_1_1MaterialMapJsonConverter.html#a187750866f0ac3c4c502c960864dad78" title="Acts::MaterialMapJsonConverter\l::convertToHierarchy" alt="" coords="495,1281,734,1325"/>
+<area shape="rect" id="node47" href="$dd/d7e/namespaceActs_1_1Test.html#a6be9707dc235928a7c331961ece6fd24" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="521,1349,709,1393"/>
+<area shape="rect" id="node48" href="$d0/dcd/structActsSurfaceMaps.html#a04eee5d8441672a7f848ff7c5970dea3" title="true if given surface corresponds to TPC" alt="" coords="498,1417,731,1445"/>
+<area shape="rect" id="node49" href="$d0/dcd/structActsSurfaceMaps.html#a482c3108749ef0053d7ddcba06fc6ac0" title="true if given surface corresponds to Micromegas" alt="" coords="495,1469,735,1513"/>
+<area shape="rect" id="node50" href="$d9/d2a/classsPHENIXActsDetectorElement.html#a57ef4b6d6f9d486fd2dd9f56f1fe75c3" title="sPHENIXActsDetectorElement\l::transform" alt="" coords="504,1213,725,1257"/>
+<area shape="rect" id="node32" href="$d3/dac/GeometryIdGeneratorTests_8cpp.html#a1e5fcf40b7a249eab2824b1cea80de76" title="BOOST_AUTO_TEST_CASE" alt="" coords="834,1553,1030,1581"/>
+<area shape="rect" id="node37" href="$d1/d02/classActsExamples_1_1ObjTrackingGeometryWriter.html#a2350265977e0c6ca3298e1f604022316" title="ActsExamples::ObjTracking\lGeometryWriter::write" alt="" coords="829,949,1035,993"/>
+<area shape="rect" id="node38" href="$da/d27/namespaceActs_1_1TrackingGeometryView3DTest.html#a0e769fd78cb658e66c7362b5fa7bf818" title="Acts::TrackingGeometryView3\lDTest::run" alt="" coords="820,1017,1044,1061"/>
+<area shape="rect" id="node41" href="$da/d3f/classSColdQcdCorrelatorAnalysis_1_1SCorrelatorJetTree.html#a640e94681983358fcd042c4ff896facc" title="SColdQcdCorrelatorAnalysis\l::SCorrelatorJetTree::AddECal" alt="" coords="824,1357,1040,1401"/>
+<area shape="rect" id="node42" href="$da/d3f/classSColdQcdCorrelatorAnalysis_1_1SCorrelatorJetTree.html#ac8f3789c61bfc71ecd967da6bc52f45b" title="SColdQcdCorrelatorAnalysis\l::SCorrelatorJetTree::AddFlow" alt="" coords="823,1085,1041,1129"/>
+<area shape="rect" id="node43" href="$da/d3f/classSColdQcdCorrelatorAnalysis_1_1SCorrelatorJetTree.html#acff094dcb10638dc69316089e8e09574" title="SColdQcdCorrelatorAnalysis\l::SCorrelatorJetTree::AddHCal" alt="" coords="823,1153,1041,1197"/>
+<area shape="rect" id="node44" href="$da/d3f/classSColdQcdCorrelatorAnalysis_1_1SCorrelatorJetTree.html#ae4755be7ae6d04902d69b86e3e51a3b1" title="SColdQcdCorrelatorAnalysis\l::SCorrelatorJetTree::AddParticles" alt="" coords="810,1221,1054,1265"/>
+<area shape="rect" id="node45" href="$da/d3f/classSColdQcdCorrelatorAnalysis_1_1SCorrelatorJetTree.html#a7df013ff47be6c34dced76dacff50ee6" title="SColdQcdCorrelatorAnalysis\l::SCorrelatorJetTree::AddTracks" alt="" coords="817,1289,1047,1333"/>
+</map>

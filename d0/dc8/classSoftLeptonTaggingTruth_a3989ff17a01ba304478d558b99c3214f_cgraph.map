@@ -1,0 +1,51 @@
+<map id="SoftLeptonTaggingTruth::process_Spectrum" name="SoftLeptonTaggingTruth::process_Spectrum">
+<area shape="rect" id="node2" href="$d7/d97/classJetMap.html#a822b861e7cc9ae458a7e5edf7dcdf970" title="JetMap::begin" alt="" coords="283,225,398,253"/>
+<area shape="rect" id="node3" href="$df/d93/namespaceautodiff_1_1detail.html#a1002a374a47c67229dd43c66f7ffc449" title="autodiff::detail::copysign" alt="" coords="246,277,435,305"/>
+<area shape="rect" id="node4" href="$d5/da9/ExploreTTrees_8C.html#ac295e38649593860060414ec2d8f155e" title="dR" alt="" coords="321,329,361,357"/>
+<area shape="rect" id="node6" href="$d7/d97/classJetMap.html#a84dec46acee0e4d46509494cc387e25b" title="JetMap::end" alt="" coords="289,381,392,409"/>
+<area shape="rect" id="node7" href="$d7/da6/classJet.html#a85015347b5a5742dcf218e258f0460ae" title="Jet::get_e" alt="" coords="298,433,383,461"/>
+<area shape="rect" id="node8" href="$dd/d75/classJetRecoEval.html#af6356d19d3ff0ee9c9849348466e7d0e" title="what was the energy contribution to this reconstructed jet from this truth jet?" alt="" coords="247,485,434,529"/>
+<area shape="rect" id="node25" href="$d7/da6/classJet.html#acadc7526b652593397e70574eb461400" title="Jet::get_et" alt="" coords="295,553,387,581"/>
+<area shape="rect" id="node26" href="$d7/da6/classJet.html#aa7219b7e6fafba21362c4591f4ed8f06" title="Jet::get_eta" alt="" coords="544,1459,643,1487"/>
+<area shape="rect" id="node27" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a7053669579bc64738cfec44f826554ae" title="common prefix for QA histograms" alt="" coords="251,657,431,701"/>
+<area shape="rect" id="node28" href="$d7/da6/classJet.html#aa3862da447559eb2edba56fc540c776b" title="Jet::get_mass" alt="" coords="284,725,397,753"/>
+<area shape="rect" id="node29" href="$d7/da6/classJet.html#aaf7b661627240eff2b2b5bc596b8736e" title="Jet::get_phi" alt="" coords="291,777,390,805"/>
+<area shape="rect" id="node30" href="$de/dc9/classPHG4Particle.html#a474033dbd058eea155c71fc4d17aaf4d" title="PHG4Particle::get_pid" alt="" coords="257,829,424,857"/>
+<area shape="rect" id="node31" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="259,881,422,909"/>
+<area shape="rect" id="node32" href="$d7/da6/classJet.html#a5bf014c85e80f6f2ea41f93ef52db0c6" title="Jet::get_px" alt="" coords="293,933,388,961"/>
+<area shape="rect" id="node33" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="259,985,422,1013"/>
+<area shape="rect" id="node34" href="$d7/da6/classJet.html#aa5b2ac25a412072360e100e1445ee49a" title="Jet::get_py" alt="" coords="293,1037,388,1065"/>
+<area shape="rect" id="node35" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="259,1089,422,1117"/>
+<area shape="rect" id="node36" href="$d7/da6/classJet.html#a4009a0f20c0b95dc1ba3d9f00988fcdd" title="Jet::get_pz" alt="" coords="294,1141,387,1169"/>
+<area shape="rect" id="node37" href="$da/dd0/namespacePHG4HitDefs.html#ad88f7f6ceb43e0702c65a6838dedb229" title="PHG4HitDefs::get_volume_id" alt="" coords="233,1193,448,1221"/>
+<area shape="rect" id="node38" href="$de/dc9/classPHG4Particle.html#a02ca717804f76c532efaf6d1cdebda3e" title="PHG4Particle::get_vtx_id" alt="" coords="247,1245,434,1273"/>
+<area shape="rect" id="node39" href="$d6/d81/classPHG4VtxPoint.html#a9f885c1b879a2f1d6299b07801210a1d" title="PHG4VtxPoint::get_x" alt="" coords="260,1297,421,1325"/>
+<area shape="rect" id="node40" href="$d6/d81/classPHG4VtxPoint.html#a2073b3294f78491a2124aea6c436d6a8" title="PHG4VtxPoint::get_y" alt="" coords="260,1349,421,1377"/>
+<area shape="rect" id="node41" href="$d6/d81/classPHG4VtxPoint.html#ae26c6d111c93795d64e3571b6f306ef9" title="PHG4VtxPoint::get_z" alt="" coords="261,1401,421,1429"/>
+<area shape="rect" id="node42" href="$d3/d96/classFun4AllHistoManager.html#ae5401f032b650d41224dfa0e2f12d364" title="Fun4AllHistoManager\l::getHisto" alt="" coords="258,1453,423,1497"/>
+<area shape="rect" id="node43" href="$d0/dc8/classSoftLeptonTaggingTruth.html#abab3d5685a91a88b9fa631c562e14cb3" title="Get a pointer to the default hist manager for QA modules." alt="" coords="251,1521,431,1565"/>
+<area shape="rect" id="node44" href="$da/d6c/classPHG4TruthInfoContainer.html#a2817b4438bb80cacb28f457975342cf2" title="PHG4TruthInfoContainer\l::GetPrimaryParticleRange" alt="" coords="241,1589,440,1633"/>
+<area shape="rect" id="node45" href="$da/d6c/classPHG4TruthInfoContainer.html#acf130130dd475251d67c0f04c0e9cc49" title="PHG4TruthInfoContainer\l::GetPrimaryVtx" alt="" coords="248,1657,433,1701"/>
+<area shape="rect" id="node46" href="$de/dc9/classPHG4Particle.html#a4627a601f593310250ef0583d1229ec4" title="PHG4Particle::identify" alt="" coords="257,1725,425,1753"/>
+<area shape="rect" id="node47" href="$d7/da6/classJet.html#a84d9da6371f53d269b71492bf2acd25f" title="Jet::identify" alt="" coords="291,1777,391,1805"/>
+<area shape="rect" id="node48" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a760036c60cdc95067deca20190332201" title="acceptance cut on jet object" alt="" coords="251,1829,431,1873"/>
+<area shape="rect" id="node49" href="$d7/d97/classJetMap.html#a517ad9a98c7a0de34b2746c589eb74b9" title="JetMap::size" alt="" coords="289,1897,393,1925"/>
+<area shape="rect" id="node50" href="$d7/da6/classJet.html#a59f3cd80ca4ce7c95cb3824f979f7d50" title="Jet::size_comp" alt="" coords="281,1949,401,1977"/>
+<area shape="rect" id="node5" href="$db/d04/EMCalTowerRingStudy_8C.html#af302a003baa57717a4371eeee3999460" title="delta_phi" alt="" coords="552,5,635,33"/>
+<area shape="rect" id="node9" href="$d3/d22/classJetTruthEval.html#a5d9abe5c432bef3f5f495400b9603e52" title="which truth particle contributed to this truth jet?" alt="" coords="510,57,677,101"/>
+<area shape="rect" id="node10" href="$d7/da6/classJet.html#a2fbba305fca78cf16ab84463d085b2cb" title="Jet::get_comp_vec" alt="" coords="755,96,901,124"/>
+<area shape="rect" id="node11" href="$d7/d8b/classSvtxTrackMap.html#a08561d1123c35a7f953038f8d684a6d5" title="SvtxTrackMap::get" alt="" coords="520,177,667,205"/>
+<area shape="rect" id="node12" href="$dd/d75/classJetRecoEval.html#a1c2136613dc61b3b0b6f6956d09f05e5" title="get a copy of the lower level eval and its memory cache" alt="" coords="506,229,681,273"/>
+<area shape="rect" id="node13" href="$dd/d75/classJetRecoEval.html#a6719cc651ecd966ab2c3dccc8e7b8112" title="get a copy of the lower level eval and its memory cache" alt="" coords="505,297,681,341"/>
+<area shape="rect" id="node14" href="$de/d0b/classCaloRawTowerEval.html#a3f58f1e7d58a40bc361dcc9443c29465" title="how much energy did this primary shower contribute to this tower?" alt="" coords="739,387,917,431"/>
+<area shape="rect" id="node15" href="$da/d7e/classCaloRawClusterEval.html#a1df87a8403be2e5146a922554953c4e7" title="how much energy did this primary truth shower contribute to this cluster" alt="" coords="496,417,691,461"/>
+<area shape="rect" id="node16" href="$dd/d75/classJetRecoEval.html#a3de02072eda4938fea9fb9c8911bab41" title="get a copy of the lower level eval and its memory cache" alt="" coords="507,485,679,529"/>
+<area shape="rect" id="node17" href="$dd/d75/classJetRecoEval.html#a787d50e9a5df5dd124b3789b524ee288" title="get a copy of the lower level eval and its memory cache" alt="" coords="507,553,679,597"/>
+<area shape="rect" id="node18" href="$dd/d75/classJetRecoEval.html#a6cbc6d2f058b99112ad31e25cfbc61de" title="get a copy of the lower level eval and its memory cache" alt="" coords="503,621,683,665"/>
+<area shape="rect" id="node19" href="$dd/d75/classJetRecoEval.html#a8d474bf273feb5392c16e6085e4825b3" title="get a copy of the lower level eval and its memory cache" alt="" coords="498,689,689,733"/>
+<area shape="rect" id="node20" href="$d2/db8/classSvtxTrack.html#aa455c367aed4671a5d34330cad61f7dc" title="SvtxTrack::get_p" alt="" coords="527,757,660,785"/>
+<area shape="rect" id="node21" href="$db/d10/classCaloEvalStack.html#a23ea229b0fa0b23ed1ddb6902590e56d" title="CaloEvalStack::get\l_rawcluster_eval" alt="" coords="519,809,668,853"/>
+<area shape="rect" id="node22" href="$db/d10/classCaloEvalStack.html#a3b9436fd89a31b81522961a2ea467e5c" title="CaloEvalStack::get\l_rawtower_eval" alt="" coords="519,877,668,921"/>
+<area shape="rect" id="node23" href="$dd/d75/classJetRecoEval.html#a5996281acdfd43d3a3115d851f45b7ca" title="get a copy of the lower level eval and its memory cache" alt="" coords="509,945,677,989"/>
+<area shape="rect" id="node24" href="$d3/ded/classSvtxEvalStack.html#a6bc597e49eef82a4324a9da7ca097ade" title="SvtxEvalStack::get\l_track_eval" alt="" coords="519,1013,668,1057"/>
+</map>

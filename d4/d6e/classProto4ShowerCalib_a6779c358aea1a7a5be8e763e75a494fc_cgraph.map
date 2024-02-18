@@ -1,0 +1,51 @@
+<map id="Proto4ShowerCalib::process_event" name="Proto4ShowerCalib::process_event">
+<area shape="rect" id="node2" href="$d3/d2b/classPHTFileServer.html#ac4e4f66af63e11c709628712c43c5dc9" title="change to directory of TFile matching filename" alt="" coords="259,21,397,49"/>
+<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#a60173f5ff12c567632583ea619a7d2fb" title="PHParameters::FillFrom" alt="" coords="239,157,417,185"/>
+<area shape="rect" id="node8" href="$d4/d6e/classProto4ShowerCalib.html#af17ab617a7a52464a62c1558bdb3a914" title="Proto4ShowerCalib::\lfind_max" alt="" coords="249,269,407,313"/>
+<area shape="rect" id="node9" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="527,277,701,305"/>
+<area shape="rect" id="node10" href="$d3/dc7/classRawTowerContainer.html#a94a3368d6cd85ea4c3f204cd1065da26" title="RawTowerContainer::\lgetTower" alt="" coords="533,329,695,373"/>
+<area shape="rect" id="node11" href="$d3/d2b/classPHTFileServer.html#a7f6bcc2c1d273dcd3f84f8d235dde7e2" title="flush TFile matching filename" alt="" coords="250,89,406,117"/>
+<area shape="rect" id="node12" href="$d3/d2b/classPHTFileServer.html#a5a3ed7a2a70cc2e38dbe1cb33afe9c2f" title="return reference to class singleton" alt="" coords="255,389,401,417"/>
+<area shape="rect" id="node13" href="$d9/dd8/classRawTower.html#a684d193cfa6e173242edecbf7b69d64a" title="RawTower::get_bineta" alt="" coords="244,441,412,469"/>
+<area shape="rect" id="node14" href="$d9/dd8/classRawTower.html#ad7b821b149c79c752ffda34821982383" title="RawTower::get_binphi" alt="" coords="244,493,412,521"/>
+<area shape="rect" id="node15" href="$d9/dd8/classRawTower.html#a769db7b73fdf572c73255f7b632df618" title="RawTower::get_column" alt="" coords="240,545,416,573"/>
+<area shape="rect" id="node16" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="228,597,428,641"/>
+<area shape="rect" id="node17" href="$d8/db2/classEventHeader.html#af687f56cab4be30f5d488b893925b689" title="get Event Number" alt="" coords="211,665,445,693"/>
+<area shape="rect" id="node18" href="$d8/db2/classEventHeader.html#a6de15c404317fc24bc010a792c78c67f" title="get Event Type (Data,rejected,EOR,BOR,...)" alt="" coords="228,717,428,745"/>
+<area shape="rect" id="node20" href="$d4/d6e/classProto4ShowerCalib.html#a5e32bce8a66ebc3ded81b651b03ec9f4" title="Proto4ShowerCalib::\lget_HistoManager" alt="" coords="249,769,407,813"/>
+<area shape="rect" id="node27" href="$d9/dd8/classRawTower.html#acb57721d39800bb8a23ffc10ae66d198" title="RawTower::get_id" alt="" coords="259,905,397,933"/>
+<area shape="rect" id="node28" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="247,957,409,985"/>
+<area shape="rect" id="node29" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="247,1009,409,1037"/>
+<area shape="rect" id="node30" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="247,1061,409,1089"/>
+<area shape="rect" id="node31" href="$d9/dd8/classRawTower.html#a1ee15d3f2fbbd12631899bef756d25a3" title="RawTower::get_row" alt="" coords="253,1113,403,1141"/>
+<area shape="rect" id="node32" href="$d8/db2/classEventHeader.html#add291543519bd4688564249b51f54aeb" title="get Run Number" alt="" coords="214,1165,442,1193"/>
+<area shape="rect" id="node33" href="$de/dc9/classPHG4Particle.html#a02ca717804f76c532efaf6d1cdebda3e" title="PHG4Particle::get_vtx_id" alt="" coords="235,1217,421,1245"/>
+<area shape="rect" id="node34" href="$d6/d81/classPHG4VtxPoint.html#a2073b3294f78491a2124aea6c436d6a8" title="PHG4VtxPoint::get_y" alt="" coords="247,1269,409,1297"/>
+<area shape="rect" id="node35" href="$d6/d81/classPHG4VtxPoint.html#ae26c6d111c93795d64e3571b6f306ef9" title="PHG4VtxPoint::get_z" alt="" coords="248,1321,408,1349"/>
+<area shape="rect" id="node36" href="$da/dc3/namespacefindNode.html#af4793f47e215cb6b0d51e0a9303a4382" title="findNode::getClass" alt="" coords="253,1373,403,1401"/>
+<area shape="rect" id="node41" href="$d3/d96/classFun4AllHistoManager.html#ae5401f032b650d41224dfa0e2f12d364" title="Fun4AllHistoManager\l::getHisto" alt="" coords="245,837,411,881"/>
+<area shape="rect" id="node43" href="$da/d6c/classPHG4TruthInfoContainer.html#a2817b4438bb80cacb28f457975342cf2" title="PHG4TruthInfoContainer\l::GetPrimaryParticleRange" alt="" coords="229,1425,427,1469"/>
+<area shape="rect" id="node44" href="$d3/dc7/classRawTowerContainer.html#a425be883ff7f6b5c754332c45b6958cd" title="return all towers" alt="" coords="247,1493,409,1537"/>
+<area shape="rect" id="node45" href="$da/d6c/classPHG4TruthInfoContainer.html#a5f3f30ff74c7397069c6f0041849b53c" title="PHG4TruthInfoContainer\l::GetVtx" alt="" coords="235,1561,421,1605"/>
+<area shape="rect" id="node46" href="$d8/db2/classEventHeader.html#a9005e871505ef199fc1708a08d000036" title="EventHeader::identify" alt="" coords="243,1629,413,1657"/>
+<area shape="rect" id="node47" href="$d0/da6/classProto4ShowerCalib_1_1Eval__Run.html#a7ac1346ca505ccb60f3e7c501aa38ee6" title="Proto4ShowerCalib::\lEval_Run::reset" alt="" coords="249,1681,407,1725"/>
+<area shape="rect" id="node48" href="$d4/d97/classProto4ShowerCalib_1_1Eval__Cluster.html#aac3cbfe1229135e8f429308e04e7bb66" title="Proto4ShowerCalib::\lEval_Cluster::reset" alt="" coords="249,1749,407,1793"/>
+<area shape="rect" id="node49" href="$d4/d97/classProto4ShowerCalib_1_1Eval__Cluster.html#af2fab5776388e920d15e57be3a3173b9" title="Proto4ShowerCalib::\lEval_Cluster::reweight\l_clus_pol" alt="" coords="241,1817,415,1877"/>
+<area shape="rect" id="node50" href="$de/de0/matchedfilter_8C.html#ac662fab4d6569f9ab320da1b95bcd663" title="round" alt="" coords="298,1901,358,1929"/>
+<area shape="rect" id="node3" href="$da/dbc/classPHTFileServer_1_1SafeTFile.html#af878cc9c0b4dbe271c278d16aacd7fc4" title="PHTFileServer::SafeTFile\l::file_map" alt="" coords="522,5,706,49"/>
+<area shape="rect" id="node5" href="$d8/d21/classPdbParameterMap.html#ab0e99129bc91837311172241b78f4c82" title="PdbParameterMap::get\l_cparam_iters" alt="" coords="525,141,703,185"/>
+<area shape="rect" id="node6" href="$d8/d21/classPdbParameterMap.html#ade341cd2fa2ac009cd6e7741e728f85b" title="PdbParameterMap::get\l_dparam_iters" alt="" coords="525,209,703,253"/>
+<area shape="rect" id="node7" href="$d8/d21/classPdbParameterMap.html#ac348934f368cf69d37ce7480fdcd332c" title="PdbParameterMap::get\l_iparam_iters" alt="" coords="525,73,703,117"/>
+<area shape="rect" id="node19" href="$d8/db2/classEventHeader.html#ac8695be5d7a9fcd6036e04fa14fac6a5" title="EventHeader::get_intval" alt="" coords="522,673,706,701"/>
+<area shape="rect" id="node21" href="$da/d29/classFun4AllServer.html#af5885837658eb26f98dbc697b58747a7" title="Fun4AllServer::getHistoManager" alt="" coords="493,777,735,805"/>
+<area shape="rect" id="node23" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="523,725,705,753"/>
+<area shape="rect" id="node25" href="$da/d29/classFun4AllServer.html#a377f113767f24ce6413e678752ed7f53" title="Fun4AllServer::registerHisto\lManager" alt="" coords="509,829,719,873"/>
+<area shape="rect" id="node22" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="804,808,980,836"/>
+<area shape="rect" id="node24" href="$da/d29/classFun4AllServer.html#a90e27f05f0b2e8b6fe462387b14bfb92" title="Fun4AllServer::Fun4AllServer" alt="" coords="783,725,1001,753"/>
+<area shape="rect" id="node26" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="815,883,969,911"/>
+<area shape="rect" id="node37" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="520,1411,708,1439"/>
+<area shape="rect" id="node40" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="529,1335,699,1363"/>
+<area shape="rect" id="node38" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="819,1436,965,1464"/>
+<area shape="rect" id="node39" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="823,1384,961,1412"/>
+<area shape="rect" id="node42" href="$d3/d96/classFun4AllHistoManager.html#a78e6d7a95c28595e45b84db4c1542237" title="Fun4AllHistoManager\l::Print" alt="" coords="531,897,697,941"/>
+</map>

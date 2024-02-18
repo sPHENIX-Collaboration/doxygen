@@ -1,0 +1,21 @@
+<map id="TSQLConnection::PrepareStatement" name="TSQLConnection::PrepareStatement">
+<area shape="rect" id="node2" href="$da/daa/classPgPostBankBackupManager.html#a0a04a1d872f424730592d5b01a9952be" title="PgPostBankBackupManager\l::CleanTable" alt="" coords="832,155,1041,199"/>
+<area shape="rect" id="node3" href="$dd/d63/classPgPostBankWrapper.html#a58179a60fdf054688ddf1cffc6c166d9" title="PgPostBankWrapper::\lcommit" alt="" coords="342,265,507,309"/>
+<area shape="rect" id="node5" href="$da/daa/classPgPostBankBackupManager.html#aef9c4fe8b1ac4f3cb7f77bd505b4cc18" title="PgPostBankBackupManager\l::commit" alt="" coords="320,333,529,377"/>
+<area shape="rect" id="node6" href="$da/daa/classPgPostBankBackupManager.html#a235748109f2b58dfa188d3c20d9fbe9a" title="TFile &#45;&gt; Database for official operation use." alt="" coords="320,401,529,445"/>
+<area shape="rect" id="node7" href="$d4/d40/RDBCp_8C.html#aa604a01f2b931411604a655ee77ffa0c" title="CreateStuff" alt="" coords="375,469,474,497"/>
+<area shape="rect" id="node10" href="$d2/daa/RDBCmysql_8C.html#af6d48a46701a63b0ca15a21443ba51d0" title="createTables" alt="" coords="627,573,734,601"/>
+<area shape="rect" id="node12" href="$d2/daa/RDBCmysql_8C.html#a203666f1bb1baa23645c5d61192bbdc8" title="dropTable" alt="" coords="381,625,468,653"/>
+<area shape="rect" id="node14" href="$db/d8a/classPgPostBankBackupLog.html#ae754be7c71f71733399511e60e07dd83" title="initialization. Always called to check connections in Log()" alt="" coords="338,103,511,147"/>
+<area shape="rect" id="node18" href="$d5/d50/RDBCscroll_8C.html#a9766a274dded0d15328899cd34841eda" title="Populate" alt="" coords="385,521,465,549"/>
+<area shape="rect" id="node19" href="$d2/daa/RDBCmysql_8C.html#afa54e37164c83b21a71c8a0b43f49411" title="populateTables" alt="" coords="619,677,743,705"/>
+<area shape="rect" id="node20" href="$d1/d79/RDBCTestFloat_8C.html#a25be04a8fe88f169cb55cdf04a8795c4" title="RDBCTestInt" alt="" coords="373,729,477,757"/>
+<area shape="rect" id="node4" href="$d4/dac/classPgPostApplication.html#ab83221bb1100f695ba4addb58f3d5af9" title="PgPostApplication::\lcommit" alt="" coords="605,265,756,309"/>
+<area shape="rect" id="node8" href="$d4/d40/RDBCp_8C.html#a369c067949dc102cddf912c4cd35bbf9" title="oproducer" alt="" coords="635,469,726,497"/>
+<area shape="rect" id="node9" href="$d5/d50/RDBCscroll_8C.html#a17944445f63518b46c02695005ac5e76" title="RDBCscroll" alt="" coords="633,521,728,549"/>
+<area shape="rect" id="node11" href="$d2/daa/RDBCmysql_8C.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="909,625,964,653"/>
+<area shape="rect" id="node13" href="$d2/daa/RDBCmysql_8C.html#a1c2ce085f53a5b51c6c3cc9abdd8f7f6" title="dropTables" alt="" coords="633,625,728,653"/>
+<area shape="rect" id="node15" href="$da/daa/classPgPostBankBackupManager.html#a18ed2396d35c26be07a7bdea3baa9e93" title="dump databse to text" alt="" coords="832,77,1041,121"/>
+<area shape="rect" id="node16" href="$da/daa/classPgPostBankBackupManager.html#a48e85fa7beea90b4d7f828c59b5e5676" title="Database &#45;&gt; TFile for all all records satisifying record_selection." alt="" coords="832,5,1041,49"/>
+<area shape="rect" id="node17" href="$db/d8a/classPgPostBankBackupLog.html#ac860e75f4dc2cd60c721653c9d8ee839" title="enter one log entry" alt="" coords="577,111,784,139"/>
+</map>

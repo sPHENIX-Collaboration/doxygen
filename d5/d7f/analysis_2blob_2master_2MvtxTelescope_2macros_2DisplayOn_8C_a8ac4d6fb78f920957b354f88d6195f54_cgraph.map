@@ -1,0 +1,51 @@
+<map id="DisplayOn" name="DisplayOn">
+<area shape="rect" id="node2" href="$d0/d78/classPHG4Reco.html#a83fd9e9472f94d9a29be65df65e400ef" title="interface to G4 cmd interpreter" alt="" coords="153,5,361,33"/>
+<area shape="rect" id="node4" href="$da/d29/classFun4AllServer.html#ac6d47a2b3bc98933a03fd63bb75d624a" title="Fun4AllServer::getSubsysReco" alt="" coords="144,57,371,85"/>
+<area shape="rect" id="node6" href="$d0/d78/classPHG4Reco.html#afb33612dcc374f0614d800dc9480305a" title="PHG4Reco::InitRun" alt="" coords="184,805,331,833"/>
+<area shape="rect" id="node14" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="1287,1009,1468,1037"/>
+<area shape="rect" id="node24" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="1039,1277,1220,1305"/>
+<area shape="rect" id="node3" href="$d0/d78/classPHG4Reco.html#ad0f5beaf012e51404b712277818c6b36" title="PHG4Reco::InitUImanager" alt="" coords="456,5,653,33"/>
+<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="1041,264,1217,292"/>
+<area shape="rect" id="node7" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="1048,420,1211,448"/>
+<area shape="rect" id="node9" href="$d1/da8/classPHFlag.html#a8a2b67fdba1ed0a4c6c21a8064453768" title="PHFlag::set_StringFlag" alt="" coords="469,472,641,500"/>
+<area shape="rect" id="node10" href="$d1/da8/classPHFlag.html#a88212f810275c61464d51caa3cd4d1e1" title="PHFlag::set_FloatFlag" alt="" coords="472,524,637,552"/>
+<area shape="rect" id="node11" href="$d0/d78/classPHG4Reco.html#a66fc50f0871fbaf83b21edfa8ae98259" title="PHG4Reco::InitField" alt="" coords="478,576,631,604"/>
+<area shape="rect" id="node17" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="1993,1591,2147,1619"/>
+<area shape="rect" id="node26" href="$d1/d13/classPHG4PhenixDetector.html#a4a700250d75ec02bcc1809c43f124a45" title="PHG4PhenixDetector\l::Verbosity" alt="" coords="473,628,636,672"/>
+<area shape="rect" id="node27" href="$d1/d13/classPHG4PhenixDetector.html#a375bd9d82edcae5f21f39e319f3044b2" title="PHG4PhenixDetector\l::SetWorldSizeX" alt="" coords="473,696,636,740"/>
+<area shape="rect" id="node28" href="$d1/d13/classPHG4PhenixDetector.html#a74db49898240516c4136bbbdedcff188" title="PHG4PhenixDetector\l::SetWorldSizeY" alt="" coords="473,764,636,808"/>
+<area shape="rect" id="node29" href="$d1/d13/classPHG4PhenixDetector.html#a7de4106257c7435e45acb3579177c3c4" title="PHG4PhenixDetector\l::SetWorldSizeZ" alt="" coords="473,832,636,876"/>
+<area shape="rect" id="node30" href="$d1/d13/classPHG4PhenixDetector.html#a570bf81e75c124d0d3d80040fc69ca8b" title="PHG4PhenixDetector\l::SetWorldShape" alt="" coords="473,900,636,944"/>
+<area shape="rect" id="node31" href="$d1/d13/classPHG4PhenixDetector.html#acdba581a56ceb2717c1553449802b153" title="PHG4PhenixDetector\l::SetWorldMaterial" alt="" coords="473,968,636,1012"/>
+<area shape="rect" id="node32" href="$d1/d13/classPHG4PhenixDetector.html#a2e9d45f2c881b6c9ced3b3031333f1b6" title="register a detector. This is called in PHG4Reco::Init based on which detectors are found on the tree..." alt="" coords="473,1036,636,1080"/>
+<area shape="rect" id="node33" href="$d0/d78/classPHG4Reco.html#af0c0ba5027360ea57d9ee31bc949e4dd" title="PHG4Reco::setupInputEvent\lNodeReader" alt="" coords="449,1104,661,1148"/>
+<area shape="rect" id="node35" href="$d9/d7a/classPHG4PhenixEventAction.html#a715e0072dfcc8b3cf9434e77ee0858f6" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="462,1172,647,1216"/>
+<area shape="rect" id="node36" href="$d9/dce/classPHG4PhenixStackingAction.html#a33d5135ee656a303fb98ab3849bc6a9b" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="453,1240,657,1284"/>
+<area shape="rect" id="node37" href="$d1/d53/classPHG4PhenixSteppingAction.html#afead1d30da1e7c68616987bdf711a25b" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="451,1308,658,1352"/>
+<area shape="rect" id="node38" href="$d0/ddf/classPHG4PhenixTrackingAction.html#a300a79aafe903fda71e3683cc873f1a8" title="register an action. This is called in PHG4Reco::Init based on which actions are found on the tree..." alt="" coords="453,1376,656,1420"/>
+<area shape="rect" id="node39" href="$d3/d64/classPHG4UIsession.html#a6c62aa280017bbed8399feaa21c1b342" title="PHG4UIsession::Verbosity" alt="" coords="457,1444,652,1472"/>
+<area shape="rect" id="node40" href="$d2/da1/classPHGeomUtility.html#a3130e3b42131e3f048aa7586829192c5" title="PHGeomUtility::GenerateGeometry\lFileName" alt="" coords="425,1496,684,1540"/>
+<area shape="rect" id="node41" href="$d0/d78/classPHG4Reco.html#a490f5037508d384c5b60855ef0f7e227" title="PHG4Reco::Dump_GDML" alt="" coords="461,1564,649,1592"/>
+<area shape="rect" id="node44" href="$d2/da1/classPHGeomUtility.html#a4a80252bedb22198d011065e41aa669e" title="TGeo ROOT/GDML/Macro file &#45;&gt; DST node with automatic file type discrimination based on file names..." alt="" coords="437,212,672,240"/>
+<area shape="rect" id="node48" href="$d2/da1/classPHGeomUtility.html#af9c141256e014a36b8af77075894b41f" title="delete the geometry file after use" alt="" coords="419,264,691,292"/>
+<area shape="rect" id="node49" href="$d2/da1/classPHGeomUtility.html#aaa34b2cff253bbdae62673e7f68e091c" title="DST node &#45;&gt; TGeoManager &#45;&gt; export files, like gdml, .root or .C formats." alt="" coords="439,316,670,344"/>
+<area shape="rect" id="node50" href="$dd/d1f/classPHRandomSeed.html#a8135a634f24365d692c6941819dd80f3" title="PHRandomSeed::Verbosity" alt="" coords="454,368,655,396"/>
+<area shape="rect" id="node8" href="$d8/d14/classrecoConsts.html#ae882d6adc62f783ec78114fe3dee3c24" title="recoConsts::recoConsts" alt="" coords="1287,420,1467,448"/>
+<area shape="rect" id="node12" href="$d5/d4b/classCDBInterface.html#ac1458cd6adb1e2944371c40a90dc9dfe" title="CDBInterface::instance" alt="" coords="767,691,943,719"/>
+<area shape="rect" id="node18" href="$d5/d4b/classCDBInterface.html#a43822e59a3876434355e4cd55eba6b23" title="CDBInterface::getUrl" alt="" coords="775,524,935,552"/>
+<area shape="rect" id="node23" href="$df/d4d/classPHFieldUtility.html#a3afdd4e878d02b30b6f2c396e52b8e48" title="Get transient PHField from DST nodes. If not found, make a new one based on default_config." alt="" coords="769,1009,942,1053"/>
+<area shape="rect" id="node13" href="$d5/d4b/classCDBInterface.html#a0a9c97fd3e4b52cc2148eeab58f7d1de" title="CDBInterface::CDBInterface" alt="" coords="1025,805,1233,833"/>
+<area shape="rect" id="node15" href="$da/d29/classFun4AllServer.html#a90e27f05f0b2e8b6fe462387b14bfb92" title="Fun4AllServer::Fun4AllServer" alt="" coords="1516,1129,1735,1157"/>
+<area shape="rect" id="node16" href="$da/d29/classFun4AllServer.html#aa1939c3e2c3113cce0a6415103b4f5a5" title="Fun4AllServer::InitAll" alt="" coords="1783,1275,1945,1303"/>
+<area shape="rect" id="node19" href="$d1/da8/classPHFlag.html#a4b73a422f0076568904d71f40e849da5" title="PHFlag::FlagExist" alt="" coords="1060,524,1199,552"/>
+<area shape="rect" id="node20" href="$d1/da8/classPHFlag.html#aa2dc135d4d458dd420bbead4ea2b5f0b" title="PHFlag::get_StringFlag" alt="" coords="1042,576,1217,604"/>
+<area shape="rect" id="node21" href="$d1/da8/classPHFlag.html#a9912bec8f445c81b296cee7355cdb063" title="PHFlag::get_uint64Flag" alt="" coords="1041,628,1218,656"/>
+<area shape="rect" id="node22" href="$d4/d32/classSphenixClient.html#ac5f598eea561d5cd3d79b83f79209ace" title="SphenixClient::getCalibration" alt="" coords="1020,472,1239,500"/>
+<area shape="rect" id="node25" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="1035,1085,1223,1113"/>
+<area shape="rect" id="node34" href="$d5/dca/classPHCompositeNode.html#a15a0c4804399a9de4267647f05bd1ba4" title="PHCompositeNode::addNode" alt="" coords="747,1137,963,1165"/>
+<area shape="rect" id="node42" href="$d9/df8/classPHG4GDMLUtility.html#adb03ec38807279cb5abaf38987c5a73f" title="save the current Geant4 geometry to GDML file. Reading PHG4GDMLConfig from topNode" alt="" coords="739,1329,972,1357"/>
+<area shape="rect" id="node43" href="$d1/d13/classPHG4PhenixDetector.html#a08f9f09748e767ac536249ac56995fd2" title="PHG4PhenixDetector\l::GetPhysicalVolume" alt="" coords="774,1497,937,1541"/>
+<area shape="rect" id="node45" href="$d7/d6d/classPHGeomTGeo.html#ac4a15e8a300769e32f00a83fd03bbdca" title="Clear Event." alt="" coords="774,316,937,344"/>
+<area shape="rect" id="node46" href="$d7/d6d/classPHGeomTGeo.html#a8b2df41583e27a653458c6aae76a2926" title="PHGeomTGeo::SetGeometry" alt="" coords="749,212,962,240"/>
+<area shape="rect" id="node47" href="$d7/d6d/classPHGeomTGeo.html#a3e111f6229f7ce6392b14a98fdf5bea9" title="PHGeomTGeo::GetGeometry" alt="" coords="747,264,963,292"/>
+</map>

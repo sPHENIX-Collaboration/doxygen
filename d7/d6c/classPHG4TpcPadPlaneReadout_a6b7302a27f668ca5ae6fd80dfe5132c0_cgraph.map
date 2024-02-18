@@ -1,0 +1,32 @@
+<map id="PHG4TpcPadPlaneReadout::MapToPadPlane" name="PHG4TpcPadPlaneReadout::MapToPadPlane">
+<area shape="rect" id="node2" href="$da/d9b/classTrkrHit.html#a9d037c1e35218b560f1da7bb6db967f3" title="TrkrHit::addEnergy" alt="" coords="575,25,725,53"/>
+<area shape="rect" id="node3" href="$dd/dc0/classTpcClusterBuilder.html#aa3e38de4af0d04adbbad64f3eff6633f" title="TpcClusterBuilder::\laddhitset" alt="" coords="303,77,453,121"/>
+<area shape="rect" id="node4" href="$d5/d76/classTrkrHitSetContainer.html#aee7de3f6af1b2564963057f4c638d43a" title="find or add HitSet" alt="" coords="572,77,728,121"/>
+<area shape="rect" id="node5" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a5d2dee70369dbf70328c69b8529359e6" title="PHG4TpcPadPlaneReadout\l::check_phi" alt="" coords="549,145,751,189"/>
+<area shape="rect" id="node6" href="$d7/db0/namespaceTpcDefs.html#ad6f7435b72ea8675313c2d016aa835f6" title="Generate a hitkey from a pad index and time bin." alt="" coords="300,896,456,924"/>
+<area shape="rect" id="node8" href="$d7/db0/namespaceTpcDefs.html#a30fc79495c9e8d14327d1026cd7325c7" title="Generate a hitsetkey for the tpc." alt="" coords="289,948,467,976"/>
+<area shape="rect" id="node10" href="$d2/d67/classPHG4TpcCylinderGeomContainer.html#a9e403ddde8eb944b74baa1f4c5f34a59" title="PHG4TpcCylinderGeomContainer\l::get_begin_end" alt="" coords="255,1000,501,1044"/>
+<area shape="rect" id="node11" href="$d9/d82/classPHG4TpcCylinderGeom.html#ad0f45458b891d42280f2c322840e8262" title="PHG4TpcCylinderGeom\l::get_layer" alt="" coords="561,605,739,649"/>
+<area shape="rect" id="node12" href="$d9/d82/classPHG4TpcCylinderGeom.html#aaddea431c03dfacaedd0c60266a6ab9f" title="PHG4TpcCylinderGeom\l::get_phibins" alt="" coords="561,281,739,325"/>
+<area shape="rect" id="node15" href="$d9/d82/classPHG4TpcCylinderGeom.html#a4c49ce9c382d1de414fe4e1d5abe2843" title="PHG4TpcCylinderGeom\l::get_phicenter" alt="" coords="561,213,739,257"/>
+<area shape="rect" id="node16" href="$d8/d2b/namespaceQAG4Util.html#a61d46189a0883ae4af122eb5ef596946" title="radius" alt="" coords="315,1068,441,1096"/>
+<area shape="rect" id="node18" href="$d9/d82/classPHG4TpcCylinderGeom.html#a057dd6be1e57c394925a080fbd8ef8b6" title="PHG4TpcCylinderGeom\l::get_zbins" alt="" coords="561,929,739,973"/>
+<area shape="rect" id="node20" href="$d9/d82/classPHG4TpcCylinderGeom.html#a274f6f67502f28268e8aa1c16eebd8df" title="PHG4TpcCylinderGeom\l::get_zcenter" alt="" coords="561,861,739,905"/>
+<area shape="rect" id="node21" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#ac40ee86af26fc10e23b80314537f7cb2" title="PHG4TpcPadPlaneReadout\l::getSingleEGEMAmplification" alt="" coords="267,1120,489,1164"/>
+<area shape="rect" id="node22" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#af1c3f266e7f2728502b8a69a3e7b053a" title="PHG4TpcPadPlaneReadout\l::populate_tbins" alt="" coords="277,725,479,769"/>
+<area shape="rect" id="node25" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="562,673,738,701"/>
+<area shape="rect" id="node26" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#acdaca49963024fe654cb03c26d8d272d" title="PHG4TpcPadPlaneReadout\l::populate_zigzag_phibins" alt="" coords="277,465,479,509"/>
+<area shape="rect" id="node7" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="844,1049,967,1077"/>
+<area shape="rect" id="node9" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="561,1049,739,1077"/>
+<area shape="rect" id="node13" href="$d9/d82/classPHG4TpcCylinderGeom.html#a93177822741be5a34a10ed624c7e8e8e" title="PHG4TpcCylinderGeom\l::check_binning_method_phi" alt="" coords="799,316,1012,360"/>
+<area shape="rect" id="node14" href="$d9/d82/classPHG4TpcCylinderGeom.html#ab25c824b1f4070bd7f6b84d2eb74c867" title="PHG4TpcCylinderGeom\l::methodname" alt="" coords="1060,572,1239,616"/>
+<area shape="rect" id="node17" href="$d8/d2b/namespaceQAG4Util.html#acb654c77dcfa7a61ba444f92481283c1" title="square" alt="" coords="581,1153,719,1181"/>
+<area shape="rect" id="node19" href="$d9/d82/classPHG4TpcCylinderGeom.html#a30b9e3e662c563b350100e8e73db765b" title="PHG4TpcCylinderGeom\l::check_binning_method" alt="" coords="813,793,998,837"/>
+<area shape="rect" id="node23" href="$d9/d82/classPHG4TpcCylinderGeom.html#ab1a6393c5b6b6f4cce27f144e96d86b0" title="PHG4TpcCylinderGeom\l::get_zbin" alt="" coords="561,793,739,837"/>
+<area shape="rect" id="node24" href="$d9/d82/classPHG4TpcCylinderGeom.html#ad2be111d5efbb3b42988f5792ae742d2" title="PHG4TpcCylinderGeom\l::get_zstep" alt="" coords="561,725,739,769"/>
+<area shape="rect" id="node27" href="$d9/d82/classPHG4TpcCylinderGeom.html#a7209bf17262ac16657974cd025cb98cd" title="PHG4TpcCylinderGeom\l::get_radius" alt="" coords="561,537,739,581"/>
+<area shape="rect" id="node28" href="$d9/d82/classPHG4TpcCylinderGeom.html#a4aae7fdeeae6b87eff30945827b9ef3f" title="PHG4TpcCylinderGeom\l::get_phistep" alt="" coords="561,349,739,393"/>
+<area shape="rect" id="node29" href="$d9/d82/classPHG4TpcCylinderGeom.html#a3dcae3ef6954ccbefa4e6c0306e50ac8" title="PHG4TpcCylinderGeom\l::get_phibin" alt="" coords="561,469,739,513"/>
+<area shape="rect" id="node31" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="617,417,683,445"/>
+<area shape="rect" id="node30" href="$d9/d82/classPHG4TpcCylinderGeom.html#aefa266268c9ffe803eb604b891d1f63f" title="PHG4TpcCylinderGeom\l::find_phibin" alt="" coords="816,469,995,513"/>
+</map>

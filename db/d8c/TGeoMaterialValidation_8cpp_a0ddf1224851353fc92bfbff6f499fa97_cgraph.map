@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d8/d75/MaterialValidationBase_8hpp.html#a86ce9b149a701387800648bfdc9232bc" title="The material validation example, it runs a propagation and then writes out the material information..." alt="" coords="108,1181,312,1209"/>
+<area shape="rect" id="node3" href="$d2/d86/classActsExamples_1_1Sequencer.html#a6b377030208115c4f49e0cb85bc2a0ab" title="ActsExamples::Sequencer\l::addContextDecorator" alt="" coords="651,141,849,185"/>
+<area shape="rect" id="node5" href="$d6/dcc/namespaceActsExamples_1_1Options.html#ace46c0553ce0bb8356f4bbf55333674e" title="Add common geometry&#45;related options." alt="" coords="385,867,564,911"/>
+<area shape="rect" id="node6" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a7647c361e677738939257a3788907018" title="Add magnetic field options with a bf&#45; prefix." alt="" coords="374,935,575,979"/>
+<area shape="rect" id="node7" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a6aa90f1bc5c6a12376189d84fc01611d" title="Add common material&#45;related options." alt="" coords="385,1003,564,1047"/>
+<area shape="rect" id="node8" href="$df/d16/classActsExamples_1_1IBaseDetector.html#a4fe6bf4df58bef5170c952964a79c596" title="ActsExamples::IBaseDetector\l::addOptions" alt="" coords="364,1071,585,1115"/>
+<area shape="rect" id="node9" href="$d6/dcc/namespaceActsExamples_1_1Options.html#abf21a4e0529b290b8d9c5445f021d538" title="Add common output&#45;related options." alt="" coords="385,1139,564,1183"/>
+<area shape="rect" id="node10" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a378c7fef12db374c419fe22116b5aa2a" title="PropagationAlgorithm options." alt="" coords="380,1207,569,1251"/>
+<area shape="rect" id="node11" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a3c003d4feb50b8a88e1d8732c17f84eb" title="Add random number options such as the global seed." alt="" coords="362,1275,587,1319"/>
+<area shape="rect" id="node12" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a275e900079b6c3f29fccc781fff55145" title="Add sequencer options, e.g. number of events." alt="" coords="385,1343,565,1387"/>
+<area shape="rect" id="node13" href="$d2/d86/classActsExamples_1_1Sequencer.html#ac7673c00d596c714cbceffdc9d0e3315" title="ActsExamples::Sequencer\l::addWriter" alt="" coords="375,73,574,117"/>
+<area shape="rect" id="node16" href="$d9/dfd/namespaceActsExamples_1_1Geometry.html#a6484afc41b54f3a8678b6e33b6f8c277" title="helper method to setup the geometry" alt="" coords="378,1411,571,1455"/>
+<area shape="rect" id="node18" href="$df/dd4/namespaceActsExamples.html#ab2530bb4e7128ba9cb52cae58e217206" title="Join dir and name into one path with correct handling of empty dirs." alt="" coords="381,1479,569,1507"/>
+<area shape="rect" id="node19" href="$d6/dcc/namespaceActsExamples_1_1Options.html#af10c23dfd3a63001bea43a2f15103e95" title="ActsExamples::Options\l::makeDefaultOptions" alt="" coords="385,1531,564,1575"/>
+<area shape="rect" id="node20" href="$d6/dcc/namespaceActsExamples_1_1Options.html#aeb0cbceb4fe644ebe08951d2429cf509" title="ActsExamples::Options\l::parse" alt="" coords="385,1599,564,1643"/>
+<area shape="rect" id="node21" href="$d6/dcc/namespaceActsExamples_1_1Options.html#ad6762727fb7dc6ff716ce476e3dbbdbe" title="Read the log level." alt="" coords="661,1688,839,1732"/>
+<area shape="rect" id="node22" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a076e0666df114f051ff8ee22ee68af6d" title="Read and create the magnetic field from the given user variables." alt="" coords="385,465,564,509"/>
+<area shape="rect" id="node38" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a49fd9bf66697685e10932a2ae1256abf" title="ActsExamples::Options\l::readRandomNumbersConfig" alt="" coords="364,1787,585,1831"/>
+<area shape="rect" id="node39" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a495157db008175cfdb9a22805b37351a" title="Read the sequencer config." alt="" coords="385,1719,564,1763"/>
+<area shape="rect" id="node40" href="$d2/d86/classActsExamples_1_1Sequencer.html#ab35839e504e50744446c5fbda98dc1bc" title="ActsExamples::Sequencer::run" alt="" coords="360,815,589,843"/>
+<area shape="rect" id="node50" href="$d6/dcc/namespaceActsExamples_1_1Options.html#afcf68eb5fc6c133da34412f7bd444682" title="Setup any additional services required for the magnetic field." alt="" coords="365,192,584,236"/>
+<area shape="rect" id="node4" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="1136,312,1312,340"/>
+<area shape="rect" id="node14" href="$d2/d86/classActsExamples_1_1Sequencer.html#a9b1864047c13de12118e9b69eef7b1d0" title="ActsExamples::Sequencer\l::addElement" alt="" coords="651,73,849,117"/>
+<area shape="rect" id="node15" href="$d4/d0e/namespaceActs_1_1IntegrationTest.html#af6cfc0c9a30db205e8c94e0fa493bb31" title="Acts::IntegrationTest\l::valid" alt="" coords="919,73,1080,117"/>
+<area shape="rect" id="node17" href="$df/d16/classActsExamples_1_1IBaseDetector.html#abe782a5fcb0cef6542d7f340f97ee893" title="ActsExamples::IBaseDetector\l::finalize" alt="" coords="639,1411,861,1455"/>
+<area shape="rect" id="node23" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="661,601,839,629"/>
+<area shape="rect" id="node25" href="$d5/da9/namespaceActsExamples_1_1HepMC3Event.html#aa1e61f462b4bff9679855b6f728017c2" title="Sets new units for lengths." alt="" coords="639,465,861,509"/>
+<area shape="rect" id="node26" href="$df/dd4/namespaceActsExamples.html#a828eaf6faedff6d08af69e98457215f2" title="ActsExamples::makeMagnetic\lFieldMapXyzFromRoot" alt="" coords="637,261,863,305"/>
+<area shape="rect" id="node30" href="$df/dd4/namespaceActsExamples.html#ad9b18dad5e3988f1d03d635d739ccb28" title="ActsExamples::makeMagnetic\lFieldMapXyzFromText" alt="" coords="637,329,863,373"/>
+<area shape="rect" id="node32" href="$df/dd4/namespaceActsExamples.html#a612f59a33aa5b21dcc5dac739f088a30" title="ActsExamples::makeMagnetic\lFieldMapRzFromRoot" alt="" coords="637,533,863,577"/>
+<area shape="rect" id="node35" href="$df/dd4/namespaceActsExamples.html#a221cb146f320c4262f05fb44d2404582" title="ActsExamples::makeMagnetic\lFieldMapRzFromText" alt="" coords="637,397,863,441"/>
+<area shape="rect" id="node36" href="$da/d7b/namespaceActs.html#ab2fafe4849c7ae7ce1eea8c57280042f" title="Acts::solenoidFieldMap" alt="" coords="911,572,1088,600"/>
+<area shape="rect" id="node24" href="$dc/d11/Prototype2_2EMCal_2macros_2SaveCanvas_8m.html#a8efe7494567713c8ec7a6803834a0bb6" title="print" alt="" coords="973,520,1026,548"/>
+<area shape="rect" id="node27" href="$da/d7b/namespaceActs.html#a960491a633707510dde9432e2d805b15" title="Acts::fieldMapXYZ" alt="" coords="927,312,1072,340"/>
+<area shape="rect" id="node28" href="$d1/dc5/BVHDataTestCase_8hpp.html#accd1bf67f8a1e46ed7aa5763db30d6fc" title="grid" alt="" coords="1200,468,1248,496"/>
+<area shape="rect" id="node29" href="$d2/db7/namespacestd_1_1tr1.html#af7e12a0f5b5791b5b7c49a5a17b85359" title="std::tr1::make_tuple" alt="" coords="1145,416,1303,444"/>
+<area shape="rect" id="node31" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="938,364,1061,392"/>
+<area shape="rect" id="node33" href="$da/d7b/namespaceActs.html#a94c33bcd16a6657e67de3572224e8428" title="Acts::fieldMapRZ" alt="" coords="931,468,1068,496"/>
+<area shape="rect" id="node34" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="1147,520,1301,564"/>
+<area shape="rect" id="node37" href="$db/d26/exceptionActs_1_1SolenoidBField.html#ab4eb5f7219d3894fd594d39787a882fe" title="Retrieve magnetic field value in local (r,z) coordinates." alt="" coords="1145,588,1303,632"/>
+<area shape="rect" id="node41" href="$d2/d86/classActsExamples_1_1Sequencer.html#a5317316b3979a3433fa4d66500a550fa" title="List of all configured algorithm names." alt="" coords="651,961,849,1005"/>
+<area shape="rect" id="node42" href="$d7/da4/namespaceKFPMath.html#a6025b2360c1c0f5710e7341037ac9d39" title="KFPMath::zero" alt="" coords="691,1029,809,1057"/>
+<area shape="rect" id="node43" href="$d2/d86/classActsExamples_1_1Sequencer.html#a6c5368c7537b5feb1cbb873f1daa9637" title="Determine range of (requested) events; [SIZE_MAX, SIZE_MAX) for error." alt="" coords="651,1081,849,1125"/>
+<area shape="rect" id="node44" href="$db/d7d/classActsExamples_1_1tbbWrap_1_1task__arena.html#a34f8306a103c6979745b30f8aff89410" title="ActsExamples::tbbWrap\l::task_arena::execute" alt="" coords="658,1149,842,1193"/>
+<area shape="rect" id="node45" href="$d9/d52/HoughTransformSeeder_8cpp.html#a1f2cfb6e3644c66f2bfe3c54f699a72a" title="to_string" alt="" coords="959,965,1039,993"/>
+<area shape="rect" id="node46" href="$d2/d86/classActsExamples_1_1Sequencer.html#a6729489fdbab840b1d007ee1eda0dfb3" title="ActsExamples::Sequencer\l::fpeMaskCount" alt="" coords="651,705,849,749"/>
+<area shape="rect" id="node47" href="$d8/dad/classActs_1_1FpeMonitor.html#adfb816adf924ba1e007a5382760bb3ea" title="Acts::FpeMonitor::stackTrace\lToString" alt="" coords="642,773,858,817"/>
+<area shape="rect" id="node48" href="$d2/d86/classActsExamples_1_1Sequencer.html#a354058d6b7d6e1284e3b60c92fbaef59" title="ActsExamples::Sequencer\l::logger" alt="" coords="651,841,849,885"/>
+<area shape="rect" id="node49" href="$d4/d3e/classActs_1_1Logger.html#a4c002b38237df04dc66f16b945aab25f" title="Acts::Logger::level" alt="" coords="677,909,823,937"/>
+</map>

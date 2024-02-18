@@ -1,0 +1,51 @@
+<map id="TruthConversionEval::recordConversion" name="TruthConversionEval::recordConversion">
+<area shape="rect" id="node2" href="$dc/d41/classConversion.html#ad0069d0c8f0665e3c01e8f4f5e8a8e80" title="Conversion::approachDistance" alt="" coords="222,161,450,189"/>
+<area shape="rect" id="node9" href="$dc/d41/classConversion.html#ac24ed5367463ba9de80adc6bcf7886fe" title="Conversion::recoCount" alt="" coords="527,405,703,433"/>
+<area shape="rect" id="node10" href="$d2/d4e/classRawCluster.html#a77a5b5c763e6d6daaf7962131c4d43ab" title="Virtual copy constructor." alt="" coords="254,971,418,999"/>
+<area shape="rect" id="node11" href="$dc/d41/classConversion.html#a5d2dd3e5fba175ce2ac24fa0cb9bb4be" title="Uses the specified TMVA method to update and." alt="" coords="223,801,449,845"/>
+<area shape="rect" id="node12" href="$db/da0/classgenfit_1_1GFRaveVertex.html#aa226bc70ee2447569467de599e6d05e7" title="genfit::GFRaveVertex\l::getChi2" alt="" coords="532,1073,697,1117"/>
+<area shape="rect" id="node18" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a4818bdeb821d19b283ae026af388e92b" title="get Position" alt="" coords="772,893,937,937"/>
+<area shape="rect" id="node21" href="$dc/d41/classConversion.html#a438a988f6eeb2324d8766969cd0265b3" title="Conversion::firstLayer" alt="" coords="251,645,421,673"/>
+<area shape="rect" id="node23" href="$dc/d41/classConversion.html#aa544d93283caf25e095327de117a51a6" title="Conversion::get_cluster_ids" alt="" coords="233,749,439,777"/>
+<area shape="rect" id="node25" href="$d6/dc7/group__getters.html#ga01beaccbc8f598673db35c68f5a73609" title="access to intrinsic cylindrical coordinate system" alt="" coords="259,1023,413,1051"/>
+<area shape="rect" id="node26" href="$d6/dc7/group__getters.html#ga2b9509c325aa9df836187a2b79770c61" title="cluster template probability for EM shower" alt="" coords="253,1075,419,1103"/>
+<area shape="rect" id="node27" href="$d6/d81/classPHG4VtxPoint.html#a9f885c1b879a2f1d6299b07801210a1d" title="PHG4VtxPoint::get_x" alt="" coords="255,1127,417,1155"/>
+<area shape="rect" id="node28" href="$d6/dc7/group__getters.html#ga2426b52933d3a0e0d73a941adfddd9f3" title="access Cartesian coordinate system" alt="" coords="265,1179,407,1207"/>
+<area shape="rect" id="node29" href="$d6/d81/classPHG4VtxPoint.html#a2073b3294f78491a2124aea6c436d6a8" title="PHG4VtxPoint::get_y" alt="" coords="255,1231,417,1259"/>
+<area shape="rect" id="node30" href="$d6/dc7/group__getters.html#gaf79e91927b493f47ce9508f088bb861d" title="RawCluster::get_y" alt="" coords="265,1283,407,1311"/>
+<area shape="rect" id="node31" href="$d6/d81/classPHG4VtxPoint.html#ae26c6d111c93795d64e3571b6f306ef9" title="PHG4VtxPoint::get_z" alt="" coords="256,1335,416,1363"/>
+<area shape="rect" id="node32" href="$d6/dc7/group__getters.html#gaca033ff1fa8d250a0cbd0f0238252685" title="RawCluster::get_z" alt="" coords="265,1387,407,1415"/>
+<area shape="rect" id="node33" href="$d6/d12/classRawClusterContainer.html#afb6d1f100edc4ecf309efec781d5b436" title="RawClusterContainer\l::getCluster" alt="" coords="254,1439,418,1483"/>
+<area shape="rect" id="node34" href="$dc/d41/classConversion.html#a731d468d90a72f7605b563c0a1a782b3" title="Conversion::getRecoPhoton" alt="" coords="232,82,440,110"/>
+<area shape="rect" id="node36" href="$dc/d41/classConversion.html#ab241fb0ec49026453496dd7011659231" title="Uses the _refit_phgf_tracks to set recoPhoton. Will delete any existing recoPhoton." alt="" coords="240,1507,432,1551"/>
+<area shape="rect" id="node38" href="$dc/d41/classConversion.html#a742c2005596c3cef8a453afe94e183fb" title="Conversion::getSecondary\lVertex" alt="" coords="236,265,436,309"/>
+<area shape="rect" id="node39" href="$dc/d41/classConversion.html#a557d595ea55d47047a3e3c3706cf1c89" title="Conversion::getTrackEtas" alt="" coords="239,333,433,361"/>
+<area shape="rect" id="node40" href="$dc/d41/classConversion.html#a79257d517138c0a6d74827a2e899470b" title="Conversion::getTrackPhis" alt="" coords="241,385,431,413"/>
+<area shape="rect" id="node41" href="$dc/d41/classConversion.html#acfc06a75795b0ab10db61533a10e8f62" title="Conversion::getTrackpTs" alt="" coords="243,437,429,465"/>
+<area shape="rect" id="node42" href="$dc/d41/classConversion.html#a8d00b976a916d75a5aca1df9ad61bd2a" title="Conversion::getVtx" alt="" coords="261,1575,411,1603"/>
+<area shape="rect" id="node43" href="$dc/d41/classConversion.html#a90dc227e4b0ea7b4d2bbefc6bb55c145" title="Conversion::minDca" alt="" coords="257,1627,415,1655"/>
+<area shape="rect" id="node44" href="$dc/d41/classConversion.html#ab8a543d1097986263f5928176d993331" title="Conversion::minTrackpT" alt="" coords="243,489,429,517"/>
+<area shape="rect" id="node45" href="$dc/d41/classConversion.html#ae7364438f1e0494458af1ae6826deaaf" title="print the info relating to photon reconstruction" alt="" coords="215,1679,457,1707"/>
+<area shape="rect" id="node46" href="$dc/d41/classConversion.html#a14d06a88902655de19a725901e70d081" title="Conversion::trackDEta" alt="" coords="250,541,422,569"/>
+<area shape="rect" id="node47" href="$dc/d41/classConversion.html#ac879507daf832084d41a27bedd126c20" title="Conversion::trackDLayer" alt="" coords="242,697,430,725"/>
+<area shape="rect" id="node48" href="$dc/d41/classConversion.html#a4e42cc6233c2f362b054e04a3ba9f087" title="Conversion::trackDPhi" alt="" coords="251,593,421,621"/>
+<area shape="rect" id="node49" href="$dc/d41/classConversion.html#afdaed8cd4fda9f41af8cc1b84dad1c84" title="Conversion::vtxTrackRPhi" alt="" coords="240,1731,432,1759"/>
+<area shape="rect" id="node50" href="$dc/d41/classConversion.html#aa43440cb5b1e3c9350588e05fac9ab07" title="Conversion::vtxTrackRZ" alt="" coords="245,1783,427,1811"/>
+<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="784,239,925,267"/>
+<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="784,95,925,123"/>
+<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="785,18,925,46"/>
+<area shape="rect" id="node6" href="$d2/db8/classSvtxTrack.html#af2317becf2120fcad5cefaa61a01407e" title="SvtxTrack::get_x" alt="" coords="549,161,681,189"/>
+<area shape="rect" id="node7" href="$d2/db8/classSvtxTrack.html#ac4bf3bd4ecaeff1ca06c48942a8b9236" title="SvtxTrack::get_y" alt="" coords="549,213,681,241"/>
+<area shape="rect" id="node8" href="$d2/db8/classSvtxTrack.html#aaaa435dd9d41dbe836f0608712ca12db" title="SvtxTrack::get_z" alt="" coords="549,265,680,293"/>
+<area shape="rect" id="node13" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a25d5cd4f3c081231c4d77f80fefbade1" title="get 3x3 covariance (error) of position." alt="" coords="532,1005,697,1049"/>
+<area shape="rect" id="node14" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a6bd2509053f9d4a654c3a53ace075937" title="genfit::GFRaveVertex\l::getId" alt="" coords="532,577,697,621"/>
+<area shape="rect" id="node15" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a49fda0bfc9f1bd338c21ca973e8552b9" title="genfit::GFRaveVertex\l::getNdf" alt="" coords="532,645,697,689"/>
+<area shape="rect" id="node16" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a47ada7742989e3e294a3cc9f1342fee7" title="Number of tracks the vertex is made of." alt="" coords="532,713,697,757"/>
+<area shape="rect" id="node17" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a14875bcfb7c0b9373ec2bb6010c78d8d" title="genfit::GFRaveVertex\l::getParameters" alt="" coords="532,781,697,825"/>
+<area shape="rect" id="node19" href="$d7/dd4/classVtxRegressor.html#a9fcfebeb181524d256aad8d06b00d621" title="VtxRegressor::regress" alt="" coords="529,901,700,929"/>
+<area shape="rect" id="node20" href="$d0/d34/tracks_8C.html#ac926d763061c5568ecb5f5e062e9c778" title="tracks" alt="" coords="583,953,646,981"/>
+<area shape="rect" id="node22" href="$d2/db8/classSvtxTrack.html#a5cc2801a4cd079b2b66681f5314a42ee" title="SvtxTrack::begin_clusters" alt="" coords="518,457,711,485"/>
+<area shape="rect" id="node24" href="$d2/db8/classSvtxTrack.html#adb7fc0cec73cb129af97415e72e5df83" title="SvtxTrack::get_cal\l_cluster_id" alt="" coords="543,509,686,553"/>
+<area shape="rect" id="node35" href="$dc/d41/classConversion.html#a4bd3bba1322a022ffd2a5d0b1109e75e" title="constructs a tlv for a photon by adding the tlvs for the reco tracks" alt="" coords="512,57,717,85"/>
+<area shape="rect" id="node37" href="$dc/d41/classConversion.html#a78226442cd00633323e1f31f88dea969" title="Conversion::getRefitRecoTlvs" alt="" coords="505,1515,724,1543"/>
+</map>

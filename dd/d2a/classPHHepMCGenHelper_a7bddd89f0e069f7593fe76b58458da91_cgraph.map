@@ -1,0 +1,11 @@
+<map id="PHHepMCGenHelper::CopySettings" name="PHHepMCGenHelper::CopySettings">
+<area shape="rect" id="node2" href="$dd/d2a/classPHHepMCGenHelper.html#a5bf0ae0e0ff2c79947216d6f50e28c23" title="PHHepMCGenHelper::CopySettings" alt="" coords="312,256,571,284"/>
+<area shape="rect" id="node3" href="$dd/d2a/classPHHepMCGenHelper.html#a1d4bc5e383b9e22df08a98a5b2f00c6a" title="PHHepMCGenHelper::set\l_beam_angular_divergence_hv" alt="" coords="623,5,855,49"/>
+<area shape="rect" id="node4" href="$dd/d2a/classPHHepMCGenHelper.html#a5db065e12d85a2f467d62d19a8cdd8ec" title="PHHepMCGenHelper::set\l_beam_angular_z_coefficient_hv" alt="" coords="619,73,860,117"/>
+<area shape="rect" id="node5" href="$dd/d2a/classPHHepMCGenHelper.html#a241e3d225d7cd1fe802a746ad5525ad4" title="PHHepMCGenHelper::set\l_beam_bunch_width" alt="" coords="645,141,834,185"/>
+<area shape="rect" id="node6" href="$dd/d2a/classPHHepMCGenHelper.html#af11152924161c3851c708c943cc956ac" title="PHHepMCGenHelper::set\l_beam_direction_theta_phi" alt="" coords="637,209,841,253"/>
+<area shape="rect" id="node7" href="$dd/d2a/classPHHepMCGenHelper.html#a1efa535f8b08a7a72e5b66121c7da777" title="toss a new vertex according to a Uniform or Gaus distribution" alt="" coords="645,277,834,337"/>
+<area shape="rect" id="node8" href="$dd/d2a/classPHHepMCGenHelper.html#aad7308b0a8bbfcdc2106b5be191ec37e" title="set the mean value of the vertex distribution, use PHENIX units of cm, ns" alt="" coords="639,361,840,405"/>
+<area shape="rect" id="node9" href="$dd/d2a/classPHHepMCGenHelper.html#a4a9dfd6131b1e3bfb1428875a88a98ea" title="set the width of the vertex distribution function about the mean, use PHENIX units of cm..." alt="" coords="639,429,839,473"/>
+<area shape="rect" id="node10" href="$dd/d2a/classPHHepMCGenHelper.html#aee736fba2545d33aace09ed46d891e44" title="simulate bunch interaction instead of applying vertex distributions" alt="" coords="643,497,835,541"/>
+</map>

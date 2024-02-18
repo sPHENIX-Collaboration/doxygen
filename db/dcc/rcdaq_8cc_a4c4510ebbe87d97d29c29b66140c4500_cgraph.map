@@ -1,0 +1,51 @@
+<map id="rcdaq_init" name="rcdaq_init">
+<area shape="rect" id="node2" href="$db/dcc/rcdaq_8cc.html#a07e854318b4396e9ee84b7e97b6a4d15" title="daq_webcontrol" alt="" coords="179,700,307,728"/>
+<area shape="rect" id="node41" href="$db/dcc/rcdaq_8cc.html#a077ffb014c430709f61f88dcd6b2385e" title="monitorRequestwatcher\l_thread" alt="" coords="151,1469,335,1513"/>
+<area shape="rect" id="node42" href="$db/dcc/rcdaq_8cc.html#af0cd9badc222a2e23ac839c98440dcc7" title="sendMonitorData" alt="" coords="175,1537,311,1565"/>
+<area shape="rect" id="node47" href="$df/d47/classdaqBuffer.html#a4fa13212affc3e95bfc4df64424de3d6" title="daqBuffer::setEventFormat" alt="" coords="141,1589,345,1617"/>
+<area shape="rect" id="node48" href="$df/d47/classdaqBuffer.html#a290193df459f53bf4ddff0c6fff85293" title="daqBuffer::setMD5State" alt="" coords="152,1641,335,1669"/>
+<area shape="rect" id="node49" href="$d9/d52/HoughTransformSeeder_8cpp.html#a1f2cfb6e3644c66f2bfe3c54f699a72a" title="to_string" alt="" coords="203,1693,283,1721"/>
+<area shape="rect" id="node50" href="$db/dcc/rcdaq_8cc.html#a9debb35592ad6e4c6af38b2dd4078304" title="writebuffers" alt="" coords="192,1745,295,1773"/>
+<area shape="rect" id="node3" href="$db/dcc/rcdaq_8cc.html#ab06ad760d2cb7b637aac998118ae603f" title="mg_end" alt="" coords="437,648,511,676"/>
+<area shape="rect" id="node4" href="$db/dcc/rcdaq_8cc.html#aeecc698f0d0b5ce52b1efbbb89fec033" title="mg_server" alt="" coords="427,700,521,728"/>
+<area shape="rect" id="node5" href="$db/dcc/rcdaq_8cc.html#a7381eef03dbda799f328d6d7c3fc3519" title="daq_running" alt="" coords="1171,787,1276,815"/>
+<area shape="rect" id="node6" href="$d6/d30/rcdaq__mg__server_8cc.html#a1649d4c8e3ef4f59226bba26da5a99e2" title="ev_handler" alt="" coords="660,1192,757,1220"/>
+<area shape="rect" id="node14" href="$db/dcc/rcdaq_8cc.html#aa468883d0dcacfbe67f17f3346c08297" title="get_openflag" alt="" coords="1169,683,1278,711"/>
+<area shape="rect" id="node15" href="$db/dcc/rcdaq_8cc.html#afcdbeb642edf92f9d8a72868dadcb2d4" title="get_serverflag" alt="" coords="1165,735,1282,763"/>
+<area shape="rect" id="node16" href="$db/dcc/rcdaq_8cc.html#a7d734d184b036406bdae82b3b2f30d68" title="get_runnumber" alt="" coords="1160,907,1287,935"/>
+<area shape="rect" id="node17" href="$db/dcc/rcdaq_8cc.html#a02fc9fff9ce4752e3bcffe077404cd43" title="get_eventnumber" alt="" coords="1152,1115,1295,1143"/>
+<area shape="rect" id="node18" href="$db/dcc/rcdaq_8cc.html#ae1abbac54dde8da9aae5baacd61095a8" title="get_runvolume" alt="" coords="1162,959,1285,987"/>
+<area shape="rect" id="node19" href="$db/dcc/rcdaq_8cc.html#a72c416b36971e7b2f8a2470aa7db73c2" title="get_runduration" alt="" coords="1159,329,1288,357"/>
+<area shape="rect" id="node24" href="$d9/d3f/mongoose_8cc.html#aa83d3bc8d46c5dece119d15468bb1167" title="mg_bind" alt="" coords="669,155,748,183"/>
+<area shape="rect" id="node26" href="$d9/d3f/mongoose_8cc.html#a0e42393198b4ca2bc905dbeb180ef832" title="mg_mgr_init" alt="" coords="655,233,762,261"/>
+<area shape="rect" id="node29" href="$d9/d3f/mongoose_8cc.html#acb40771c75d19f0b8f1f5d36f74820f1" title="mg_mgr_poll" alt="" coords="655,441,763,469"/>
+<area shape="rect" id="node36" href="$d9/d3f/mongoose_8cc.html#a9f8dc6ab99c0ffe17672edd78c6672be" title="mg_set_protocol_http\l_websocket" alt="" coords="625,581,792,625"/>
+<area shape="rect" id="node38" href="$d6/d30/rcdaq__mg__server_8cc.html#a0588d95b5538991b9fb1db1961e042f0" title="send_ws_updates" alt="" coords="888,856,1028,884"/>
+<area shape="rect" id="node40" href="$d6/d30/rcdaq__mg__server_8cc.html#a576136b6f31dbc92428caf0c414aa4cf" title="trigger_updates" alt="" coords="894,752,1022,780"/>
+<area shape="rect" id="node7" href="$d9/d3f/mongoose_8cc.html#a0cc2c4a4f5ecfc4dff1848963df96f3c" title="mg_vcmp" alt="" coords="1180,1477,1267,1505"/>
+<area shape="rect" id="node8" href="$db/dcc/rcdaq_8cc.html#af6b78cd2ca74fe1dd4f6e8e51d41ca2c" title="daq_begin" alt="" coords="913,1167,1003,1195"/>
+<area shape="rect" id="node9" href="$db/dcc/rcdaq_8cc.html#a67adb43e122f86a81948a8a3d5bf69e3" title="daq_end" alt="" coords="919,1271,997,1299"/>
+<area shape="rect" id="node10" href="$d6/d30/rcdaq__mg__server_8cc.html#a7ababb5ab905831796ce41c73959f6f9" title="send_error" alt="" coords="911,1323,1005,1351"/>
+<area shape="rect" id="node11" href="$db/dcc/rcdaq_8cc.html#aff8c155f1190c240bd5c66a44e6da868" title="daq_open" alt="" coords="915,1375,1001,1403"/>
+<area shape="rect" id="node12" href="$db/dcc/rcdaq_8cc.html#a9d259bbfa7eb516c904767bc6068f4b1" title="daq_close" alt="" coords="914,1011,1002,1039"/>
+<area shape="rect" id="node13" href="$d6/d30/rcdaq__mg__server_8cc.html#a192afce8cf54b427719e1a6320a8dbcf" title="initial_ws_update" alt="" coords="889,804,1027,832"/>
+<area shape="rect" id="node20" href="$d6/d30/rcdaq__mg__server_8cc.html#a3013b2522e9be600723160f127b4e87d" title="send_updates" alt="" coords="900,1219,1016,1247"/>
+<area shape="rect" id="node21" href="$d6/d30/rcdaq__mg__server_8cc.html#a8976dc152e101f96e0e17f0c3b523c6f" title="send_status" alt="" coords="907,1063,1009,1091"/>
+<area shape="rect" id="node22" href="$d6/d30/rcdaq__mg__server_8cc.html#afc266f75027b7e73341e2eb959d96f55" title="send_nothing" alt="" coords="902,1115,1014,1143"/>
+<area shape="rect" id="node23" href="$d9/d3f/mongoose_8cc.html#a3f4e233ca42d64a9bd6e1bf096130773" title="mg_serve_http" alt="" coords="897,1529,1019,1557"/>
+<area shape="rect" id="node25" href="$d9/d3f/mongoose_8cc.html#a7356c59c9bf65f43826d19e014078a26" title="mg_bind_opt" alt="" coords="903,129,1013,157"/>
+<area shape="rect" id="node27" href="$d9/d3f/mongoose_8cc.html#aa5d225c2ed7ce16600394eebc5936244" title="mg_ev_mgr_init" alt="" coords="893,233,1023,261"/>
+<area shape="rect" id="node28" href="$d9/d9e/evDisplay_8C.html#a4e8c1369ad3f4b66e1057a8bf987b94b" title="signal" alt="" coords="927,181,989,209"/>
+<area shape="rect" id="node30" href="$d9/d3f/mongoose_8cc.html#ae8b040fe0c73e0b5ffe8501e1da9b0a9" title="mg_add_to_set" alt="" coords="896,337,1020,365"/>
+<area shape="rect" id="node31" href="$d9/d3f/mongoose_8cc.html#aa8329404bac06e97c7eb18ded5dd650a" title="mg_close_conn" alt="" coords="896,389,1020,417"/>
+<area shape="rect" id="node32" href="$d9/d3f/mongoose_8cc.html#af86d8e36360fe91924be0df71d3d399b" title="mg_mgr_handle_conn" alt="" coords="873,441,1043,469"/>
+<area shape="rect" id="node33" href="$d9/d3f/mongoose_8cc.html#a8e3d9bf472dde17bb00848b72c6de97d" title="mg_mgr_handle_ctl_sock" alt="" coords="863,493,1053,521"/>
+<area shape="rect" id="node34" href="$d9/d3f/mongoose_8cc.html#aa93fbafbfbe46d722a902f7ca23b4718" title="mg_time" alt="" coords="918,545,998,573"/>
+<area shape="rect" id="node35" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="897,285,1019,313"/>
+<area shape="rect" id="node37" href="$d9/d3f/mongoose_8cc.html#ae182a242c35980983fd9f64fbefdd6d9" title="mg_http_handler" alt="" coords="889,597,1027,625"/>
+<area shape="rect" id="node39" href="$df/d57/namespaceActs_1_1KalmanVertexTrackUpdater.html#abb363e1aaee90a3145009d060586bd22" title="Refits a single track with the knowledge of the vertex it has originated from." alt="" coords="1101,839,1345,883"/>
+<area shape="rect" id="node43" href="$d8/da5/daqBuffer_8cc.html#a44493f50299f8a8ac1841e2d5856191d" title="readn" alt="" coords="444,1537,504,1565"/>
+<area shape="rect" id="node45" href="$df/d47/classdaqBuffer.html#a94315d0798d658b9d6f22bb054172c11" title="daqBuffer::sendData" alt="" coords="393,1593,555,1621"/>
+<area shape="rect" id="node44" href="$d4/d6e/namespaceActsExamples_1_1JsonSurfacesReader.html#a1da9addc2bef80c66dc6cbe01cd17342" title="Read the surfaces from the input file." alt="" coords="603,1529,815,1573"/>
+<area shape="rect" id="node46" href="$d8/da5/daqBuffer_8cc.html#ac88188500c71b86cbeba8b99140810e9" title="writen" alt="" coords="677,1597,740,1625"/>
+</map>

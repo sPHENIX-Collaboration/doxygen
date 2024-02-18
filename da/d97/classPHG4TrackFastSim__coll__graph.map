@@ -1,0 +1,29 @@
+<map id="PHG4TrackFastSim" name="PHG4TrackFastSim">
+<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="2262,146,2363,174"/>
+<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="1783,127,1887,155"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="1376,267,1465,295"/>
+<area shape="rect" id="node34" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="2255,466,2371,494"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="953,259,1095,303"/>
+<area shape="rect" id="node8" href="$d4/d30/classPHG4HitContainer.html" title="PHG4HitContainer" alt="" coords="1762,1049,1907,1077"/>
+<area shape="rect" id="node9" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="625,910,709,938"/>
+<area shape="rect" id="node13" href="$d3/d9e/classPHG4Hit.html" title="PHG4Hit" alt="" coords="985,1053,1063,1081"/>
+<area shape="rect" id="node38" href="$d7/d8b/classSvtxTrackMap.html" title="SvtxTrackMap" alt="" coords="1161,1161,1276,1189"/>
+<area shape="rect" id="node42" href="$da/d6c/classPHG4TruthInfoContainer.html" title="PHG4TruthInfoContainer" alt="" coords="1742,614,1927,642"/>
+<area shape="rect" id="node44" href="$de/dc9/classPHG4Particle.html" title="PHG4Particle" alt="" coords="970,506,1078,534"/>
+<area shape="rect" id="node47" href="$db/d88/classPHG4Shower.html" title="PHG4Shower" alt="" coords="969,786,1079,814"/>
+<area shape="rect" id="node49" href="$d6/d81/classPHG4VtxPoint.html" title="PHG4VtxPoint" alt="" coords="966,558,1082,586"/>
+<area shape="rect" id="node50" href="$db/dd7/classSvtxVertexMap.html" title="SvtxVertexMap" alt="" coords="1576,929,1699,957"/>
+<area shape="rect" id="node17" href="$d6/d8a/classgenfit_1_1Track.html" title="Collection of TrackPoint objects, AbsTrackRep objects and FitStatus objects." alt="" coords="971,1287,1077,1315"/>
+<area shape="rect" id="node21" href="$d1/d25/classgenfit_1_1AbsTrackRep.html" title="Abstract base class for a track representation." alt="" coords="285,1333,441,1361"/>
+<area shape="rect" id="node24" href="$db/d40/classgenfit_1_1TrackPoint.html" title="Object containing AbsMeasurement and AbsFitterInfo objects." alt="" coords="1351,1309,1490,1337"/>
+<area shape="rect" id="node14" href="$d1/d19/classgenfit_1_1GFRaveVertexFactory.html" title="Vertex factory for producing GFRaveVertex objects from Track objects." alt="" coords="2206,1282,2419,1310"/>
+<area shape="rect" id="node16" href="$dd/d17/structgenfit_1_1trackAndState.html" title="Simple struct containing a Track pointer and a MeasuredStateOnPlane. Used in GFRave." alt="" coords="1338,1361,1503,1389"/>
+<area shape="rect" id="node19" href="$d0/d8d/classgenfit_1_1FitStatus.html" title="Class where important numbers and properties of a fit can be stored." alt="" coords="299,1442,427,1470"/>
+<area shape="rect" id="node20" href="$d6/d51/structgenfit_1_1PruneFlags.html" title="Info which information has been pruned from the Track." alt="" coords="5,1442,149,1470"/>
+<area shape="rect" id="node27" href="$de/dd5/classgenfit_1_1StateOnPlane.html" title="A state with arbitrary dimension defined in a DetPlane." alt="" coords="587,1425,748,1453"/>
+<area shape="rect" id="node26" href="$d2/d74/classgenfit_1_1MeasuredStateOnPlane.html" title="StateOnPlane with additional covariance matrix." alt="" coords="911,1431,1137,1459"/>
+<area shape="rect" id="node28" href="$d1/d35/classPHGenFit_1_1Fitter.html" title="PHGenFit::Fitter" alt="" coords="2249,707,2376,735"/>
+<area shape="rect" id="node29" href="$d2/df7/classgenfit_1_1AbsKalmanFitter.html" title="Abstract base class for Kalman fitter and derived fitting algorithms." alt="" coords="1744,759,1925,787"/>
+<area shape="rect" id="node30" href="$d0/dba/classgenfit_1_1AbsFitter.html" title="Abstract base class for fitters." alt="" coords="1355,886,1486,914"/>
+<area shape="rect" id="node31" href="$d4/d1a/classgenfit_1_1EventDisplay.html" title="Event display designed to run with Genfit." alt="" coords="1755,707,1914,735"/>
+</map>

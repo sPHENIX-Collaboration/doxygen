@@ -1,0 +1,51 @@
+<map id="RawClusterBuilderTemplate::process_event" name="RawClusterBuilderTemplate::process_event">
+<area shape="rect" id="node2" href="$d6/d12/classRawClusterContainer.html#aada8886bbacabd5e918c6276729007fa" title="RawClusterContainer\l::AddCluster" alt="" coords="291,5,455,49"/>
+<area shape="rect" id="node4" href="$d9/db4/group__setters.html#gad4a9b1de3d87ebed4844cb7ac1ec78b6" title="Tower operations." alt="" coords="287,73,458,101"/>
+<area shape="rect" id="node5" href="$d5/d7d/classMbdVertexMap.html#abb0b5f5e4ab5817426d2d8806a829ec4" title="MbdVertexMap::begin" alt="" coords="289,125,457,153"/>
+<area shape="rect" id="node6" href="$d5/dc4/classGlobalVertexMap.html#a36c346881da7997e34fa203c523a7925" title="GlobalVertexMap::begin" alt="" coords="281,177,464,205"/>
+<area shape="rect" id="node7" href="$d9/d9e/evDisplay_8C.html#a493aff38bcceaba17aef8c5257ff963a" title="channel" alt="" coords="335,229,410,257"/>
+<area shape="rect" id="node8" href="$da/d58/namespaceRawTowerDefs.html#aaae6ca2e49c6d90186b5c221afe39bca" title="RawTowerDefs::decode\l_index1" alt="" coords="284,281,461,325"/>
+<area shape="rect" id="node9" href="$da/d58/namespaceRawTowerDefs.html#a3d5658966751d2e96b1be553d2701b2b" title="RawTowerDefs::decode\l_index2" alt="" coords="284,349,461,393"/>
+<area shape="rect" id="node10" href="$d5/dc4/classGlobalVertexMap.html#a80c3c9063cfd435589959fae05d80660" title="GlobalVertexMap::empty" alt="" coords="278,417,467,445"/>
+<area shape="rect" id="node11" href="$d9/da7/classTowerInfoContainer.html#a76998c4033bb310ca5f8a74553ce1449" title="TowerInfoContainer\l::encode_key" alt="" coords="295,469,450,513"/>
+<area shape="rect" id="node12" href="$da/d58/namespaceRawTowerDefs.html#a188fb7233354634d301c172177ab1ab6" title="RawTowerDefs::encode\l_towerid" alt="" coords="284,537,461,581"/>
+<area shape="rect" id="node13" href="$d5/d7d/classMbdVertexMap.html#a83b2fcee4199793f326c17ced65053ef" title="MbdVertexMap::end" alt="" coords="295,605,451,633"/>
+<area shape="rect" id="node14" href="$df/d23/classBEmcRec.html#af59db807403cf4ff940f4cd4297f83fd" title="BEmcRec::FindClusters" alt="" coords="285,657,461,685"/>
+<area shape="rect" id="node18" href="$df/d49/classRawTowerGeomContainer.html#a9340968583d423ee6e757342509ccc4e" title="RawTowerGeomContainer\l::get_calorimeter_id" alt="" coords="275,709,471,753"/>
+<area shape="rect" id="node19" href="$d3/d65/classTowerInfo.html#aec47b24db774275f49d738950530b5e0" title="TowerInfo::get_energy" alt="" coords="539,1219,711,1247"/>
+<area shape="rect" id="node20" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="286,829,459,857"/>
+<area shape="rect" id="node21" href="$d9/dd8/classRawTower.html#acb57721d39800bb8a23ffc10ae66d198" title="RawTower::get_id" alt="" coords="303,881,442,909"/>
+<area shape="rect" id="node22" href="$d3/d65/classTowerInfo.html#a66783e4f824e41ef7b4b5e953b20201c" title="TowerInfo::get_time" alt="" coords="295,933,451,961"/>
+<area shape="rect" id="node23" href="$d9/da7/classTowerInfoContainer.html#a8e29deafe47cc53d9712a2794346f3cd" title="TowerInfoContainer\l::get_tower_at_channel" alt="" coords="284,985,461,1029"/>
+<area shape="rect" id="node24" href="$d1/d39/classGlobalVertex.html#a97493c07f81f703dd545fe3409be10a4" title="GlobalVertex::get_x" alt="" coords="295,1053,450,1081"/>
+<area shape="rect" id="node25" href="$d1/d39/classGlobalVertex.html#a13edb1c021409c4a7c53bd29e6ff05e5" title="GlobalVertex::get_y" alt="" coords="295,1105,450,1133"/>
+<area shape="rect" id="node26" href="$d4/d7d/classMbdVertex.html#ad2868dfcdde6241f5ed3344f37df29be" title="MbdVertex::get_z" alt="" coords="303,1157,442,1185"/>
+<area shape="rect" id="node27" href="$d1/d39/classGlobalVertex.html#a46b4a0bd3afc9c251899dce7c4a0f001" title="GlobalVertex::get_z" alt="" coords="296,1209,449,1237"/>
+<area shape="rect" id="node28" href="$df/d23/classBEmcRec.html#af73cc5187b465aea7f49fa010cfc8c0c" title="BEmcRec::GetClusters" alt="" coords="287,1261,459,1289"/>
+<area shape="rect" id="node29" href="$d6/d12/classRawClusterContainer.html#a040b44d1b06beff9b279db4671063275" title="RawClusterContainer\l::getTotalEdep" alt="" coords="291,1313,455,1357"/>
+<area shape="rect" id="node30" href="$d3/dc7/classRawTowerContainer.html#a7fc88e3e37bc428fd5a870e39f0c5b5b" title="RawTowerContainer::\lgetTotalEdep" alt="" coords="291,1381,454,1425"/>
+<area shape="rect" id="node31" href="$d9/da7/classTowerInfoContainer.html#a766b759f123cc7ee5846d870c5b0e8ad" title="TowerInfoContainer\l::getTowerEtaBin" alt="" coords="295,1449,450,1493"/>
+<area shape="rect" id="node32" href="$d9/da7/classTowerInfoContainer.html#a242ec574510bc063eac421275bd3dfb6" title="TowerInfoContainer\l::getTowerPhiBin" alt="" coords="295,1517,450,1561"/>
+<area shape="rect" id="node33" href="$d3/dc7/classRawTowerContainer.html#a425be883ff7f6b5c754332c45b6958cd" title="return all towers" alt="" coords="291,1585,454,1629"/>
+<area shape="rect" id="node34" href="$d8/d5d/classRawClusterBuilderTemplate.html#a3869239fbe7874554b03b4f9f04ab1c0" title="RawClusterBuilderTemplate\l::IsAcceptableTower" alt="" coords="269,1653,476,1697"/>
+<area shape="rect" id="node35" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="296,1721,449,1749"/>
+<area shape="rect" id="node36" href="$d6/d12/classRawClusterContainer.html#a646aa2aea72e5583a6090165d827692e" title="Clear Event." alt="" coords="291,1773,455,1817"/>
+<area shape="rect" id="node37" href="$d9/db4/group__setters.html#ga5e4c2d49efbece71ad8fe1467ec907b2" title="reduced chi2 for EM shower" alt="" coords="292,1841,453,1869"/>
+<area shape="rect" id="node38" href="$d9/db4/group__setters.html#ga82f3fb9f9da7b06f696044666f4765a2" title="RawCluster::set_ecore" alt="" coords="287,1893,458,1921"/>
+<area shape="rect" id="node39" href="$d9/db4/group__setters.html#gafbd2aac46ce75b3fbc2d865688a9c78e" title="total energy" alt="" coords="283,1945,463,1973"/>
+<area shape="rect" id="node40" href="$d9/db4/group__setters.html#ga93e9588eb5509a28ca4ce6d6180d6c00" title="access to intrinsic cylindrical coordinate system" alt="" coords="296,1997,449,2025"/>
+<area shape="rect" id="node41" href="$d9/db4/group__setters.html#gad70daa10e72093c161492d5b0e3aaa2d" title="cluster template probability for EM shower" alt="" coords="291,2049,455,2077"/>
+<area shape="rect" id="node42" href="$d9/db4/group__setters.html#ga4ea7524076377c14d582ca9887fa6f1f" title="RawCluster::set_r" alt="" coords="303,2101,442,2129"/>
+<area shape="rect" id="node43" href="$d9/db4/group__setters.html#ga741909d2efc325ec3979fde2ebb70995" title="RawCluster::set_z" alt="" coords="303,2153,443,2181"/>
+<area shape="rect" id="node44" href="$df/d23/classBEmcRec.html#a1a5a5843ad2eadab6e322ad8e2aef398" title="BEmcRec::SetModules" alt="" coords="287,2205,459,2233"/>
+<area shape="rect" id="node45" href="$df/d23/classBEmcRec.html#a8c099cfd315604c3ab8d103b0b1eab67" title="BEmcRec::SetProbNoiseParam" alt="" coords="260,2257,485,2285"/>
+<area shape="rect" id="node46" href="$df/d23/classBEmcRec.html#aa8c4065fc5a8470234a8717c81eaeb65" title="BEmcRec::SetProfileProb" alt="" coords="279,2309,466,2337"/>
+<area shape="rect" id="node47" href="$df/d23/classBEmcRec.html#aa4fa596a4c2667defdd97427b28f4204" title="BEmcRec::SetTowerThreshold" alt="" coords="263,2361,483,2389"/>
+<area shape="rect" id="node48" href="$df/d23/classBEmcRec.html#afdc01a560a57f68f176d3323f9eabe51" title="BEmcRec::SetVertex" alt="" coords="293,2413,452,2441"/>
+<area shape="rect" id="node49" href="$d9/da7/classTowerInfoContainer.html#a9e425634910cb4b1c7c646ced953380e" title="TowerInfoContainer\l::size" alt="" coords="295,2465,450,2509"/>
+<area shape="rect" id="node50" href="$d6/d36/namespaceActs_1_1Svg_1_1View.html#ab6a6b2f2e69899e97146bf11b07bd2a5" title="Acts::Svg::View::xy" alt="" coords="297,2533,448,2561"/>
+<area shape="rect" id="node3" href="$d9/db4/group__setters.html#ga33c40678face90d44d949e056d6da5b2" title="cluster ID" alt="" coords="552,13,697,41"/>
+<area shape="rect" id="node15" href="$df/d23/classBEmcRec.html#a54b3a4029025e27a0283292bb0142194" title="BEmcRec::CopyVector" alt="" coords="539,605,710,633"/>
+<area shape="rect" id="node16" href="$df/d23/classBEmcRec.html#a682b9025d0023667e2c0873150ea0ff5" title="BEmcRec::HitNCompare" alt="" coords="533,657,716,685"/>
+<area shape="rect" id="node17" href="$d9/d04/classEmcCluster.html#a8866b733f3168297f8b1f231693b7697" title="Reinitializes EmcCluster supplying new Hit List." alt="" coords="535,709,715,737"/>
+</map>

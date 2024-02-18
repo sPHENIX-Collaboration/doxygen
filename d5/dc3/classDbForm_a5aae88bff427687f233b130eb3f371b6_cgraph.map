@@ -1,0 +1,23 @@
+<map id="DbForm::Connect" name="DbForm::Connect">
+<area shape="rect" id="node2" href="$d1/df8/classTSQLDriverManager.html#ab9837ad83523524d2bd25829d40f952e" title="TSQLDriverManager::\lGetConnection" alt="" coords="485,127,651,171"/>
+<area shape="rect" id="node12" href="$d5/dc3/classDbForm.html#a3afc72daae36b493fe7a949b7de95f1b" title="DbForm::HandleConnect" alt="" coords="203,364,391,392"/>
+<area shape="rect" id="node17" href="$d5/dc3/classDbForm.html#a0c0d05caeb3f72f4989cc3d640296563" title="DbForm::HandleDisconnect" alt="" coords="193,273,400,301"/>
+<area shape="rect" id="node22" href="$de/d00/classPasswordDialog.html#a89c80475fdf5f8d78374cfbef1b629ca" title="PasswordDialog::Hide" alt="" coords="213,416,380,444"/>
+<area shape="rect" id="node3" href="$de/d63/TSQLDriverManager_8cxx.html#a6272554846f542535bf6cad71b257aa2" title="InitHandlers" alt="" coords="783,5,887,33"/>
+<area shape="rect" id="node5" href="$dd/d4d/classTSQL.html#a3737a62f70f9859d07b2cfdb95a1ced1" title="TSQL::GetWarnings" alt="" coords="759,57,912,85"/>
+<area shape="rect" id="node6" href="$d1/df8/classTSQLDriverManager.html#a47891968c18b3bff6c00ba4b7a88f2d6" title="TSQLDriverManager::\lGetConnections" alt="" coords="753,213,918,257"/>
+<area shape="rect" id="node7" href="$dd/d4d/classTSQL.html#a12129fd04a2499449c8d13ed374f007a" title="TSQL::Throw" alt="" coords="781,161,889,189"/>
+<area shape="rect" id="node10" href="$dd/d85/classTSQLConnection.html#a67f5aea4516b2759ec5dcb0fe0e6cf00" title="TSQLConnection::SetURL" alt="" coords="739,109,931,137"/>
+<area shape="rect" id="node4" href="$de/d63/TSQLDriverManager_8cxx.html#ac941ab2fa068a02690b73de09422638a" title="InitRDBCpath" alt="" coords="1021,5,1131,33"/>
+<area shape="rect" id="node8" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1047,213,1105,241"/>
+<area shape="rect" id="node9" href="$d8/d8f/classTSQLException.html#a395335cef98b7d73b7cb158032dcd7e4" title="TSQLException::Print" alt="" coords="994,161,1158,189"/>
+<area shape="rect" id="node11" href="$de/da5/classTSQLDatabaseMetaData.html#a4a58099a1c291dde74f1accbbf548e8c" title="TSQLDatabaseMetaData\l::SetURL" alt="" coords="983,93,1169,137"/>
+<area shape="rect" id="node13" href="$dd/d85/classTSQLConnection.html#a6087f8b56f68d652ba4da540a78664ec" title="TSQLConnection::GetMetaData" alt="" coords="452,393,684,421"/>
+<area shape="rect" id="node14" href="$de/da5/classTSQLDatabaseMetaData.html#a5595f924a88c0ee290bfdc4d8cda9894" title="TSQLDatabaseMetaData\l::SupportsResultSetType" alt="" coords="475,445,661,489"/>
+<area shape="rect" id="node15" href="$d5/dc3/classDbForm.html#abafca6f9f24ade4fcaacdf0ccc5b5cfd" title="DbForm::SetForwardOnly" alt="" coords="473,513,663,541"/>
+<area shape="rect" id="node16" href="$de/da5/classTSQLDatabaseMetaData.html#ac0e29f0c538957ffd521fac570e06b7d" title="TSQLDatabaseMetaData\l::SupportsResultSetConcurrency" alt="" coords="448,325,688,369"/>
+<area shape="rect" id="node18" href="$d5/dc3/classDbForm.html#a99257013f3094cee4717c1cb1228e5c1" title="DbForm::ClearCanvas" alt="" coords="484,273,652,301"/>
+<area shape="rect" id="node20" href="$dd/d85/classTSQLConnection.html#aff0becc9eb1f6481de4f7b9699b318f4" title="TSQLConnection::Close" alt="" coords="478,221,658,249"/>
+<area shape="rect" id="node19" href="$d7/d95/classTSQLResultSetMetaData.html#a12d3efdbfd53b07f4d4d81af3435846f" title="TSQLResultSetMetaData\l::GetColumnCount" alt="" coords="743,333,928,377"/>
+<area shape="rect" id="node21" href="$dd/d85/classTSQLConnection.html#a89016b2a42450757a7233a43f28f3ded" title="TSQLConnection::IsClosed" alt="" coords="736,281,935,309"/>
+</map>

@@ -1,0 +1,4 @@
+var structActsFatras_1_1detail_1_1TupleFilterImpl_3_01predicate__t_00_01tuple__t_00_010u_00_01kIndices_8_8_8_4 =
+[
+    [ "Type", "d6/d19/structActsFatras_1_1detail_1_1TupleFilterImpl_3_01predicate__t_00_01tuple__t_00_010u_00_01kIndices_8_8_8_4.html#a91fe316adc2f2e57340f0595cd8fa5d5", null ]
+];

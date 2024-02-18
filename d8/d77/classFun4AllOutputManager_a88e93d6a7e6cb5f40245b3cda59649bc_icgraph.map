@@ -1,0 +1,12 @@
+<map id="Fun4AllOutputManager::OutFileName" name="Fun4AllOutputManager::OutFileName">
+<area shape="rect" id="node2" href="$d6/dc8/classFun4AllPrdfOutputManager.html#ad566fdc55f40cf311853ae42fa8cba1c" title="Fun4AllPrdfOutputManager\l::InitPrdfManager" alt="" coords="239,5,443,49"/>
+<area shape="rect" id="node4" href="$da/daa/classFun4AllDstOutputManager.html#ac49658fe7468dbf2f3de2ff0bddc29ca" title="Fun4AllDstOutputManager\l::outfile_open_first_write" alt="" coords="241,73,441,117"/>
+<area shape="rect" id="node6" href="$d6/dc8/classFun4AllPrdfOutputManager.html#a9ad91502eb5e000913f5f72ab22d2b13" title="reinitialize raw output manager to write to new filename. Close old one if any" alt="" coords="239,141,443,185"/>
+<area shape="rect" id="node7" href="$da/daa/classFun4AllDstOutputManager.html#a0bcef4b3369a1095e28111fb85ca42c9" title="opens output file" alt="" coords="241,209,441,253"/>
+<area shape="rect" id="node8" href="$da/daa/classFun4AllDstOutputManager.html#a359275961d54a8559199da477153fbbd" title="Fun4AllDstOutputManager\l::Print" alt="" coords="241,277,441,321"/>
+<area shape="rect" id="node9" href="$d2/d4a/classFun4AllEventOutputManager.html#a2fa3132456444cbaa50831d3b50e1058" title="Fun4AllEventOutputManager\l::SetOutfileName" alt="" coords="232,345,449,389"/>
+<area shape="rect" id="node11" href="$da/daa/classFun4AllDstOutputManager.html#abf482d96112b21a481c0a4fac1f53ab2" title="write specified node" alt="" coords="241,413,441,457"/>
+<area shape="rect" id="node3" href="$d6/dc8/classFun4AllPrdfOutputManager.html#a6aaed7e9b0b32a481661fde72ff44fa2" title="event write method (startNode argument is ignored. prdfNode is always used)" alt="" coords="506,5,710,49"/>
+<area shape="rect" id="node5" href="$da/daa/classFun4AllDstOutputManager.html#acab8d4dfff75b69f5fd8fd263d3e3087" title="write starting from given node" alt="" coords="508,73,708,117"/>
+<area shape="rect" id="node10" href="$d0/dbe/classFun4AllRolloverFileOutStream.html#a45627cd06cb48e31ba06ba57a63be0a1" title="Fun4AllRolloverFileOutStream\l::WriteEventOut" alt="" coords="497,345,719,389"/>
+</map>

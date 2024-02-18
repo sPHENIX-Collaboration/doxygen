@@ -1,0 +1,24 @@
+<map id="Acts::Svg::DetectorVolumeConverter::Options" name="Acts::Svg::DetectorVolumeConverter::Options">
+<area shape="rect" id="node2" href="$d7/d39/structActs_1_1Svg_1_1SurfaceConverter_1_1Options.html" title="Nested Options struct." alt="" coords="3030,431,3243,475"/>
+<area shape="rect" id="node9" href="$d1/d70/structActs_1_1Svg_1_1PortalConverter_1_1Options.html" title="Nested Options struct for conversion options." alt="" coords="3493,509,3695,553"/>
+<area shape="rect" id="node3" href="$d5/dbd/structActs_1_1Svg_1_1Style.html" title="Acts::Svg::Style" alt="" coords="1307,91,1435,119"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="577,786,667,814"/>
+<area shape="rect" id="node11" href="$d1/d2d/classActs_1_1Experimental_1_1DetectorVolume.html" title="Define a dummy detector volume." alt="" coords="2605,574,2755,618"/>
+<area shape="rect" id="node13" href="$dc/d36/classActs_1_1Experimental_1_1Detector.html" title="A detector." alt="" coords="3519,815,3669,859"/>
+<area shape="rect" id="node33" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="835,651,1002,679"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="360,778,503,822"/>
+<area shape="rect" id="node16" href="$d1/dc1/classActs_1_1GeometryHierarchyMap.html" title="Acts::GeometryHierarchyMap\l\&lt; const Surface * \&gt;" alt="" coords="3026,951,3247,995"/>
+<area shape="rect" id="node21" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; DetectorVolume \&gt; \&gt;" alt="" coords="2021,685,2313,745"/>
+<area shape="rect" id="node24" href="$d4/d32/classOwningDelegate.html" title="OwningDelegate\&lt; void\l(const GeometryContext\l &amp;gctx, NavigationState\l &amp;nState), INavigationDelegate \&gt;" alt="" coords="2043,819,2291,895"/>
+<area shape="rect" id="node26" href="$de/d7d/classActs_1_1Surface.html" title="Abstract Base Class for tracking surfaces." alt="" coords="1748,557,1860,585"/>
+<area shape="rect" id="node27" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="345,235,517,263"/>
+<area shape="rect" id="node30" href="$da/d28/classActs_1_1Layer.html" title="Acts::Layer" alt="" coords="1321,435,1420,463"/>
+<area shape="rect" id="node34" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="567,393,677,421"/>
+<area shape="rect" id="node28" href="$d7/d33/classActs_1_1GeometryIdentifier.html" title="Acts::GeometryIdentifier" alt="" coords="5,201,195,229"/>
+<area shape="rect" id="node32" href="$d5/dcc/classActs_1_1BinUtility.html" title="Acts::BinUtility" alt="" coords="858,491,979,519"/>
+<area shape="rect" id="node37" href="$d7/de6/classActs_1_1DetectorElementBase.html" title="Acts::DetectorElementBase" alt="" coords="1267,555,1474,583"/>
+<area shape="rect" id="node39" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; Portal \&gt; \&gt;" alt="" coords="2054,330,2281,390"/>
+<area shape="rect" id="node42" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; Surface \&gt; \&gt;" alt="" coords="2050,465,2285,525"/>
+<area shape="rect" id="node46" href="$d6/d5a/classActs_1_1Experimental_1_1Portal.html" title="Acts::Experimental\l::Portal" alt="" coords="1729,737,1879,781"/>
+<area shape="rect" id="node49" href="$d4/d32/classOwningDelegate.html" title="OwningDelegate\&lt; typename, H \&gt;" alt="" coords="793,755,1044,783"/>
+</map>

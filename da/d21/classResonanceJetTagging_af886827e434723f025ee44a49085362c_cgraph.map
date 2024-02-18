@@ -1,0 +1,51 @@
+<map id="ResonanceJetTagging::tagHFHadronic" name="ResonanceJetTagging::tagHFHadronic">
+<area shape="rect" id="node2" href="$d0/d49/classKFParticle.html#a56183b2c3a99469c18eef4740e6d9044" title="Returns energy of the particle, fP[6]." alt="" coords="261,885,366,913"/>
+<area shape="rect" id="node3" href="$da/d21/classResonanceJetTagging.html#a0b9101de9142db1d9bc59754ab661ddf" title="ResonanceJetTagging\l::findMCTaggedJets" alt="" coords="231,1223,395,1267"/>
+<area shape="rect" id="node20" href="$da/d21/classResonanceJetTagging.html#afde93cbfe1668ceb04be42a6273cb588" title="ResonanceJetTagging\l::findTaggedJets" alt="" coords="231,937,395,981"/>
+<area shape="rect" id="node40" href="$d4/dec/classKFParticle__Container.html#a32bc070a7ffdb5ce9c1b746afbfb0ecc" title="KFParticle_Container::get" alt="" coords="217,1291,409,1319"/>
+<area shape="rect" id="node41" href="$d5/d41/classKFParticleBase.html#a03ddf1d1cedebfe9265f89d38cc683f7" title="Returns the PDG hypothesis." alt="" coords="223,1343,404,1371"/>
+<area shape="rect" id="node42" href="$d0/d49/classKFParticle.html#a3e1432bc4099ddca9ebc0fb1a26f26b7" title="Retruns X component of the momentum, fP[3]." alt="" coords="257,1395,370,1423"/>
+<area shape="rect" id="node43" href="$d0/d49/classKFParticle.html#aa9ecfc304d721bfa6bddb99067fd7d26" title="Retruns Y component of the momentum, fP[4]." alt="" coords="257,1447,370,1475"/>
+<area shape="rect" id="node44" href="$d0/d49/classKFParticle.html#aa95e26051ba1803836f0ee1af340bfde" title="Retruns Z component of the momentum, fP[5]." alt="" coords="257,1499,369,1527"/>
+<area shape="rect" id="node45" href="$d1/d42/classPHG4Particlev1.html#a45143e0ccf2c00e9468a4145f0b326d3" title="PHG4Particlev1::set\l_barcode" alt="" coords="236,1551,391,1595"/>
+<area shape="rect" id="node46" href="$d1/db9/classPHG4Particlev2.html#abc0a25f53a97955ba3916926cf8d9f23" title="PHG4Particlev2::set_e" alt="" coords="229,1619,398,1647"/>
+<area shape="rect" id="node47" href="$d1/d42/classPHG4Particlev1.html#aeff072337e331c30f0b07e371ca89a44" title="PHG4Particlev1::set_px" alt="" coords="224,1671,403,1699"/>
+<area shape="rect" id="node48" href="$d1/d42/classPHG4Particlev1.html#a6d62ef20b811a3009c2c7fff7facd281" title="PHG4Particlev1::set_py" alt="" coords="224,1723,403,1751"/>
+<area shape="rect" id="node49" href="$d1/d42/classPHG4Particlev1.html#a53f6be15ea9585d0c36f81a282c116ef" title="PHG4Particlev1::set_pz" alt="" coords="225,1775,402,1803"/>
+<area shape="rect" id="node50" href="$d4/dec/classKFParticle__Container.html#aef30928452c8e5f899216fcf4e2fc297" title="KFParticle_Container\l::size" alt="" coords="233,1827,394,1871"/>
+<area shape="rect" id="node4" href="$d7/d1f/classJetContainerv1.html#aaefee07a48ad3972d94452c21a511e01" title="JetContainerv1::add_jet" alt="" coords="479,1205,660,1233"/>
+<area shape="rect" id="node5" href="$d7/da6/classJet.html#a3a7b7812fa3a554944e352879afb8e7f" title="Jet::clear_comp" alt="" coords="506,1257,633,1285"/>
+<area shape="rect" id="node6" href="$d1/d77/namespacemvtx__utils.html#a5a9cb9172b6d47ab2637560fe0d2f61f" title="mvtx_utils::comp" alt="" coords="501,1309,638,1337"/>
+<area shape="rect" id="node7" href="$d5/d41/classPHHepMCGenEventMap.html#aeee51cbc5dbbd18af41e66c03e955319" title="fetch event" alt="" coords="462,1497,677,1525"/>
+<area shape="rect" id="node8" href="$de/dc9/classPHG4Particle.html#aa3bca250728d7ccca1261354d471f5a4" title="PHG4Particle::get_barcode" alt="" coords="469,1549,670,1577"/>
+<area shape="rect" id="node9" href="$de/dc9/classPHG4Particle.html#aefb22aefc07d013f8ec9bee4f02fb7b2" title="PHG4Particle::get_parent_id" alt="" coords="465,1601,674,1629"/>
+<area shape="rect" id="node10" href="$de/dc9/classPHG4Particle.html#a474033dbd058eea155c71fc4d17aaf4d" title="PHG4Particle::get_pid" alt="" coords="486,1653,653,1681"/>
+<area shape="rect" id="node11" href="$d7/d7b/classPHHepMCGenEvent.html#a086a77104ec225e191885f9db7538521" title="PHHepMCGenEvent::getEvent" alt="" coords="457,1705,681,1733"/>
+<area shape="rect" id="node12" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="477,1361,662,1405"/>
+<area shape="rect" id="node13" href="$da/d6c/classPHG4TruthInfoContainer.html#a1ee31482bc1d9463f16bf4de90273c41" title="Get a range of iterators covering the entire container." alt="" coords="477,1429,662,1473"/>
+<area shape="rect" id="node14" href="$d7/da6/classJet.html#aa1bb602afa60252462fd55e6e06b10cd" title="Jet::insert_comp" alt="" coords="503,893,635,921"/>
+<area shape="rect" id="node15" href="$d7/da6/classJet.html#ad22d12f9833f942c09c3b54fc49bc30f" title="Jet::set_e" alt="" coords="527,945,611,973"/>
+<area shape="rect" id="node16" href="$d7/da6/classJet.html#a18572132e426739d2c8bbf86f653c626" title="Jet::set_id" alt="" coords="525,997,613,1025"/>
+<area shape="rect" id="node17" href="$d7/da6/classJet.html#a5a81331a95540150a0fe27baf6f2e472" title="Jet::set_px" alt="" coords="523,1049,616,1077"/>
+<area shape="rect" id="node18" href="$d7/da6/classJet.html#a005df57452680f06aee13a45aa96b003" title="Jet::set_py" alt="" coords="523,1101,616,1129"/>
+<area shape="rect" id="node19" href="$d7/da6/classJet.html#ad06d2b285f254c101c9f85010cb58fde" title="Jet::set_pz" alt="" coords="523,1153,615,1181"/>
+<area shape="rect" id="node21" href="$da/d21/classResonanceJetTagging.html#a7f678fcfd12560b634e97e325c617836" title="ResonanceJetTagging\l::addClusters" alt="" coords="487,305,651,349"/>
+<area shape="rect" id="node32" href="$da/d21/classResonanceJetTagging.html#a9d43b801663d12d1e55472ceb399b1da" title="ResonanceJetTagging\l::addParticleFlow" alt="" coords="487,481,651,525"/>
+<area shape="rect" id="node34" href="$da/d21/classResonanceJetTagging.html#a90776681268d398e69a2604ceef361b0" title="ResonanceJetTagging\l::addTracks" alt="" coords="487,549,651,593"/>
+<area shape="rect" id="node35" href="$d1/d42/classPHG4Particlev1.html#a3ba7a488caf44a37d4fc2c887421c4c7" title="PHG4Particlev1::get\l_barcode" alt="" coords="491,617,648,661"/>
+<area shape="rect" id="node36" href="$d1/db9/classPHG4Particlev2.html#a1a391a3fae37adf2e9d459319b6c37c5" title="PHG4Particlev2::get_e" alt="" coords="484,685,655,713"/>
+<area shape="rect" id="node37" href="$d1/d42/classPHG4Particlev1.html#a66512885ba6b22837553a347547eda62" title="PHG4Particlev1::get_px" alt="" coords="479,737,659,765"/>
+<area shape="rect" id="node38" href="$d1/d42/classPHG4Particlev1.html#ab46c5062f365183993e71ca23cc2654b" title="PHG4Particlev1::get_py" alt="" coords="479,789,659,817"/>
+<area shape="rect" id="node39" href="$d1/d42/classPHG4Particlev1.html#af4baf9a9137c121b3bc296ddafdec0e9" title="PHG4Particlev1::get_pz" alt="" coords="480,841,659,869"/>
+<area shape="rect" id="node22" href="$d5/dc4/classGlobalVertexMap.html#a36c346881da7997e34fa203c523a7925" title="GlobalVertexMap::begin" alt="" coords="741,209,924,237"/>
+<area shape="rect" id="node23" href="$d5/dc4/classGlobalVertexMap.html#a80c3c9063cfd435589959fae05d80660" title="GlobalVertexMap::empty" alt="" coords="738,261,927,289"/>
+<area shape="rect" id="node24" href="$d6/dc7/group__getters.html#gabf760f5a6fc7742a79c3bd3bb9a87188" title="cluster ID" alt="" coords="759,313,906,341"/>
+<area shape="rect" id="node25" href="$d1/d39/classGlobalVertex.html#a97493c07f81f703dd545fe3409be10a4" title="GlobalVertex::get_x" alt="" coords="755,365,910,393"/>
+<area shape="rect" id="node26" href="$d1/d39/classGlobalVertex.html#a13edb1c021409c4a7c53bd29e6ff05e5" title="GlobalVertex::get_y" alt="" coords="755,417,910,445"/>
+<area shape="rect" id="node27" href="$d1/d39/classGlobalVertex.html#a46b4a0bd3afc9c251899dce7c4a0f001" title="GlobalVertex::get_z" alt="" coords="756,469,909,497"/>
+<area shape="rect" id="node28" href="$d6/d12/classRawClusterContainer.html#ace1a68bfa284b6851520189b36f81ca6" title="return all clusters" alt="" coords="751,521,915,565"/>
+<area shape="rect" id="node29" href="$d0/d0e/classRawClusterUtility.html#a27157c0f1f777419cf427e72593c1e21" title="Get energy vector of cluster based on E_core." alt="" coords="761,5,905,49"/>
+<area shape="rect" id="node30" href="$da/d21/classResonanceJetTagging.html#a825fb64cbcccea81d136210995498219" title="ResonanceJetTagging\l::isAcceptableEMCalCluster" alt="" coords="729,73,936,117"/>
+<area shape="rect" id="node31" href="$da/d21/classResonanceJetTagging.html#a4d3cc0a9198e54d905119f04f9a379f5" title="ResonanceJetTagging\l::isAcceptableHCalCluster" alt="" coords="735,141,931,185"/>
+<area shape="rect" id="node33" href="$d5/d27/classParticleFlowElement.html#ab33d25c11e8e6ed60bfbbaf846d819a8" title="ParticleFlowElement\l::get_e" alt="" coords="753,589,912,633"/>
+</map>

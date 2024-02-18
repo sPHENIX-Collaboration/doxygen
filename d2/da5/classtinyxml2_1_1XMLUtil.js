@@ -1,0 +1,25 @@
+var classtinyxml2_1_1XMLUtil =
+[
+    [ "ConvertUTF32ToUTF8", "d2/da5/classtinyxml2_1_1XMLUtil.html#a31c00d5c5dfb38382de1dfcaf4be3595", null ],
+    [ "GetCharacterRef", "d2/da5/classtinyxml2_1_1XMLUtil.html#a5a96e5144a8d693dc4bcd783d9964648", null ],
+    [ "IsNameChar", "d2/da5/classtinyxml2_1_1XMLUtil.html#a04b17341538fa11752f24b4301d19485", null ],
+    [ "IsNameStartChar", "d2/da5/classtinyxml2_1_1XMLUtil.html#abe106a69ac4d942a4381a4d9dfd0e0bd", null ],
+    [ "IsUTF8Continuation", "d2/da5/classtinyxml2_1_1XMLUtil.html#ad7fd82e0fe610d73ef7bf9f359f104a3", null ],
+    [ "IsWhiteSpace", "d2/da5/classtinyxml2_1_1XMLUtil.html#a357ec3af8fc433d19023a815f45e8e33", null ],
+    [ "ReadBOM", "d2/da5/classtinyxml2_1_1XMLUtil.html#ae9bcb2bc3cd6475fdc644c8c17790555", null ],
+    [ "SkipWhiteSpace", "d2/da5/classtinyxml2_1_1XMLUtil.html#a9333d20f2a34325b5115ca45849c4b2a", null ],
+    [ "SkipWhiteSpace", "d2/da5/classtinyxml2_1_1XMLUtil.html#aa48025be8843ec5a79b65579d31bd8fc", null ],
+    [ "StringEqual", "d2/da5/classtinyxml2_1_1XMLUtil.html#acfcd287cacfd2533e1bc9ea4dfb56602", null ],
+    [ "ToBool", "d2/da5/classtinyxml2_1_1XMLUtil.html#ae5b03e0a1ca5d42052a7ac540f7aa12a", null ],
+    [ "ToDouble", "d2/da5/classtinyxml2_1_1XMLUtil.html#ad8f75ac140fb19c1c6e164a957c4cd53", null ],
+    [ "ToFloat", "d2/da5/classtinyxml2_1_1XMLUtil.html#a399e71edb5f29d61ea81d91ee0332bb9", null ],
+    [ "ToInt", "d2/da5/classtinyxml2_1_1XMLUtil.html#ad4df4023d11ee3fca9689c49b9707323", null ],
+    [ "ToInt64", "d2/da5/classtinyxml2_1_1XMLUtil.html#afe2ea09257431cd2b4b6d440552e4195", null ],
+    [ "ToStr", "d2/da5/classtinyxml2_1_1XMLUtil.html#a3cd6c703d49b9d51bdf0f4ff6aa021c7", null ],
+    [ "ToStr", "d2/da5/classtinyxml2_1_1XMLUtil.html#ac00c2e52c1c36dab3ff41d86a9bf60f9", null ],
+    [ "ToStr", "d2/da5/classtinyxml2_1_1XMLUtil.html#adba0718527ae9e80f663a71ea325cb11", null ],
+    [ "ToStr", "d2/da5/classtinyxml2_1_1XMLUtil.html#a8957ad44fee5fa02ba52d73aad4d0a31", null ],
+    [ "ToStr", "d2/da5/classtinyxml2_1_1XMLUtil.html#a1cd141e50980fcddd6bf9af5de4b1db7", null ],
+    [ "ToStr", "d2/da5/classtinyxml2_1_1XMLUtil.html#a26a8cb5b833ad587b3af39469c8111de", null ],
+    [ "ToUnsigned", "d2/da5/classtinyxml2_1_1XMLUtil.html#a210c8637d5eb4ce3d4625294af0efc2f", null ]
+];

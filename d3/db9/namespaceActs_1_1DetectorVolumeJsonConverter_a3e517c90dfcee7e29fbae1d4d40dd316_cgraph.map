@@ -1,0 +1,29 @@
+<map id="Acts::DetectorVolumeJsonConverter::fromJson" name="Acts::DetectorVolumeJsonConverter::fromJson">
+<area shape="rect" id="node2" href="$da/dca/namespaceActs_1_1Experimental.html#a532b5316b59795ee32af215cda4d3167" title="Acts::Experimental\l::defaultPortalGenerator" alt="" coords="272,247,459,291"/>
+<area shape="rect" id="node15" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="1087,349,1263,377"/>
+<area shape="rect" id="node16" href="$d6/ddc/namespaceActs_1_1Transform3JsonConverter.html#af7cbb5fb620be5abf969d40b79d1dd48" title="The Transform converter from json." alt="" coords="249,392,481,436"/>
+<area shape="rect" id="node18" href="$da/dca/namespaceActs_1_1Experimental.html#a0f5def4b9ebb233c529f0ba1c2a68f3e" title="Acts::Experimental\l::tryAllPortals" alt="" coords="291,460,440,504"/>
+<area shape="rect" id="node26" href="$da/dca/namespaceActs_1_1Experimental.html#a11691ee9005f462d0afe5bb8dc2a853b" title="Generate a delegate to try the root volumes." alt="" coords="291,584,440,628"/>
+<area shape="rect" id="node3" href="$da/dca/namespaceActs_1_1Experimental.html#a08d578e871f204ffe827bd09c3ec7f57" title="Generator function for creation of portal surfaces." alt="" coords="544,235,693,279"/>
+<area shape="rect" id="node4" href="$da/d7b/namespaceActs.html#a5e922a7ce436878ecdc7373d0cf6bfb6" title="Acts::enumerate" alt="" coords="811,57,945,85"/>
+<area shape="rect" id="node8" href="$df/d57/namespaceActs_1_1KalmanVertexTrackUpdater.html#abb363e1aaee90a3145009d060586bd22" title="Refits a single track with the knowledge of the vertex it has originated from." alt="" coords="756,221,1000,265"/>
+<area shape="rect" id="node5" href="$da/d7b/namespaceActs.html#a178d8a025b1d222aa884059ca16fb1a5" title="Acts::operator!=" alt="" coords="1109,5,1242,33"/>
+<area shape="rect" id="node6" href="$da/d7b/namespaceActs.html#a75e0f8b70f2049a83af6fcefd0f8093e" title="Acts::operator*" alt="" coords="1113,57,1238,85"/>
+<area shape="rect" id="node7" href="$d3/d8d/exceptionActs_1_1Direction.html#a2611c6f98e2e36846340526f2c80c5bc" title="Acts::Direction::sign" alt="" coords="1365,57,1522,85"/>
+<area shape="rect" id="node9" href="$df/d7d/classActs_1_1Vertex.html#a1ad6f0be4f81179d3f73be1ad5167237" title="Acts::Vertex::fullPosition" alt="" coords="1083,109,1268,137"/>
+<area shape="rect" id="node10" href="$d6/d06/namespaceActs_1_1detail.html#aabe4598a8c49726b0ef4223280c29835" title="Acts::detail::normalizePhi\lTheta" alt="" coords="1079,161,1272,205"/>
+<area shape="rect" id="node13" href="$df/d7d/classActs_1_1Vertex.html#a8ca3710006569a3b77a082caac32fc70" title="Acts::Vertex::fullCovariance" alt="" coords="1071,229,1280,257"/>
+<area shape="rect" id="node14" href="$d7/d27/namespaceActs_1_1KalmanVertexTrackUpdater_1_1detail.html#a7327b3b3d4a7eb85cbc987333e9eab24" title="reates a new covariance matrix for the refitted track parameters" alt="" coords="1048,281,1303,325"/>
+<area shape="rect" id="node11" href="$d6/d06/namespaceActs_1_1detail.html#ac6f4cd4732a94d6786858ded16d6b678" title="Calculate the equivalent angle in the [0, 2*pi) range." alt="" coords="1353,144,1534,172"/>
+<area shape="rect" id="node12" href="$d6/d06/namespaceActs_1_1detail.html#af08fbfd2843e4f5c141ed9148537f984" title="Calculate the equivalent angle in the [&#45;pi, pi) range." alt="" coords="1351,196,1536,224"/>
+<area shape="rect" id="node17" href="$da/d7b/namespaceActs.html#ad074520815baf6763fe0f99399f93624" title="Read config for cylinder/disc module splitter." alt="" coords="556,392,681,420"/>
+<area shape="rect" id="node19" href="$d5/d6f/structActs_1_1Experimental_1_1AllPortalsImpl.html#aca158023ea34803150f11976e7310f8a" title="Acts::Experimental\l::AllPortalsImpl::update" alt="" coords="529,564,708,608"/>
+<area shape="rect" id="node20" href="$d1/d2d/classActs_1_1Experimental_1_1DetectorVolume.html#a28e4ce1693f5619a5f73f65bd114d93c" title="Acts::Experimental\l::DetectorVolume::volumes" alt="" coords="775,496,981,540"/>
+<area shape="rect" id="node21" href="$dd/d00/structActs_1_1Experimental_1_1PortalsFiller.html#ae5bc5ace680eaf42636fbf9f2152d571" title="Acts::Experimental\l::PortalsFiller::fill" alt="" coords="803,564,953,608"/>
+<area shape="rect" id="node23" href="$d1/d2d/classActs_1_1Experimental_1_1DetectorVolume.html#a78b1f1899abe0d050857da4a6dee401c" title="Acts::Experimental\l::DetectorVolume::portals" alt="" coords="781,632,975,676"/>
+<area shape="rect" id="node24" href="$da/dca/namespaceActs_1_1Experimental.html#a4e79c707ff97fd6f1620fe9cfa08b9a4" title="Acts::Experimental\l::updateCandidates" alt="" coords="801,700,955,744"/>
+<area shape="rect" id="node22" href="$df/d22/classActs_1_1ObjectIntersection.html#a81c6f0b4ad2e155a6c6418a279194048" title="Acts::ObjectIntersection\l::invalid" alt="" coords="1083,564,1267,608"/>
+<area shape="rect" id="node25" href="$de/d7d/classActs_1_1Surface.html#a2859d0c6bc2adbf4c5fff4ea4bf0061e" title="Acts::Surface::intersect" alt="" coords="1085,708,1265,736"/>
+<area shape="rect" id="node27" href="$d1/d28/structActs_1_1Experimental_1_1RootVolumeFinder.html#ac144c0f80b3d81b64c0350628c432019" title="Acts::Experimental\l::RootVolumeFinder::\lupdate" alt="" coords="538,696,699,756"/>
+<area shape="rect" id="node28" href="$dc/d36/classActs_1_1Experimental_1_1Detector.html#adb41c6986d73e0c848d5c4de10f11b0e" title="Acts::Experimental\l::Detector::rootVolumes" alt="" coords="787,768,969,812"/>
+</map>

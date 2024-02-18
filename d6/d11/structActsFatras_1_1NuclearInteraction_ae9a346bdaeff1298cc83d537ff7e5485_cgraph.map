@@ -1,0 +1,40 @@
+<map id="ActsFatras::NuclearInteraction::run" name="ActsFatras::NuclearInteraction::run">
+<area shape="rect" id="node2" href="$db/dfd/classActsFatras_1_1Particle.html#aae5e7a1de357dcdf51718bb027690edc" title="Absolute momentum." alt="" coords="343,416,508,460"/>
+<area shape="rect" id="node3" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#ab3844dbcd8f30d60f10ac9a00684c6e0" title="ActsFatras::NuclearInteraction\l::convertParametersToParticles" alt="" coords="311,484,540,528"/>
+<area shape="rect" id="node25" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#a1c34b769c8fd2b5eb5b1a1fbed8f88db" title="ActsFatras::NuclearInteraction\l::finalStateMultiplicity" alt="" coords="313,1012,538,1056"/>
+<area shape="rect" id="node29" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#af0a44fb29bc9384aca0f7c1fa2823fcf" title="ActsFatras::NuclearInteraction\l::findParameters" alt="" coords="313,1080,538,1124"/>
+<area shape="rect" id="node30" href="$db/dfd/classActsFatras_1_1Particle.html#afb30f8d2e20e1c91cb7160239e2e1c7f" title="PDG particle number that identifies the type." alt="" coords="333,1148,518,1176"/>
+<area shape="rect" id="node31" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#ae599226c7127359c876fdcc579cbcba7" title="ActsFatras::NuclearInteraction\l::sampleKinematics" alt="" coords="313,944,538,988"/>
+<area shape="rect" id="node37" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#ae54688774a8085df00c72513ee7617bc" title="ActsFatras::NuclearInteraction\l::samplePdgIds" alt="" coords="313,1200,538,1244"/>
+<area shape="rect" id="node38" href="$db/dfd/classActsFatras_1_1Particle.html#a1175d9686b2e3f5370e34bd1bef3c73b" title="Set the absolute momentum." alt="" coords="332,1268,519,1312"/>
+<area shape="rect" id="node39" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#a210d20125197dfea40ff75f658801709" title="ActsFatras::NuclearInteraction\l::softInteraction" alt="" coords="313,1336,538,1380"/>
+<area shape="rect" id="node4" href="$db/dfd/classActsFatras_1_1Particle.html#ae40a7f8f2f0fb17723e96cab4862b33a" title="Unit three&#45;direction, i.e. the normalized momentum three&#45;vector." alt="" coords="899,797,1049,841"/>
+<area shape="rect" id="node5" href="$db/dfd/classActsFatras_1_1Particle.html#abb022e027c9af54fac64f63a9b0a293b" title="Space&#45;time position four&#45;vector." alt="" coords="625,5,776,49"/>
+<area shape="rect" id="node6" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#ab3f24455bdb18514e726827bb08b5fef" title="ActsFatras::NuclearInteraction\l::globalAngle" alt="" coords="588,73,813,117"/>
+<area shape="rect" id="node7" href="$d2/d46/classActsFatras_1_1Barcode.html#aa0283d614d8a13d9341d522c2715707b" title="ActsFatras::Barcode\l::makeDescendant" alt="" coords="623,141,779,185"/>
+<area shape="rect" id="node13" href="$da/d7b/namespaceActs.html#ade380e3fafcce0335e8f7564adb4af58" title="Acts::makeDirectionFromPhi\lTheta" alt="" coords="595,209,807,253"/>
+<area shape="rect" id="node14" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="613,277,789,305"/>
+<area shape="rect" id="node15" href="$db/dfd/classActsFatras_1_1Particle.html#a95ce26f76df3dc1d6e55888ae1d3ba09" title="Particle identifier within an event." alt="" coords="625,329,776,373"/>
+<area shape="rect" id="node16" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a397d5e8143b34171258deef4f9cca9ad" title="Acts::VectorHelpers::phi" alt="" coords="609,397,793,425"/>
+<area shape="rect" id="node17" href="$db/dfd/classActsFatras_1_1Particle.html#acce935e8b146743ee94e2d88d11540a9" title="Reference surface." alt="" coords="625,449,776,493"/>
+<area shape="rect" id="node18" href="$db/dfd/classActsFatras_1_1Particle.html#a10a601efd010f82417545852ec405c25" title="Set the direction three&#45;vector." alt="" coords="625,841,776,885"/>
+<area shape="rect" id="node19" href="$db/dfd/classActsFatras_1_1Particle.html#a35e8cf1f3ad311c73f701e86db19bb9e" title="Set the space&#45;time position four&#45;vector." alt="" coords="625,517,776,561"/>
+<area shape="rect" id="node21" href="$db/dfd/classActsFatras_1_1Particle.html#a9a4c4776b0753b509b97135cf18eb118" title="Set the process type that generated this particle." alt="" coords="625,585,776,629"/>
+<area shape="rect" id="node22" href="$db/dfd/classActsFatras_1_1Particle.html#ac3a88f6480d5f07811b0b61941599321" title="ActsFatras::Particle\l::setReferenceSurface" alt="" coords="615,653,786,697"/>
+<area shape="rect" id="node23" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a1c1a90bc524259263f553410691dd9ad" title="Acts::VectorHelpers\l::theta" alt="" coords="623,721,778,765"/>
+<area shape="rect" id="node8" href="$d2/d46/classActsFatras_1_1Barcode.html#a4d4c11b836832f8a9cc2f1e593ea088a" title="ActsFatras::Barcode\l::Barcode" alt="" coords="896,176,1052,220"/>
+<area shape="rect" id="node9" href="$d2/d46/classActsFatras_1_1Barcode.html#aca05acfdd2cd8f1dc379c370baab7b63" title="Return the generation identifier." alt="" coords="896,108,1052,152"/>
+<area shape="rect" id="node10" href="$d8/d7c/classActs_1_1MultiIndex.html#a73603e62df3abc4d98a54c2e7741f31e" title="Get the value for the index level." alt="" coords="1135,100,1324,160"/>
+<area shape="rect" id="node11" href="$d8/d7c/classActs_1_1MultiIndex.html#a457ad25b5cc90b69850f0853023c5ac3" title="Acts::MultiIndex::shift" alt="" coords="1375,143,1545,171"/>
+<area shape="rect" id="node12" href="$d8/d7c/classActs_1_1MultiIndex.html#a09491099ff2326ee9256e420ceb7555a" title="Acts::MultiIndex::mask" alt="" coords="1372,91,1548,119"/>
+<area shape="rect" id="node20" href="$dd/d7e/namespaceActs_1_1Test.html#a4baa95ed42559c8acdb9e5a043003da4" title="Acts::Test::pos4" alt="" coords="910,525,1038,553"/>
+<area shape="rect" id="node24" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="897,721,1051,765"/>
+<area shape="rect" id="node26" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#a2a42a16c4d42602250831d2cf10e54d5" title="ActsFatras::NuclearInteraction\l::sampleDiscreteValues" alt="" coords="861,1089,1087,1133"/>
+<area shape="rect" id="node27" href="$d2/d5a/ExaTrkXEdgeBuildingTest_8cpp.html#a6c3fdf667362d0fcd29829e3a34003f8" title="distance" alt="" coords="1190,1000,1269,1028"/>
+<area shape="rect" id="node28" href="$da/d55/TPCRateLayered_8m.html#a7507ef556477c204b499f1e189d40796" title="sum" alt="" coords="1435,944,1485,972"/>
+<area shape="rect" id="node32" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#a9f8a4dfe58f59171a936cac8f608a89f" title="ActsFatras::NuclearInteraction\l::sampleInvariantMasses" alt="" coords="588,977,813,1021"/>
+<area shape="rect" id="node35" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#a6fa0f160d3e78a2d5e05b77d9eeb26a5" title="ActsFatras::NuclearInteraction\l::sampleMomenta" alt="" coords="588,909,813,953"/>
+<area shape="rect" id="node36" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#a410844e265e43b7d8e94702855c9130f" title="ActsFatras::NuclearInteraction\l::match" alt="" coords="588,1045,813,1089"/>
+<area shape="rect" id="node33" href="$d9/dbb/buildEdges_8cpp.html#a1c7c5a664ae255650d4dd47dffef1835" title="dist" alt="" coords="951,940,997,968"/>
+<area shape="rect" id="node34" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#a60e2098c05566f90afa779b60ab913d1" title="ActsFatras::NuclearInteraction\l::sampleContinuousValues" alt="" coords="861,992,1087,1036"/>
+</map>

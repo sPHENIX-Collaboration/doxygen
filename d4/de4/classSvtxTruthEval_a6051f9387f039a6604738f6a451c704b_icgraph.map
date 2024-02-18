@@ -1,0 +1,23 @@
+<map id="SvtxTruthEval::all_truth_clusters" name="SvtxTruthEval::all_truth_clusters">
+<area shape="rect" id="node2" href="$d5/df8/classQAG4SimulationMicromegas.html#a7d91700abab98412e6b427f4098895ca" title="evaluate clusters" alt="" coords="192,8,407,52"/>
+<area shape="rect" id="node4" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="217,77,382,121"/>
+<area shape="rect" id="node6" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="745,228,933,272"/>
+<area shape="rect" id="node8" href="$d1/d1e/classSvtxClusterEval.html#a4ed068393b7f131534926b87b7b59e10" title="SvtxClusterEval::max\l_truth_cluster_by_energy" alt="" coords="477,141,669,185"/>
+<area shape="rect" id="node17" href="$d1/d1e/classSvtxClusterEval.html#a71467fc0bd5e8af7a8d4ea2a0d124bc1" title="SvtxClusterEval::max\l_truth_particle_by_cluster\l_energy" alt="" coords="201,261,397,321"/>
+<area shape="rect" id="node3" href="$d5/df8/classQAG4SimulationMicromegas.html#aaf9244726798d2865626790e62f3a218" title="QAG4SimulationMicromegas\l::process_event" alt="" coords="466,5,681,49"/>
+<area shape="rect" id="node5" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="491,73,656,117"/>
+<area shape="rect" id="node7" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="998,228,1174,272"/>
+<area shape="rect" id="node9" href="$d3/d32/classActsEvaluator.html#a3589a79fdae3c6914d290a2741a5e4d7" title="ActsEvaluator::getGlobal\lTruthHit" alt="" coords="745,160,934,204"/>
+<area shape="rect" id="node14" href="$d9/d03/classTrackClusterEvaluator.html#a66cad1df2e8397a40eefe607cc3a792b" title="TrackClusterEvaluator\l::processRecoTracks" alt="" coords="754,24,925,68"/>
+<area shape="rect" id="node16" href="$d9/d03/classTrackClusterEvaluator.html#a9ca3bdf0977a57e152003b989bd2e1ae" title="TrackClusterEvaluator\l::processTruthTracks" alt="" coords="754,92,925,136"/>
+<area shape="rect" id="node10" href="$d3/d32/classActsEvaluator.html#ab453c2df8bfbcce42b5ccfa29fd56fe5" title="ActsEvaluator::fillProto\lTrack" alt="" coords="999,92,1173,136"/>
+<area shape="rect" id="node13" href="$d3/d32/classActsEvaluator.html#a45f99d2573de6956de5f6e5c01512bf2" title="ActsEvaluator::visitTrack\lStates" alt="" coords="992,160,1180,204"/>
+<area shape="rect" id="node11" href="$d3/d32/classActsEvaluator.html#aa753c6696784324d0431a6e379785df9" title="Function to evaluate Trajectories fit results from the KF." alt="" coords="1233,135,1468,163"/>
+<area shape="rect" id="node12" href="$d3/d32/classActsEvaluator.html#a1cb0d7dc6cc72bd1eb930d014276335b" title="ActsEvaluator::process\l_track" alt="" coords="1516,127,1692,171"/>
+<area shape="rect" id="node15" href="$d9/d03/classTrackClusterEvaluator.html#aad981fb932ceca8568402877088f2fad" title="TrackClusterEvaluator\l::process_event" alt="" coords="1001,24,1171,68"/>
+<area shape="rect" id="node18" href="$d6/da9/classdNdEtaINTT.html#a8cb9dae21c919eb7b141265ad44299e3" title="dNdEtaINTT::GetRecoClusterInfo" alt="" coords="455,381,692,409"/>
+<area shape="rect" id="node20" href="$d5/df4/classQAG4SimulationKFParticle.html#af3433c8a4e0dd83d8c6034d8f47e69e3" title="QAG4SimulationKFParticle\l::getTruthTrack" alt="" coords="474,312,673,356"/>
+<area shape="rect" id="node19" href="$d6/da9/classdNdEtaINTT.html#a9930cd234487ae62549a5d3b4d0dd7fa" title="dNdEtaINTT::process\l_event" alt="" coords="759,377,919,421"/>
+<area shape="rect" id="node21" href="$d5/df4/classQAG4SimulationKFParticle.html#a4bbecab91502593c1e95321460626c5d" title="QAG4SimulationKFParticle\l::makeHepLV" alt="" coords="740,309,939,353"/>
+<area shape="rect" id="node22" href="$d5/df4/classQAG4SimulationKFParticle.html#a90300d5f56d13aee8a6fe305922187f1" title="QAG4SimulationKFParticle\l::process_event" alt="" coords="987,309,1185,353"/>
+</map>

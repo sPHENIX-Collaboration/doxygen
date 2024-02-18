@@ -1,0 +1,50 @@
+<map id="ActsExamples::IWriter" name="ActsExamples::IWriter">
+<area shape="rect" id="node3" href="$de/d77/classActsExamples_1_1CsvTrackingGeometryWriter.html" title="ActsExamples::CsvTracking\lGeometryWriter" alt="" coords="579,9,786,53"/>
+<area shape="rect" id="node4" href="$de/dc4/exceptionActsExamples_1_1CsvTrackParameterWriter.html" title="ActsExamples::CsvTrackParameter\lWriter" alt="" coords="555,77,811,121"/>
+<area shape="rect" id="node5" href="$d6/d11/classActsExamples_1_1JsonSurfacesWriter.html" title="ActsExamples::JsonSurfaces\lWriter" alt="" coords="577,145,789,189"/>
+<area shape="rect" id="node6" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; write_data_t \&gt;" alt="" coords="595,213,771,257"/>
+<area shape="rect" id="node8" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; ConstTrackContainer \&gt;" alt="" coords="587,281,778,325"/>
+<area shape="rect" id="node10" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; ExtractedSimulationProcess\lContainer \&gt;" alt="" coords="570,349,795,409"/>
+<area shape="rect" id="node12" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; GeometryIdMultimap\l\&lt; Acts::PlanarModuleCluster \&gt; \&gt;" alt="" coords="561,433,805,493"/>
+<area shape="rect" id="node15" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; GeometryIdMultimap\l\&lt; T \&gt; \&gt;" alt="" coords="593,517,773,577"/>
+<area shape="rect" id="node18" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; GeometryIdMultiset\l\&lt; T \&gt; \&gt;" alt="" coords="595,601,771,661"/>
+<area shape="rect" id="node20" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; MeasurementContainer \&gt;" alt="" coords="578,685,787,729"/>
+<area shape="rect" id="node24" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; ProtoTrackContainer \&gt;" alt="" coords="589,783,776,827"/>
+<area shape="rect" id="node27" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; SimHitContainer \&gt;" alt="" coords="595,911,771,955"/>
+<area shape="rect" id="node31" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; SimParticleContainer \&gt;" alt="" coords="587,1077,779,1121"/>
+<area shape="rect" id="node35" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; SimSeedContainer \&gt;" alt="" coords="594,1145,771,1189"/>
+<area shape="rect" id="node37" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; SimSpacePointContainer \&gt;" alt="" coords="574,1213,791,1257"/>
+<area shape="rect" id="node40" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; std::unordered_map\l\&lt; size_t, Acts::RecordedMaterial\lTrack \&gt; \&gt;" alt="" coords="563,1281,802,1357"/>
+<area shape="rect" id="node42" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; std::vector\&lt; Acts::\lVertex\&lt; Acts::BoundTrackParameters \&gt; \&gt; \&gt;" alt="" coords="523,1381,843,1441"/>
+<area shape="rect" id="node44" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; std::vector\&lt; HepMC3\l::GenEvent \&gt; \&gt;" alt="" coords="593,1465,773,1525"/>
+<area shape="rect" id="node46" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; std::vector\&lt; PropagationSteps \&gt; \&gt;" alt="" coords="546,1549,819,1593"/>
+<area shape="rect" id="node48" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; std::vector\&lt; std::vector\l\&lt; step_t \&gt; \&gt; \&gt;" alt="" coords="584,1617,781,1677"/>
+<area shape="rect" id="node49" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; TrajectoriesContainer \&gt;" alt="" coords="585,1701,780,1745"/>
+<area shape="rect" id="node2" href="$d5/d52/classActsExamples_1_1SequenceElement.html" title="ActsExamples::SequenceElement" alt="" coords="5,791,255,819"/>
+<area shape="rect" id="node7" href="$d3/d43/exceptionActsExamples_1_1RootTrackParameterWriter.html" title="ActsExamples::RootTrackParameter\lWriter\&lt; TrackParametersContainer \&gt;" alt="" coords="897,5,1168,49"/>
+<area shape="rect" id="node9" href="$de/dfd/classActsExamples_1_1EDM4hepTrackWriter.html" title="ActsExamples::EDM4hepTrack\lWriter" alt="" coords="919,73,1146,117"/>
+<area shape="rect" id="node11" href="$da/dcf/exceptionActsExamples_1_1RootNuclearInteractionParametersWriter.html" title="ActsExamples::RootNuclear\lInteractionParametersWriter" alt="" coords="926,141,1139,185"/>
+<area shape="rect" id="node13" href="$d3/de5/exceptionActsExamples_1_1CsvPlanarClusterWriter.html" title="ActsExamples::CsvPlanarCluster\lWriter" alt="" coords="912,209,1153,253"/>
+<area shape="rect" id="node14" href="$d6/d77/classActsExamples_1_1RootPlanarClusterWriter.html" title="ActsExamples::RootPlanar\lClusterWriter" alt="" coords="933,277,1133,321"/>
+<area shape="rect" id="node16" href="$d2/ddc/classActsExamples_1_1JsonSpacePointWriter.html" title="ActsExamples::JsonSpacePoint\lWriter\&lt; T \&gt;" alt="" coords="918,345,1147,389"/>
+<area shape="rect" id="node17" href="$db/daf/classActsExamples_1_1ObjSpacePointWriter.html" title="ActsExamples::ObjSpacePoint\lWriter\&lt; T \&gt;" alt="" coords="920,413,1145,457"/>
+<area shape="rect" id="node19" href="$d3/d16/exceptionActsExamples_1_1SvgPointWriter.html" title="ActsExamples::SvgPointWriter\l\&lt; T, Acc \&gt;" alt="" coords="919,481,1146,525"/>
+<area shape="rect" id="node21" href="$db/d7f/exceptionActsExamples_1_1CsvMeasurementWriter.html" title="ActsExamples::CsvMeasurement\lWriter" alt="" coords="911,549,1155,593"/>
+<area shape="rect" id="node22" href="$d1/ded/exceptionActsExamples_1_1EDM4hepMeasurementWriter.html" title="ActsExamples::EDM4hepMeasurement\lWriter" alt="" coords="891,617,1175,661"/>
+<area shape="rect" id="node23" href="$d9/d3f/exceptionActsExamples_1_1RootMeasurementWriter.html" title="ActsExamples::RootMeasurement\lWriter" alt="" coords="908,685,1157,729"/>
+<area shape="rect" id="node25" href="$da/d47/exceptionActsExamples_1_1CsvProtoTrackWriter.html" title="ActsExamples::CsvProtoTrack\lWriter" alt="" coords="922,753,1143,797"/>
+<area shape="rect" id="node26" href="$d8/df8/exceptionActsExamples_1_1TrackFinderPerformanceWriter.html" title="ActsExamples::TrackFinder\lPerformanceWriter" alt="" coords="931,821,1135,865"/>
+<area shape="rect" id="node28" href="$d5/d29/exceptionActsExamples_1_1CsvSimHitWriter.html" title="ActsExamples::CsvSimHitWriter" alt="" coords="914,889,1151,917"/>
+<area shape="rect" id="node29" href="$df/d53/exceptionActsExamples_1_1EDM4hepSimHitWriter.html" title="ActsExamples::EDM4hepSim\lHitWriter" alt="" coords="925,941,1141,985"/>
+<area shape="rect" id="node30" href="$d5/d1e/exceptionActsExamples_1_1RootSimHitWriter.html" title="ActsExamples::RootSimHit\lWriter" alt="" coords="931,1009,1134,1053"/>
+<area shape="rect" id="node32" href="$d2/d9a/exceptionActsExamples_1_1CsvParticleWriter.html" title="ActsExamples::CsvParticle\lWriter" alt="" coords="933,1077,1133,1121"/>
+<area shape="rect" id="node33" href="$d1/dcd/exceptionActsExamples_1_1EDM4hepParticleWriter.html" title="ActsExamples::EDM4hepParticle\lWriter" alt="" coords="913,1145,1153,1189"/>
+<area shape="rect" id="node34" href="$d3/d62/exceptionActsExamples_1_1RootParticleWriter.html" title="ActsExamples::RootParticle\lWriter" alt="" coords="930,1213,1135,1257"/>
+<area shape="rect" id="node36" href="$d5/d2c/exceptionActsExamples_1_1SeedingPerformanceWriter.html" title="ActsExamples::SeedingPerformance\lWriter" alt="" coords="899,1281,1166,1325"/>
+<area shape="rect" id="node38" href="$db/da9/exceptionActsExamples_1_1CsvSpacepointWriter.html" title="ActsExamples::CsvSpacepoint\lWriter" alt="" coords="919,1349,1146,1393"/>
+<area shape="rect" id="node39" href="$d3/dd9/exceptionActsExamples_1_1RootSpacepointWriter.html" title="ActsExamples::RootSpacepoint\lWriter" alt="" coords="916,1417,1149,1461"/>
+<area shape="rect" id="node41" href="$de/d4a/classActsExamples_1_1RootMaterialTrackWriter.html" title="Writes out MaterialTrack collections from a root file." alt="" coords="927,1485,1138,1529"/>
+<area shape="rect" id="node43" href="$da/d70/exceptionActsExamples_1_1VertexPerformanceWriter.html" title="ActsExamples::VertexPerformance\lWriter" alt="" coords="905,1553,1160,1597"/>
+<area shape="rect" id="node45" href="$d2/deb/exceptionActsExamples_1_1HepMC3AsciiWriter.html" title="HepMC3 event writer." alt="" coords="926,1621,1139,1665"/>
+<area shape="rect" id="node47" href="$d9/d2a/classActsExamples_1_1RootPropagationStepsWriter.html" title="ActsExamples::RootPropagation\lStepsWriter" alt="" coords="914,1689,1151,1733"/>
+</map>

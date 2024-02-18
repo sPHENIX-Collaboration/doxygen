@@ -1,0 +1,49 @@
+<map id="SvtxTrackMap::size" name="SvtxTrackMap::size">
+<area shape="rect" id="node2" href="$d0/d71/classPHG4TrackFastSimEval.html#a52a746bdc6e84dc7886b5bae0b608e68" title="PHG4TrackFastSimEval\l::fill_track_tree" alt="" coords="245,5,419,49"/>
+<area shape="rect" id="node4" href="$d2/d93/classTrkrNtuplizer.html#a3ba752b46d320848413bf7ea09ee5dd5" title="dump the evaluator information into ntuple for external analysis" alt="" coords="241,73,423,117"/>
+<area shape="rect" id="node6" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="238,193,426,237"/>
+<area shape="rect" id="node8" href="$de/d74/classKFParticle__DST.html#a2b6acf78701266573cd1278c75281f2b" title="Called by fillParticleNode, fills an SvtxTrackMap." alt="" coords="235,365,429,409"/>
+<area shape="rect" id="node10" href="$d5/d72/classKFParticle__sPHENIX.html#aac7b97c325669f73559f04881cffae58" title="KFParticle_sPHENIX\l::process_event" alt="" coords="806,333,958,377"/>
+<area shape="rect" id="node11" href="$df/db0/classPHActsInitialVertexFinder.html#a254cfcf8b1786029f7b30def5e995e37" title="Gets silicon stubs to send to Acts IVF." alt="" coords="529,485,719,529"/>
+<area shape="rect" id="node12" href="$df/db0/classPHActsInitialVertexFinder.html#a85a8c721f09bcb8342868c2c335c211c" title="PHActsInitialVertexFinder\l::Process" alt="" coords="787,1215,977,1259"/>
+<area shape="rect" id="node13" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="257,553,407,597"/>
+<area shape="rect" id="node14" href="$d6/d54/classPHCosmicsTrkFitter.html#af7f27bd06c1766a397916ed87c1a0c4e" title="Process each event by calling the fitter." alt="" coords="549,584,699,628"/>
+<area shape="rect" id="node15" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="231,673,433,701"/>
+<area shape="rect" id="node16" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="533,692,715,736"/>
+<area shape="rect" id="node17" href="$da/dd3/classFillTruthRecoMatchTree.html#aece59a5fa68faebef091c61ee98fbade" title="FillTruthRecoMatchTree\l::print_mvtx_diagnostics" alt="" coords="239,777,425,821"/>
+<area shape="rect" id="node18" href="$da/dd3/classFillTruthRecoMatchTree.html#a5e804bc87f6e984564ede5276e655f5c" title="FillTruthRecoMatchTree\l::process_event" alt="" coords="536,808,712,852"/>
+<area shape="rect" id="node19" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a5f5b66b96bcf4e8f905129e47e406dfc" title="print out the input object information (debugging upstream components)" alt="" coords="245,897,419,941"/>
+<area shape="rect" id="node21" href="$d8/d98/classpsTOFTimezeroEval.html#a25c3e5e12649de1507e66c332b989be0" title="print out the input object information (debugging upstream components)" alt="" coords="251,1033,413,1077"/>
+<area shape="rect" id="node23" href="$d2/d93/classTrkrNtuplizer.html#a73c2876c01343d242440b190d11dc08d" title="print out the input object information (debugging upstream components)" alt="" coords="227,141,437,169"/>
+<area shape="rect" id="node24" href="$d6/d11/classSvtxEvaluator.html#a51a88cb55f439b7bc820fa1f727bf39a" title="print out the input object information (debugging upstream components)" alt="" coords="224,261,440,289"/>
+<area shape="rect" id="node25" href="$d8/d98/classpsTOFTimezeroEval.html#a506f1d899507a34d445b7c1bbf514fb0" title="print out the ancestry information for detailed diagnosis" alt="" coords="251,1101,413,1145"/>
+<area shape="rect" id="node26" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a25f5176857128e2009be02655d32dabe" title="print out the ancestry information for detailed diagnosis" alt="" coords="245,965,419,1009"/>
+<area shape="rect" id="node27" href="$d2/d93/classTrkrNtuplizer.html#a2dfdc1a314f3377058db05d1aa7bbc55" title="print out the ancestry information for detailed diagnosis" alt="" coords="221,1169,443,1197"/>
+<area shape="rect" id="node28" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="218,1221,446,1249"/>
+<area shape="rect" id="node29" href="$dd/da3/classFilterEvents.html#ab72cb9217b432fc564f426938dec4b7c" title="FilterEvents::process\l_event" alt="" coords="251,1273,413,1317"/>
+<area shape="rect" id="node30" href="$d6/d66/classFilterEventsUpsilon.html#ae466e261c0a1dcde54507193bdecd382" title="FilterEventsUpsilon\l::process_event" alt="" coords="257,1341,407,1385"/>
+<area shape="rect" id="node31" href="$d4/dd5/classPHTrackCleaner.html#af4904c348a0065840c7ca1ec7bf07eea" title="PHTrackCleaner::process\l_event" alt="" coords="238,1409,426,1453"/>
+<area shape="rect" id="node32" href="$db/d92/classPHTrackSelector.html#a38c41d12da59314fd4b83f5e1dc3496c" title="PHTrackSelector::process\l_event" alt="" coords="237,1477,427,1521"/>
+<area shape="rect" id="node33" href="$d5/d78/classPHTpcClusterMover.html#a7c36fbf3ee710fdb11069cfbaf71c3c6" title="PHTpcClusterMover::\lprocess_event" alt="" coords="251,1545,413,1589"/>
+<area shape="rect" id="node34" href="$df/d15/classPHSimpleVertexFinder.html#a3ee41eb7596a6479e315a4949b6465c3" title="PHSimpleVertexFinder\l::process_event" alt="" coords="246,1613,418,1657"/>
+<area shape="rect" id="node35" href="$da/da1/classPJTranslator.html#a05f197da20e9ab88a53904b574db33a2" title="PJTranslator::process\l_event" alt="" coords="251,1681,413,1725"/>
+<area shape="rect" id="node36" href="$d5/d76/classMakeMilleFiles.html#a125dde1d0314fd7c3dba92d218b59898" title="MakeMilleFiles::process\l_event" alt="" coords="243,1749,421,1793"/>
+<area shape="rect" id="node37" href="$d2/d9a/classTpcPrototypeGenFitTrkFinder.html#ade4ab3187ffe209109db1dfae75d8311" title="Process Event, called for each event." alt="" coords="223,1817,441,1861"/>
+<area shape="rect" id="node38" href="$d7/d72/classSecondaryVertexFinder.html#a5165a51b10b5426739a3422a832b8d4d" title="SecondaryVertexFinder\l::process_event" alt="" coords="243,1885,421,1929"/>
+<area shape="rect" id="node39" href="$d8/d63/classsPHAnalysis.html#a25947479a718853718526900a21e795c" title="sPHAnalysis::process\l_event_filtered" alt="" coords="250,2073,414,2117"/>
+<area shape="rect" id="node41" href="$dc/d00/classPairMaker.html#ac4dbcbf8460f299fb192dc174790235b" title="PairMaker::process\l_event_test" alt="" coords="258,2261,406,2305"/>
+<area shape="rect" id="node43" href="$d8/d63/classsPHAnalysis.html#a81aead58781c2738c00c56943a2bd868" title="sPHAnalysis::process\l_event_test" alt="" coords="250,2141,414,2185"/>
+<area shape="rect" id="node44" href="$d8/d63/classsPHAnalysis.html#a3c9cac43829128417e0251f48e9a8071" title="sPHAnalysis::process\l_event_upsilons" alt="" coords="250,2005,414,2049"/>
+<area shape="rect" id="node45" href="$d1/d8e/classDumpSvtxTrackMap.html#a3931d2ac0b96a673f38af759d2ed848f" title="DumpSvtxTrackMap::process_Node" alt="" coords="203,2209,461,2237"/>
+<area shape="rect" id="node46" href="$d5/d55/classPHTpcResiduals.html#ac8936c9d7cf8808255c355520b304e95" title="PHTpcResiduals::processTracks" alt="" coords="216,2331,448,2359"/>
+<area shape="rect" id="node48" href="$df/db0/classPHActsInitialVertexFinder.html#ac442d6dfa5e60feae863a19a7c65708e" title="PHActsInitialVertexFinder\l::sortTracks" alt="" coords="237,485,427,529"/>
+<area shape="rect" id="node3" href="$d0/d71/classPHG4TrackFastSimEval.html#a49d7dacf282d8b17d774ef0f8778a802" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="537,5,711,49"/>
+<area shape="rect" id="node5" href="$d2/d93/classTrkrNtuplizer.html#a399e3058749ac563592644df77083a33" title="TrkrNtuplizer::process\l_event" alt="" coords="539,119,709,163"/>
+<area shape="rect" id="node7" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="536,208,712,252"/>
+<area shape="rect" id="node9" href="$de/d74/classKFParticle__DST.html#acecbd0672cdd8840d82e8e86a8e7bf21" title="Simultaneously fills a KFParticle_Container and SvtxTrackMap if they are enabled." alt="" coords="509,369,739,397"/>
+<area shape="rect" id="node20" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="537,932,711,976"/>
+<area shape="rect" id="node22" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="543,1068,705,1112"/>
+<area shape="rect" id="node40" href="$d8/d63/classsPHAnalysis.html#a88b281f25b7fff2ca7980b03707615bd" title="sPHAnalysis::process\l_event" alt="" coords="542,2073,706,2117"/>
+<area shape="rect" id="node42" href="$dc/d00/classPairMaker.html#a733df0bfd06f87ad288582ca0132ca0b" title="PairMaker::process\l_event" alt="" coords="550,2259,698,2303"/>
+<area shape="rect" id="node47" href="$d5/d55/classPHTpcResiduals.html#afb9145abb0d5d579afed2c31f700989a" title="PHTpcResiduals::process\l_event" alt="" coords="529,2327,719,2371"/>
+</map>

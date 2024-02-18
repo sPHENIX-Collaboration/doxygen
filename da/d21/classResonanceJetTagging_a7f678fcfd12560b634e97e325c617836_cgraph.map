@@ -1,0 +1,14 @@
+<map id="ResonanceJetTagging::addClusters" name="ResonanceJetTagging::addClusters">
+<area shape="rect" id="node2" href="$d5/dc4/classGlobalVertexMap.html#a36c346881da7997e34fa203c523a7925" title="GlobalVertexMap::begin" alt="" coords="229,5,412,33"/>
+<area shape="rect" id="node3" href="$d5/dc4/classGlobalVertexMap.html#a80c3c9063cfd435589959fae05d80660" title="GlobalVertexMap::empty" alt="" coords="226,57,415,85"/>
+<area shape="rect" id="node4" href="$d6/dc7/group__getters.html#gabf760f5a6fc7742a79c3bd3bb9a87188" title="cluster ID" alt="" coords="247,109,394,137"/>
+<area shape="rect" id="node5" href="$d1/d39/classGlobalVertex.html#a97493c07f81f703dd545fe3409be10a4" title="GlobalVertex::get_x" alt="" coords="243,161,398,189"/>
+<area shape="rect" id="node6" href="$d1/d39/classGlobalVertex.html#a13edb1c021409c4a7c53bd29e6ff05e5" title="GlobalVertex::get_y" alt="" coords="243,213,398,241"/>
+<area shape="rect" id="node7" href="$d1/d39/classGlobalVertex.html#a46b4a0bd3afc9c251899dce7c4a0f001" title="GlobalVertex::get_z" alt="" coords="244,265,397,293"/>
+<area shape="rect" id="node8" href="$d6/d12/classRawClusterContainer.html#ace1a68bfa284b6851520189b36f81ca6" title="return all clusters" alt="" coords="239,317,403,361"/>
+<area shape="rect" id="node9" href="$d0/d0e/classRawClusterUtility.html#a27157c0f1f777419cf427e72593c1e21" title="Get energy vector of cluster based on E_core." alt="" coords="249,385,393,429"/>
+<area shape="rect" id="node12" href="$da/d21/classResonanceJetTagging.html#a825fb64cbcccea81d136210995498219" title="ResonanceJetTagging\l::isAcceptableEMCalCluster" alt="" coords="217,453,424,497"/>
+<area shape="rect" id="node13" href="$da/d21/classResonanceJetTagging.html#a4d3cc0a9198e54d905119f04f9a379f5" title="ResonanceJetTagging\l::isAcceptableHCalCluster" alt="" coords="223,521,419,565"/>
+<area shape="rect" id="node10" href="$d6/dc7/group__getters.html#ga98b13ff519cec5ee5e67c2750276fa14" title="RawCluster::get_ecore" alt="" coords="480,368,652,396"/>
+<area shape="rect" id="node11" href="$d6/dc7/group__getters.html#gaf37c34254ebd3a0e62083f517012418b" title="RawCluster::get_position" alt="" coords="472,420,660,448"/>
+</map>

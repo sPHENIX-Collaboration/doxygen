@@ -1,0 +1,12 @@
+<map id="bfs::bfs_sub" name="bfs::bfs_sub">
+<area shape="rect" id="node2" href="$da/d9f/classnode.html#a59c76f5e6e4f3c52a520ec7cc703555b" title="node::adj_edges_begin" alt="" coords="169,5,346,33"/>
+<area shape="rect" id="node3" href="$da/d9f/classnode.html#a12cb1a2167f5f03c054de5e707d3156f" title="node::adj_edges_iterator" alt="" coords="407,57,597,85"/>
+<area shape="rect" id="node4" href="$da/d9f/classnode.html#ada14e87601f772b8d29f2dd6a200cbc9" title="node::adj_edges_end" alt="" coords="175,109,339,137"/>
+<area shape="rect" id="node5" href="$d2/d61/classbfs.html#ab1a9a095e1e757e8f71ba752bf0e898d" title="End&#45;iterator for iteration through all (reached) nodes in BFS&#45;Order." alt="" coords="219,161,295,189"/>
+<area shape="rect" id="node6" href="$d2/d61/classbfs.html#adb6604080f3376e9713e35cd9d7d8943" title="Called when finished with the node n." alt="" coords="185,213,330,257"/>
+<area shape="rect" id="node7" href="$da/d9f/classnode.html#af774d67bcd71df51660982c305702477" title="node::opposite" alt="" coords="196,281,319,309"/>
+<area shape="rect" id="node8" href="$d2/d61/classbfs.html#a3f161fe9f45e0a69892f355a889c3516" title="Called after the node n was taken out of the queue." alt="" coords="156,333,359,361"/>
+<area shape="rect" id="node9" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="196,385,319,413"/>
+<area shape="rect" id="node10" href="$d2/d61/classbfs.html#a0e45c8fe90e54bffe18b308868ccc111" title="Called when an unused node n was discovered." alt="" coords="157,437,358,465"/>
+<area shape="rect" id="node11" href="$d2/d61/classbfs.html#ad2cbb1e9c36f561da0c91fd142296f2a" title="Called when an used node n was found." alt="" coords="165,489,349,517"/>
+</map>

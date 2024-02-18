@@ -1,0 +1,27 @@
+var classsPHElectronPairv1 =
+[
+    [ "sPHElectronPairv1", "d5/d68/classsPHElectronPairv1.html#a6adb1b651309c52d951a20a70a56b335", null ],
+    [ "sPHElectronPairv1", "d5/d68/classsPHElectronPairv1.html#ae32b022a7f933f87e53cdb7c16470a2e", null ],
+    [ "~sPHElectronPairv1", "d5/d68/classsPHElectronPairv1.html#a5ce97d3cd519b09816b442cf5d5d73fc", null ],
+    [ "CloneMe", "d5/d68/classsPHElectronPairv1.html#a812acb7c2c4710dfd832eb2c4ec193e4", null ],
+    [ "get_eta", "d5/d68/classsPHElectronPairv1.html#acb7c32c29c033a7896fb820f0f75c210", null ],
+    [ "get_first", "d5/d68/classsPHElectronPairv1.html#acf22fdae5eb4e99e4cf6b9fe11a83dd2", null ],
+    [ "get_id", "d5/d68/classsPHElectronPairv1.html#a6e46006e363896b09756023be3e8011d", null ],
+    [ "get_mass", "d5/d68/classsPHElectronPairv1.html#a68fd05d5f2791b74a519106806129092", null ],
+    [ "get_min_mass", "d5/d68/classsPHElectronPairv1.html#a91ba5a1e4aa9886bd2617db5cb43797e", null ],
+    [ "get_phiv", "d5/d68/classsPHElectronPairv1.html#a12fdd84c7b93210f393223ccd7f450ec", null ],
+    [ "get_pt", "d5/d68/classsPHElectronPairv1.html#aae53d7f3e36bba6ab123fd7ef94ae492", null ],
+    [ "get_second", "d5/d68/classsPHElectronPairv1.html#a639ea31ae5465e92319dbd92260354e4", null ],
+    [ "get_type", "d5/d68/classsPHElectronPairv1.html#acdfa64020dda8695898a830a1166f88b", null ],
+    [ "identify", "d5/d68/classsPHElectronPairv1.html#a8adead4119317a66f2f1a00d6bda00b3", null ],
+    [ "isValid", "d5/d68/classsPHElectronPairv1.html#a0df926dd07e78cfa959863f2ccda3d7a", null ],
+    [ "Reset", "d5/d68/classsPHElectronPairv1.html#a131adbcc81243c35fb5b6856745e0543", null ],
+    [ "set_id", "d5/d68/classsPHElectronPairv1.html#a879dc3fd74fa6dfede0df7635d3c2f32", null ],
+    [ "set_min_mass", "d5/d68/classsPHElectronPairv1.html#aeefe30a1ab18166b9bb920363c7f2025", null ],
+    [ "set_type", "d5/d68/classsPHElectronPairv1.html#ae2aa0b80951be4b42aac6f18fc3d3b92", null ],
+    [ "_e1", "d5/d68/classsPHElectronPairv1.html#ac0ef73f35eb9c7b7aace8d8a2a28a1ad", null ],
+    [ "_e2", "d5/d68/classsPHElectronPairv1.html#a007b664014916323d72c0de5bfe4b456", null ],
+    [ "_id", "d5/d68/classsPHElectronPairv1.html#ae89ed2c28b93b1695adf91003fbb6928", null ],
+    [ "_min_mass", "d5/d68/classsPHElectronPairv1.html#ac9aee3b0d15a00f5a60261f8897ae1c9", null ],
+    [ "_type", "d5/d68/classsPHElectronPairv1.html#a8d0bc99f7be1e78323a631218583c835", null ]
+];

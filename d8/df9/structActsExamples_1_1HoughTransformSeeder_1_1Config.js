@@ -1,0 +1,25 @@
+var structActsExamples_1_1HoughTransformSeeder_1_1Config =
+[
+    [ "fieldCorrector", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#ab467d4d03d10e9bc95b317bbad08f618", null ],
+    [ "geometrySelection", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#aa60bcd9ea8dd3c6e4c52f8e45b69d0fb", null ],
+    [ "hitExtend_x", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#ad3b3a88b586061cac7fe62d26f9bcd94", null ],
+    [ "houghHistSize_x", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a0a1103ded7f55510f32fbbdb180b79e3", null ],
+    [ "houghHistSize_y", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a7feddce06bf0b142ade0802840d89802", null ],
+    [ "inputMeasurements", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#ae74efc28160a0f1c038ea1bb449d7429", null ],
+    [ "inputSourceLinks", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a351f6442041ebe0975310c386b549481", null ],
+    [ "inputSpacePoints", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#adee540a10481f3094b7740db33f58a06", null ],
+    [ "kA", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a330ab0151bbb14430eff326e59c19033", null ],
+    [ "layerIDFinder", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#abba91bb0628bbe56ba3166ae905a3b90", null ],
+    [ "localMaxWindowSize", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a5df0775ee1a9a5170f5617bf9b9cf53a", null ],
+    [ "nLayers", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a851f8bec9d0040e595f813c3caf9d751", null ],
+    [ "outputProtoTracks", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a0cf8c24804f3447008271cc847dc335c", null ],
+    [ "outputSeeds", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a5500185c4e07f256963db19eecde2ed5", null ],
+    [ "sliceTester", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#af53a09876d35aa2fddbe5bc812fad0f7", null ],
+    [ "subRegions", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a49de3bd4ea51c13ad79fb466f07fa538", null ],
+    [ "threshold", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a6dfd83e6fdfc76a9b6ca611ead2e21fe", null ],
+    [ "trackingGeometry", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a622f1d9fa222d2233ed92d8c00430637", null ],
+    [ "xMax", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a498ffc503647218847a2902c513c0c18", null ],
+    [ "xMin", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#ae38c5b267037076d01e9157c61f2b8f7", null ],
+    [ "yMax", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a5f5b9ec7488f6a72a7a1457046bd46df", null ],
+    [ "yMin", "d8/df9/structActsExamples_1_1HoughTransformSeeder_1_1Config.html#a268ac59853eed39cb02c82be06754b4e", null ]
+];

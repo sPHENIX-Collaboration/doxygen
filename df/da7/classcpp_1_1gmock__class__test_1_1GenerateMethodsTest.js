@@ -1,0 +1,25 @@
+var classcpp_1_1gmock__class__test_1_1GenerateMethodsTest =
+[
+    [ "GenerateMethodSource", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a5e2ed5daa5824eb6c9d1c9519dc074fd", null ],
+    [ "testArgsOfTemplateTypes", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a5bf7b1f66bc8e01a9911453a56b81716", null ],
+    [ "testArrayArgWithoutNames", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a6d00f4d802daa4c82c52d166b6aaaf37", null ],
+    [ "testCStyleCommentsInParameterListAreNotRemoved", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a03909e33afb00b94bf55b2030dbf2221", null ],
+    [ "testDefaultParameters", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#ad8c98ba39fd3f5b1ff729bc2f48f43c4", null ],
+    [ "testDoubleSlashCommentsInParameterListAreRemoved", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a0768145369472ad79688dbfbe32eaf0b", null ],
+    [ "testExplicitlyDefaultedConstructorsAndDestructor", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a6cd39fe6673c0d5fa41fa166af92b878", null ],
+    [ "testExplicitlyDeletedConstructorsAndDestructor", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#aa6cb5c69d3a9fafd36a6799a99ea2fb1", null ],
+    [ "testExplicitVoid", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a3c8f4300671bc9652b002301295ae4e7", null ],
+    [ "testMultipleDefaultParameters", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a2793b26c0bd4e6d781b2fd9fee7ce53b", null ],
+    [ "testPointerArgWithoutNames", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a78547a02dc3e3aab7182aed3b1ecac87", null ],
+    [ "testReferenceArgWithoutNames", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#adadd9144b5747d09fae117722227f3b3", null ],
+    [ "testRemovesCommentsWhenDefaultsArePresent", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a1add802e907823a3400cfe0fba098eb4", null ],
+    [ "testReturnTypeWithManyTemplateArgs", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a752cce3e7510a783f44ce1c615ba31b2", null ],
+    [ "testReturnTypeWithOneTemplateArg", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a5a545c32d04048f73fab4aeb29751d33", null ],
+    [ "testSimpleConstMethod", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a864309af612d37cf8051f08fe5d938d4", null ],
+    [ "testSimpleConstructorsAndDestructor", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a794b3ac6b7e4c8cf5a6a527bf07ddf29", null ],
+    [ "testSimpleMethod", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#aa9236ddc25f74554e16d3b29418bf3f8", null ],
+    [ "testSimpleMethodInTemplatedClass", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#ab440f578e44d789063728dcae7c8a4b6", null ],
+    [ "testSimpleOverrideMethod", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a7994787872ee00c4b499e283679beaa8", null ],
+    [ "testStrangeNewlineInParameter", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a863e75fe0d551f251ead86486eb505a3", null ],
+    [ "testVirtualDestructor", "df/da7/classcpp_1_1gmock__class__test_1_1GenerateMethodsTest.html#a5833d134c44da5ce278a90b86de02fc4", null ]
+];

@@ -1,0 +1,11 @@
+<map id="SvtxTrack::clear_states" name="SvtxTrack::clear_states">
+<area shape="rect" id="node2" href="$d0/df3/classPHActsToSvtxTracks.html#a1fe79836ef5e1aee38c844f5894f1262" title="PHActsToSvtxTracks\l::createSvtxTrack" alt="" coords="260,5,415,49"/>
+<area shape="rect" id="node4" href="$dc/dcf/classPHActsGSF.html#ac83b6ccc46fd99ae61a6f5a90e027376" title="PHActsGSF::updateSvtxTrack" alt="" coords="229,73,445,101"/>
+<area shape="rect" id="node7" href="$d1/d49/classPHActsTrkFitter.html#a84b45cab5f4f054cb5820c80cc71c639" title="Convert the acts track fit result to an svtx track." alt="" coords="233,125,441,169"/>
+<area shape="rect" id="node3" href="$d0/df3/classPHActsToSvtxTracks.html#aa6f6b463f1b781b261c2c98d2a1393f8" title="PHActsToSvtxTracks\l::process_event" alt="" coords="511,5,665,49"/>
+<area shape="rect" id="node5" href="$dc/dcf/classPHActsGSF.html#aed9fe79ee4641b8641aae92ec46f70b4" title="PHActsGSF::updateTrack" alt="" coords="495,73,681,101"/>
+<area shape="rect" id="node6" href="$dc/dcf/classPHActsGSF.html#a6c3b895a05a59d9e14bbe0a754ac023b" title="PHActsGSF::process\l_event" alt="" coords="755,65,909,109"/>
+<area shape="rect" id="node8" href="$d1/d49/classPHActsTrkFitter.html#abef281afb12f30e5b3571ec8c512b3da" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="493,125,683,169"/>
+<area shape="rect" id="node9" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="731,133,933,161"/>
+<area shape="rect" id="node10" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="981,125,1164,169"/>
+</map>

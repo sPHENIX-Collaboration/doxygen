@@ -1,0 +1,26 @@
+var classTruthClusterizerBase =
+[
+    [ "TruthClusterizerBase", "d8/d5c/classTruthClusterizerBase.html#a7f3c766d080a8423492db06aac14255a", null ],
+    [ "~TruthClusterizerBase", "d8/d5c/classTruthClusterizerBase.html#a33687cbaa87ddc0e4c7d3fd1f16346a8", null ],
+    [ "addhitset", "d8/d5c/classTruthClusterizerBase.html#a79b768a18d0f06c81a7faf9139f17f43", null ],
+    [ "check_g4hit_status", "d8/d5c/classTruthClusterizerBase.html#a49a1c89a4afa675b1f9ad4a1a251696f", null ],
+    [ "init_clusterizer_base", "d8/d5c/classTruthClusterizerBase.html#abb6bfd97766cef8826b554b5df666d01", null ],
+    [ "print_clusters", "d8/d5c/classTruthClusterizerBase.html#aeb9bdcc7e339498f4ed408d0db368873", null ],
+    [ "set_verbosity", "d8/d5c/classTruthClusterizerBase.html#a451d88a53b8b2123217c188338076df5", null ],
+    [ "transfer_clusters", "d8/d5c/classTruthClusterizerBase.html#a88e10a9f8b7591b26e37a5110106176c", null ],
+    [ "transfer_clusters", "d8/d5c/classTruthClusterizerBase.html#abc6f3f0a846e6bd0d6d7b4d2bb40ea3e", null ],
+    [ "update_track", "d8/d5c/classTruthClusterizerBase.html#af2523cd39341b905b8b3e905e74cb6ef", null ],
+    [ "Verbosity", "d8/d5c/classTruthClusterizerBase.html#ae93965131512d16a3b35a054e8727550", null ],
+    [ "m_clusters", "d8/d5c/classTruthClusterizerBase.html#a4dbe1cca65a3ed20d6e2b55c54719896", null ],
+    [ "m_current_track", "d8/d5c/classTruthClusterizerBase.html#a8778dd8fd5134b6202d75689dc9c7e86", null ],
+    [ "m_hits", "d8/d5c/classTruthClusterizerBase.html#a2f954bf02f4a0eded279b5406698da09", null ],
+    [ "m_hitsetkey_cnt", "d8/d5c/classTruthClusterizerBase.html#a34da995c955d57445280cf2514fdb880", null ],
+    [ "m_is_emb", "d8/d5c/classTruthClusterizerBase.html#a565b1741d1dca781bd92a00ba2443793", null ],
+    [ "m_is_new_track", "d8/d5c/classTruthClusterizerBase.html#a5f42ec25e6d3794ed58cee861a9da87b", null ],
+    [ "m_topNode", "d8/d5c/classTruthClusterizerBase.html#a929bf6c56088127b9b8c405b9f84bc29", null ],
+    [ "m_trkid", "d8/d5c/classTruthClusterizerBase.html#a7a26eb1b942048cd2d16658826dde42a", null ],
+    [ "m_truthinfo", "d8/d5c/classTruthClusterizerBase.html#a736c65f4b20f0f5eeb651a970bd10abf", null ],
+    [ "m_truthtracks", "d8/d5c/classTruthClusterizerBase.html#a7e709c64a9e35be6860edea586ce6f35", null ],
+    [ "m_verbosity", "d8/d5c/classTruthClusterizerBase.html#a5f718ffc42339f6521b36e3483174ee7", null ],
+    [ "m_was_emb", "d8/d5c/classTruthClusterizerBase.html#ae2cf8e1018be6d29729cc1891819f585", null ]
+];

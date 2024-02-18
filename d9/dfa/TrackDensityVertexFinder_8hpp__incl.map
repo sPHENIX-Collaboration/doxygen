@@ -1,0 +1,37 @@
+<map id="acts/blob/sPHENIX/Core/include/Acts/Vertexing/TrackDensityVertexFinder.hpp" name="acts/blob/sPHENIX/Core/include/Acts/Vertexing/TrackDensityVertexFinder.hpp">
+<area shape="rect" id="node2" href="$da/dd2/Algebra_8hpp.html" title="Acts/Definitions/Algebra.hpp" alt="" coords="1148,925,1364,953"/>
+<area shape="rect" id="node5" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="1756,481,2030,509"/>
+<area shape="rect" id="node13" href="$d3/db2/Result_8hpp.html" title="Acts/Utilities/Result.hpp" alt="" coords="455,841,638,869"/>
+<area shape="rect" id="node37" href="$dd/d30/GaussianTrackDensity_8hpp.html" title="Acts/Vertexing/GaussianTrack\lDensity.hpp" alt="" coords="158,389,380,433"/>
+<area shape="rect" id="node43" href="$d6/db0/Vertex_8hpp.html" title="Acts/Vertexing/Vertex.hpp" alt="" coords="1237,305,1434,333"/>
+<area shape="rect" id="node46" href="$d8/dfb/VertexFitterConcept_8hpp.html" title="Acts/Vertexing/VertexFitter\lConcept.hpp" alt="" coords="1310,113,1513,157"/>
+<area shape="rect" id="node47" href="$d9/d06/Core_2include_2Acts_2Vertexing_2VertexingOptions_8hpp.html" title="Acts/Vertexing/Vertexing\lOptions.hpp" alt="" coords="1682,205,1870,249"/>
+<area shape="rect" id="node50" href="$dd/d27/TrackDensityVertexFinder_8ipp.html" title="TrackDensityVertexFinder.ipp" alt="" coords="1958,121,2177,149"/>
+<area shape="rect" id="node6" href="$de/d46/GenericBoundTrackParameters_8hpp.html" title="Acts/EventData/GenericBound\lTrackParameters.hpp" alt="" coords="1680,649,1906,693"/>
+<area shape="rect" id="node26" href="$db/d68/GenericCurvilinearTrackParameters_8hpp.html" title="Acts/EventData/GenericCurvilinear\lTrackParameters.hpp" alt="" coords="1764,557,2022,601"/>
+<area shape="rect" id="node30" href="$d1/d03/GenericFreeTrackParameters_8hpp.html" title="Acts/EventData/GenericFree\lTrackParameters.hpp" alt="" coords="1954,649,2166,693"/>
+<area shape="rect" id="node31" href="$d0/db1/ParticleHypothesis_8hpp.html" title="Acts/EventData/ParticleHypothesis.hpp" alt="" coords="3165,565,3450,593"/>
+<area shape="rect" id="node7" href="$d7/d39/Tolerance_8hpp.html" title="Acts/Definitions/Tolerance.hpp" alt="" coords="815,841,1043,869"/>
+<area shape="rect" id="node8" href="$d7/db3/PrintParameters_8hpp.html" title="Acts/EventData/detail\l/PrintParameters.hpp" alt="" coords="1630,741,1798,785"/>
+<area shape="rect" id="node11" href="$d2/d86/TransformationFreeToBound_8hpp.html" title="Acts/EventData/detail\l/TransformationFreeToBound.hpp" alt="" coords="1209,741,1454,785"/>
+<area shape="rect" id="node19" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="985,749,1185,777"/>
+<area shape="rect" id="node22" href="$d0/d5d/UnitVectors_8hpp.html" title="Acts/Utilities/UnitVectors.hpp" alt="" coords="1924,749,2142,777"/>
+<area shape="rect" id="node24" href="$da/d6d/periodic_8hpp.html" title="Acts/Utilities/detail\l/periodic.hpp" alt="" coords="2167,741,2315,785"/>
+<area shape="rect" id="node9" href="$d7/d3a/TrackParametrization_8hpp.html" title="Acts/Definitions/TrackParametrization.hpp" alt="" coords="1820,841,2126,869"/>
+<area shape="rect" id="node12" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="1468,841,1745,869"/>
+<area shape="rect" id="node20" href="$d8/ddd/Common_8hpp.html" title="Acts/Definitions/Common.hpp" alt="" coords="1169,841,1393,869"/>
+<area shape="rect" id="node27" href="$dc/de5/TrackParametersConcept_8hpp.html" title="Acts/EventData/TrackParameters\lConcept.hpp" alt="" coords="2492,741,2734,785"/>
+<area shape="rect" id="node29" href="$d7/dec/PlaneSurface_8hpp.html" title="Acts/Surfaces/PlaneSurface.hpp" alt="" coords="728,657,965,685"/>
+<area shape="rect" id="node28" href="$d0/d81/TypeTraits_8hpp.html" title="Acts/Utilities/TypeTraits.hpp" alt="" coords="2542,841,2750,869"/>
+<area shape="rect" id="node32" href="$dc/d33/ParticleData_8hpp.html" title="Acts/Definitions/Particle\lData.hpp" alt="" coords="3578,741,3760,785"/>
+<area shape="rect" id="node33" href="$d0/d47/PdgParticle_8hpp.html" title="Acts/Definitions/PdgParticle.hpp" alt="" coords="3398,841,3636,869"/>
+<area shape="rect" id="node34" href="$df/d6f/Units_8hpp.html" title="Acts/Definitions/Units.hpp" alt="" coords="3100,841,3297,869"/>
+<area shape="rect" id="node35" href="$de/dc3/Charge_8hpp.html" title="Acts/EventData/Charge.hpp" alt="" coords="3063,749,3272,777"/>
+<area shape="rect" id="node36" href="$db/ddb/GenericParticleHypothesis_8hpp.html" title="Acts/EventData/GenericParticle\lHypothesis.hpp" alt="" coords="3268,649,3502,693"/>
+<area shape="rect" id="node40" href="$d4/d49/GaussianTrackDensity_8ipp.html" title="Acts/Vertexing/GaussianTrack\lDensity.ipp" alt="" coords="94,741,316,785"/>
+<area shape="rect" id="node41" href="$dc/def/VertexingError_8hpp.html" title="Acts/Vertexing/Vertexing\lError.hpp" alt="" coords="47,833,235,877"/>
+<area shape="rect" id="node44" href="$d8/d30/TrackAtVertex_8hpp.html" title="Acts/Vertexing/TrackAtVertex.hpp" alt="" coords="1310,397,1556,425"/>
+<area shape="rect" id="node45" href="$d9/de3/Vertex_8ipp.html" title="Vertex.ipp" alt="" coords="1194,397,1286,425"/>
+<area shape="rect" id="node48" href="$d0/d75/ReferenceWrapperAnyCompat_8hpp.html" title="Acts/Utilities/detail\l/ReferenceWrapperAnyCompat.hpp" alt="" coords="2713,557,2974,601"/>
+<area shape="rect" id="node49" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="1681,297,1884,341"/>
+</map>

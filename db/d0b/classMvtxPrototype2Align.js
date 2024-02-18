@@ -1,0 +1,26 @@
+var classMvtxPrototype2Align =
+[
+    [ "AlignmentPar", "d1/d11/structMvtxPrototype2Align_1_1AlignmentPar.html", "d1/d11/structMvtxPrototype2Align_1_1AlignmentPar" ],
+    [ "MvtxPrototype2Align", "db/d0b/classMvtxPrototype2Align.html#ad788b4957b0c63288b9838a8291ce20c", null ],
+    [ "~MvtxPrototype2Align", "db/d0b/classMvtxPrototype2Align.html#a5c9dbe20953df51f9ae6c54302dec223", null ],
+    [ "AddAlignmentPar", "db/d0b/classMvtxPrototype2Align.html#a69ed2dda37bf75c154a72735d9dc9d75", null ],
+    [ "End", "db/d0b/classMvtxPrototype2Align.html#ae83554a590d34aa96544a879aab88157", null ],
+    [ "GetIsGlobal", "db/d0b/classMvtxPrototype2Align.html#a23726e44caed64bffbbe44872fd60302", null ],
+    [ "Init", "db/d0b/classMvtxPrototype2Align.html#a5eccf609e954765844c2643f6a4fa755", null ],
+    [ "InitRun", "db/d0b/classMvtxPrototype2Align.html#a1f1ce1f5e948832419d85fdf1e34d57e", null ],
+    [ "PrintAlignmentPars", "db/d0b/classMvtxPrototype2Align.html#a60ed7de578c367fd5d720c88670a644e", null ],
+    [ "process_event", "db/d0b/classMvtxPrototype2Align.html#a0b7add8a0728af136698ec976f4878fb", null ],
+    [ "ReadAlignmentParFile", "db/d0b/classMvtxPrototype2Align.html#aeff12d5545c286cd614af36555173d61", null ],
+    [ "SetAlignmentParFileDir", "db/d0b/classMvtxPrototype2Align.html#ae8095f0d0ca25c451e6a20613d1c2174", null ],
+    [ "SetAlignmentParFileName", "db/d0b/classMvtxPrototype2Align.html#a301c7fc40ede6f5e7a1d7ab838cfe4e1", null ],
+    [ "SetAlignmentParFromFile", "db/d0b/classMvtxPrototype2Align.html#afa83df98f7f1fba4bf56017b455adad1", null ],
+    [ "SetIsGlobal", "db/d0b/classMvtxPrototype2Align.html#a250211d644826bedf8195b50448a10a5", null ],
+    [ "_timer", "db/d0b/classMvtxPrototype2Align.html#ab0bd38862fe6ae101d7306e867f24947", null ],
+    [ "alignmap_", "db/d0b/classMvtxPrototype2Align.html#a5a32e8fa4ed1dd6f97309a77b3618804", null ],
+    [ "apff_", "db/d0b/classMvtxPrototype2Align.html#ac059b38ac9fc494a4a0512cf1ea33a0f", null ],
+    [ "clusters_", "db/d0b/classMvtxPrototype2Align.html#a523e2f87039f7e45b64358818ca2f849", null ],
+    [ "fdir_", "db/d0b/classMvtxPrototype2Align.html#a34e54ca4941fc049fc5bb2ebf77531e6", null ],
+    [ "m_afname", "db/d0b/classMvtxPrototype2Align.html#a864cc8d1c8c6fbca4a3975102003f953", null ],
+    [ "m_is_global", "db/d0b/classMvtxPrototype2Align.html#abf01321ed9f51ef00fa4c0a8fab83cdd", null ],
+    [ "runnumber_", "db/d0b/classMvtxPrototype2Align.html#ad12ec50989322a1b37841076b56227c4", null ]
+];

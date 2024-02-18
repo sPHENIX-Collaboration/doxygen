@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$da/d9c/classActs_1_1MagneticFieldProvider.html" title="Base class for all magnetic field providers." alt="" coords="5,125,215,153"/>
+<area shape="rect" id="node2" href="$dd/dab/exceptionActs_1_1ConstantBField.html" title="Acts::ConstantBField" alt="" coords="294,5,455,33"/>
+<area shape="rect" id="node3" href="$d4/d73/classActs_1_1InterpolatedMagneticField.html" title="Magnetic field to read from." alt="" coords="273,57,477,101"/>
+<area shape="rect" id="node4" href="$d7/d9f/exceptionActs_1_1NullBField.html" title="Null bfield which returns 0 always." alt="" coords="311,125,438,153"/>
+<area shape="rect" id="node5" href="$db/d26/exceptionActs_1_1SolenoidBField.html" title="Acts::SolenoidBField" alt="" coords="295,177,454,205"/>
+<area shape="rect" id="node6" href="$db/d58/exceptionActsExamples_1_1ScalableBField.html" title="A constant magnetic field that is scaled depending on the event context." alt="" coords="263,229,487,257"/>
+</map>

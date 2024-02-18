@@ -1,0 +1,37 @@
+<map id="MvtxDefs::getChipId" name="MvtxDefs::getChipId">
+<area shape="rect" id="node2" href="$de/d4d/classPHG4MvtxHitReco.html#a47ee1b5da3713a14740e0ec0e48ebe2f" title="PHG4MvtxHitReco::cluster\l_truthhits" alt="" coords="227,127,425,171"/>
+<area shape="rect" id="node6" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="218,267,434,295"/>
+<area shape="rect" id="node8" href="$dc/d12/classMvtxClusterizer.html#a06720c4fe2300a02b948e71ef1c81525" title="MvtxClusterizer::Cluster\lMvtxRaw" alt="" coords="234,199,418,243"/>
+<area shape="rect" id="node9" href="$d9/df3/classTrackResiduals.html#a24bc1231ee21177540a3fdfd314c4445" title="TrackResiduals::fillClusterTree" alt="" coords="215,371,437,399"/>
+<area shape="rect" id="node11" href="$dd/de6/classKFParticle__truthAndDetTools.html#a0dfa098affc59d7f9cb09aa49ba3aae0" title="KFParticle_truthAndDetTools\l::fillDetectorBranch" alt="" coords="221,543,431,587"/>
+<area shape="rect" id="node14" href="$d9/df3/classTrackResiduals.html#ab58ccca999b43d7a6b909f06a29aa944" title="TrackResiduals::fillHitTree" alt="" coords="229,319,423,347"/>
+<area shape="rect" id="node15" href="$d8/df1/namespaceMvtxDefs.html#a64b42c07e55c06868ce31ab25be10ef4" title="Get the chip id from cluskey." alt="" coords="247,423,405,451"/>
+<area shape="rect" id="node16" href="$dd/df2/classMvtxPrototype2Geom.html#a169c136af42054e2d0f6716ffc746061" title="MvtxPrototype2Geom\l::getChipIndex" alt="" coords="242,475,410,519"/>
+<area shape="rect" id="node17" href="$d6/d17/classSVReco.html#af99925be18cc9afbb2b9936df3a925db" title="Uses the tracking clusters exclusively to make a GFTrack." alt="" coords="228,611,424,639"/>
+<area shape="rect" id="node27" href="$da/db1/classMakeActsGeometry.html#ab9b4afbf5dfd3c6f7fa38830a6560377" title="MakeActsGeometry::makeMvtx\lMapPairs" alt="" coords="211,871,441,915"/>
+<area shape="rect" id="node33" href="$dc/dc4/classMvtxHitPruner.html#a629a539be61749a2db0532b4abb025ca" title="event processing" alt="" coords="237,663,415,707"/>
+<area shape="rect" id="node34" href="$d5/de1/classHelicalFitter.html#a98485e999dddb90f86479a58eb7b53a3" title="HelicalFitter::process\l_event" alt="" coords="245,731,407,775"/>
+<area shape="rect" id="node35" href="$db/d6d/classAnaMvtxTestBeam2019.html#a043d418b56118618968c827ff5030719" title="AnaMvtxTestBeam2019\l::process_event" alt="" coords="235,799,417,843"/>
+<area shape="rect" id="node36" href="$de/d4d/classPHG4MvtxHitReco.html#a02c2a9a2501a7e7920ce0eb8c58f82ce" title="PHG4MvtxHitReco::zero\l_strobe_bits" alt="" coords="511,5,693,49"/>
+<area shape="rect" id="node3" href="$de/d4d/classPHG4MvtxHitReco.html#a8af47803abd8f17be6b5d7cb15e52e2e" title="PHG4MvtxHitReco::end\l_event_truthcluster" alt="" coords="513,193,691,237"/>
+<area shape="rect" id="node4" href="$de/d4d/classPHG4MvtxHitReco.html#a909a81a9eb5c91d222f0ed65462e4ed7" title="event processing" alt="" coords="793,96,997,140"/>
+<area shape="rect" id="node5" href="$de/d4d/classPHG4MvtxHitReco.html#acded27d87ad75c33578355b8cbdad2ea" title="PHG4MvtxHitReco::truthcheck\l_g4hit" alt="" coords="489,125,715,169"/>
+<area shape="rect" id="node7" href="$dc/d12/classMvtxClusterizer.html#a65c6ecb960ca545df424342dbe6de5b8" title="event processing" alt="" coords="509,261,695,305"/>
+<area shape="rect" id="node10" href="$d9/df3/classTrackResiduals.html#acf3f931165c42ab03b6f41f2116fcbd7" title="TrackResiduals::process\l_event" alt="" coords="511,347,693,391"/>
+<area shape="rect" id="node12" href="$d9/dae/classKFParticle__nTuple.html#a4b3e5fc3f34c40ce4d53656fc7ea58c7" title="Fills required information for your selection, also requests truth and detector information if needed..." alt="" coords="529,509,675,553"/>
+<area shape="rect" id="node13" href="$d5/d72/classKFParticle__sPHENIX.html#aac7b97c325669f73559f04881cffae58" title="KFParticle_sPHENIX\l::process_event" alt="" coords="819,477,971,521"/>
+<area shape="rect" id="node18" href="$d6/d17/classSVReco.html#a19081506d2161465fdf3f36527aa0e18" title="Initialization, called for initialization at each event." alt="" coords="531,608,673,636"/>
+<area shape="rect" id="node23" href="$d6/d17/classSVReco.html#aed33c3da67bd3f1b7c3c73127b8187ea" title="SVReco::refitTrack" alt="" coords="530,772,674,800"/>
+<area shape="rect" id="node19" href="$df/d9b/classRecoConversionEval.html#ab5e60cc47b4b3d33f9fdb4a83c2ff775" title="RecoConversionEval\l::doNodePointers" alt="" coords="816,665,975,709"/>
+<area shape="rect" id="node21" href="$d2/d6d/classVtxTest.html#ad1a3b9d5e730a3ba75f13a084e21bee5" title="VtxTest::process_event" alt="" coords="806,545,985,573"/>
+<area shape="rect" id="node22" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="815,597,976,641"/>
+<area shape="rect" id="node20" href="$df/d9b/classRecoConversionEval.html#a54bb2ea55f01b0d0dc8752fbee1bc237" title="RecoConversionEval\l::process_event" alt="" coords="1108,700,1267,744"/>
+<area shape="rect" id="node24" href="$df/d9b/classRecoConversionEval.html#ae0025d84438ba3f29cc99ec09cbb9f5b" title="Uses _vertexer to refit." alt="" coords="816,733,975,777"/>
+<area shape="rect" id="node25" href="$dc/d41/classConversion.html#a5a8976da958375a2e66f9c35017fb7be" title="Uses recoVertex and." alt="" coords="807,801,983,829"/>
+<area shape="rect" id="node26" href="$dc/d41/classConversion.html#a232908ec95e6d7b3bfd8883d19885971" title="Uses the truth vertex and SVReco to improve the fit of reco1 and reco2. Uses." alt="" coords="779,853,1011,881"/>
+<area shape="rect" id="node28" href="$da/db1/classMakeActsGeometry.html#a6c06c33bcf0b960a5848047dfc80e54e" title="MakeActsGeometry::unpack\lVolumes" alt="" coords="497,880,707,924"/>
+<area shape="rect" id="node29" href="$da/db1/classMakeActsGeometry.html#ae2585532ed5abdd609836bc8719c546f" title="Function that mimics ActsExamples::GeometryExampleBase." alt="" coords="763,905,1028,933"/>
+<area shape="rect" id="node30" href="$da/db1/classMakeActsGeometry.html#a6f8433331336def2c6ea713b281da9ed" title="Silicon layers made by BuildSiliconLayers and its helper functions." alt="" coords="1076,897,1299,941"/>
+<area shape="rect" id="node31" href="$da/db1/classMakeActsGeometry.html#aa809a1c2b47d8c089a0dc4a6a96d1cc8" title="Main function to build all acts geometry for use in the fitting modules." alt="" coords="1347,897,1557,941"/>
+<area shape="rect" id="node32" href="$da/db1/classMakeActsGeometry.html#a5938929f364b98db92fa809a54a635c6" title="MakeActsGeometry::InitRun" alt="" coords="1605,905,1813,933"/>
+</map>

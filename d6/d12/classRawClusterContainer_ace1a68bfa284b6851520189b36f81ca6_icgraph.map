@@ -1,0 +1,51 @@
+<map id="RawClusterContainer::getClusters" name="RawClusterContainer::getClusters">
+<area shape="rect" id="node2" href="$da/d21/classResonanceJetTagging.html#a7f678fcfd12560b634e97e325c617836" title="ResonanceJetTagging\l::addClusters" alt="" coords="261,9,425,53"/>
+<area shape="rect" id="node4" href="$da/d7e/classCaloRawClusterEval.html#a238c2f6f0ae23af51fcc56d1dd968eb4" title="what clusters did this primary truth shower contribute energy to?" alt="" coords="266,247,421,291"/>
+<area shape="rect" id="node10" href="$dd/dfc/classcemcReco.html#afc29758b7c20969af1f85c9e3c15b2d7" title="cemcReco::coneSum" alt="" coords="262,315,425,343"/>
+<area shape="rect" id="node12" href="$dc/d65/classPhotonJet.html#a2c998d51d52420bdde0a2100c7cbdf62" title="PhotonJet::ConeSum" alt="" coords="263,367,423,395"/>
+<area shape="rect" id="node14" href="$d7/dce/classTreeMaker.html#ae86d85abb37a69817ded01d7a8f2f7db" title="TreeMaker::CopyAndMakeClusters" alt="" coords="217,539,469,567"/>
+<area shape="rect" id="node16" href="$d5/d98/classClusterJetInput.html#a93647b5e12b963d4cf0514f296e2b072" title="ClusterJetInput::get\l_input" alt="" coords="267,419,420,463"/>
+<area shape="rect" id="node17" href="$d7/ded/classSTACalorimeterCharacterization.html#aa7ff60073c8051bdab5a9363543e1ad9" title="STACalorimeterCharacterization\l::get_ordered_clusters" alt="" coords="517,73,753,117"/>
+<area shape="rect" id="node18" href="$d7/dce/classTreeMaker.html#a10bb92eceb59ecda9e48c658b14604e2" title="TreeMaker::GetClusters" alt="" coords="253,591,433,619"/>
+<area shape="rect" id="node19" href="$d0/da9/classAnaTutorial.html#a04c6cb82e3dc8b29662a1bc82fc2ce91" title="AnaTutorial::getEMCalClusters" alt="" coords="230,643,457,671"/>
+<area shape="rect" id="node21" href="$d6/d66/classFilterEventsUpsilon.html#ab906921d4db9f46ddfabfc85c85c3996" title="FilterEventsUpsilon\l::MatchClusterCEMC" alt="" coords="265,747,422,791"/>
+<area shape="rect" id="node22" href="$d6/d66/classFilterEventsUpsilon.html#ae466e261c0a1dcde54507193bdecd382" title="FilterEventsUpsilon\l::process_event" alt="" coords="560,725,711,769"/>
+<area shape="rect" id="node23" href="$dd/da3/classFilterEvents.html#aff3be036d0762944a52fc9ea8d95c129" title="FilterEvents::MatchClusterCEMC" alt="" coords="225,867,462,895"/>
+<area shape="rect" id="node24" href="$dd/da3/classFilterEvents.html#ab72cb9217b432fc564f426938dec4b7c" title="FilterEvents::process\l_event" alt="" coords="555,833,716,877"/>
+<area shape="rect" id="node25" href="$d8/d63/classsPHAnalysis.html#aad6763390377734527deb1d6c1606275" title="sPHAnalysis::MatchClusterCEMC" alt="" coords="224,1619,463,1647"/>
+<area shape="rect" id="node29" href="$dd/d0c/classCaloAna.html#ab047ea74aa1200f386b098cd0b9e7e97" title="CaloAna::process_clusters" alt="" coords="245,919,442,947"/>
+<area shape="rect" id="node30" href="$d6/de8/classRawClusterZVertexRecorrect.html#a77e9e8d2d15261e75a58fd287405fabf" title="RawClusterZVertexRecorrect\l::process_event" alt="" coords="236,971,451,1015"/>
+<area shape="rect" id="node31" href="$d4/d1b/classRawClusterDeadHotMask.html#ace3afa9b2a1ebe6da25a7a04881ace26" title="RawClusterDeadHotMask\l::process_event" alt="" coords="247,1039,439,1083"/>
+<area shape="rect" id="node32" href="$df/d75/classRawClusterPositionCorrection.html#a5769946f9c4ef0e0ed307a1a18f40ab9" title="RawClusterPositionCorrection\l::process_event" alt="" coords="234,1107,453,1151"/>
+<area shape="rect" id="node33" href="$d4/dac/classRawClusterBuilderTopo.html#a5e709121db9ca94b434f585619fbefbc" title="RawClusterBuilderTopo\l::process_event" alt="" coords="255,1175,431,1219"/>
+<area shape="rect" id="node34" href="$de/dcb/classClusterIso.html#aff723b32a96c2118ecd896ffed9f2752" title="ClusterIso::process\l_event" alt="" coords="269,1243,418,1287"/>
+<area shape="rect" id="node35" href="$d6/df9/classParticleFlowReco.html#adfcb5176268e728739c041eec599f967" title="ParticleFlowReco::process\l_event" alt="" coords="246,1311,441,1355"/>
+<area shape="rect" id="node36" href="$dc/d53/classPhotons.html#abd8397d6fc7d55f20d97de36b431f81d" title="Photons::process_event" alt="" coords="252,1379,435,1407"/>
+<area shape="rect" id="node37" href="$d4/d9c/classPi0MassAnalysis.html#a34abce38156720c996faf7cf24307dd7" title="Pi0MassAnalysis::process\l_event" alt="" coords="247,1431,439,1475"/>
+<area shape="rect" id="node38" href="$df/df5/classCaloCalibEmc__Pi0.html#ac1bc861ad87dd3ae5e8d47eed335506c" title="CaloCalibEmc_Pi0::process\l_event" alt="" coords="242,1499,445,1543"/>
+<area shape="rect" id="node39" href="$d8/d63/classsPHAnalysis.html#aa2357ad7787fe1338406e2238d445a4a" title="sPHAnalysis::process\l_event_notracking" alt="" coords="553,1504,717,1548"/>
+<area shape="rect" id="node40" href="$dc/d00/classPairMaker.html#ac4dbcbf8460f299fb192dc174790235b" title="PairMaker::process\l_event_test" alt="" coords="269,1671,417,1715"/>
+<area shape="rect" id="node42" href="$db/dda/classsPHAnalysis__calo.html#af0e2cf403973f028d90ac58eb3c225cd" title="sPHAnalysis_calo::process\l_event_test" alt="" coords="244,1807,443,1851"/>
+<area shape="rect" id="node44" href="$d9/d80/classDumpRawClusterContainer.html#ac16bcd1120844520488464275cfedc8f" title="DumpRawClusterContainer\l::process_Node" alt="" coords="241,1739,445,1783"/>
+<area shape="rect" id="node45" href="$dd/d0c/classCaloAna.html#a752c8d2c7e8a687d17c144ece869799f" title="CaloAna::process_towers" alt="" coords="248,1875,439,1903"/>
+<area shape="rect" id="node47" href="$d7/d11/classCaloValid.html#ab245377036dcca4c620a0ef89844a075" title="CaloValid::process\l_towers" alt="" coords="271,1995,416,2039"/>
+<area shape="rect" id="node49" href="$de/ddc/classpi0EtaByEta.html#a8212cbbb3653023694a930073e37bcf5" title="pi0EtaByEta::process\l_towers" alt="" coords="261,1927,426,1971"/>
+<area shape="rect" id="node50" href="$d7/dce/classTreeMaker.html#a2c49f243e483b821cc5a6fa86a6acbea" title="TreeMaker::UseFastJet" alt="" coords="258,487,429,515"/>
+<area shape="rect" id="node3" href="$da/d21/classResonanceJetTagging.html#afde93cbfe1668ceb04be42a6273cb588" title="ResonanceJetTagging\l::findTaggedJets" alt="" coords="553,5,717,49"/>
+<area shape="rect" id="node5" href="$d2/d81/classpythiaEMCalAna.html#a945e571a7336ceb309b7e07a811b980f" title="pythiaEMCalAna::addPrimary\lFromGeant" alt="" coords="526,261,745,305"/>
+<area shape="rect" id="node6" href="$da/d7e/classCaloRawClusterEval.html#af15ece01456a660bd38b305c50ab9699" title="what clusters did this primary truth particle contribute energy to?" alt="" coords="558,141,713,185"/>
+<area shape="rect" id="node7" href="$da/d7e/classCaloRawClusterEval.html#aadd6df22b452d89c41139c157fe9d14e" title="which cluster did this primary truth shower contribute the most energy to?" alt="" coords="558,329,713,373"/>
+<area shape="rect" id="node9" href="$dd/d59/classCaloEvaluator.html#ab7e09466d57c5b93274f09f61c0f321e" title="print out the ancestry information for detailed diagnosis" alt="" coords="521,209,749,237"/>
+<area shape="rect" id="node8" href="$d7/ded/classSTACalorimeterCharacterization.html#aebaae010ab7828d310691192de7d16fe" title="STACalorimeterCharacterization\l::process_event" alt="" coords="801,201,1037,245"/>
+<area shape="rect" id="node11" href="$dd/dfc/classcemcReco.html#aed0e3901be11851c1c1d00c51d4a2162" title="cemcReco::process_event" alt="" coords="537,397,734,425"/>
+<area shape="rect" id="node13" href="$dc/d65/classPhotonJet.html#a3f9d3ec941f851bc2246ceb0c5362c9f" title="PhotonJet::process\l_event" alt="" coords="562,449,709,493"/>
+<area shape="rect" id="node15" href="$d7/dce/classTreeMaker.html#a89a6f3a23de784d5f8d86ae91956aa69" title="TreeMaker::process\l_event" alt="" coords="559,531,711,575"/>
+<area shape="rect" id="node20" href="$d0/da9/classAnaTutorial.html#a3b64c061aaffaf4a42631434fb7eb6f9" title="SubsysReco event processing method." alt="" coords="555,635,715,679"/>
+<area shape="rect" id="node26" href="$d8/d63/classsPHAnalysis.html#a81aead58781c2738c00c56943a2bd868" title="sPHAnalysis::process\l_event_test" alt="" coords="553,1640,717,1684"/>
+<area shape="rect" id="node28" href="$d8/d63/classsPHAnalysis.html#a3c9cac43829128417e0251f48e9a8071" title="sPHAnalysis::process\l_event_upsilons" alt="" coords="553,1572,717,1616"/>
+<area shape="rect" id="node27" href="$d8/d63/classsPHAnalysis.html#a88b281f25b7fff2ca7980b03707615bd" title="sPHAnalysis::process\l_event" alt="" coords="837,1572,1001,1616"/>
+<area shape="rect" id="node41" href="$dc/d00/classPairMaker.html#a733df0bfd06f87ad288582ca0132ca0b" title="PairMaker::process\l_event" alt="" coords="561,1708,709,1752"/>
+<area shape="rect" id="node43" href="$db/dda/classsPHAnalysis__calo.html#a8b61ad1a8218073ced598553b0b75bd0" title="sPHAnalysis_calo::process\l_event" alt="" coords="536,1807,735,1851"/>
+<area shape="rect" id="node46" href="$dd/d0c/classCaloAna.html#afe94c360c527e97289601b2ddd4fc131" title="event processing method" alt="" coords="543,1875,727,1903"/>
+<area shape="rect" id="node48" href="$d7/d11/classCaloValid.html#a2b047c31c96c2fd3b8aefdaf4f545144" title="event processing method" alt="" coords="563,1995,708,2039"/>
+</map>

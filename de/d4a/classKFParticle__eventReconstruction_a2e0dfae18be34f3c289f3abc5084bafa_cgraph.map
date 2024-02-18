@@ -1,0 +1,51 @@
+<map id="KFParticle_eventReconstruction::buildBasicChain" name="KFParticle_eventReconstruction::buildBasicChain">
+<area shape="rect" id="node2" href="$da/d3b/classKFParticle__Tools.html#a4eb8bd3f774fea254b696fa603c16957" title="KFParticle_Tools::findNProngs" alt="" coords="294,117,513,145"/>
+<area shape="rect" id="node10" href="$da/d3b/classKFParticle__Tools.html#afec44ed4c7f78b1f999db8ab48d8ac80" title="KFParticle_Tools::findTwo\lProngs" alt="" coords="309,49,497,93"/>
+<area shape="rect" id="node11" href="$de/d4a/classKFParticle__eventReconstruction.html#a1d341659bff23f9484990a58bd411a87" title="Basic building block for event reconstruction and selection." alt="" coords="287,549,520,593"/>
+<area shape="rect" id="node3" href="$d9/d03/KFParticleBaseSIMD_8h.html#a464dcc9546e624e3b35c029cb24f7b11" title="GetDistanceFromParticle" alt="" coords="597,5,783,33"/>
+<area shape="rect" id="node4" href="$d0/d49/classKFParticle.html#aec37908b80d63697d8acb3fad708e9e1" title="Returns Chi2 of the fit." alt="" coords="615,177,765,205"/>
+<area shape="rect" id="node6" href="$d0/d49/classKFParticle.html#a55e2d5613c9ceef0c0b464c5e1745e91" title="Returns number of decrease of freedom." alt="" coords="616,57,764,85"/>
+<area shape="rect" id="node8" href="$d2/da5/namespaceActs_1_1Experimental_1_1detail_1_1BlueprintHelper.html#a308a6456db2655fc6a1a916696da20c8" title="Sort the nodes in the blueprint container node." alt="" coords="581,109,799,153"/>
+<area shape="rect" id="node9" href="$da/d3b/classKFParticle__Tools.html#aac1689956ec6be1bc333e4a64d23705a" title="KFParticle_Tools::remove\lDuplicates" alt="" coords="875,256,1063,300"/>
+<area shape="rect" id="node5" href="$d5/d41/classKFParticleBase.html#aef4f146c36bffafe0ac1fa9a5d48ada2" title="Returns Chi2 of the fit." alt="" coords="877,177,1061,205"/>
+<area shape="rect" id="node7" href="$d5/d41/classKFParticleBase.html#a128dbedb73783a25e76a9115ec0af9ac" title="Returns number of decrease of freedom." alt="" coords="879,57,1060,85"/>
+<area shape="rect" id="node12" href="$da/d3b/classKFParticle__Tools.html#a73406998f3641d46065ed872b8386c8f" title="KFParticle_Tools::findUnique\lDaughterCombinations" alt="" coords="585,281,795,325"/>
+<area shape="rect" id="node13" href="$da/d3b/classKFParticle__Tools.html#aeebf560c18d0bdad8964af509339c1fa" title="KFParticle_Tools::getParticleMass" alt="" coords="1127,568,1369,596"/>
+<area shape="rect" id="node14" href="$da/d3b/classKFParticle__Tools.html#a09a3c0e79ac04a40d0800f4211ebe20c" title="KFParticle_Tools::getCombination" alt="" coords="568,971,812,999"/>
+<area shape="rect" id="node18" href="$d0/d49/classKFParticle.html#a688e43bc457ac9cc866e7e4a86c64bed" title="KFParticle::Create" alt="" coords="1177,1568,1319,1596"/>
+<area shape="rect" id="node20" href="$d9/d03/KFParticleBaseSIMD_8h.html#aa93cb8b309785f112754e60b99b1df50" title="Returns the sum of masses of the daughters." alt="" coords="1220,1412,1276,1440"/>
+<area shape="rect" id="node23" href="$d5/d41/classKFParticleBase.html#a3acaec6e2b8d7b0e55b37233fd091555" title="Sets the PDG hypothesis." alt="" coords="1158,1464,1338,1492"/>
+<area shape="rect" id="node24" href="$da/d3b/classKFParticle__Tools.html#aa9551880aa61bd5650eb3c65b5b62908" title="KFParticle_Tools::getParticleID" alt="" coords="1137,1516,1359,1544"/>
+<area shape="rect" id="node41" href="$da/d3b/classKFParticle__Tools.html#aea93e3dc22ea5963ff975dce6c3df6d7" title="KFParticle_Tools::isInRange" alt="" coords="1147,516,1349,544"/>
+<area shape="rect" id="node42" href="$da/d3b/classKFParticle__Tools.html#a9e025db542400a672af1edbf57d79145" title="KFParticle_Tools::calcMinIP" alt="" coords="869,456,1069,484"/>
+<area shape="rect" id="node44" href="$d0/d49/classKFParticle.html#ad82b13a8214920f2a15c1334e41c4776" title="Returns number of decrease of freedom." alt="" coords="628,349,752,377"/>
+<area shape="rect" id="node45" href="$d0/d49/classKFParticle.html#a9005df3f6603347793ad12192892fa5a" title="Returns Chi2 of the fit." alt="" coords="627,401,753,429"/>
+<area shape="rect" id="node46" href="$d5/d41/classKFParticleBase.html#ad223c0ea998d4c27a768291b6288c0c2" title="Sets the Id of the particle. After the construction of a particle should be set by user..." alt="" coords="608,453,772,481"/>
+<area shape="rect" id="node47" href="$d9/d03/KFParticleBaseSIMD_8h.html#a3b4b3e7ee8d4ab4c301ce24d57e75cfc" title="Returns Id of the particle." alt="" coords="671,505,709,533"/>
+<area shape="rect" id="node48" href="$de/d4a/classKFParticle__eventReconstruction.html#ac598375500f32166f5ef049a1383d3bf" title="Method to chose best candidate from a selection of common SV&#39;s." alt="" coords="573,609,807,653"/>
+<area shape="rect" id="node15" href="$da/d3b/classKFParticle__Tools.html#a1238205f963879e86873dad342a3d133" title="KFParticle_Tools::buildMother" alt="" coords="860,1152,1079,1180"/>
+<area shape="rect" id="node36" href="$d2/db7/namespacestd_1_1tr1.html#af7e12a0f5b5791b5b7c49a5a17b85359" title="std::tr1::make_tuple" alt="" coords="1169,1360,1327,1388"/>
+<area shape="rect" id="node37" href="$da/d3b/classKFParticle__Tools.html#a4a964d33b71c29fce61160134247f4a8" title="KFParticle_Tools::constrain\lToVertex" alt="" coords="870,780,1069,824"/>
+<area shape="rect" id="node16" href="$d5/d41/classKFParticleBase.html#a98469b9eda5343b342cfb8b2287d77bf" title="Defines the construction method for the current particle (see description of fConstructMethod)." alt="" coords="1139,1032,1357,1076"/>
+<area shape="rect" id="node17" href="$d0/d49/classKFParticle.html#a373770508aea8198a204ae52071c3269" title="Returns mass." alt="" coords="1171,1100,1325,1128"/>
+<area shape="rect" id="node21" href="$d0/d49/classKFParticle.html#a07fc58ec0483c40d870ff1162d9e6a1d" title="KFParticle::AddDaughter" alt="" coords="1155,1152,1341,1180"/>
+<area shape="rect" id="node22" href="$d0/d49/classKFParticle.html#ac0d6697dcf49242c3219c7dd90d51458" title="Returns charge of the particle." alt="" coords="1183,1204,1313,1232"/>
+<area shape="rect" id="node25" href="$d5/d41/classKFParticleBase.html#a0ed85901f073ae1c6011ed7f216644d7" title="KFParticleBase::SetProduction\lVertex" alt="" coords="1137,724,1359,768"/>
+<area shape="rect" id="node31" href="$d9/d03/KFParticleBaseSIMD_8h.html#a1dcd8f97b16bd3cec6d91745d7e5fcdf" title="GetMass" alt="" coords="1208,1256,1288,1284"/>
+<area shape="rect" id="node32" href="$d0/d49/classKFParticle.html#af84e1b54f8c1c707d5f99b9865843193" title="Returns transverse momentum." alt="" coords="1181,1308,1315,1336"/>
+<area shape="rect" id="node33" href="$da/d3b/classKFParticle__Tools.html#a0985decca887338676f931eaa4b85084" title="KFParticle_Tools::calculate\lEllipsoidVolume" alt="" coords="1149,964,1347,1008"/>
+<area shape="rect" id="node34" href="$da/d3b/classKFParticle__Tools.html#a41c1e3826fc06f26d8b992b825ccab35" title="Calculates the cosine of the angle betweent the flight direction and momentum." alt="" coords="1144,844,1352,872"/>
+<area shape="rect" id="node35" href="$da/d3b/classKFParticle__Tools.html#a7c0f2d3f0b7d74caf0be529085019888" title="KFParticle_Tools::flight\lDistanceChi2" alt="" coords="1162,896,1334,940"/>
+<area shape="rect" id="node19" href="$d5/d41/classKFParticleBase.html#a2957ab78bcb45b327959f331125e7e4a" title="KFParticleBase::Initialize" alt="" coords="1445,1568,1632,1596"/>
+<area shape="rect" id="node26" href="$d5/d41/classKFParticleBase.html#af6de8b429c89b13c29f7f8d9f6aa24c7" title="KFParticleBase::Transport\lToDecayVertex" alt="" coords="1442,784,1635,828"/>
+<area shape="rect" id="node27" href="$d5/d41/classKFParticleBase.html#ae4235191e7d6baaa1054507e3cb92dc9" title="KFParticleBase::GetDStoPoint" alt="" coords="1429,431,1649,459"/>
+<area shape="rect" id="node28" href="$d5/d41/classKFParticleBase.html#a4c022cf8371927f3bfdca7f7901db99a" title="KFParticleBase::Transport" alt="" coords="1442,483,1635,511"/>
+<area shape="rect" id="node29" href="$d5/d41/classKFParticleBase.html#ad059627ac0eb3810051cea5fbfdedc77" title="KFParticleBase::IJ" alt="" coords="1470,595,1607,623"/>
+<area shape="rect" id="node30" href="$d5/d41/classKFParticleBase.html#aa0ed9e611a76fd44e0eaac9d6f504929" title="KFParticleBase::InvertCholetsky3" alt="" coords="1417,703,1660,731"/>
+<area shape="rect" id="node38" href="$d0/d49/classKFParticle.html#adaa76bf36576d161af9f1d31a54d4642" title="Returns life time ctau [cm]." alt="" coords="1159,672,1337,700"/>
+<area shape="rect" id="node39" href="$d0/d49/classKFParticle.html#a34e5c0327a0c751be4b3e5d94f3e7397" title="Returns decay length." alt="" coords="1143,620,1353,648"/>
+<area shape="rect" id="node40" href="$d5/d41/classKFParticleBase.html#a25a4606c3f2ec3fd8aa430b56997377f" title="KFParticleBase::GetDeviation\lFromVertex" alt="" coords="1139,448,1357,492"/>
+<area shape="rect" id="node43" href="$d5/d41/classKFParticleBase.html#a0b0b6dadfff81ec0859e8bb5a70855de" title="KFParticleBase::GetDistance\lFromVertex" alt="" coords="1142,380,1354,424"/>
+<area shape="rect" id="node49" href="$d9/d03/KFParticleBaseSIMD_8h.html#a120585c659f8e9f8cfb03a418120e988" title="GetDeviationFromVertex" alt="" coords="876,569,1063,597"/>
+<area shape="rect" id="node50" href="$d0/d49/classKFParticle.html#a719c0871275fe63f83645fa4baff3720" title="Returns the error of mass." alt="" coords="883,517,1056,545"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="ActsFatras::Channelizer::segments" name="ActsFatras::Channelizer::segments">
+<area shape="rect" id="node2" href="$d5/dcc/classActs_1_1BinUtility.html#a61fc44350025f7e8f5187de6654187aa" title="Acts::BinUtility::bin" alt="" coords="285,5,436,33"/>
+<area shape="rect" id="node3" href="$d5/dcc/classActs_1_1BinUtility.html#a32c9c639c2752e8620a9fa6c11e3d51b" title="Return the binning data vector." alt="" coords="255,57,467,85"/>
+<area shape="rect" id="node4" href="$d3/d07/classActs_1_1GeometryObject.html#ad4015bfd90474f441bea8d596c98c6a6" title="Acts::GeometryObject\l::binningPositionValue" alt="" coords="275,109,447,153"/>
+<area shape="rect" id="node9" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="1039,84,1193,128"/>
+<area shape="rect" id="node10" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a397d5e8143b34171258deef4f9cca9ad" title="Acts::VectorHelpers::phi" alt="" coords="769,229,953,257"/>
+<area shape="rect" id="node12" href="$d5/dcc/classActs_1_1BinUtility.html#a62f8782c5f0d57957dd9192f9e86791a" title="Acts::BinUtility::dimensions" alt="" coords="257,280,464,308"/>
+<area shape="rect" id="node13" href="$d1/d1d/structActs_1_1detail_1_1IntersectionHelper2D.html#ac50c41d9b7337ca0b76ad4119b03c5e7" title="Acts::detail::Intersection\lHelper2D::intersectCircleSegment" alt="" coords="235,332,487,376"/>
+<area shape="rect" id="node15" href="$d1/d1d/structActs_1_1detail_1_1IntersectionHelper2D.html#ae7c55e6b0acb36494098d2aa5d2d81e9" title="Acts::detail::Intersection\lHelper2D::intersectSegment" alt="" coords="253,400,468,444"/>
+<area shape="rect" id="node16" href="$dd/d7e/namespaceActs_1_1Test.html#a25144f827aaec56765c0d318216c94a5" title="Acts::Test::origin" alt="" coords="294,468,427,496"/>
+<area shape="rect" id="node17" href="$d1/d7e/pmonitor_8cc.html#a7d00edef8d4a1e9c715afb4e1cfe614b" title="pstart" alt="" coords="330,520,391,548"/>
+<area shape="rect" id="node35" href="$d2/da5/namespaceActs_1_1Experimental_1_1detail_1_1BlueprintHelper.html#a308a6456db2655fc6a1a916696da20c8" title="Sort the nodes in the blueprint container node." alt="" coords="251,572,470,616"/>
+<area shape="rect" id="node36" href="$de/d7d/classActs_1_1Surface.html#a0bc615a9e492d2b1771368b7bf297921" title="Return method for the Surface type to avoid dynamic casts." alt="" coords="285,640,436,668"/>
+<area shape="rect" id="node5" href="$d3/d07/classActs_1_1GeometryObject.html#a3443992c5cf4dfb0c3584a986abb93be" title="Acts::GeometryObject\l::binningPosition" alt="" coords="535,41,707,85"/>
+<area shape="rect" id="node6" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a1fb640755e4c0146d289cd5b3f4d33db" title="Acts::VectorHelpers\l::cast" alt="" coords="543,109,698,153"/>
+<area shape="rect" id="node7" href="$df/da1/namespaceActs_1_1VectorHelpers.html#afc1703c2fa7adfd6517e5e16df2e5df4" title="Acts::VectorHelpers::eta" alt="" coords="768,5,953,33"/>
+<area shape="rect" id="node11" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a1c1a90bc524259263f553410691dd9ad" title="Acts::VectorHelpers\l::theta" alt="" coords="783,109,938,153"/>
+<area shape="rect" id="node8" href="$df/d93/namespaceautodiff_1_1detail.html#a1002a374a47c67229dd43c66f7ffc449" title="autodiff::detail::copysign" alt="" coords="1021,5,1211,33"/>
+<area shape="rect" id="node14" href="$db/d79/classActs_1_1Intersection.html#af83838be2ca51bbe930329f8c757671a" title="Acts::Intersection\l::invalid" alt="" coords="551,340,691,384"/>
+<area shape="rect" id="node18" href="$d4/d7c/classpmonstate.html#a3791b212209c9e53bac1897545832d74" title="pmonstate::isRunning" alt="" coords="1031,649,1201,677"/>
+<area shape="rect" id="node19" href="$d9/d9e/evDisplay_8C.html#ac7bcb6cd8ca3e800a39f7f0063d61044" title="nevents" alt="" coords="823,493,899,521"/>
+<area shape="rect" id="node20" href="$d1/d7e/pmonitor_8cc.html#ae73df4d6b3d5f6ed0dcae190b14c7b6c" title="pprocess" alt="" coords="579,780,662,808"/>
+<area shape="rect" id="node30" href="$d4/d7c/classpmonstate.html#a7f17a25e64ad9ae8a55d8a959772bb2f" title="pmonstate::streamOpened" alt="" coords="1015,1065,1217,1093"/>
+<area shape="rect" id="node21" href="$d4/d7c/classpmonstate.html#a234875534c433df888588be2e5d8fc6a" title="pmonstate::clearNoevt" alt="" coords="772,545,949,573"/>
+<area shape="rect" id="node22" href="$d4/d7c/classpmonstate.html#a94cc4c67d36f3f2f3210539ad040e642" title="pmonstate::clearRunning" alt="" coords="765,597,957,625"/>
+<area shape="rect" id="node23" href="$d0/d1f/classEventiterator.html#a9e3aa5e4eb7efd3e4ef37dc854696d28" title="Eventiterator::getNextEvent" alt="" coords="755,649,966,677"/>
+<area shape="rect" id="node24" href="$d5/da5/classEvent.html#afbeea416336f3790420059c3514b9c00" title="Event::identify" alt="" coords="801,701,921,729"/>
+<area shape="rect" id="node25" href="$d4/d7c/classpmonstate.html#ab95574d78bb4f95ef06cf58adb15e942" title="pmonstate::incrementNoevt" alt="" coords="755,753,967,781"/>
+<area shape="rect" id="node26" href="$d4/d7c/classpmonstate.html#abd7734c19d9583b424225b1c0e67b7c2" title="pmonstate::isIdentifyFlag" alt="" coords="764,805,957,833"/>
+<area shape="rect" id="node27" href="$d0/d38/classpMutex.html#aaef546c9392f1519306a20b1a791d0aa" title="pMutex::Lock" alt="" coords="805,857,917,885"/>
+<area shape="rect" id="node28" href="$d1/d7e/pmonitor_8cc.html#a01a6dd34fa639fc5ad5a05b22407a658" title="pclose" alt="" coords="828,909,893,937"/>
+<area shape="rect" id="node31" href="$dd/d4f/MyFavoriteMartin_8C.html#acd41a3d48b24a06a1d0f2dc6dbece5d3" title="process_event" alt="" coords="801,961,920,989"/>
+<area shape="rect" id="node32" href="$d0/d38/classpMutex.html#ad55145b83cae1f37a451ac96e13853b4" title="pMutex::Release" alt="" coords="794,1013,927,1041"/>
+<area shape="rect" id="node33" href="$d4/d7c/classpmonstate.html#a8b71f73eb287dca0b810c380b3244a3c" title="pmonstate::setloopStatus" alt="" coords="763,1065,959,1093"/>
+<area shape="rect" id="node34" href="$d4/d7c/classpmonstate.html#a969a1f0957d53fbfa3289c1d83a7b996" title="pmonstate::setRunning" alt="" coords="771,1117,950,1145"/>
+<area shape="rect" id="node29" href="$d4/d7c/classpmonstate.html#a0baa8f42ef4c5b3aac3f83615befbc95" title="pmonstate::clearOpened" alt="" coords="1021,909,1211,937"/>
+</map>

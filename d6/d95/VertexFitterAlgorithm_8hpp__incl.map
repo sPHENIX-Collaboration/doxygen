@@ -1,0 +1,37 @@
+<map id="acts/blob/sPHENIX/Examples/Algorithms/Vertexing/include/ActsExamples/Vertexing/VertexFitterAlgorithm.hpp" name="acts/blob/sPHENIX/Examples/Algorithms/Vertexing/include/ActsExamples/Vertexing/VertexFitterAlgorithm.hpp">
+<area shape="rect" id="node2" href="$da/dd2/Algebra_8hpp.html" title="Acts/Definitions/Algebra.hpp" alt="" coords="3374,741,3590,769"/>
+<area shape="rect" id="node5" href="$d3/d33/Direction_8hpp.html" title="Acts/Definitions/Direction.hpp" alt="" coords="2521,489,2745,517"/>
+<area shape="rect" id="node10" href="$df/d6f/Units_8hpp.html" title="Acts/Definitions/Units.hpp" alt="" coords="1789,581,1986,609"/>
+<area shape="rect" id="node11" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="1297,397,1571,425"/>
+<area shape="rect" id="node18" href="$d5/d67/GeometryIdentifier_8hpp.html" title="Acts/Geometry/GeometryIdentifier.hpp" alt="" coords="409,489,693,517"/>
+<area shape="rect" id="node22" href="$db/d3f/MagneticFieldProvider_8hpp.html" title="Acts/MagneticField\l/MagneticFieldProvider.hpp" alt="" coords="3251,389,3455,433"/>
+<area shape="rect" id="node27" href="$dd/d18/EigenStepper_8hpp.html" title="Acts/Propagator/EigenStepper.hpp" alt="" coords="2685,313,2940,341"/>
+<area shape="rect" id="node37" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="870,489,1057,517"/>
+<area shape="rect" id="node38" href="$d5/d20/Propagator_8hpp.html" title="Acts/Propagator/Propagator.hpp" alt="" coords="1594,397,1831,425"/>
+<area shape="rect" id="node39" href="$d0/d70/FullBilloirVertexFitter_8hpp.html" title="Acts/Vertexing/FullBilloir\lVertexFitter.hpp" alt="" coords="2914,129,3101,173"/>
+<area shape="rect" id="node40" href="$d4/d08/HelicalTrackLinearizer_8hpp.html" title="Acts/Vertexing/HelicalTrack\lLinearizer.hpp" alt="" coords="2904,221,3111,265"/>
+<area shape="rect" id="node41" href="$d6/db0/Vertex_8hpp.html" title="Acts/Vertexing/Vertex.hpp" alt="" coords="3641,313,3838,341"/>
+<area shape="rect" id="node42" href="$d9/d06/Core_2include_2Acts_2Vertexing_2VertexingOptions_8hpp.html" title="Acts/Vertexing/Vertexing\lOptions.hpp" alt="" coords="3301,221,3489,265"/>
+<area shape="rect" id="node43" href="$da/dfb/ProtoVertex_8hpp.html" title="ActsExamples/EventData\l/ProtoVertex.hpp" alt="" coords="4034,221,4226,265"/>
+<area shape="rect" id="node45" href="$d3/da4/Track_8hpp.html" title="ActsExamples/EventData\l/Track.hpp" alt="" coords="3666,221,3858,265"/>
+<area shape="rect" id="node46" href="$d2/d4c/Trajectories_8hpp.html" title="ActsExamples/EventData\l/Trajectories.hpp" alt="" coords="3717,129,3909,173"/>
+<area shape="rect" id="node47" href="$d3/d38/DataHandle_8hpp.html" title="ActsExamples/Framework\l/DataHandle.hpp" alt="" coords="4035,129,4231,173"/>
+<area shape="rect" id="node48" href="$d3/d98/IAlgorithm_8hpp.html" title="ActsExamples/Framework\l/IAlgorithm.hpp" alt="" coords="759,389,955,433"/>
+<area shape="rect" id="node49" href="$d1/d06/ProcessCode_8hpp.html" title="ActsExamples/Framework\l/ProcessCode.hpp" alt="" coords="137,481,333,525"/>
+<area shape="rect" id="node12" href="$de/d46/GenericBoundTrackParameters_8hpp.html" title="Acts/EventData/GenericBound\lTrackParameters.hpp" alt="" coords="1406,573,1633,617"/>
+<area shape="rect" id="node15" href="$db/d68/GenericCurvilinearTrackParameters_8hpp.html" title="Acts/EventData/GenericCurvilinear\lTrackParameters.hpp" alt="" coords="1391,481,1648,525"/>
+<area shape="rect" id="node16" href="$d1/d03/GenericFreeTrackParameters_8hpp.html" title="Acts/EventData/GenericFree\lTrackParameters.hpp" alt="" coords="2184,573,2396,617"/>
+<area shape="rect" id="node17" href="$d0/db1/ParticleHypothesis_8hpp.html" title="Acts/EventData/ParticleHypothesis.hpp" alt="" coords="1673,489,1958,517"/>
+<area shape="rect" id="node13" href="$d7/d39/Tolerance_8hpp.html" title="Acts/Definitions/Tolerance.hpp" alt="" coords="2331,665,2559,693"/>
+<area shape="rect" id="node23" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="3611,481,3814,525"/>
+<area shape="rect" id="node24" href="$d6/d93/SmallObjectCache_8hpp.html" title="Acts/MagneticField\l/detail/SmallObjectCache.hpp" alt="" coords="2819,481,3043,525"/>
+<area shape="rect" id="node26" href="$d3/db2/Result_8hpp.html" title="Acts/Utilities/Result.hpp" alt="" coords="1132,489,1315,517"/>
+<area shape="rect" id="node28" href="$d0/d75/ReferenceWrapperAnyCompat_8hpp.html" title="Acts/Utilities/detail\l/ReferenceWrapperAnyCompat.hpp" alt="" coords="2134,481,2395,525"/>
+<area shape="rect" id="node29" href="$dc/d18/ConstrainedStep_8hpp.html" title="Acts/Propagator/Constrained\lStep.hpp" alt="" coords="3271,481,3485,525"/>
+<area shape="rect" id="node31" href="$d3/df3/DefaultExtension_8hpp.html" title="Acts/Propagator/DefaultExtension.hpp" alt="" coords="1906,397,2186,425"/>
+<area shape="rect" id="node32" href="$d6/d44/DenseEnvironmentExtension_8hpp.html" title="Acts/Propagator/DenseEnvironment\lExtension.hpp" alt="" coords="2210,389,2474,433"/>
+<area shape="rect" id="node33" href="$da/d5a/EigenStepperError_8hpp.html" title="Acts/Propagator/EigenStepper\lError.hpp" alt="" coords="2549,389,2775,433"/>
+<area shape="rect" id="node34" href="$dc/d81/StepperExtensionList_8hpp.html" title="Acts/Propagator/StepperExtension\lList.hpp" alt="" coords="3530,389,3783,433"/>
+<area shape="rect" id="node35" href="$d7/d69/Auctioneer_8hpp.html" title="Acts/Propagator/detail\l/Auctioneer.hpp" alt="" coords="3889,481,4061,525"/>
+<area shape="rect" id="node36" href="$de/dba/SteppingHelper_8hpp.html" title="Acts/Propagator/detail\l/SteppingHelper.hpp" alt="" coords="2901,389,3073,433"/>
+</map>

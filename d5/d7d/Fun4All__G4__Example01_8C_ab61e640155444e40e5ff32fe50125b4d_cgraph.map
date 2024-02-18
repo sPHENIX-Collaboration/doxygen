@@ -1,0 +1,51 @@
+<map id="Fun4All_G4_Example01" name="Fun4All_G4_Example01">
+<area shape="rect" id="node2" href="$d4/db8/classG4HitNtuple.html#aaf8d0c11dde959be946781fae629f1ed" title="G4HitNtuple::AddNode" alt="" coords="259,5,434,33"/>
+<area shape="rect" id="node3" href="$da/d29/classFun4AllServer.html#ab7263450319ca1d5029209fde26a7af8" title="Fun4AllServer::End" alt="" coords="551,435,701,463"/>
+<area shape="rect" id="node4" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="836,228,999,256"/>
+<area shape="rect" id="node18" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="1107,241,1289,269"/>
+<area shape="rect" id="node21" href="$d5/dc7/classG4Example01Subsystem.html#ad15bba568f5414a6db3b89e2545d5813" title="Print info (from SubsysReco)" alt="" coords="251,109,442,153"/>
+<area shape="rect" id="node23" href="$da/d29/classFun4AllServer.html#ab2cb490790d15b865ae79eb3094caabe" title="Fun4AllServer::registerInput\lManager" alt="" coords="520,41,732,85"/>
+<area shape="rect" id="node26" href="$da/d29/classFun4AllServer.html#a0a9947db0ede1e55622001eb7515f8c0" title="Fun4AllServer::registerSubsystem" alt="" coords="792,760,1043,788"/>
+<area shape="rect" id="node33" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="233,589,460,617"/>
+<area shape="rect" id="node34" href="$da/d29/classFun4AllServer.html#a11bbc8b2f53bc06e0b05ee202dd6372a" title="run n events (0 means up to end of file)" alt="" coords="273,537,420,565"/>
+<area shape="rect" id="node44" href="$d0/d78/classPHG4Reco.html#a4b5ed2f9900c83c39c5965f2abb9fa22" title="Save geometry from Geant4 to DST." alt="" coords="263,763,430,807"/>
+<area shape="rect" id="node45" href="$d0/d78/classPHG4Reco.html#af7a3ea8186b3f700913d0f0ab4a64535" title="set default magnetic field strength with a constant magnetic field. Only valid if set_field_map() is ..." alt="" coords="269,831,425,859"/>
+<area shape="rect" id="node46" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a312dbba9bbdc9e2db66f0c11295d6e04" title="PHG4ParticleGeneratorBase\l::set_mom" alt="" coords="242,895,451,939"/>
+<area shape="rect" id="node48" href="$d8/d78/classPHG4ParticleGeneratorBase.html#ad3bece97c2350072c683575ab5bdb53c" title="PHG4ParticleGeneratorBase\l::set_name" alt="" coords="242,967,451,1011"/>
+<area shape="rect" id="node50" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a45b6073aec5d527acfbb8ecc7db95033" title="PHG4ParticleGeneratorBase\l::set_vtx" alt="" coords="242,1035,451,1079"/>
+<area shape="rect" id="node6" href="$da/d29/classFun4AllServer.html#a53b1b6b338aa36891f2690a188920980" title="Fun4AllServer::EndRun" alt="" coords="829,487,1005,515"/>
+<area shape="rect" id="node7" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="1375,656,1551,684"/>
+<area shape="rect" id="node8" href="$d1/da8/classPHFlag.html#a07899067141a5f12333cc37183caddc8" title="PHFlag::get_IntFlag" alt="" coords="841,435,993,463"/>
+<area shape="rect" id="node11" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="823,1112,1011,1140"/>
+<area shape="rect" id="node14" href="$da/d29/classFun4AllServer.html#a92c6fe0e0c19c48d2b1f9d0f63c12bbe" title="Fun4AllServer::MakeNodes\lTransient" alt="" coords="816,539,1019,583"/>
+<area shape="rect" id="node16" href="$da/d29/classFun4AllServer.html#a6f2074f451d0c0c1b4a802edde5ffb94" title="Fun4AllServer::outfileclose" alt="" coords="1097,293,1299,321"/>
+<area shape="rect" id="node5" href="$d8/d14/classrecoConsts.html#ae882d6adc62f783ec78114fe3dee3c24" title="recoConsts::recoConsts" alt="" coords="1108,189,1288,217"/>
+<area shape="rect" id="node9" href="$d1/da8/classPHFlag.html#a5be3faf4dda955a43deee72b2f8b8bde" title="PHFlag::PrintStackTrace" alt="" coords="1108,397,1288,425"/>
+<area shape="rect" id="node10" href="$d1/da8/classPHFlag.html#a7c2615c6c6570b73c005f98d2d7adee2" title="PHFlag::Print" alt="" coords="1144,449,1252,477"/>
+<area shape="rect" id="node12" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="1394,1257,1531,1285"/>
+<area shape="rect" id="node13" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="1390,1179,1535,1207"/>
+<area shape="rect" id="node15" href="$d5/d07/classPHNodeIterator.html#a110a5b87a02a22deecae334f32387ffa" title="PHNodeIterator::ls" alt="" coords="1126,553,1270,581"/>
+<area shape="rect" id="node17" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="1831,268,1984,296"/>
+<area shape="rect" id="node19" href="$da/d29/classFun4AllServer.html#a90e27f05f0b2e8b6fe462387b14bfb92" title="Fun4AllServer::Fun4AllServer" alt="" coords="1353,241,1572,269"/>
+<area shape="rect" id="node20" href="$da/d29/classFun4AllServer.html#aa1939c3e2c3113cce0a6415103b4f5a5" title="Fun4AllServer::InitAll" alt="" coords="1620,241,1783,269"/>
+<area shape="rect" id="node22" href="$d9/d6f/classG4Example01Detector.html#ad88cff626b07f4026315a7e81cdfbaad" title="G4Example01Detector\l::Print" alt="" coords="538,109,714,153"/>
+<area shape="rect" id="node24" href="$dd/ded/classFun4AllSyncManager.html#a2a284bc4ed777ec7f39d6e5c7090067c" title="Fun4AllSyncManager\l::registerInputManager" alt="" coords="1109,117,1287,161"/>
+<area shape="rect" id="node25" href="$d4/da9/classFun4AllInputManager.html#a5b0cdb689482c4143b7b22ca8a780c51" title="Fun4AllInputManager\l::setSyncManager" alt="" coords="1379,173,1546,217"/>
+<area shape="rect" id="node27" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="1107,708,1289,736"/>
+<area shape="rect" id="node28" href="$d7/d96/classFun4AllMemoryTracker.html#a3841cc0bc6c4047da2b4868ba39dbb8c" title="Fun4AllMemoryTracker\l::Start" alt="" coords="1110,1035,1286,1079"/>
+<area shape="rect" id="node31" href="$d0/d32/classSubsysReco.html#a6670c0a093dd2c2bdd44f8fc6f9ba8e8" title="SubsysReco::Init" alt="" coords="1131,812,1265,840"/>
+<area shape="rect" id="node32" href="$d7/d96/classFun4AllMemoryTracker.html#a766ac66dd36ffa4e3fbe6e622923565f" title="Fun4AllMemoryTracker\l::Stop" alt="" coords="1110,967,1286,1011"/>
+<area shape="rect" id="node29" href="$d7/d96/classFun4AllMemoryTracker.html#a593b43de959782958e360b8af0f2469d" title="Fun4AllMemoryTracker\l::CreateFullTrackerName" alt="" coords="1369,967,1556,1011"/>
+<area shape="rect" id="node30" href="$d7/d96/classFun4AllMemoryTracker.html#a4059a8c86c92e1708e5bbdc585af99ed" title="Fun4AllMemoryTracker\l::GetRSSMemory" alt="" coords="1375,1035,1551,1079"/>
+<area shape="rect" id="node35" href="$d1/da8/classPHFlag.html#a4b73a422f0076568904d71f40e849da5" title="PHFlag::FlagExist" alt="" coords="848,280,987,308"/>
+<area shape="rect" id="node36" href="$da/d29/classFun4AllServer.html#ab2479a9a3e45d51118e308597acd5228" title="Fun4AllServer::ResetNodeTree" alt="" coords="805,1205,1030,1233"/>
+<area shape="rect" id="node41" href="$da/d29/classFun4AllServer.html#af1002b9170308da078c0e14a5ac4b514" title="Fun4AllServer::setRun" alt="" coords="541,331,711,359"/>
+<area shape="rect" id="node42" href="$da/d29/classFun4AllServer.html#afcfc5583204cac58b4e66a2406187a18" title="Fun4AllServer::BeginRun" alt="" coords="532,659,720,687"/>
+<area shape="rect" id="node43" href="$da/d29/classFun4AllServer.html#a6a65a944dfb40966ace97d35ab1f7942" title="Fun4AllServer::process\l_event" alt="" coords="538,853,714,897"/>
+<area shape="rect" id="node37" href="$d9/d0d/PHG4MvtxHitReco_8cc.html#a13266ea1372c7cc9d0681ec9ed94bd19" title="reset" alt="" coords="1170,1361,1226,1389"/>
+<area shape="rect" id="node38" href="$db/d8e/classPHNodeOperation.html#a641fdf1094ec15063171e199a4066a0d" title="PHNodeOperation::Verbosity" alt="" coords="1091,1309,1305,1337"/>
+<area shape="rect" id="node39" href="$d5/d07/classPHNodeIterator.html#a63d6c37796624455366e84ee121bb251" title="PHNodeIterator::cd" alt="" coords="1123,1205,1273,1233"/>
+<area shape="rect" id="node40" href="$d5/d07/classPHNodeIterator.html#afeaefab44bf0ab15a439926205924f19" title="PHNodeIterator::forEach" alt="" coords="1106,1437,1290,1465"/>
+<area shape="rect" id="node47" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a700e600d844bad2352786a0f1506a2dd" title="PHG4ParticleGeneratorBase\l::CheckAndCreateParticleVector" alt="" coords="508,973,744,1017"/>
+<area shape="rect" id="node49" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a2b222deb69d82462362adb14bf3222e9" title="PHG4ParticleGeneratorBase\l::get_pdgcode" alt="" coords="521,1041,731,1085"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="Acts::detail::VerticesHelper::isInsidePolygon" name="Acts::detail::VerticesHelper::isInsidePolygon">
+<area shape="rect" id="node2" href="$d8/d3d/classActs_1_1BoundaryCheck.html#a82f72b7d322768420baee8a49665d3e7" title="Acts::BoundaryCheck\l::distance" alt="" coords="270,27,438,71"/>
+<area shape="rect" id="node4" href="$dd/d9e/structActs_1_1Polyhedron.html#a1c4a5f6a725234c74230dfa93ced4b05" title="Acts::Polyhedron::extent" alt="" coords="260,116,448,144"/>
+<area shape="rect" id="node7" href="$d8/d3d/classActs_1_1BoundaryCheck.html#a1b0ce85d47e95ee7e70c2cd0365e0c25" title="Acts::BoundaryCheck\l::isInside" alt="" coords="270,499,438,543"/>
+<area shape="rect" id="node3" href="$dd/d7e/namespaceActs_1_1Test.html#a1d810a1768632848ec01042c8701fd98" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="511,5,699,49"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#a6d954862203d69cf0be9c7ab23ec9c3f" title="Unit tests for Polyderon construction &amp; operator +=." alt="" coords="511,73,699,117"/>
+<area shape="rect" id="node6" href="$d3/df5/structActs_1_1SurfaceBinningMatcher.html#a70b65f73c33d6464813e0891b6ca33a9" title="Acts::SurfaceBinningMatcher\l::operator()" alt="" coords="496,141,715,185"/>
+<area shape="rect" id="node8" href="$dd/d7e/namespaceActs_1_1Test.html#a1b4755cdb5ab333426df2b6651491099" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="511,209,699,253"/>
+<area shape="rect" id="node9" href="$d3/d2d/classActs_1_1LineBounds.html#ab973f8917148a2fe61ba1511cf9ec921" title="Acts::LineBounds::inside" alt="" coords="511,277,699,305"/>
+<area shape="rect" id="node11" href="$d0/d1a/classActs_1_1RadialBounds.html#a754bd547cab59c1e5318c480639960dd" title="Acts::RadialBounds\l::inside" alt="" coords="529,329,682,373"/>
+<area shape="rect" id="node13" href="$dc/d7b/classActs_1_1DiscTrapezoidBounds.html#aa4143be438f578b0b415b5a8784d0b68" title="Acts::DiscTrapezoidBounds\l::inside" alt="" coords="503,397,707,441"/>
+<area shape="rect" id="node15" href="$da/d28/classActs_1_1RectangleBounds.html#adc2265e140bb59370f5a327216a4dc26" title="Acts::RectangleBounds\l::inside" alt="" coords="516,465,695,509"/>
+<area shape="rect" id="node17" href="$d1/d84/classActs_1_1DiamondBounds.html#a4a908df0acd2f1f074ee0f3a478e3181" title="Acts::DiamondBounds\l::inside" alt="" coords="519,533,691,577"/>
+<area shape="rect" id="node19" href="$d3/de3/classActs_1_1ConeBounds.html#a74b13157291cd2084a11b2c18097c582" title="Acts::ConeBounds::inside" alt="" coords="508,601,703,629"/>
+<area shape="rect" id="node21" href="$da/d0a/classActs_1_1CylinderBounds.html#a2daf276f2c60eac8b1cdb76709899c97" title="Acts::CylinderBounds\l::inside" alt="" coords="522,653,689,697"/>
+<area shape="rect" id="node23" href="$d3/d0f/classActs_1_1ConvexPolygonBounds.html#a0ea2510a7f1f87023f96d345c2c0056c" title="Acts::ConvexPolygonBounds\l::inside" alt="" coords="498,789,713,833"/>
+<area shape="rect" id="node25" href="$dc/d64/classActs_1_1TrapezoidBounds.html#a0f36454cd98e0628442ac05fe525bfb8" title="Acts::TrapezoidBounds\l::inside" alt="" coords="517,857,693,901"/>
+<area shape="rect" id="node27" href="$da/d0a/classActs_1_1CylinderBounds.html#aec421ec3cbf8465f12f560ea227a40d3" title="Acts::CylinderBounds\l::inside3D" alt="" coords="522,721,689,765"/>
+<area shape="rect" id="node10" href="$dd/d7e/namespaceActs_1_1Test.html#afbdee31f9cbb1f6e1e557277958b3f70" title="Unit tests for LineBounds properties." alt="" coords="763,261,951,305"/>
+<area shape="rect" id="node12" href="$dd/d7e/namespaceActs_1_1Test.html#a72f81813ad3aed0dd45eaf70cf458e33" title="Unit tests for RadialBounds properties." alt="" coords="763,329,951,373"/>
+<area shape="rect" id="node14" href="$dd/d7e/namespaceActs_1_1Test.html#a72ec170533831d888d67fb35d3d8d2c8" title="Unit tests for DiscTrapezoidBounds properties." alt="" coords="763,397,951,441"/>
+<area shape="rect" id="node16" href="$dd/d7e/namespaceActs_1_1Test.html#a62ecfaee40d03b348295b24128fadbb1" title="Unit test for testing RectangleBounds properties." alt="" coords="763,465,951,509"/>
+<area shape="rect" id="node18" href="$dd/d7e/namespaceActs_1_1Test.html#a3867b5809692667c290876c6539848e5" title="Unit tests for DiamondBounds properties." alt="" coords="763,533,951,577"/>
+<area shape="rect" id="node20" href="$dd/d7e/namespaceActs_1_1Test.html#af99ec71e12aee223880bf2217d7708e0" title="Unit tests for properties of ConeBounds object." alt="" coords="763,601,951,645"/>
+<area shape="rect" id="node22" href="$dd/d7e/namespaceActs_1_1Test.html#a1ddf1a0e561c0c72461812acf7c21556" title="Unit tests for CylinderBounds properties." alt="" coords="763,695,951,739"/>
+<area shape="rect" id="node24" href="$dd/d7e/namespaceActs_1_1Test.html#a8ad5a600b6bf65a33784fffe35ebd1cb" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="763,789,951,833"/>
+<area shape="rect" id="node26" href="$dd/d7e/namespaceActs_1_1Test.html#a64106be4b67b8eabd6048cbb0131b8ce" title="Unit tests for TrapezoidBounds properties." alt="" coords="763,857,951,901"/>
+</map>

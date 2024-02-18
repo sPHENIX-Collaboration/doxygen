@@ -1,0 +1,33 @@
+<map id="PHActsInitialVertexFinder::Process" name="PHActsInitialVertexFinder::Process">
+<area shape="rect" id="node2" href="$df/db0/classPHActsInitialVertexFinder.html#a10af1a906462b7642d2c353bab2880e1" title="Assigns silicon seed a vertex ID if it was left out of Acts IVF." alt="" coords="244,49,469,93"/>
+<area shape="rect" id="node3" href="$df/db0/classPHActsInitialVertexFinder.html#ace7a85b2fa8908ab31fa43f8d389b207" title="PHActsInitialVertexFinder\l::createDummyVertex" alt="" coords="535,5,726,49"/>
+<area shape="rect" id="node5" href="$df/db0/classPHActsInitialVertexFinder.html#a30c591e7c3d82ab7a0059d7197dd3743" title="Creates SvtxVertexMap." alt="" coords="261,169,452,213"/>
+<area shape="rect" id="node8" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="1031,743,1207,771"/>
+<area shape="rect" id="node9" href="$df/db0/classPHActsInitialVertexFinder.html#a6442b21576544eebe72919ab871dc429" title="Calls Acts IVF." alt="" coords="261,471,452,515"/>
+<area shape="rect" id="node15" href="$d7/d8b/classSvtxTrackMap.html#a08561d1123c35a7f953038f8d684a6d5" title="SvtxTrackMap::get" alt="" coords="814,1243,961,1271"/>
+<area shape="rect" id="node16" href="$df/db0/classPHActsInitialVertexFinder.html#a254cfcf8b1786029f7b30def5e995e37" title="Gets silicon stubs to send to Acts IVF." alt="" coords="261,763,452,807"/>
+<area shape="rect" id="node20" href="$d7/d8b/classSvtxTrackMap.html#a508e23a620af3b20bfc0be05aa5b4ada" title="SvtxTrackMap::size" alt="" coords="813,795,962,823"/>
+<area shape="rect" id="node31" href="$d5/da9/namespaceActsExamples_1_1HepMC3Event.html#a0bd8b25628fbd0f18b886f46089d182e" title="Get list of vertices." alt="" coords="245,332,468,376"/>
+<area shape="rect" id="node4" href="$db/dd7/classSvtxVertexMap.html#a659b484a10ebda762255bab1309f30ed" title="Add vertex to container. Note the container take to ownership." alt="" coords="802,44,973,72"/>
+<area shape="rect" id="node6" href="$db/dd7/classSvtxVertexMap.html#a69bfe4ad3d711439ac9fa017d57a7446" title="SvtxVertexMap::clear" alt="" coords="548,125,713,153"/>
+<area shape="rect" id="node7" href="$d7/d8b/classSvtxTrackMap.html#a4d8a172bd027d5bf0e2f7eabaa0a8529" title="SvtxTrackMap::find" alt="" coords="556,177,705,205"/>
+<area shape="rect" id="node10" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="541,452,720,480"/>
+<area shape="rect" id="node12" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="799,400,975,428"/>
+<area shape="rect" id="node13" href="$d4/d32/structActsTrackingGeometry.html#a21111b468314bf411c1742355ab7d1f5" title="ActsTrackingGeometry\l::getGeoContext" alt="" coords="543,608,718,652"/>
+<area shape="rect" id="node14" href="$df/da6/MeasurementsToSpacepoints_8cpp.html#a8265920c7b4e4729bc242bf710e35fba" title="logger" alt="" coords="598,504,663,532"/>
+<area shape="rect" id="node11" href="$dc/d11/Prototype2_2EMCal_2macros_2SaveCanvas_8m.html#a8efe7494567713c8ec7a6803834a0bb6" title="print" alt="" coords="861,452,914,480"/>
+<area shape="rect" id="node17" href="$df/db5/classActsTransformations.html#a8795b5fc6bb53a78c7d8cc2bb867e454" title="ActsTransformations\l::rotateSvtxTrackCovToActs" alt="" coords="529,1057,733,1101"/>
+<area shape="rect" id="node19" href="$df/db5/classActsTransformations.html#a1e6bca7e7f2c0ca3523fcc4ccfda0a21" title="ActsTransformations\l::setVerbosity" alt="" coords="551,676,711,720"/>
+<area shape="rect" id="node21" href="$df/db0/classPHActsInitialVertexFinder.html#ac442d6dfa5e60feae863a19a7c65708e" title="PHActsInitialVertexFinder\l::sortTracks" alt="" coords="535,951,726,995"/>
+<area shape="rect" id="node30" href="$d0/d34/tracks_8C.html#ac926d763061c5568ecb5f5e062e9c778" title="tracks" alt="" coords="599,796,662,824"/>
+<area shape="rect" id="node18" href="$d2/db8/classSvtxTrack.html#a27094ab8448a1630ae4ee5315d249c93" title="SvtxTrack::find_state" alt="" coords="807,1191,968,1219"/>
+<area shape="rect" id="node22" href="$d2/db8/classSvtxTrack.html#af2317becf2120fcad5cefaa61a01407e" title="SvtxTrack::get_x" alt="" coords="821,1087,953,1115"/>
+<area shape="rect" id="node23" href="$d2/db8/classSvtxTrack.html#ac4bf3bd4ecaeff1ca06c48942a8b9236" title="SvtxTrack::get_y" alt="" coords="821,1139,953,1167"/>
+<area shape="rect" id="node24" href="$d2/db8/classSvtxTrack.html#aaaa435dd9d41dbe836f0608712ca12db" title="SvtxTrack::get_z" alt="" coords="822,899,953,927"/>
+<area shape="rect" id="node25" href="$df/db0/classPHActsInitialVertexFinder.html#a3230b36046df7342609d29cef8e4c66d" title="Helper functions for the k&#45;means cluster algorithm." alt="" coords="792,951,983,995"/>
+<area shape="rect" id="node27" href="$df/db0/classPHActsInitialVertexFinder.html#a5f16f610dd17b742d380714a409b12d3" title="PHActsInitialVertexFinder\l::getIVFTracks" alt="" coords="792,1019,983,1063"/>
+<area shape="rect" id="node26" href="$d9/dbb/buildEdges_8cpp.html#a1c7c5a664ae255650d4dd47dffef1835" title="dist" alt="" coords="1095,959,1142,987"/>
+<area shape="rect" id="node28" href="$d7/d8b/classSvtxTrackMap.html#a7b539db69604325bec90622b6a7ca3c6" title="SvtxTrackMap::erase" alt="" coords="1038,1019,1199,1047"/>
+<area shape="rect" id="node29" href="$da/d55/TPCRateLayered_8m.html#a7507ef556477c204b499f1e189d40796" title="sum" alt="" coords="1093,1071,1144,1099"/>
+<area shape="rect" id="node32" href="$d9/d37/namespaceActsExamples_1_1HepMC3Vertex.html#aba05f71532091fac5073d444d91cf61e" title="Returns a vertex translated into Acts." alt="" coords="517,332,744,376"/>
+</map>

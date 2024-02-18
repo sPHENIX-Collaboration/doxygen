@@ -1,0 +1,34 @@
+<map id="runFatras" name="runFatras">
+<area shape="rect" id="node2" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a11a2ef741ce4baf34f5f51d6f3a0566e" title="ActsExamples::Options\l::addFatrasOptions" alt="" coords="162,5,341,49"/>
+<area shape="rect" id="node3" href="$d6/dcc/namespaceActsExamples_1_1Options.html#ace46c0553ce0bb8356f4bbf55333674e" title="Add common geometry&#45;related options." alt="" coords="162,73,341,117"/>
+<area shape="rect" id="node4" href="$da/df9/namespaceActsExamples_1_1Simulation.html#acac6247d257ed27c1f16f695146f6a16" title="ActsExamples::Simulation\l::addInputOptions" alt="" coords="153,141,350,185"/>
+<area shape="rect" id="node7" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a7647c361e677738939257a3788907018" title="Add magnetic field options with a bf&#45; prefix." alt="" coords="151,209,352,253"/>
+<area shape="rect" id="node8" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a6aa90f1bc5c6a12376189d84fc01611d" title="Add common material&#45;related options." alt="" coords="162,277,341,321"/>
+<area shape="rect" id="node9" href="$d6/dcc/namespaceActsExamples_1_1Options.html#abf21a4e0529b290b8d9c5445f021d538" title="Add common output&#45;related options." alt="" coords="162,345,341,389"/>
+<area shape="rect" id="node10" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a3c003d4feb50b8a88e1d8732c17f84eb" title="Add random number options such as the global seed." alt="" coords="139,413,364,457"/>
+<area shape="rect" id="node11" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a275e900079b6c3f29fccc781fff55145" title="Add sequencer options, e.g. number of events." alt="" coords="161,481,341,525"/>
+<area shape="rect" id="node12" href="$d9/dfd/namespaceActsExamples_1_1Geometry.html#a6484afc41b54f3a8678b6e33b6f8c277" title="helper method to setup the geometry" alt="" coords="155,549,348,593"/>
+<area shape="rect" id="node14" href="$d6/dcc/namespaceActsExamples_1_1Options.html#af10c23dfd3a63001bea43a2f15103e95" title="ActsExamples::Options\l::makeDefaultOptions" alt="" coords="162,617,341,661"/>
+<area shape="rect" id="node15" href="$d6/dcc/namespaceActsExamples_1_1Options.html#aeb0cbceb4fe644ebe08951d2429cf509" title="ActsExamples::Options\l::parse" alt="" coords="162,685,341,729"/>
+<area shape="rect" id="node16" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a49fd9bf66697685e10932a2ae1256abf" title="ActsExamples::Options\l::readRandomNumbersConfig" alt="" coords="141,753,362,797"/>
+<area shape="rect" id="node17" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a495157db008175cfdb9a22805b37351a" title="Read the sequencer config." alt="" coords="162,889,341,933"/>
+<area shape="rect" id="node19" href="$da/df9/namespaceActsExamples_1_1Simulation.html#af4432ebd940518328e5446af31259a35" title="ActsExamples::Simulation\l::setupInput" alt="" coords="153,1047,350,1091"/>
+<area shape="rect" id="node29" href="$da/df9/namespaceActsExamples_1_1Simulation.html#a1324404087c7bbbf23c713a7575c9a8d" title="ActsExamples::Simulation\l::setupOutput" alt="" coords="153,821,350,865"/>
+<area shape="rect" id="node5" href="$d6/dcc/namespaceActsExamples_1_1Options.html#ab426cfb3ee452e47811898629b0ca781" title="Add options for a particle&#45;gun&#45;like event generator." alt="" coords="433,176,619,220"/>
+<area shape="rect" id="node6" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a1484f1b31b2b742c29acfad70f1ac005" title="ActsExamples::Options\l::addParticleSelectorOptions" alt="" coords="419,108,633,152"/>
+<area shape="rect" id="node13" href="$df/d16/classActsExamples_1_1IBaseDetector.html#abe782a5fcb0cef6542d7f340f97ee893" title="ActsExamples::IBaseDetector\l::finalize" alt="" coords="415,549,637,593"/>
+<area shape="rect" id="node18" href="$d6/dcc/namespaceActsExamples_1_1Options.html#ad6762727fb7dc6ff716ce476e3dbbdbe" title="Read the log level." alt="" coords="437,889,615,933"/>
+<area shape="rect" id="node20" href="$d2/d86/classActsExamples_1_1Sequencer.html#af09c9b6fb4d155f2dbd138f6be52c70b" title="ActsExamples::Sequencer\l::addReader" alt="" coords="427,1145,625,1189"/>
+<area shape="rect" id="node23" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="701,1153,877,1181"/>
+<area shape="rect" id="node24" href="$d9/d76/SimhitReaderWriterTests_8cpp.html#afad45263465e3b0f9222cad25f5c7fa6" title="gen" alt="" coords="503,1025,549,1053"/>
+<area shape="rect" id="node25" href="$d6/dcc/namespaceActsExamples_1_1Options.html#ac10ed2ef2a40be2df0ea05e88928878b" title="Create the event generator config from particle&#45;gun options." alt="" coords="431,1265,621,1309"/>
+<area shape="rect" id="node27" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a7dd4808981b766777020470ad3557fd9" title="ActsExamples::Options\l::readParticleSelectorConfig" alt="" coords="421,1077,631,1121"/>
+<area shape="rect" id="node28" href="$d2/d86/classActsExamples_1_1Sequencer.html#a1f58dd780adf8e2dabeac8a5f2620c34" title="ActsExamples::Sequencer\l::addAlgorithm" alt="" coords="427,957,625,1001"/>
+<area shape="rect" id="node21" href="$d2/d86/classActsExamples_1_1Sequencer.html#a9b1864047c13de12118e9b69eef7b1d0" title="ActsExamples::Sequencer\l::addElement" alt="" coords="690,957,889,1001"/>
+<area shape="rect" id="node22" href="$d4/d0e/namespaceActs_1_1IntegrationTest.html#af6cfc0c9a30db205e8c94e0fa493bb31" title="Acts::IntegrationTest\l::valid" alt="" coords="939,957,1100,1001"/>
+<area shape="rect" id="node26" href="$d8/d7c/classActs_1_1MultiIndex.html#abd3e2efc7c5baed6f77fead241cd331b" title="Get the number of bits for the associated level." alt="" coords="688,1265,891,1309"/>
+<area shape="rect" id="node30" href="$df/dd4/namespaceActsExamples.html#a8994427390dd0a4db64bfc9d21da7f0a" title="ActsExamples::ensureWritable\lDirectory" alt="" coords="412,701,640,745"/>
+<area shape="rect" id="node32" href="$d2/d86/classActsExamples_1_1Sequencer.html#ac7673c00d596c714cbceffdc9d0e3315" title="ActsExamples::Sequencer\l::addWriter" alt="" coords="427,821,625,865"/>
+<area shape="rect" id="node33" href="$df/dd4/namespaceActsExamples.html#ab2530bb4e7128ba9cb52cae58e217206" title="Join dir and name into one path with correct handling of empty dirs." alt="" coords="432,769,620,797"/>
+<area shape="rect" id="node31" href="$dd/de0/namespacetrento_1_1random.html#a5430713b7485bc62727292790ca8a95c" title="Helper function to easily generate random numbers in [0, 1)." alt="" coords="691,709,887,737"/>
+</map>

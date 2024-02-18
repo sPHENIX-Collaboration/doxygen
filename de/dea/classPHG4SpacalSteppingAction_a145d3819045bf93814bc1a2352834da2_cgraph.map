@@ -1,0 +1,51 @@
+<map id="PHG4SpacalSteppingAction::NoHitSteppingAction" name="PHG4SpacalSteppingAction::NoHitSteppingAction">
+<area shape="rect" id="node2" href="$da/d9c/namespaceTowerInfoDefs.html#a00c72a0d930085024ae2d7c90e9a36f0" title="TowerInfoDefs::encode\l_emcal" alt="" coords="283,620,459,664"/>
+<area shape="rect" id="node3" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a1f716c0e178a97bfdb656c1e9d0b55c9" title="PHG4CylinderGeom_Spacalv1\l::get_config" alt="" coords="1384,680,1607,724"/>
+<area shape="rect" id="node4" href="$d3/d65/classTowerInfo.html#aec47b24db774275f49d738950530b5e0" title="TowerInfo::get_energy" alt="" coords="285,1445,457,1473"/>
+<area shape="rect" id="node5" href="$df/d09/classPHG4CylinderCellGeom__Spacalv1.html#aa4804c9b24b55292ff4cc5a691bc61b1" title="PHG4CylinderCellGeom\l_Spacalv1::get_etabin_block" alt="" coords="264,1497,479,1541"/>
+<area shape="rect" id="node6" href="$d5/da1/classLightCollectionModel.html#a34010899d43746e15c01c57ed60ed028" title="get Light Transmission Efficiency for the fiber as function of z position (cm) in the fiber..." alt="" coords="280,1633,463,1677"/>
+<area shape="rect" id="node16" href="$d0/da4/classPHG4SpacalDetector.html#a666f88078c0cdff64b8ec23dd3cecf63" title="PHG4SpacalDetector\l::get_geom" alt="" coords="290,1701,453,1745"/>
+<area shape="rect" id="node17" href="$d5/da1/classLightCollectionModel.html#ad17ba94457267fc00ffe84cc5f0b49ec" title="get Light Collection Efficiency for the light guide as function of x,y position in fraction of tower ..." alt="" coords="268,1565,475,1609"/>
+<area shape="rect" id="node18" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a1b236f2aacedd2c022120f7b089e70a3" title="sub&#45;tower divider along the polar direction" alt="" coords="1095,1225,1317,1269"/>
+<area shape="rect" id="node19" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a2a8069b03895b6d6273fbf83ea63da9d" title="sub&#45;tower divider along the azimuthal direction" alt="" coords="1095,1345,1317,1389"/>
+<area shape="rect" id="node20" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a60f2e2de1d58f633cb10aea8438cd697" title="PHG4CylinderGeom_Spacalv3\l::get_sector_tower_map" alt="" coords="260,1769,483,1813"/>
+<area shape="rect" id="node21" href="$d9/da7/classTowerInfoContainer.html#a4a5660445958fcceed637c5f4213afb4" title="TowerInfoContainer\l::get_tower_at_key" alt="" coords="294,1837,449,1881"/>
+<area shape="rect" id="node22" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#ab2c1e8230a0eb392d993579333fe4fac" title="PHG4CylinderGeom_Spacalv3\l::get_tower_z_phi_ID" alt="" coords="260,1124,483,1168"/>
+<area shape="rect" id="node44" href="$df/d3f/classPHG4SteppingAction.html#a57aa751589ae9eb0c2e6563948e85513" title="get amount of energy that can make scintillation light, in Unit of GeV." alt="" coords="262,1905,481,1949"/>
+<area shape="rect" id="node45" href="$df/d09/classPHG4CylinderCellGeom__Spacalv1.html#a85fde8a9323bfcbd24ca058706790e57" title="PHG4CylinderCellGeom\l_Spacalv1::identify" alt="" coords="281,1973,461,2017"/>
+<area shape="rect" id="node47" href="$df/d52/classPHG4CylinderGeom__Spacalv3_1_1scint__id__coder.html#a786afcdc76cc0bc8be2c9938fcc454fb" title="PHG4CylinderGeom_Spacalv3\l::scint_id_coder::identify" alt="" coords="260,2041,483,2085"/>
+<area shape="rect" id="node48" href="$d0/da4/classPHG4SpacalDetector.html#add0be29e48cb7ba5041080179570f1d7" title="PHG4SpacalDetector\l::IsInCylinderActive" alt="" coords="290,2109,453,2153"/>
+<area shape="rect" id="node49" href="$d3/d65/classTowerInfo.html#a43d0cdf6977d627bcb5c54d30906ce31" title="TowerInfo::set_energy" alt="" coords="286,2177,457,2205"/>
+<area shape="rect" id="node50" href="$d5/da1/classLightCollectionModel.html#a6835d7189b6ef93d0846174cd16f5f27" title="Whether use Light Transmission Efficiency model for the fiber." alt="" coords="290,2229,453,2273"/>
+<area shape="rect" id="node7" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="551,1623,733,1651"/>
+<area shape="rect" id="node12" href="$da/d29/classFun4AllServer.html#a1d7daeb59511a7dc61a2566f4116a6ec" title="Fun4AllServer::registerHisto" alt="" coords="1390,1571,1601,1599"/>
+<area shape="rect" id="node8" href="$da/d29/classFun4AllServer.html#a90e27f05f0b2e8b6fe462387b14bfb92" title="Fun4AllServer::Fun4AllServer" alt="" coords="805,1623,1024,1651"/>
+<area shape="rect" id="node9" href="$da/d29/classFun4AllServer.html#aa1939c3e2c3113cce0a6415103b4f5a5" title="Fun4AllServer::InitAll" alt="" coords="1125,1519,1287,1547"/>
+<area shape="rect" id="node10" href="$da/d29/classFun4AllServer.html#a2ebfcdcf706670c98c189bfa93c3ff89" title="Fun4AllServer::InitNodeTree" alt="" coords="1391,1519,1600,1547"/>
+<area shape="rect" id="node11" href="$d5/d4f/classFun4AllMonitoring.html#a4d2dc73220d8300c356f258b8c6283a8" title="Fun4AllMonitoring::\linstance" alt="" coords="1419,1451,1571,1495"/>
+<area shape="rect" id="node13" href="$d3/d96/classFun4AllHistoManager.html#a7e1354855437fa28bb0d29dc0581d0a6" title="Fun4AllHistoManager\l::registerHisto" alt="" coords="1683,1563,1849,1607"/>
+<area shape="rect" id="node14" href="$dc/df6/200pp__pythia8__CTEQ6L__7GeV__ALL_8cfg__eneg__DSTReader_8root__Draw__HFJetTruth__CrossSection2RAA_8C.html#abf6f7b5ad3b256b0f81411de1474963c" title="SetDirectory" alt="" coords="1984,1544,2089,1572"/>
+<area shape="rect" id="node15" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="1949,1596,2125,1624"/>
+<area shape="rect" id="node23" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#ab15ad149ea75e222394cf00342045569" title="PHG4CylinderGeom_Spacalv3\l::Print" alt="" coords="531,1037,753,1081"/>
+<area shape="rect" id="node24" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a240cbb1dc072be6fc5eba7c30f45cce5" title="PHG4CylinderGeom_Spacalv1\l::get_construction_verbose" alt="" coords="1384,1285,1607,1329"/>
+<area shape="rect" id="node25" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a707b7a7383415b81510ef3daed727ecd" title="max tolerance needed for the light guide" alt="" coords="803,740,1026,784"/>
+<area shape="rect" id="node26" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a62a413614dddedd21f200dc4ad204a34" title="PHG4CylinderGeom_Spacalv3\l::get_max_phi_bin_in_sec" alt="" coords="803,808,1026,852"/>
+<area shape="rect" id="node27" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a1435800c4b608a083284a3bbb88a481d" title="PHG4CylinderGeom_Spacalv3\l::get_sidewall_mat" alt="" coords="803,876,1026,920"/>
+<area shape="rect" id="node28" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a9a3573414ce404b36c36b90e2328c353" title="PHG4CylinderGeom_Spacalv3\l::get_sidewall_outer_torr" alt="" coords="803,944,1026,988"/>
+<area shape="rect" id="node29" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#af5616980c88bd7bbb66261b6f2cbc4c4" title="PHG4CylinderGeom_Spacalv3\l::get_sidewall_thickness" alt="" coords="803,1012,1026,1056"/>
+<area shape="rect" id="node30" href="$d0/d1f/classEventiterator.html#aca55e3fae164615c2986bb1181aa0c54" title="Eventiterator::identify" alt="" coords="830,1080,999,1108"/>
+<area shape="rect" id="node31" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a91340b29587e1c381d7ae57bf8cf206e" title="PHG4CylinderGeom_Spacalv2\l::Print" alt="" coords="803,361,1026,405"/>
+<area shape="rect" id="node43" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a314388ac6e53b1de3ec99da9d8d72375" title="check that all towers has consistent sub&#45;tower divider" alt="" coords="801,1285,1028,1329"/>
+<area shape="rect" id="node32" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a1c1e5ff96ef98b79c948b1183a84b1d4" title="PHG4CylinderGeom_Spacalv2\l::get_assembly_spacing" alt="" coords="1925,175,2148,219"/>
+<area shape="rect" id="node33" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a1fcf80a2790007bbfa581530276ac34e" title="azimuthal tilt in rad" alt="" coords="1925,461,2148,505"/>
+<area shape="rect" id="node34" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#aa7c83f9765cd39d521dfd263f730fd61" title="PHG4CylinderGeom_Spacalv2\l::get_block_depth" alt="" coords="1095,211,1317,255"/>
+<area shape="rect" id="node35" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a096b88168e61feeef81052561ce66420" title="PHG4CylinderGeom_Spacalv2\l::get_block_width" alt="" coords="1384,263,1607,307"/>
+<area shape="rect" id="node36" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a140bb989a289f3dd8957599911d018eb" title="PHG4CylinderGeom_Spacalv2\l::get_sec_azimuthal_width" alt="" coords="1655,432,1877,476"/>
+<area shape="rect" id="node37" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a831f2cf823196b54978e5cfa903b1d8a" title="PHG4CylinderGeom_Spacalv2\l::get_polar_taper_ratio" alt="" coords="1384,331,1607,375"/>
+<area shape="rect" id="node38" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#affbb132fed8e7a9b7e2dd3d5e038f08f" title="PHG4CylinderGeom_Spacalv2\l::get_sec_depth" alt="" coords="1384,143,1607,187"/>
+<area shape="rect" id="node39" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#acf1b1e9f7de0e5585200d53d18ed73c5" title="regulated fiber distance in the non&#45;tapering direction" alt="" coords="1095,127,1317,187"/>
+<area shape="rect" id="node40" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a91acc6fcb3f70a639d5fdfa1982d0c8b" title="regulated fiber distance in the tapering direction" alt="" coords="1076,331,1336,375"/>
+<area shape="rect" id="node41" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#af70147ada6b9c6cfb9f8669eae9d5347" title="PHG4CylinderGeom_Spacalv2\l::is_azimuthal_seg_visible" alt="" coords="1095,552,1317,596"/>
+<area shape="rect" id="node42" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#ad54faefb41787c1896349ee5d83b5e42" title="PHG4CylinderGeom_Spacalv1\l::Print" alt="" coords="1095,620,1317,664"/>
+<area shape="rect" id="node46" href="$d9/d85/classPHG4CylinderCellGeom.html#aab3aed1de9ffcd8c3c41be171b582f25" title="PHG4CylinderCellGeom\l::identify" alt="" coords="552,1973,732,2017"/>
+</map>

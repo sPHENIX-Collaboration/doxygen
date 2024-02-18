@@ -1,0 +1,25 @@
+var makeLcD0__BUP2022_8C =
+[
+    [ "makeLcD0_BUP2022", "db/d6d/makeLcD0__BUP2022_8C.html#a8b701bd52f4f1e1969be2f8a38d7a741", null ],
+    [ "ArAr_inelastic_crosssec", "db/d6d/makeLcD0__BUP2022_8C.html#a4e6ea739f6a4437abbb1bbbb52e8b1d6", null ],
+    [ "ArAr_Ncoll_C0_100", "db/d6d/makeLcD0__BUP2022_8C.html#a3c1024833d62f6f9183083603615ea72", null ],
+    [ "ArAr_rec_5year", "db/d6d/makeLcD0__BUP2022_8C.html#ab93af4917531f40f04e3902ae3f6c4f1", null ],
+    [ "AuAu_Ncoll_60_70", "db/d6d/makeLcD0__BUP2022_8C.html#a2758dbc21767b37cdddcf6a48d224a6e", null ],
+    [ "AuAu_Ncoll_70_80", "db/d6d/makeLcD0__BUP2022_8C.html#ad07a1e530b0e257727beafb246d2c58f", null ],
+    [ "AuAu_Ncoll_C0_10", "db/d6d/makeLcD0__BUP2022_8C.html#a9e5e686c559fd3e2fc2b20c351c76614", null ],
+    [ "AuAu_Ncoll_C0_100", "db/d6d/makeLcD0__BUP2022_8C.html#ab36fe54777ba9a3e3a44fccdf20a94bb", null ],
+    [ "AuAu_Ncoll_C0_20", "db/d6d/makeLcD0__BUP2022_8C.html#a71e1a71e35640a740680777b96936927", null ],
+    [ "AuAu_rec_3year", "db/d6d/makeLcD0__BUP2022_8C.html#af0c40b374156eb96d7673916aaa29273", null ],
+    [ "AuAu_rec_5year", "db/d6d/makeLcD0__BUP2022_8C.html#ae1dbfd809cd95a4eb746ae9a0e5e5d68", null ],
+    [ "OO_inelastic_crosssec", "db/d6d/makeLcD0__BUP2022_8C.html#afd4dc67e23f98ca3418b7e53b7022377", null ],
+    [ "OO_Ncoll_C0_100", "db/d6d/makeLcD0__BUP2022_8C.html#a62eb7bd5891c33f7fd159142b07430cc", null ],
+    [ "OO_rec_5year", "db/d6d/makeLcD0__BUP2022_8C.html#aaa0c05dc7957c73a56bea30ea4cd2ff0", null ],
+    [ "pAu_Ncoll_C0_100", "db/d6d/makeLcD0__BUP2022_8C.html#a7034b62ff472cc70371a809f9cf78753", null ],
+    [ "pp_beam_pol", "db/d6d/makeLcD0__BUP2022_8C.html#ab18765474005b7ba76200d1abd4f008f", null ],
+    [ "pp_inelastic_crosssec", "db/d6d/makeLcD0__BUP2022_8C.html#aa700490ba4720e5a8c3bf4faf4a145eb", null ],
+    [ "pp_rec_3year", "db/d6d/makeLcD0__BUP2022_8C.html#ac3cf3eda4df3e3b49f55e792501fcc58", null ],
+    [ "pp_rec_5year", "db/d6d/makeLcD0__BUP2022_8C.html#a2682427c540b0835216bf63a934efc87", null ],
+    [ "Psi2_resolution", "db/d6d/makeLcD0__BUP2022_8C.html#ad5f86a7760c12e3bd23c4587050df52a", null ],
+    [ "refAuAuMB", "db/d6d/makeLcD0__BUP2022_8C.html#af24ce5ccdfd4e7254353ac4efa9615dd", null ],
+    [ "refAuAuXSec", "db/d6d/makeLcD0__BUP2022_8C.html#a4dea4840dcfeeef3ae228fc33a829e56", null ]
+];

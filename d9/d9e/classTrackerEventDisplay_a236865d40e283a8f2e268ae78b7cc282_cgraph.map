@@ -1,0 +1,39 @@
+<map id="TrackerEventDisplay::process_event" name="TrackerEventDisplay::process_event">
+<area shape="rect" id="node2" href="$d9/d9e/classTrackerEventDisplay.html#a90051311d4eb3be0c76af199d88a4b5c" title="TrackerEventDisplay\l::makeJsonFile" alt="" coords="213,604,373,648"/>
+<area shape="rect" id="node3" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="463,5,626,49"/>
+<area shape="rect" id="node4" href="$d9/d82/classPHG4TpcCylinderGeom.html#a4c49ce9c382d1de414fe4e1d5abe2843" title="PHG4TpcCylinderGeom\l::get_phicenter" alt="" coords="455,73,634,117"/>
+<area shape="rect" id="node7" href="$d9/d82/classPHG4TpcCylinderGeom.html#a7209bf17262ac16657974cd025cb98cd" title="PHG4TpcCylinderGeom\l::get_radius" alt="" coords="455,209,634,253"/>
+<area shape="rect" id="node8" href="$d9/d82/classPHG4TpcCylinderGeom.html#a057dd6be1e57c394925a080fbd8ef8b6" title="PHG4TpcCylinderGeom\l::get_zbins" alt="" coords="455,141,634,185"/>
+<area shape="rect" id="node10" href="$da/d9b/classTrkrHit.html#a93dc2db5ac620f6cdf5379e9adeb39f4" title="TrkrHit::getAdc" alt="" coords="483,277,606,305"/>
+<area shape="rect" id="node11" href="$d6/dfa/classTrkrCluster.html#ac2d21d533c8948fd9c94526b994b74d0" title="TrkrCluster::getAdc" alt="" coords="469,329,620,357"/>
+<area shape="rect" id="node12" href="$d0/d2c/classTrkrClusterContainer.html#a9b6a31479d24147db018ac23460ac548" title="return all clusters" alt="" coords="463,381,626,425"/>
+<area shape="rect" id="node13" href="$d3/d64/classActsGeometry.html#a74c2c69effa2b19cde731a6b67806fba" title="ActsGeometry::getGlobalPosition" alt="" coords="423,501,667,529"/>
+<area shape="rect" id="node18" href="$d7/db0/namespaceTpcDefs.html#aafa0c31bf0892588a224d8f0726bff11" title="Get the side from hitsetkey." alt="" coords="1075,615,1212,643"/>
+<area shape="rect" id="node24" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="1619,353,1765,381"/>
+<area shape="rect" id="node29" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="1618,645,1766,673"/>
+<area shape="rect" id="node31" href="$d9/dc1/classTrkrHitSet.html#a2a362e326ba49a53a7675dc4c9b39c2a" title="Get all hits." alt="" coords="471,816,618,844"/>
+<area shape="rect" id="node32" href="$d0/d2c/classTrkrClusterContainer.html#a616614c184fce4e85ce993f83191ba2b" title="get hitset key list" alt="" coords="463,868,626,912"/>
+<area shape="rect" id="node33" href="$d5/d76/classTrkrHitSetContainer.html#a0e347bd66bf03e9a34651410a79d5cab" title="return all HitSets matching a given detid" alt="" coords="467,936,623,980"/>
+<area shape="rect" id="node34" href="$d2/d67/classPHG4TpcCylinderGeomContainer.html#a43bf6b8da6ba9b4ed80e09802de3d2ac" title="PHG4TpcCylinderGeomContainer\l::GetLayerCellGeom" alt="" coords="421,1004,668,1048"/>
+<area shape="rect" id="node35" href="$d7/db0/namespaceTpcDefs.html#a5009e86d9bf74a453e860b3650aac4d4" title="Get the pad index from hitkey." alt="" coords="785,745,917,773"/>
+<area shape="rect" id="node36" href="$d7/db0/namespaceTpcDefs.html#a3ec8638cf9427c7955840853dbd96383" title="Get the time bin from hitkey." alt="" coords="781,839,920,867"/>
+<area shape="rect" id="node37" href="$d9/d52/HoughTransformSeeder_8cpp.html#a1f2cfb6e3644c66f2bfe3c54f699a72a" title="to_string" alt="" coords="505,1072,585,1100"/>
+<area shape="rect" id="node38" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="457,1124,633,1152"/>
+<area shape="rect" id="node5" href="$d9/d82/classPHG4TpcCylinderGeom.html#a93177822741be5a34a10ed624c7e8e8e" title="PHG4TpcCylinderGeom\l::check_binning_method_phi" alt="" coords="744,64,957,108"/>
+<area shape="rect" id="node6" href="$d9/d82/classPHG4TpcCylinderGeom.html#ab25c824b1f4070bd7f6b84d2eb74c867" title="PHG4TpcCylinderGeom\l::methodname" alt="" coords="1054,132,1233,176"/>
+<area shape="rect" id="node9" href="$d9/d82/classPHG4TpcCylinderGeom.html#a30b9e3e662c563b350100e8e73db765b" title="PHG4TpcCylinderGeom\l::check_binning_method" alt="" coords="758,132,943,176"/>
+<area shape="rect" id="node14" href="$d3/d64/classActsGeometry.html#aef1d7a1753e979a73b28e0ffbe6ab994" title="ActsGeometry::geometry" alt="" coords="1047,303,1239,331"/>
+<area shape="rect" id="node15" href="$d3/d64/classActsGeometry.html#ac2534e5df04d15932c7edb931994888f" title="ActsGeometry::getGlobalPositionTpc" alt="" coords="716,459,985,487"/>
+<area shape="rect" id="node16" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="1058,355,1229,383"/>
+<area shape="rect" id="node17" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="1058,407,1229,435"/>
+<area shape="rect" id="node20" href="$d0/dcd/structActsSurfaceMaps.html#abb92973b5c8f30db082c275b7b5cfc04" title="ActsSurfaceMaps::getSurface" alt="" coords="1033,563,1253,591"/>
+<area shape="rect" id="node30" href="$d3/d64/classActsGeometry.html#a5de502147722c0e0e8549b706d5d21a8" title="ActsGeometry::maps" alt="" coords="1061,511,1225,539"/>
+<area shape="rect" id="node19" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1837,645,1960,673"/>
+<area shape="rect" id="node21" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="1320,457,1528,501"/>
+<area shape="rect" id="node22" href="$d0/dcd/structActsSurfaceMaps.html#a495aa227eb961abc63783e594fb433b2" title="ActsSurfaceMaps::getMMSurface" alt="" coords="1302,525,1546,553"/>
+<area shape="rect" id="node23" href="$d0/dcd/structActsSurfaceMaps.html#ab3b444e968e650e0184aefebcaeaaad4" title="ActsSurfaceMaps::getSilicon\lSurface" alt="" coords="1317,577,1531,621"/>
+<area shape="rect" id="node27" href="$d6/dfa/classTrkrCluster.html#a924282f2bc8a157638a88c551e6e0cba" title="TrkrCluster::getSubSurfKey" alt="" coords="1322,353,1526,381"/>
+<area shape="rect" id="node28" href="$d0/dcd/structActsSurfaceMaps.html#ae3624e0027780ed53abd7335f06b79ed" title="ActsSurfaceMaps::getTpcSurface" alt="" coords="1301,645,1547,673"/>
+<area shape="rect" id="node25" href="$d6/d9e/namespaceInttDefs.html#a7bab06e7aa1e8cbfd063c989a690b8e3" title="Zero the crossing bits in a copy of the hitsetkey." alt="" coords="1595,509,1789,553"/>
+<area shape="rect" id="node26" href="$d8/df1/namespaceMvtxDefs.html#acef48eba67fd28443f939a4594317be6" title="Zero the strobe bits in the hitsetkey." alt="" coords="1596,577,1788,621"/>
+</map>

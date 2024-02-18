@@ -1,0 +1,51 @@
+<map id="TrkrDefs::getHitSetKeyFromClusKey" name="TrkrDefs::getHitSetKeyFromClusKey">
+<area shape="rect" id="node2" href="$db/dc9/classTrkrClusterHitAssocv3.html#acb006de1ec67d21d93b41c3f677f5729" title="Add association between cluster and hit." alt="" coords="294,141,463,185"/>
+<area shape="rect" id="node3" href="$d6/ded/classTrackClusEvaluator.html#ad36204b9dd4911b65ba5b65100dd006b" title="TrackClusEvaluator\l::addClusKeys" alt="" coords="303,209,455,253"/>
+<area shape="rect" id="node5" href="$d6/db8/classTrkrClusterContainerv3.html#a212639255c011c823c8ac9206786e79d" title="add a cluster with specific key" alt="" coords="290,277,467,321"/>
+<area shape="rect" id="node6" href="$d9/da6/classTrkrClusterContainerv4.html#a36b5fef6d13d9ea96b76487557bc3133" title="add a cluster with specific key" alt="" coords="290,499,467,543"/>
+<area shape="rect" id="node8" href="$d5/d76/classMakeMilleFiles.html#a5617261d2826ea798d04c3904312d3ec" title="MakeMilleFiles::addTrack\lToMilleFile" alt="" coords="544,1376,732,1420"/>
+<area shape="rect" id="node10" href="$d1/d1e/classSvtxClusterEval.html#a19f61841db8edf09e606635a790b1d2c" title="SvtxClusterEval::all\l_truth_hits" alt="" coords="303,345,455,389"/>
+<area shape="rect" id="node15" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="780,345,968,389"/>
+<area shape="rect" id="node18" href="$d1/d1e/classSvtxClusterEval.html#ae03ae27b5a477c3c426d6a5033c359b2" title="SvtxClusterEval::all\l_truth_hits_by_nhit" alt="" coords="303,635,455,679"/>
+<area shape="rect" id="node19" href="$d7/d38/classDSTEmulator.html#ad5fccb3bb1d9c015921b7efeec2d9704" title="evaluate tracks" alt="" coords="290,703,467,747"/>
+<area shape="rect" id="node20" href="$d9/df3/classTrackResiduals.html#ae56e40ad127936833e2420e5319b1d55" title="TrackResiduals::fillCluster\lBranches" alt="" coords="281,771,477,815"/>
+<area shape="rect" id="node21" href="$d2/d93/classTrkrNtuplizer.html#a3ba752b46d320848413bf7ea09ee5dd5" title="dump the evaluator information into ntuple for external analysis" alt="" coords="288,839,469,883"/>
+<area shape="rect" id="node22" href="$da/d30/classQAG4SimulationIntt.html#a258ceac5ae74bed78d6c4ed60af96bd7" title="QAG4SimulationIntt\l::find_g4hits" alt="" coords="301,907,457,951"/>
+<area shape="rect" id="node23" href="$d4/d7b/classQAG4SimulationMvtx.html#a6b2afe4a350cc67bebcab0e9f8bb1816" title="QAG4SimulationMvtx\l::find_g4hits" alt="" coords="296,975,461,1019"/>
+<area shape="rect" id="node24" href="$d5/df8/classQAG4SimulationMicromegas.html#ad69a3a00872f7b7a58d27cf9c472adfe" title="QAG4SimulationMicromegas\l::find_g4hits" alt="" coords="271,1043,486,1087"/>
+<area shape="rect" id="node25" href="$df/db8/classQAG4SimulationTpc.html#a4c0296d253a26dd9b2b08644b5eb7226" title="QAG4SimulationTpc::\lfind_g4hits" alt="" coords="296,1111,461,1155"/>
+<area shape="rect" id="node26" href="$de/dbf/classQAG4SimulationTracking.html#aa1c7d2f2eb075c7f29519bd26e772418" title="QAG4SimulationTracking\l::find_g4hits" alt="" coords="285,1179,473,1223"/>
+<area shape="rect" id="node27" href="$d7/d38/classDSTEmulator.html#a107e870c2a11e5d8670c980dcb4ec5ca" title="DSTEmulator::find_g4hits" alt="" coords="282,1247,475,1275"/>
+<area shape="rect" id="node28" href="$de/da9/classTrackEvaluation.html#a4f4002ad970873e9fd0f37c90f8c3d56" title="TrackEvaluation::find\l_g4hits" alt="" coords="297,1299,461,1343"/>
+<area shape="rect" id="node29" href="$d6/db8/classTrkrClusterContainerv3.html#a0276c925948f3bc0bae3323518188559" title="find cluster matching given key" alt="" coords="290,1981,467,2025"/>
+<area shape="rect" id="node30" href="$d6/db8/classTrkrClusterContainerv3.html#a5a3a3cbfe679fbaf6083bcb784063ac1" title="remove cluster" alt="" coords="549,1721,727,1765"/>
+<area shape="rect" id="node31" href="$d9/da6/classTrkrClusterContainerv4.html#a4f5c912b99c0d25f491ed348c744943b" title="find cluster matching given key" alt="" coords="290,567,467,611"/>
+<area shape="rect" id="node32" href="$d9/d24/classPHTruthClustering.html#a640ac87ab7188e07892031b8fa9064be" title="PHTruthClustering::\lG4ClusterSize" alt="" coords="303,1521,454,1565"/>
+<area shape="rect" id="node33" href="$d4/de4/classSvtxTruthEval.html#a2e8dab339df3331c05a1d21b12fc794e" title="SvtxTruthEval::G4ClusterSize" alt="" coords="270,1589,487,1617"/>
+<area shape="rect" id="node34" href="$df/d9d/classPHTruthSiliconAssociation.html#a069722138b9f7a336b799e1523201412" title="PHTruthSiliconAssociation\l::getG4PrimaryParticle" alt="" coords="281,1641,476,1685"/>
+<area shape="rect" id="node35" href="$db/dc9/classTrkrClusterHitAssocv3.html#a90d9cb3bff2cde9e767c73c9e306d522" title="Get all the hits associated with a cluster by key." alt="" coords="294,1709,463,1753"/>
+<area shape="rect" id="node36" href="$d1/d1c/classPHActsKDTreeSeeding.html#a137dd8c035a4fa9663f2be4e219fcb46" title="PHActsKDTreeSeeding\l::getMvtxSpacePoints" alt="" coords="293,1777,464,1821"/>
+<area shape="rect" id="node37" href="$df/d9d/classPHTruthSiliconAssociation.html#aa2d290471bf198c243e80a3db07f74a3" title="PHTruthSiliconAssociation\l::getSiliconClustersFromParticle" alt="" coords="261,1845,496,1889"/>
+<area shape="rect" id="node38" href="$d3/df0/classPHActsSiliconSeeding.html#aafb75ca5e46bb9f8ad099672f1024360" title="Get all space points for the seeder." alt="" coords="289,1913,468,1957"/>
+<area shape="rect" id="node39" href="$d0/dcd/structActsSurfaceMaps.html#abb92973b5c8f30db082c275b7b5cfc04" title="ActsSurfaceMaps::getSurface" alt="" coords="269,1367,489,1395"/>
+<area shape="rect" id="node40" href="$d1/d1e/classSvtxClusterEval.html#abd7851ec294047271ce26d8824d2af81" title="SvtxClusterEval::gtrackid\l_and_layer_by_nhit" alt="" coords="283,2049,474,2093"/>
+<area shape="rect" id="node41" href="$d9/df8/classTrkrTruthTrackv1.html#a80a6dcd9afe66a7d0f7e31cab534d253" title="TrkrTruthTrackv1::identify" alt="" coords="282,2117,475,2145"/>
+<area shape="rect" id="node42" href="$df/d33/structTrkrTruthTrackv1_1_1CompHitSetKey.html#af4c8bb931ac5884261bd02419f8a8cdd" title="TrkrTruthTrackv1::CompHit\lSetKey::operator()" alt="" coords="277,2169,480,2213"/>
+<area shape="rect" id="node43" href="$dd/dc0/classTpcClusterBuilder.html#aa8a9591d3267dec52a96c8d96231efe8" title="TpcClusterBuilder::\lprint" alt="" coords="303,2237,454,2281"/>
+<area shape="rect" id="node44" href="$dd/dc0/classTpcClusterBuilder.html#a1dc94a537cfbbf9ce1647d946fdd6164" title="TpcClusterBuilder::\lprint_file" alt="" coords="303,2305,454,2349"/>
+<area shape="rect" id="node45" href="$d7/dd6/classPHSiliconTruthTrackSeeding.html#ac9ded997e4f8f07f2bd103e9fa294d27" title="PHSiliconTruthTrackSeeding\l::Process" alt="" coords="275,2373,483,2417"/>
+<area shape="rect" id="node46" href="$d5/d78/classPHTpcClusterMover.html#a7c36fbf3ee710fdb11069cfbaf71c3c6" title="PHTpcClusterMover::\lprocess_event" alt="" coords="298,2441,459,2485"/>
+<area shape="rect" id="node47" href="$db/d0b/classMvtxPrototype2Align.html#a0b7add8a0728af136698ec976f4878fb" title="event processing" alt="" coords="298,2509,459,2553"/>
+<area shape="rect" id="node48" href="$de/d4d/classPHG4MvtxHitReco.html#a909a81a9eb5c91d222f0ed65462e4ed7" title="event processing" alt="" coords="277,2577,481,2621"/>
+<area shape="rect" id="node49" href="$de/d25/classPHGenFitTrkFitter.html#af07c5ea2636426357d02b5b697376db2" title="PHGenFitTrkFitter::\lReFitTrack" alt="" coords="306,2645,451,2689"/>
+<area shape="rect" id="node50" href="$d9/da6/classTrkrClusterContainerv4.html#a4a5848b2cdf9546a8e9c67d87dc08e6e" title="remove cluster" alt="" coords="290,2713,467,2757"/>
+<area shape="rect" id="node4" href="$d6/ded/classTrackClusEvaluator.html#a79a273ff66af2f762ba4452f7b53e0f2" title="TrackClusEvaluator\l::find_matches" alt="" coords="562,5,714,49"/>
+<area shape="rect" id="node7" href="$dd/da3/classFilterEvents.html#ab72cb9217b432fc564f426938dec4b7c" title="FilterEvents::process\l_event" alt="" coords="557,551,719,595"/>
+<area shape="rect" id="node9" href="$d5/d76/classMakeMilleFiles.html#a125dde1d0314fd7c3dba92d218b59898" title="MakeMilleFiles::process\l_event" alt="" coords="785,1376,963,1420"/>
+<area shape="rect" id="node11" href="$d1/d1e/classSvtxClusterEval.html#a4254832886182e24cb8bb6130a149efc" title="SvtxClusterEval::all\l_clusters_from" alt="" coords="562,345,714,389"/>
+<area shape="rect" id="node12" href="$df/dad/classSvtxTrackEval.html#a42ac8451a0d81a9d6deb3f13b7f0bbd3" title="SvtxTrackEval::all\l_tracks_from" alt="" coords="568,73,708,117"/>
+<area shape="rect" id="node13" href="$df/dad/classSvtxTrackEval.html#a78d25e749c7b264662342f64d7cc46a5" title="SvtxTrackEval::all\l_truth_hits" alt="" coords="568,141,708,185"/>
+<area shape="rect" id="node14" href="$d1/d1e/classSvtxClusterEval.html#ae2d6f811db24d80dac0f4b247de56bcd" title="SvtxClusterEval::all\l_truth_particles" alt="" coords="562,413,714,457"/>
+<area shape="rect" id="node16" href="$d1/d1e/classSvtxClusterEval.html#a03461dc91226065d40111184b3685b82" title="SvtxClusterEval::get\l_energy_contribution" alt="" coords="556,209,720,253"/>
+<area shape="rect" id="node17" href="$d1/d1e/classSvtxClusterEval.html#af87117c599b02c0f387f8d2c0231bec2" title="SvtxClusterEval::max\l_truth_hit_by_energy" alt="" coords="555,277,721,321"/>
+</map>

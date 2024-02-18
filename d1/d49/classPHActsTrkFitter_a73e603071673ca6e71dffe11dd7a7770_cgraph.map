@@ -1,0 +1,51 @@
+<map id="PHActsTrkFitter::loopTracks" name="PHActsTrkFitter::loopTracks">
+<area shape="rect" id="node2" href="$d1/d09/classTrackSeedContainer.html#af7bf8baf39a54d7c6ef3bc1a33805b59" title="TrackSeedContainer\l::begin" alt="" coords="311,5,469,49"/>
+<area shape="rect" id="node3" href="$d0/dbc/pdgidfunc_8h.html#a9f9685e4a65c5e7a2b7e17213ae77cf3" title="charge" alt="" coords="356,73,424,101"/>
+<area shape="rect" id="node6" href="$d0/dbc/pdgidfunc_8h.html#ab7d44e8375e9af1db887d5da846bee58" title="is_valid" alt="" coords="860,125,931,153"/>
+<area shape="rect" id="node7" href="$d9/dd7/classActs_1_1GenericBoundTrackParameters.html#a721d9b81763776fa59ae5552961c4855" title="Acts::GenericBoundTrackParameters\l::create" alt="" coords="256,177,524,221"/>
+<area shape="rect" id="node8" href="$d1/d09/classTrackSeedContainer.html#a17c1faa72961505c3f179a84c44622fa" title="TrackSeedContainer::end" alt="" coords="294,245,486,273"/>
+<area shape="rect" id="node9" href="$d1/d09/classTrackSeedContainer.html#a10d2a98784bdbd6ec3349594677bce6e" title="TrackSeedContainer\l::find" alt="" coords="311,297,469,341"/>
+<area shape="rect" id="node10" href="$d1/d49/classPHActsTrkFitter.html#aee66006756dd8c8d3df31f74712796ac" title="PHActsTrkFitter::fitTrack" alt="" coords="300,365,480,393"/>
+<area shape="rect" id="node11" href="$d0/d34/tracks_8C.html#ac926d763061c5568ecb5f5e062e9c778" title="tracks" alt="" coords="661,365,723,393"/>
+<area shape="rect" id="node12" href="$d3/d64/classActsGeometry.html#aef1d7a1753e979a73b28e0ffbe6ab994" title="ActsGeometry::geometry" alt="" coords="596,1313,788,1341"/>
+<area shape="rect" id="node13" href="$d1/d09/classTrackSeedContainer.html#a94b6021b19ce9a7a3a76c6cd0a42c290" title="TrackSeedContainer::get" alt="" coords="295,521,485,549"/>
+<area shape="rect" id="node14" href="$d0/d5e/classPHTimer.html#a7872e5ee686a56214a532aa1f333f3f7" title="get cumulated time" alt="" coords="572,1001,812,1029"/>
+<area shape="rect" id="node15" href="$dc/d80/classTrackSeed.html#a8dcaf7d95e654fb73afb61302e2a5e6a" title="TrackSeed::get_crossing" alt="" coords="297,641,483,669"/>
+<area shape="rect" id="node16" href="$dc/d80/classTrackSeed.html#afd51a54a1fb81568aa8b4e42b3187205" title="TrackSeed::get_crossing\l_estimate" alt="" coords="297,693,483,737"/>
+<area shape="rect" id="node17" href="$d2/db9/classSvtxTrack__v4.html#a1a94a1474166c5b83f09544bf4437aaf" title="SvtxTrack_v4::get_quality" alt="" coords="293,761,487,789"/>
+<area shape="rect" id="node18" href="$dc/d80/classTrackSeed.html#afb859fc3637fe842310593b7f9f13922" title="TrackSeed::get_silicon\l_seed_index" alt="" coords="304,813,476,857"/>
+<area shape="rect" id="node19" href="$dc/d80/classTrackSeed.html#a4653b99bca135b643fde1d197d82ecc6" title="TrackSeed::get_tpc\l_seed_index" alt="" coords="315,881,465,925"/>
+<area shape="rect" id="node20" href="$dc/d80/classTrackSeed.html#a7a51a3775ff6ff0e212075bf48f9a966" title="TrackSeed::get_x" alt="" coords="321,949,459,977"/>
+<area shape="rect" id="node21" href="$da/d7b/namespaceActs.html#a9b4dee934b0b193d57604b19bc8cd527" title="get default debug output logger" alt="" coords="301,469,479,497"/>
+<area shape="rect" id="node24" href="$dc/db9/classMakeSourceLinks.html#a80778ca794a89dee94ef431f93978fc1" title="MakeSourceLinks::getSource\lLinks" alt="" coords="283,573,497,617"/>
+<area shape="rect" id="node30" href="$d3/d64/classActsGeometry.html#a5de502147722c0e0e8549b706d5d21a8" title="ActsGeometry::maps" alt="" coords="610,1223,774,1251"/>
+<area shape="rect" id="node31" href="$d0/d5e/classPHTimer.html#a433d96c3401380d49ff01acfd16ac69c" title="Restart timer." alt="" coords="626,1053,758,1081"/>
+<area shape="rect" id="node32" href="$d0/d5e/classPHTimer.html#adce6f9a85834e59bd154b9c624ee4e41" title="stops the counter" alt="" coords="634,1112,750,1140"/>
+<area shape="rect" id="node33" href="$d1/d49/classPHActsTrkFitter.html#acc5917f8ce6e9708a1f97fca3c787cb8" title="PHActsTrkFitter::getSurface\lVector" alt="" coords="288,1395,492,1439"/>
+<area shape="rect" id="node34" href="$d0/dcd/structActsSurfaceMaps.html#a482c3108749ef0053d7ddcba06fc6ac0" title="true if given surface corresponds to Micromegas" alt="" coords="572,1592,812,1636"/>
+<area shape="rect" id="node35" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="604,1403,780,1431"/>
+<area shape="rect" id="node36" href="$d1/d49/classPHActsTrkFitter.html#abef281afb12f30e5b3571ec8c512b3da" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="295,1104,485,1148"/>
+<area shape="rect" id="node37" href="$d7/d8b/classSvtxTrackMap.html#a9ef80417d7a83bff19581d0f162eca1d" title="SvtxTrackMap::insertWithKey" alt="" coords="281,1515,499,1543"/>
+<area shape="rect" id="node38" href="$df/da6/MeasurementsToSpacepoints_8cpp.html#a8265920c7b4e4729bc242bf710e35fba" title="logger" alt="" coords="357,1567,423,1595"/>
+<area shape="rect" id="node39" href="$dc/d1b/classActs_1_1ParticleHypothesis.html#a963c15014185a0480f89ce287524fc2a" title="Acts::ParticleHypothesis\l::pion" alt="" coords="297,1619,483,1663"/>
+<area shape="rect" id="node40" href="$d1/d49/classPHActsTrkFitter.html#abb8e70fafb2d82da9d45510c8051a892" title="PHActsTrkFitter::printTrackSeed" alt="" coords="275,1687,505,1715"/>
+<area shape="rect" id="node41" href="$dc/db9/classMakeSourceLinks.html#a4c6e5aeac33e8fdcad224e82789f25b0" title="MakeSourceLinks::resetTransient\lTransformMap" alt="" coords="269,1275,511,1319"/>
+<area shape="rect" id="node42" href="$d2/db9/classSvtxTrack__v4.html#a24c27ad581be1e3a3cb417240d19625f" title="SvtxTrack_v4::set_crossing" alt="" coords="289,1791,491,1819"/>
+<area shape="rect" id="node43" href="$d2/db9/classSvtxTrack__v4.html#afd461442e058313694fd28c74c7d27e3" title="SvtxTrack_v4::set_id" alt="" coords="311,1843,469,1871"/>
+<area shape="rect" id="node44" href="$dc/db9/classMakeSourceLinks.html#ae5126f15627e6d70b6a25f2d128d7bb8" title="MakeSourceLinks::set\l_pp_mode" alt="" coords="306,1895,474,1939"/>
+<area shape="rect" id="node45" href="$d2/db9/classSvtxTrack__v4.html#a77f3c3ee6bb801e2f89e1ff3dcd4c034" title="SvtxTrack_v4::set_silicon_seed" alt="" coords="277,1963,503,1991"/>
+<area shape="rect" id="node46" href="$d2/db9/classSvtxTrack__v4.html#ac41d35cc9294f6a06c19dcbb71524c67" title="SvtxTrack_v4::set_tpc_seed" alt="" coords="287,2015,493,2043"/>
+<area shape="rect" id="node47" href="$d1/d49/classPHActsTrkFitter.html#a51f43f03ff440e2f5a78fc2635061527" title="PHActsTrkFitter::setDefault\lCovariance" alt="" coords="289,2067,491,2111"/>
+<area shape="rect" id="node48" href="$dc/db9/classMakeSourceLinks.html#af35d246e80991cdcfc6986a8a3e6cf6d" title="MakeSourceLinks::setVerbosity" alt="" coords="275,2135,505,2163"/>
+<area shape="rect" id="node49" href="$d7/d8b/classSvtxTrackMap.html#a508e23a620af3b20bfc0be05aa5b4ada" title="SvtxTrackMap::size" alt="" coords="315,2187,465,2215"/>
+<area shape="rect" id="node50" href="$d1/d09/classTrackSeedContainer.html#a1fcaea7903505ae896d000d1c3cf506d" title="TrackSeedContainer\l::size" alt="" coords="311,2239,469,2283"/>
+<area shape="rect" id="node4" href="$d0/dbc/pdgidfunc_8h.html#ad55e056d9b8a30b50cd267eee07381b9" title="is_Qball" alt="" coords="979,73,1052,101"/>
+<area shape="rect" id="node5" href="$d0/dbc/pdgidfunc_8h.html#a8001bec28d3655890f2d1324ff0fd42e" title="three_charge" alt="" coords="637,73,747,101"/>
+<area shape="rect" id="node22" href="$dc/d11/Prototype2_2EMCal_2macros_2SaveCanvas_8m.html#a8efe7494567713c8ec7a6803834a0bb6" title="print" alt="" coords="665,417,719,445"/>
+<area shape="rect" id="node23" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="604,469,780,497"/>
+<area shape="rect" id="node25" href="$dc/d80/classTrackSeed.html#abf1912560332b934e99c95bc24795730" title="TrackSeed::begin_cluster_keys" alt="" coords="577,589,807,617"/>
+<area shape="rect" id="node26" href="$d0/ddd/classTpcClusterZCrossingCorrection.html#ad1fc2a7955919ed9295b5e83eed950c6" title="TpcClusterZCrossingCorrection\l::correctZ" alt="" coords="577,641,807,685"/>
+<area shape="rect" id="node27" href="$dc/d80/classTrackSeed.html#ab8e91b9697988f41d2ee352285f8ce75" title="TrackSeed::end_cluster_keys" alt="" coords="584,709,800,737"/>
+<area shape="rect" id="node28" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="611,761,773,805"/>
+<area shape="rect" id="node29" href="$d4/dc0/classClusterErrorPara.html#af9505cdfcb43bee14451de98118efbfd" title="ClusterErrorPara::get\l_clusterv5_modified_error" alt="" coords="593,521,791,565"/>
+</map>

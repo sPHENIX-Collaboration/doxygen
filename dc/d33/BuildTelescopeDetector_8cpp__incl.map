@@ -1,0 +1,37 @@
+<map id="acts/blob/sPHENIX/Examples/Detectors/TelescopeDetector/src/BuildTelescopeDetector.cpp" name="acts/blob/sPHENIX/Examples/Detectors/TelescopeDetector/src/BuildTelescopeDetector.cpp">
+<area shape="rect" id="node2" href="$d7/d46/BuildTelescopeDetector_8hpp.html" title="ActsExamples/TelescopeDetector\l/BuildTelescopeDetector.hpp" alt="" coords="4350,113,4597,157"/>
+<area shape="rect" id="node3" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="2706,205,2985,233"/>
+<area shape="rect" id="node4" href="$da/dd2/Algebra_8hpp.html" title="Acts/Definitions/Algebra.hpp" alt="" coords="2664,809,2880,837"/>
+<area shape="rect" id="node7" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="1368,725,1645,753"/>
+<area shape="rect" id="node12" href="$df/d37/TrackingVolume_8hpp.html" title="Acts/Geometry/TrackingVolume.hpp" alt="" coords="3117,281,3381,309"/>
+<area shape="rect" id="node15" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="1773,549,1973,577"/>
+<area shape="rect" id="node25" href="$d3/de5/SurfaceArray_8hpp.html" title="Acts/Surfaces/SurfaceArray.hpp" alt="" coords="1048,457,1283,485"/>
+<area shape="rect" id="node26" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="2757,549,2944,577"/>
+<area shape="rect" id="node32" href="$df/d6f/Units_8hpp.html" title="Acts/Definitions/Units.hpp" alt="" coords="5349,121,5547,149"/>
+<area shape="rect" id="node33" href="$de/d7c/CuboidVolumeBounds_8hpp.html" title="Acts/Geometry/CuboidVolume\lBounds.hpp" alt="" coords="6074,449,6299,493"/>
+<area shape="rect" id="node36" href="$dd/d4e/CylinderVolumeBounds_8hpp.html" title="Acts/Geometry/CylinderVolume\lBounds.hpp" alt="" coords="4939,449,5173,493"/>
+<area shape="rect" id="node38" href="$da/de8/DiscLayer_8hpp.html" title="Acts/Geometry/DiscLayer.hpp" alt="" coords="661,281,883,309"/>
+<area shape="rect" id="node40" href="$dd/de4/ILayerArrayCreator_8hpp.html" title="Acts/Geometry/ILayerArray\lCreator.hpp" alt="" coords="3597,541,3803,585"/>
+<area shape="rect" id="node41" href="$d5/dd6/ITrackingVolumeHelper_8hpp.html" title="Acts/Geometry/ITrackingVolume\lHelper.hpp" alt="" coords="195,633,432,677"/>
+<area shape="rect" id="node42" href="$d7/d99/LayerArrayCreator_8hpp.html" title="Acts/Geometry/LayerArray\lCreator.hpp" alt="" coords="2227,449,2429,493"/>
+<area shape="rect" id="node43" href="$d4/d00/PlaneLayer_8hpp.html" title="Acts/Geometry/PlaneLayer.hpp" alt="" coords="1429,281,1659,309"/>
+<area shape="rect" id="node45" href="$d9/dfe/HomogeneousSurfaceMaterial_8hpp.html" title="Acts/Material/Homogeneous\lSurfaceMaterial.hpp" alt="" coords="3725,357,3939,401"/>
+<area shape="rect" id="node46" href="$d0/dd1/MaterialSlab_8hpp.html" title="Acts/Material/MaterialSlab.hpp" alt="" coords="3371,457,3600,485"/>
+<area shape="rect" id="node47" href="$d0/d70/Material_8hpp.html" title="Acts/Material/Material.hpp" alt="" coords="3069,549,3269,577"/>
+<area shape="rect" id="node48" href="$d5/dfa/RadialBounds_8hpp.html" title="Acts/Surfaces/RadialBounds.hpp" alt="" coords="6442,457,6683,485"/>
+<area shape="rect" id="node49" href="$dc/d7d/RectangleBounds_8hpp.html" title="Acts/Surfaces/RectangleBounds.hpp" alt="" coords="5680,549,5947,577"/>
+<area shape="rect" id="node17" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="3577,725,3778,753"/>
+<area shape="rect" id="node18" href="$de/d09/BinningType_8hpp.html" title="Acts/Utilities/BinningType.hpp" alt="" coords="2904,809,3128,837"/>
+<area shape="rect" id="node31" href="$d2/d7d/TelescopeDetectorElement_8hpp.html" title="ActsExamples/TelescopeDetector\l/TelescopeDetectorElement.hpp" alt="" coords="3775,449,4022,493"/>
+<area shape="rect" id="node9" href="$d5/d67/GeometryIdentifier_8hpp.html" title="Acts/Geometry/GeometryIdentifier.hpp" alt="" coords="2606,457,2890,485"/>
+<area shape="rect" id="node8" href="$d2/d59/ContextType_8hpp.html" title="Acts/Utilities/detail\l/ContextType.hpp" alt="" coords="1433,801,1581,845"/>
+<area shape="rect" id="node13" href="$d2/d3b/Layer_8hpp.html" title="Acts/Geometry/Layer.hpp" alt="" coords="1375,365,1569,393"/>
+<area shape="rect" id="node16" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="3277,641,3499,669"/>
+<area shape="rect" id="node29" href="$d6/d0f/Volume_8hpp.html" title="Acts/Geometry/Volume.hpp" alt="" coords="5169,641,5377,669"/>
+<area shape="rect" id="node30" href="$d9/db6/BoundingBox_8hpp.html" title="Acts/Utilities/BoundingBox.hpp" alt="" coords="5462,725,5693,753"/>
+<area shape="rect" id="node14" href="$d1/d33/ApproachDescriptor_8hpp.html" title="Acts/Geometry/ApproachDescriptor.hpp" alt="" coords="733,457,1024,485"/>
+<area shape="rect" id="node34" href="$d4/dd8/VolumeBounds_8hpp.html" title="Acts/Geometry/VolumeBounds.hpp" alt="" coords="5347,549,5605,577"/>
+<area shape="rect" id="node37" href="$da/d6d/periodic_8hpp.html" title="Acts/Utilities/detail\l/periodic.hpp" alt="" coords="6225,541,6373,585"/>
+<area shape="rect" id="node39" href="$d8/de8/DiscSurface_8hpp.html" title="Acts/Surfaces/DiscSurface.hpp" alt="" coords="379,457,608,485"/>
+<area shape="rect" id="node44" href="$d7/dec/PlaneSurface_8hpp.html" title="Acts/Surfaces/PlaneSurface.hpp" alt="" coords="1509,457,1747,485"/>
+</map>

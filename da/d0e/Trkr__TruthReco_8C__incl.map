@@ -1,0 +1,43 @@
+<map id="macros/blob/master/common/Trkr_TruthReco.C" name="macros/blob/master/common/Trkr_TruthReco.C">
+<area shape="rect" id="node2" href="$dc/dfe/GlobalVariables_8C.html" title="GlobalVariables.C" alt="" coords="271,105,411,133"/>
+<area shape="rect" id="node4" href="$da/d81/G4__TrkrVariables_8C.html" title="G4_TrkrVariables.C" alt="" coords="291,197,439,225"/>
+<area shape="rect" id="node9" href="$dc/da9/SvtxTruthRecoTableEval_8h.html" title="g4eval/SvtxTruthRecoTable\lEval.h" alt="" coords="848,97,1051,141"/>
+<area shape="rect" id="node16" href="$df/da1/MakeActsGeometry_8h.html" title="Make Acts geometry from sPHENIX TGeometry." alt="" coords="6006,105,6237,133"/>
+<area shape="rect" id="node29" href="$d9/d89/PHActsSiliconSeeding_8h.html" title="trackreco/PHActsSiliconSeeding.h" alt="" coords="3841,197,4089,225"/>
+<area shape="rect" id="node30" href="$d5/d0f/PHActsTrackProjection_8h.html" title="trackreco/PHActsTrackProjection.h" alt="" coords="4769,197,5018,225"/>
+<area shape="rect" id="node31" href="$dc/d93/PHActsTrkFitter_8h.html" title="Refit SvtxTracks with Acts." alt="" coords="5522,105,5723,133"/>
+<area shape="rect" id="node32" href="$d9/de1/PHActsVertexPropagator_8h.html" title="trackreco/PHActsVertexPropagator.h" alt="" coords="5043,197,5307,225"/>
+<area shape="rect" id="node33" href="$df/de1/PHCASeeding_8h.html" title="trackreco/PHCASeeding.h" alt="" coords="2597,105,2790,133"/>
+<area shape="rect" id="node34" href="$d8/d71/PHTrackSeeding_8h.html" title="Base class for track seeding." alt="" coords="2151,197,2294,225"/>
+<area shape="rect" id="node35" href="$d2/dc6/PHMicromegasTpcTrackMatching_8h.html" title="trackreco/PHMicromegasTpc\lTrackMatching.h" alt="" coords="3076,189,3289,233"/>
+<area shape="rect" id="node36" href="$df/d07/PHSiliconSeedMerger_8h.html" title="trackreco/PHSiliconSeedMerger.h" alt="" coords="2546,197,2790,225"/>
+<area shape="rect" id="node37" href="$dd/d5d/PHSiliconTpcTrackMatching_8h.html" title="trackreco/PHSiliconTpcTrack\lMatching.h" alt="" coords="1865,189,2077,233"/>
+<area shape="rect" id="node38" href="$db/d76/PHSimpleKFProp_8h.html" title="kalman filter based propagator" alt="" coords="4061,105,4273,133"/>
+<area shape="rect" id="node39" href="$d8/d13/PHSimpleVertexFinder_8h.html" title="trackreco/PHSimpleVertex\lFinder.h" alt="" coords="1261,189,1459,233"/>
+<area shape="rect" id="node40" href="$dd/d1c/PHTpcDeltaZCorrection_8h.html" title="Navigate along a given track and correct TPC cluster z position to account for particle finite veloci..." alt="" coords="4164,197,4423,225"/>
+<area shape="rect" id="node41" href="$d9/d04/PHTrackCleaner_8h.html" title="trackreco/PHTrackCleaner.h" alt="" coords="1635,197,1840,225"/>
+<area shape="rect" id="node42" href="$dc/d26/PHTruthSiliconAssociation_8h.html" title="trackreco/PHTruthSilicon\lAssociation.h" alt="" coords="2866,189,3051,233"/>
+<area shape="rect" id="node43" href="$dc/d9c/PHTruthTrackSeeding_8h.html" title="Vertexing using truth info." alt="" coords="3727,105,3971,133"/>
+<area shape="rect" id="node44" href="$d4/db5/PHTruthVertexing_8h.html" title="Vertexing using truth info." alt="" coords="792,289,1011,317"/>
+<area shape="rect" id="node45" href="$db/d30/SecondaryVertexFinder_8h.html" title="trackreco/SecondaryVertex\lFinder.h" alt="" coords="2318,189,2522,233"/>
+<area shape="rect" id="node46" href="$d4/d80/TpcLoadDistortionCorrection_8h.html" title="loads distortion correction histogram from file to DistortionCorrectionObject and stores on node tree..." alt="" coords="3364,197,3615,225"/>
+<area shape="rect" id="node47" href="$de/d0b/PHTpcResiduals_8h.html" title="tpccalib/PHTpcResiduals.h" alt="" coords="4497,197,4695,225"/>
+<area shape="rect" id="node50" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="1059,197,1237,225"/>
+<area shape="rect" id="node3" href="$d9/d5f/EDecayType_8hh.html" title="g4decayer/EDecayType.hh" alt="" coords="5,197,205,225"/>
+<area shape="rect" id="node5" href="$dd/d6f/PHG4InttDefs_8h.html" title="g4intt/PHG4InttDefs.h" alt="" coords="281,289,450,317"/>
+<area shape="rect" id="node7" href="$df/d94/PHG4MvtxDefs_8h.html" title="g4mvtx/PHG4MvtxDefs.h" alt="" coords="577,289,767,317"/>
+<area shape="rect" id="node10" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="3100,289,3265,317"/>
+<area shape="rect" id="node11" href="$da/d3f/PHG4ParticleSvtxMap_8h.html" title="trackbase_historic\l/PHG4ParticleSvtxMap.h" alt="" coords="589,189,774,233"/>
+<area shape="rect" id="node13" href="$d1/d0d/SvtxPHG4ParticleMap_8h.html" title="trackbase_historic\l/SvtxPHG4ParticleMap.h" alt="" coords="798,189,983,233"/>
+<area shape="rect" id="node17" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="4047,289,4207,317"/>
+<area shape="rect" id="node18" href="$d7/d3d/ActsGeometry_8h.html" title="trackbase/ActsGeometry.h" alt="" coords="5003,289,5202,317"/>
+<area shape="rect" id="node19" href="$da/dd2/Algebra_8hpp.html" title="Acts/Definitions/Algebra.hpp" alt="" coords="5685,289,5901,317"/>
+<area shape="rect" id="node20" href="$d5/d50/BinnedArray_8hpp.html" title="Acts/Utilities/BinnedArray.hpp" alt="" coords="5786,197,6009,225"/>
+<area shape="rect" id="node21" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="6103,289,6289,317"/>
+<area shape="rect" id="node22" href="$df/d90/MeasurementHelpers_8hpp.html" title="Acts/EventData/Measurement\lHelpers.hpp" alt="" coords="6869,189,7093,233"/>
+<area shape="rect" id="node23" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="6235,197,6514,225"/>
+<area shape="rect" id="node24" href="$d6/da8/MagneticFieldContext_8hpp.html" title="Acts/MagneticField\l/MagneticFieldContext.hpp" alt="" coords="6592,281,6795,325"/>
+<area shape="rect" id="node25" href="$d0/d28/CalibrationContext_8hpp.html" title="Acts/Utilities/Calibration\lContext.hpp" alt="" coords="7117,189,7301,233"/>
+<area shape="rect" id="node26" href="$db/d3f/MagneticFieldProvider_8hpp.html" title="Acts/MagneticField\l/MagneticFieldProvider.hpp" alt="" coords="6590,189,6794,233"/>
+<area shape="rect" id="node27" href="$d6/d38/TGeoDetectorWithOptions_8hpp.html" title="ActsExamples/Detector\l/TGeoDetectorWithOptions.hpp" alt="" coords="7325,189,7560,233"/>
+</map>

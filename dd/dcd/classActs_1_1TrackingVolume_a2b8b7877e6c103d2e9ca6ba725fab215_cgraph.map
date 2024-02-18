@@ -1,0 +1,17 @@
+<map id="Acts::TrackingVolume::closeGeometry" name="Acts::TrackingVolume::closeGeometry">
+<area shape="rect" id="node2" href="$d3/d07/classActs_1_1GeometryObject.html#ab156ca1460c8174c20427e4832d32f89" title="Acts::GeometryObject\l::assignGeometryId" alt="" coords="485,5,657,49"/>
+<area shape="rect" id="node4" href="$d6/dae/classActs_1_1AbstractVolume.html#a9d3eddaca1264ed44c798c2c9228924d" title="Acts::AbstractVolume\l::boundarySurfaces" alt="" coords="241,524,407,568"/>
+<area shape="rect" id="node5" href="$da/d28/classActs_1_1Layer.html#a6cf41f704edf1d6c9c9a6d787605a801" title="Acts::Layer::closeGeometry" alt="" coords="220,203,428,231"/>
+<area shape="rect" id="node6" href="$d9/d6d/classActs_1_1IMaterialDecorator.html#a64ffbe7f4aaa793bd7089ed780b6313c" title="Acts::IMaterialDecorator\l::decorate" alt="" coords="477,73,664,117"/>
+<area shape="rect" id="node11" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a2251b0859f703d093338cb9afa1c73a1" title="Set the sensitive identifier." alt="" coords="476,277,665,321"/>
+<area shape="rect" id="node12" href="$d4/da9/namespaceboost.html#a9033c057e939b0799426af408e78ca87" title="boost::const_pointer_cast" alt="" coords="227,592,421,620"/>
+<area shape="rect" id="node13" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ad16dff2f099c193e28416cd4d8ae4f13" title="Set the boundary identifier." alt="" coords="476,345,665,389"/>
+<area shape="rect" id="node14" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a78646d595690eed970f9de63db924590" title="Set the layer identifier." alt="" coords="229,388,419,432"/>
+<area shape="rect" id="node15" href="$dd/dcd/classActs_1_1TrackingVolume.html#a75fc03358cb98ecd0651ee786304456e" title="Acts::TrackingVolume\l::setMotherVolume" alt="" coords="241,644,407,688"/>
+<area shape="rect" id="node16" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a2fe70f2ef38b9a25d0a4b2cf8714c7b1" title="Set the volume identifier." alt="" coords="229,456,419,500"/>
+<area shape="rect" id="node3" href="$d3/d07/classActs_1_1GeometryObject.html#abc805e37f184d25c4d25b5f99330125c" title="Acts::GeometryObject\l::geometryId" alt="" coords="722,5,894,49"/>
+<area shape="rect" id="node7" href="$da/d56/structActs_1_1GeometryIdentifierHook.html#a7a1f719910b779af7e5657316e1782f4" title="Acts::GeometryIdentifier\lHook::decorateIdentifier" alt="" coords="476,141,665,185"/>
+<area shape="rect" id="node8" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ad8026c444eca861f1048624ef65c2134" title="Set the approach identifier." alt="" coords="476,209,665,253"/>
+<area shape="rect" id="node9" href="$d7/d33/classActs_1_1GeometryIdentifier.html#abba36725889d9d66eb0a50a27bab4d0a" title="Set the masked bits to id in the encoded value." alt="" coords="713,345,903,389"/>
+<area shape="rect" id="node10" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ac13065798464cc86b747086eea9020e2" title="Extract the bit shift necessary to access the masked values." alt="" coords="951,345,1140,389"/>
+</map>

@@ -1,0 +1,25 @@
+var classCaloWaveformFitting =
+[
+    [ "CaloWaveformFitting", "d7/d58/classCaloWaveformFitting.html#a7fe9388a1a88a9bd69619eae80047195", null ],
+    [ "~CaloWaveformFitting", "d7/d58/classCaloWaveformFitting.html#a99daa07736172d2810c2d964045718a7", null ],
+    [ "calo_processing_fast", "d7/d58/classCaloWaveformFitting.html#ae58828a240d2a23fde5da7f3377122e3", null ],
+    [ "calo_processing_templatefit", "d7/d58/classCaloWaveformFitting.html#a184bfa3902fc23168ce6be2de79a0d72", null ],
+    [ "FastMax", "d7/d58/classCaloWaveformFitting.html#a804eb257c0a33e90cbd85c788e100e94", null ],
+    [ "get_nthreads", "d7/d58/classCaloWaveformFitting.html#ab5f4bf8e6cb1721d288fbbc3aaa0cf24", null ],
+    [ "initialize_processing", "d7/d58/classCaloWaveformFitting.html#a991b5a4279c68f2c8070f40af96ee73c", null ],
+    [ "process_waveform", "d7/d58/classCaloWaveformFitting.html#a79f158bd2f28038d5e6e3b57383df8e0", null ],
+    [ "set_nthreads", "d7/d58/classCaloWaveformFitting.html#a92ef827936bf107275a58215ec770050", null ],
+    [ "set_softwarezerosuppression", "d7/d58/classCaloWaveformFitting.html#a4b6d46581101127533548e6f58b73fb1", null ],
+    [ "set_template_file", "d7/d58/classCaloWaveformFitting.html#a424c86552e2955a84e0107861a493a7f", null ],
+    [ "template_function", "d7/d58/classCaloWaveformFitting.html#a452e5cccbb0e69cbf7e02dd0fe73ea6d", null ],
+    [ "_bdosoftwarezerosuppression", "d7/d58/classCaloWaveformFitting.html#aa197fcf18b659edb7e7be9113878c37c", null ],
+    [ "_nsoftwarezerosuppression", "d7/d58/classCaloWaveformFitting.html#ae3969dd590f726a0a0db8053b42308a0", null ],
+    [ "_nthreads", "d7/d58/classCaloWaveformFitting.html#a23ac6e764d626e991ed14b9473131186", null ],
+    [ "_nzerosuppresssamples", "d7/d58/classCaloWaveformFitting.html#a691af5fb3b9e274d9e7e8d6c9ef621eb", null ],
+    [ "h_template", "d7/d58/classCaloWaveformFitting.html#a227b8ac3de46f9e210f58de3ee07ccd9", null ],
+    [ "m_model_name", "d7/d58/classCaloWaveformFitting.html#ad5e1171b9a4673c193276fdce8399343", null ],
+    [ "m_peakTimeTemp", "d7/d58/classCaloWaveformFitting.html#afe7b04f306a122a0e667c9afc4116890", null ],
+    [ "m_template_input_file", "d7/d58/classCaloWaveformFitting.html#a8e052dbb2454171115731e1837405dab", null ],
+    [ "url_onnx", "d7/d58/classCaloWaveformFitting.html#aff4da661951ad46b4313ac8f4990cf58", null ],
+    [ "url_template", "d7/d58/classCaloWaveformFitting.html#a1be33343a7c5d8a14d3f74b7855d4d0a", null ]
+];

@@ -1,0 +1,40 @@
+<map id="PHG4FullProjSpacalDetector::Construct_AzimuthalSeg" name="PHG4FullProjSpacalDetector::Construct_AzimuthalSeg">
+<area shape="rect" id="node2" href="$d4/d9b/classPHG4SpacalDisplayAction.html#a3851780045227ce76daf7e308a477c54" title="PHG4SpacalDisplayAction\l::AddVolume" alt="" coords="1151,12,1347,56"/>
+<area shape="rect" id="node3" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a41ebdae7499c21d2735235a485d0d2db" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="270,527,481,571"/>
+<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="1154,820,1343,848"/>
+<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#a8e548682ab05493f7cdbd391bc4f67be" title="PHG4Detector::GetDetector\lMaterial" alt="" coords="1144,964,1353,1008"/>
+<area shape="rect" id="node6" href="$d1/d05/classPHG4FullProjSpacalDetector.html#ae56250077cd2b8eaa62829541a3ff6f3" title="get the v3 cast of the geometry object" alt="" coords="864,174,1075,218"/>
+<area shape="rect" id="node7" href="$d0/da4/classPHG4SpacalDetector.html#aa474210b76deb186fffbfb75bb49fd06" title="PHG4SpacalDetector\l::GetDisplayAction" alt="" coords="1167,114,1330,158"/>
+<area shape="rect" id="node16" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="1138,664,1359,692"/>
+<area shape="rect" id="node18" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a240cbb1dc072be6fc5eba7c30f45cce5" title="PHG4CylinderGeom_Spacalv1\l::get_construction_verbose" alt="" coords="858,242,1081,286"/>
+<area shape="rect" id="node19" href="$d9/d25/classPHG4GDMLConfig.html#a4993e27fa068c073e2d8d9a17a25143f" title="PHG4GDMLConfig::exclude\l_physical_vol" alt="" coords="868,651,1071,695"/>
+<area shape="rect" id="node22" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a1c1e5ff96ef98b79c948b1183a84b1d4" title="PHG4CylinderGeom_Spacalv2\l::get_assembly_spacing" alt="" coords="264,1024,487,1068"/>
+<area shape="rect" id="node23" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a8e774c1fa0ee8f946a2947baba40d211" title="PHG4CylinderGeom_Spacalv2\l::get_azimuthal_n_sec" alt="" coords="264,1092,487,1136"/>
+<area shape="rect" id="node24" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a7f533440a35a804f13778f1c9a7f2f61" title="PHG4CylinderGeom_Spacalv1\l::get_length" alt="" coords="264,1160,487,1204"/>
+<area shape="rect" id="node27" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a60f2e2de1d58f633cb10aea8438cd697" title="PHG4CylinderGeom_Spacalv3\l::get_sector_tower_map" alt="" coords="264,1228,487,1272"/>
+<area shape="rect" id="node28" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a9a3573414ce404b36c36b90e2328c353" title="PHG4CylinderGeom_Spacalv3\l::get_sidewall_outer_torr" alt="" coords="264,1296,487,1340"/>
+<area shape="rect" id="node29" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#af5616980c88bd7bbb66261b6f2cbc4c4" title="PHG4CylinderGeom_Spacalv3\l::get_sidewall_thickness" alt="" coords="264,1364,487,1408"/>
+<area shape="rect" id="node30" href="$d1/da8/classPHFlag.html#aa2dc135d4d458dd420bbead4ea2b5f0b" title="PHFlag::get_StringFlag" alt="" coords="288,1432,463,1460"/>
+<area shape="rect" id="node38" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="294,1484,457,1512"/>
+<area shape="rect" id="node8" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a4d677490d51a2571ecd21ea86999f047" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="563,451,773,495"/>
+<area shape="rect" id="node20" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a8538de3102407fb6d53ed0b7b75a3b14" title="Fully projective spacal with 2D tapered modules. To speed up construction, same&#45;length fiber is used ..." alt="" coords="535,519,801,579"/>
+<area shape="rect" id="node21" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a1f716c0e178a97bfdb656c1e9d0b55c9" title="PHG4CylinderGeom_Spacalv1\l::get_config" alt="" coords="557,603,779,647"/>
+<area shape="rect" id="node9" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#addae9d5cbb9d190afef536207fced06e" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_outer_r" alt="" coords="1137,302,1360,346"/>
+<area shape="rect" id="node12" href="$df/dec/classPHG4CylinderGeom__Spacalv3_1_1geom__tower.html#a1cefef911cb0b74722ec4334da07a83d" title="fiber layout (2D index of 0...NFiberX/NFiberY) &#45;&gt; fiber_id" alt="" coords="849,583,1089,627"/>
+<area shape="rect" id="node13" href="$d0/da4/classPHG4SpacalDetector.html#aeb7c6f4586ddc3f81cc132e058aa2f32" title="PHG4SpacalDetector\l::Construct_Fiber" alt="" coords="888,412,1051,456"/>
+<area shape="rect" id="node10" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#af9c9dfe13a4c109517f21e57dd8e0267" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_clading_thickness" alt="" coords="1408,302,1631,346"/>
+<area shape="rect" id="node11" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#aa734a4efc03e2122c1f8aab955e3b065" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_core_diameter" alt="" coords="1408,391,1631,435"/>
+<area shape="rect" id="node14" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a03d858d218fda2c928b90874d24e85d3" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_clading_mat" alt="" coords="1137,474,1360,518"/>
+<area shape="rect" id="node15" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a3f8956704fc3f7200e35156a7e93f2a7" title="PHG4CylinderGeom_Spacalv1\l::get_fiber_core_mat" alt="" coords="1137,542,1360,586"/>
+<area shape="rect" id="node17" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="1154,370,1343,398"/>
+<area shape="rect" id="node25" href="$d3/d63/classPHG4CylinderGeomv1.html#a9e1ab39a080d1e6bd2ca0f94f3ea5ea3" title="PHG4CylinderGeomv1\l::get_zmax" alt="" coords="583,1126,753,1170"/>
+<area shape="rect" id="node26" href="$d3/d63/classPHG4CylinderGeomv1.html#accd4d75b5de94a90a8ba37636477e054" title="PHG4CylinderGeomv1\l::get_zmin" alt="" coords="583,1194,753,1238"/>
+<area shape="rect" id="node31" href="$d1/da8/classPHFlag.html#a7c2615c6c6570b73c005f98d2d7adee2" title="PHFlag::Print" alt="" coords="614,1380,722,1408"/>
+<area shape="rect" id="node37" href="$d1/da8/classPHFlag.html#a5be3faf4dda955a43deee72b2f8b8bde" title="PHFlag::PrintStackTrace" alt="" coords="578,1432,758,1460"/>
+<area shape="rect" id="node32" href="$d1/da8/classPHFlag.html#a1ff4c6fb4381385006ee1a1a98127db5" title="PHFlag::PrintDoubleFlags" alt="" coords="873,1276,1065,1304"/>
+<area shape="rect" id="node33" href="$d1/da8/classPHFlag.html#ac342a6f0241b1db3bbf5cbb82635a572" title="PHFlag::PrintFloatFlags" alt="" coords="881,1328,1058,1356"/>
+<area shape="rect" id="node34" href="$d1/da8/classPHFlag.html#ad1b9a7480bf5f4c89b9d3c7a8bc0a80a" title="PHFlag::PrintIntFlags" alt="" coords="889,1380,1050,1408"/>
+<area shape="rect" id="node35" href="$d1/da8/classPHFlag.html#a0252ef9f9c5331ecb3756b24f6a96b73" title="PHFlag::PrintStringFlags" alt="" coords="877,1432,1061,1460"/>
+<area shape="rect" id="node36" href="$d1/da8/classPHFlag.html#a8cd889a7b07b5e99051241c68355916b" title="PHFlag::Printuint64Flags" alt="" coords="876,1484,1063,1512"/>
+<area shape="rect" id="node39" href="$d8/d14/classrecoConsts.html#ae882d6adc62f783ec78114fe3dee3c24" title="recoConsts::recoConsts" alt="" coords="578,1484,758,1512"/>
+</map>

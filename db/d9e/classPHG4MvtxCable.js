@@ -1,0 +1,28 @@
+var classPHG4MvtxCable =
+[
+    [ "PHG4MvtxCable", "db/d9e/classPHG4MvtxCable.html#aa2433905e9f9a777a26fe15188191ee6", null ],
+    [ "PHG4MvtxCable", "db/d9e/classPHG4MvtxCable.html#af6350ccd6c24321ebbc04af20e86f064", null ],
+    [ "~PHG4MvtxCable", "db/d9e/classPHG4MvtxCable.html#a1128722fea61b008a954c2b696e70e7d", null ],
+    [ "get_color", "db/d9e/classPHG4MvtxCable.html#ae0a20bc3d8eeb52764aa1ea506d90aa4", null ],
+    [ "get_coreMaterial", "db/d9e/classPHG4MvtxCable.html#a120096c8fc8467b4d5463b2d3790b3d9", null ],
+    [ "get_coreRadius", "db/d9e/classPHG4MvtxCable.html#ad994dc8d87f2cef7d63c141f6e92a093", null ],
+    [ "get_name", "db/d9e/classPHG4MvtxCable.html#adc01b9881a37b3378ba56097de241e7b", null ],
+    [ "get_sheathRadius", "db/d9e/classPHG4MvtxCable.html#aeb27b5721adb5d9026b6bf8b1261f523", null ],
+    [ "get_xNorth", "db/d9e/classPHG4MvtxCable.html#aa50b59c89ac3f2fede5ae82f6aca61b6", null ],
+    [ "get_xSouth", "db/d9e/classPHG4MvtxCable.html#ade5ab455df0bc0e8d5180f320e2c2d8c", null ],
+    [ "get_yNorth", "db/d9e/classPHG4MvtxCable.html#a8c39129fce8a7478fa7376fc39ae1993", null ],
+    [ "get_ySouth", "db/d9e/classPHG4MvtxCable.html#a08e0993dfc41ecc0db0eeb93a464e970", null ],
+    [ "get_zNorth", "db/d9e/classPHG4MvtxCable.html#ad62772acf7db05bd7cb7981d31c07e7f", null ],
+    [ "get_zSouth", "db/d9e/classPHG4MvtxCable.html#a4f93379aca806a3ca5516cbde86accde", null ],
+    [ "m_color", "db/d9e/classPHG4MvtxCable.html#aab187a9a6f15bcca27a0350828358ab7", null ],
+    [ "m_coreMaterial", "db/d9e/classPHG4MvtxCable.html#a1c46f1a7aa0080bd9f61eb3e2d406e9b", null ],
+    [ "m_coreRadius", "db/d9e/classPHG4MvtxCable.html#a48f43fb7a379b7112fa7eddf656e3525", null ],
+    [ "m_name", "db/d9e/classPHG4MvtxCable.html#a24d7b3cc3bf8a61371c77682899d7519", null ],
+    [ "m_sheathRadius", "db/d9e/classPHG4MvtxCable.html#a9c46e1b293300f8a9ab5c5a55dd78b11", null ],
+    [ "m_xNorth", "db/d9e/classPHG4MvtxCable.html#a8695009f29279e6efdde8d63e36d64b7", null ],
+    [ "m_xSouth", "db/d9e/classPHG4MvtxCable.html#a83d8647ee7237c0cc0e3fc82358f23c7", null ],
+    [ "m_yNorth", "db/d9e/classPHG4MvtxCable.html#a0929db5a7b3ba523a19b85e39f4cc103", null ],
+    [ "m_ySouth", "db/d9e/classPHG4MvtxCable.html#a00bae51b124d20980e18bc4fd9c74030", null ],
+    [ "m_zNorth", "db/d9e/classPHG4MvtxCable.html#a7399f360554bee3de608d3623fed2d31", null ],
+    [ "m_zSouth", "db/d9e/classPHG4MvtxCable.html#afaca8bd3f77e4173398afabedd30057a", null ]
+];

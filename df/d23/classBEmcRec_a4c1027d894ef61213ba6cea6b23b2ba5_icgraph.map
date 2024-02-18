@@ -1,0 +1,11 @@
+<map id="BEmcRec::GetImpactThetaPhi" name="BEmcRec::GetImpactThetaPhi">
+<area shape="rect" id="node2" href="$df/d23/classBEmcRec.html#a0438a0281c70a3356a34515189b167fb" title="BEmcRec::GetProb" alt="" coords="311,65,457,93"/>
+<area shape="rect" id="node6" href="$df/d23/classBEmcRec.html#a27562d25417207a7f823d99f000bf265" title="BEmcRec::PredictEnergyProb" alt="" coords="276,121,492,149"/>
+<area shape="rect" id="node3" href="$d9/d04/classEmcCluster.html#a73b89990f83b7dff6006bdca5213cf7d" title="EmcCluster::GetProb" alt="" coords="557,5,719,33"/>
+<area shape="rect" id="node4" href="$d8/db8/classCaloRecoUtility.html#a7b66fc5900cd71c8837c240b221cc2a1" title="CaloRecoUtility::ProbCorrs\lZVertex" alt="" coords="540,57,736,101"/>
+<area shape="rect" id="node5" href="$d6/de8/classRawClusterZVertexRecorrect.html#a77e9e8d2d15261e75a58fd287405fabf" title="RawClusterZVertexRecorrect\l::process_event" alt="" coords="784,57,999,101"/>
+<area shape="rect" id="node7" href="$df/d23/classBEmcRec.html#a98e49a2e854a71a7c56ff4a2c9daeae6" title="BEmcRec::PredictEnergy" alt="" coords="545,125,731,153"/>
+<area shape="rect" id="node8" href="$d9/d04/classEmcCluster.html#af0d5e9d5210331c6333a68e051ff2dee" title="Returns the cluster energy taking into account towers with E&gt;Ethresh." alt="" coords="806,125,977,153"/>
+<area shape="rect" id="node10" href="$d9/d04/classEmcCluster.html#a04fbaa2727f791e0f50ff11ad1342974" title="Splits the Cluster onto SubClusters; returns list of clusters and list of peak towers corresponding t..." alt="" coords="785,177,997,205"/>
+<area shape="rect" id="node9" href="$d9/d04/classEmcCluster.html#a9e9c9b084ae284b857327038f39de7e8" title="Ecore corrected for energy leak sidewise core towers." alt="" coords="1047,125,1283,153"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="PHG4CylinderGeom_Spacalv3::get_max_lightguide_height" name="PHG4CylinderGeom_Spacalv3::get_max_lightguide_height">
+<area shape="rect" id="node2" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#acc645e26fbb90c42a8e1b96cc468bb1e" title="PHG4SpacalPrototypeDetector\l::Construct_AzimuthalSeg" alt="" coords="276,45,504,89"/>
+<area shape="rect" id="node3" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#aea582a01978e516e9a623421dc3c1e2c" title="PHG4SpacalPrototypeDetector\l::ConstructMe" alt="" coords="848,7,1076,51"/>
+<area shape="rect" id="node4" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#aed2a21ff80c7f387832f684e8ee7ee16" title="PHG4SpacalPrototype4Detector\l::ConstructMe" alt="" coords="844,168,1080,212"/>
+<area shape="rect" id="node5" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#ab15ad149ea75e222394cf00342045569" title="PHG4CylinderGeom_Spacalv3\l::Print" alt="" coords="279,259,501,303"/>
+<area shape="rect" id="node6" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#ab2c1e8230a0eb392d993579333fe4fac" title="PHG4CylinderGeom_Spacalv3\l::get_tower_z_phi_ID" alt="" coords="559,488,781,532"/>
+<area shape="rect" id="node19" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#ac4c8fad6f273cde4d51cf7bfa05b1f97" title="get approximate radial position of tower" alt="" coords="559,395,781,439"/>
+<area shape="rect" id="node20" href="$d1/d05/classPHG4FullProjSpacalDetector.html#aabf48ea6e5463960c8c88d4f838ad3f1" title="PHG4FullProjSpacalDetector\l::Print" alt="" coords="565,191,775,235"/>
+<area shape="rect" id="node21" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a8e54948c02a94be2fdb1d1c1a2d5ea57" title="PHG4FullProjTiltedSpacal\lDetector::Print" alt="" coords="575,259,765,303"/>
+<area shape="rect" id="node22" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#ac541c0f7e852650451b2c66e181ba5c5" title="PHG4SpacalPrototype4Detector\l::Print" alt="" coords="552,327,788,371"/>
+<area shape="rect" id="node24" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#acf856a21dc41c82d03a1d79a23dff3a3" title="PHG4SpacalPrototypeDetector\l::Print" alt="" coords="556,71,784,115"/>
+<area shape="rect" id="node7" href="$d8/d58/classCaloWaveFormSim.html#aa3e1ea0bea6ee882043398365a06dfdc" title="CaloWaveFormSim::process\l_g4hits" alt="" coords="857,667,1067,711"/>
+<area shape="rect" id="node9" href="$db/d4b/classEMCalAna.html#ab478dd11f24604db6fece30078120c73" title="EMCalAna::process_event_SF" alt="" coords="853,735,1071,763"/>
+<area shape="rect" id="node11" href="$dc/d20/classPHG4FullProjSpacalCellReco.html#aea3e5a8a10917a094b537adc5201d6f9" title="module initialization" alt="" coords="857,411,1067,455"/>
+<area shape="rect" id="node12" href="$dc/d20/classPHG4FullProjSpacalCellReco.html#aa31a2feab594c495ddf4133d72a9badb" title="event processing" alt="" coords="857,531,1067,575"/>
+<area shape="rect" id="node13" href="$d0/da4/classPHG4SpacalDetector.html#af2c4c4c1f8ca4bba2552dd18f6ff54b5" title="PHG4SpacalDetector\l::AddCellGeometryNode" alt="" coords="870,343,1054,387"/>
+<area shape="rect" id="node15" href="$de/dea/classPHG4SpacalSteppingAction.html#a145d3819045bf93814bc1a2352834da2" title="PHG4SpacalSteppingAction\l::NoHitSteppingAction" alt="" coords="859,599,1065,643"/>
+<area shape="rect" id="node17" href="$d6/dd1/classCaloWaveformSim.html#af0b3d67751fd6cc4e055fbde6f73d02f" title="CaloWaveformSim::maphitetaphi" alt="" coords="840,479,1084,507"/>
+<area shape="rect" id="node8" href="$d8/d58/classCaloWaveFormSim.html#acb5bbdbf3ce5e1f53bef2065bf37105d" title="event processing method" alt="" coords="1136,667,1345,711"/>
+<area shape="rect" id="node10" href="$db/d4b/classEMCalAna.html#a3b829b80df0fd8625130f3d9c11f5d3d" title="EMCalAna::process_event" alt="" coords="1143,735,1339,763"/>
+<area shape="rect" id="node14" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a4719c5e160407e1b7f02bced47425698" title="PHG4FullProjTiltedSpacal\lDetector::ConstructMe" alt="" coords="1146,343,1335,387"/>
+<area shape="rect" id="node16" href="$de/dea/classPHG4SpacalSteppingAction.html#ad27b2325877c9d504389c79a338d25fe" title="stepping action" alt="" coords="1137,599,1344,643"/>
+<area shape="rect" id="node18" href="$d6/dd1/classCaloWaveformSim.html#a5f6f1e88d3db0c9cdad473392d571a22" title="CaloWaveformSim::process\l_event" alt="" coords="1137,471,1344,515"/>
+<area shape="rect" id="node23" href="$dc/d99/classPHG4SpacalPrototype4Subsystem.html#ad3b723b82ea11295df51f47bccc9a651" title="PHG4SpacalPrototype4Subsystem\l::Print" alt="" coords="836,275,1088,319"/>
+<area shape="rect" id="node25" href="$d4/d00/classPHG4SpacalPrototypeSubsystem.html#aa41e83d9eb9896c9de002554c977c16e" title="PHG4SpacalPrototypeSubsystem\l::Print" alt="" coords="841,75,1083,119"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="translation" name="translation">
+<area shape="rect" id="node2" href="$d8/d4c/structActsAlignment_1_1Alignment.html#a2b36d87fe320683a91a7a52325848964" title="Alignment implementation." alt="" coords="166,5,366,49"/>
+<area shape="rect" id="node3" href="$dd/d7e/namespaceActs_1_1Test.html#a9ac7490a3e6b7bfca56d88c481d24df2" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="172,73,360,117"/>
+<area shape="rect" id="node4" href="$dc/d7b/namespaceActs_1_1Test_1_1Layers.html#a01a7ea71391bfdb51cc5821edc8527ff" title="Unit test for creating compliant/non&#45;compliant ConeLayer object." alt="" coords="163,141,369,185"/>
+<area shape="rect" id="node5" href="$db/dc1/SupportHelperTests_8cpp.html#a780679f6837b2f94bea8443e3e42b65d" title="BOOST_AUTO_TEST_CASE" alt="" coords="168,209,364,237"/>
+<area shape="rect" id="node6" href="$d9/d5c/classPHG4MicromegasDetector.html#adc9e53e8e33066cc4d281b6abc44b7cf" title="construct" alt="" coords="166,261,366,305"/>
+<area shape="rect" id="node8" href="$d0/dd2/classActs_1_1DD4hepVolumeBuilder.html#a175caa1c9734480b5bce519167bf0213" title="Converter of the transformation of a volume from DD4hep to Acts formalism." alt="" coords="465,332,679,376"/>
+<area shape="rect" id="node9" href="$da/d80/classActs_1_1DD4hepLayerBuilder.html#ac281162c87371aba1bff7a58c62089bd" title="Acts::DD4hepLayerBuilder\l::convertTransform" alt="" coords="471,405,673,449"/>
+<area shape="rect" id="node10" href="$d4/de6/LayerFactory_8cpp.html#adc8dfe2f3923b4ccdb49a10d43e843dd" title="create_barrel_detector" alt="" coords="179,552,353,580"/>
+<area shape="rect" id="node11" href="$d4/d12/classActs_1_1LayerArrayCreator.html#acefef63c738cce2b27e75db01a0263ee" title="Acts::LayerArrayCreator\l::createNavigationSurface" alt="" coords="167,604,365,648"/>
+<area shape="rect" id="node15" href="$de/df6/structActs_1_1TGeoSurfaceConverter.html#aa7953e6a8c13db84663f9ad749b1d942" title="Acts::TGeoSurfaceConverter\l::cylinderComponents" alt="" coords="159,860,373,904"/>
+<area shape="rect" id="node16" href="$d3/d33/classActs_1_1TGeoDetectorElement.html#a0b22265babc94eee8256c07ef07456cd" title="Acts::TGeoDetectorElement\l::TGeoDetectorElement" alt="" coords="467,740,677,784"/>
+<area shape="rect" id="node17" href="$de/df6/structActs_1_1TGeoSurfaceConverter.html#aaf1189b4c2476efb83f4455228ad177c" title="Acts::TGeoSurfaceConverter\l::discComponents" alt="" coords="159,672,373,716"/>
+<area shape="rect" id="node18" href="$dc/d33/classActs_1_1Frustum.html#aa2f135b25992be552fc90742963cf41d" title="Acts::Frustum::Frustum" alt="" coords="177,928,355,956"/>
+<area shape="rect" id="node19" href="$d3/d64/classActsGeometry.html#a5291c18cff82b6d3339e70584632daaa" title="ActsGeometry::makeAffine\lTransform" alt="" coords="165,980,367,1024"/>
+<area shape="rect" id="node24" href="$d3/da1/structActs_1_1TGeoPrimitivesHelper.html#ae69050025d803afb605d09ad94c5ac2d" title="Acts::TGeoPrimitivesHelper\l::makeTransform" alt="" coords="162,381,370,425"/>
+<area shape="rect" id="node25" href="$d3/dce/structActs_1_1TGeoParser.html#ad88c64900b8afaf3c622f3cf6a334544" title="Acts::TGeoParser::select" alt="" coords="479,480,665,508"/>
+<area shape="rect" id="node31" href="$de/df6/structActs_1_1TGeoSurfaceConverter.html#a1677483bd92efcfe9c73c60f8f0433a3" title="Acts::TGeoSurfaceConverter\l::planeComponents" alt="" coords="159,740,373,784"/>
+<area shape="rect" id="node32" href="$d9/d5a/classActsExamples_1_1SensitiveSurfaceMapper.html#a022b4803989bc19d7c430cd36a86d2ef" title="ActsExamples::SensitiveSurface\lMapper::remapSensitiveNames" alt="" coords="147,1048,385,1092"/>
+<area shape="rect" id="node34" href="$da/d7b/namespaceActs.html#a1337ac3c5d40bcc0364404edc0093acc" title="Acts::to_json" alt="" coords="212,1116,320,1144"/>
+<area shape="rect" id="node35" href="$d6/ddc/namespaceActs_1_1Transform3JsonConverter.html#ac77a3325dee1f8aa53cd0df4dfaadf2b" title="The Transform converter to json." alt="" coords="150,1184,382,1228"/>
+<area shape="rect" id="node47" href="$de/df6/structActs_1_1TGeoSurfaceConverter.html#ad58111790d2fff83401462d9a9b13d40" title="Acts::TGeoSurfaceConverter\l::toSurface" alt="" coords="159,1380,373,1424"/>
+<area shape="rect" id="node50" href="$d6/d25/structActs_1_1Geant4AlgebraConverter.html#a05fbe331e1875540321a295211562675" title="Translate a geometry transform." alt="" coords="151,1448,381,1492"/>
+<area shape="rect" id="node7" href="$d9/d5c/classPHG4MicromegasDetector.html#a645e1aa98c237126c8e53b9e3f028262" title="construct" alt="" coords="472,261,672,305"/>
+<area shape="rect" id="node12" href="$d4/d12/classActs_1_1LayerArrayCreator.html#adbcf99ad8a103ce4442ae13ebd5276de" title="Acts::LayerArrayCreator\l::layerArray" alt="" coords="480,604,664,648"/>
+<area shape="rect" id="node13" href="$d1/d48/classActs_1_1CuboidVolumeBuilder.html#a91c773c6fb868e14c760eb440f1f6e88" title="This function creates a TrackingVolume with a configurable number of layers and surfaces. Each surface gets a detector element attached if the template parameter is non&#45;void." alt="" coords="759,665,965,709"/>
+<area shape="rect" id="node14" href="$d3/d58/structActs_1_1Test_1_1CubicTrackingGeometry.html#aa6fe8224c9e10cbad7323afcbb4082be" title="Call operator to build the standard cubic tracking geometry." alt="" coords="767,597,957,641"/>
+<area shape="rect" id="node20" href="$dc/db9/classMakeSourceLinks.html#a80778ca794a89dee94ef431f93978fc1" title="MakeSourceLinks::getSource\lLinks" alt="" coords="465,808,679,852"/>
+<area shape="rect" id="node21" href="$dc/dcf/classPHActsGSF.html#a6c3b895a05a59d9e14bbe0a754ac023b" title="PHActsGSF::process\l_event" alt="" coords="785,748,939,792"/>
+<area shape="rect" id="node22" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="761,816,963,844"/>
+<area shape="rect" id="node23" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="787,868,937,912"/>
+<area shape="rect" id="node26" href="$d7/df8/classActs_1_1TGeoLayerBuilder.html#aaa48eac97c511f2742fd9cce8d87cbd7" title="Acts::TGeoLayerBuilder\l::buildLayers" alt="" coords="771,528,953,572"/>
+<area shape="rect" id="node30" href="$dd/d7e/namespaceActs_1_1Test.html#a81c23e65184e6d080be9dbf0d258003e" title="Unit test Parsing a TGeo geometry." alt="" coords="768,460,956,504"/>
+<area shape="rect" id="node27" href="$d7/df8/classActs_1_1TGeoLayerBuilder.html#a8ff8efc892ac8f821377d371712df1a0" title="Acts::TGeoLayerBuilder\l::negativeLayers" alt="" coords="1013,460,1195,504"/>
+<area shape="rect" id="node28" href="$d7/df8/classActs_1_1TGeoLayerBuilder.html#a915aca80a0405bc205e2e05f93e61129" title="Acts::TGeoLayerBuilder\l::centralLayers" alt="" coords="1013,528,1195,572"/>
+<area shape="rect" id="node29" href="$d7/df8/classActs_1_1TGeoLayerBuilder.html#a51b58818fef463320206af1b0a72fcc6" title="Acts::TGeoLayerBuilder\l::positiveLayers" alt="" coords="1013,596,1195,640"/>
+<area shape="rect" id="node33" href="$d6/daf/exceptionActsExamples_1_1Geant4Simulation.html#a67ede6af9fc1b184d0ec6464c4b2e7f5" title="ActsExamples::Geant4Simulation\l::Geant4Simulation" alt="" coords="448,876,696,920"/>
+<area shape="rect" id="node36" href="$dd/d0f/namespaceActs_1_1IndexedSurfacesJsonConverter.html#a9b4e196d939c48a1cfdbc69395085be9" title="The actual conversion method." alt="" coords="472,1132,672,1176"/>
+<area shape="rect" id="node37" href="$d4/d2d/namespaceActs_1_1DetectorJsonConverter.html#aeb503199b40e9aad8a695f09caa7927e" title="Convert to json format." alt="" coords="465,1200,679,1244"/>
+<area shape="rect" id="node40" href="$d3/db9/namespaceActs_1_1DetectorVolumeJsonConverter.html#a0456a07b300023b78266ce5827f67106" title="Convert to json format." alt="" coords="474,1268,670,1312"/>
+<area shape="rect" id="node41" href="$d3/db9/namespaceActs_1_1DetectorVolumeJsonConverter.html#a125f00f67ec8791bdeec5eb7720f9072" title="Convert to json detray format." alt="" coords="474,1336,670,1380"/>
+<area shape="rect" id="node42" href="$d1/de9/namespaceActs_1_1PortalJsonConverter.html#a7469b7d571dd0101aa16f0ebe3ed77ee" title="Convert to json format." alt="" coords="475,1404,669,1448"/>
+<area shape="rect" id="node43" href="$da/d7b/namespaceActs.html#a597f24ebfad3f6ec84f18609ed46d977" title="Conversion of a pair of surface and material used for the material mapping." alt="" coords="518,1472,626,1500"/>
+<area shape="rect" id="node44" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a9ef9925a437841f9c97b7a1fde912ed3" title="Acts::SurfaceJsonConverter\l::toJson" alt="" coords="469,944,675,988"/>
+<area shape="rect" id="node45" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a061759e23fca8e3af2794ff923edb788" title="Acts::SurfaceJsonConverter\l::toJsonDetray" alt="" coords="469,1012,675,1056"/>
+<area shape="rect" id="node46" href="$d7/d77/AlgebraJsonConverterTests_8cpp.html#ad18f1a5afd06f5a982a83db279d812a6" title="BOOST_AUTO_TEST_CASE" alt="" coords="474,1080,670,1108"/>
+<area shape="rect" id="node38" href="$dc/dab/namespaceActs_1_1Python.html#aa3020aa53d7369e753927533fccfcddb" title="Acts::Python::addJson" alt="" coords="777,1235,947,1263"/>
+<area shape="rect" id="node39" href="$db/d22/DetectorJsonConverterTests_8cpp.html#a9e8753b8c7697de8d3f3909a2b592783" title="BOOST_AUTO_TEST_CASE" alt="" coords="764,1183,960,1211"/>
+<area shape="rect" id="node48" href="$d0/db1/classActs_1_1DD4hepDetectorSurfaceFactory.html#aa0093dc4217fba6c2255f9846b8d51ae" title="Acts::DD4hepDetectorSurface\lFactory::constructPassiveComponents" alt="" coords="433,1592,711,1636"/>
+<area shape="rect" id="node49" href="$dd/d7e/namespaceActs_1_1Test.html#a4de07d7294cc36467b1d34b875c198fb" title="Unit test to convert a TGeoTrd2 into a Plane." alt="" coords="478,1524,666,1568"/>
+</map>

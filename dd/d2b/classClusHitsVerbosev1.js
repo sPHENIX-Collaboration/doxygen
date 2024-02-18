@@ -1,0 +1,28 @@
+var classClusHitsVerbosev1 =
+[
+    [ "ClusHitsVerbosev1", "dd/d2b/classClusHitsVerbosev1.html#a1be088db2a953f50f3c5c0692a268d99", null ],
+    [ "addPhiCutHit", "dd/d2b/classClusHitsVerbosev1.html#a379f45bc7519107ccff361c50d9ab61a", null ],
+    [ "addPhiHit", "dd/d2b/classClusHitsVerbosev1.html#ac1472961980ebac047d69ae02ee3c87c", null ],
+    [ "addZCutHit", "dd/d2b/classClusHitsVerbosev1.html#ab14ab5c7c46aae746822449a50840c07", null ],
+    [ "addZHit", "dd/d2b/classClusHitsVerbosev1.html#a07f0b360615bcd898336e596811e71bf", null ],
+    [ "getMap", "dd/d2b/classClusHitsVerbosev1.html#a03a6d5ba7959db9347b91ed12bf01402", null ],
+    [ "hasClusKey", "dd/d2b/classClusHitsVerbosev1.html#abf028c103acca482fd670e83e94c9d0a", null ],
+    [ "identify", "dd/d2b/classClusHitsVerbosev1.html#a1caf157e9dc8a5581542da7b2ca92cfb", null ],
+    [ "phiBins", "dd/d2b/classClusHitsVerbosev1.html#a62993991928a1659b888b5e04d30a196", null ],
+    [ "phiBins_pvecIE", "dd/d2b/classClusHitsVerbosev1.html#aa518b6312c6273da5ff50e31ac4c8168", null ],
+    [ "phiCutBins", "dd/d2b/classClusHitsVerbosev1.html#a985a97946c12186d38488724373bbc30", null ],
+    [ "phiCutBins_pvecIE", "dd/d2b/classClusHitsVerbosev1.html#a052c27f5b49146e18b4653e0056d781d", null ],
+    [ "push_hits", "dd/d2b/classClusHitsVerbosev1.html#a157be5e74bcfa7d7e53113eab894cf43", null ],
+    [ "pvecIE", "dd/d2b/classClusHitsVerbosev1.html#ae5166b6f34b470ba7cc4131092d4806b", null ],
+    [ "Reset", "dd/d2b/classClusHitsVerbosev1.html#a1af5c2a4db94e58ab332077e74822bc6", null ],
+    [ "vecBins", "dd/d2b/classClusHitsVerbosev1.html#aba70984175ab0220bf090120e3ccac60", null ],
+    [ "zBins", "dd/d2b/classClusHitsVerbosev1.html#af56f3a96e4c726982e83083401032188", null ],
+    [ "zBins_pvecIE", "dd/d2b/classClusHitsVerbosev1.html#a31e737f873e2a33df2fc834ff11ecc31", null ],
+    [ "zCutBins", "dd/d2b/classClusHitsVerbosev1.html#a58e543098fc0d72a4e95341825fd95f7", null ],
+    [ "zCutBins_pvecIE", "dd/d2b/classClusHitsVerbosev1.html#af6a2f9d052d994cddabdd83b9ecc2028", null ],
+    [ "m_data", "dd/d2b/classClusHitsVerbosev1.html#a61dc1775f87dd54e99568fe77ac0fd09", null ],
+    [ "m_stage_phi", "dd/d2b/classClusHitsVerbosev1.html#afd3438ee0cb33d6fdbf88378f08e2778", null ],
+    [ "m_stage_phiCut", "dd/d2b/classClusHitsVerbosev1.html#ac841c9aafe546e286e2deedd82e5c91a", null ],
+    [ "m_stage_z", "dd/d2b/classClusHitsVerbosev1.html#ac989576168cd07de4ed9fdc7bb840df6", null ],
+    [ "m_stage_zCut", "dd/d2b/classClusHitsVerbosev1.html#ac9de03a13c38fc109e40b4c08308bd03", null ]
+];

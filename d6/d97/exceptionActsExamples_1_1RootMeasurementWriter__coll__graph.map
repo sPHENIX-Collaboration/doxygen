@@ -1,0 +1,31 @@
+<map id="ActsExamples::RootMeasurementWriter" name="ActsExamples::RootMeasurementWriter">
+<area shape="rect" id="node2" href="$d3/d90/classActsExamples_1_1WriterT.html" title="ActsExamples::WriterT\l\&lt; MeasurementContainer \&gt;" alt="" coords="2801,195,3011,239"/>
+<area shape="rect" id="node3" href="$d2/d7f/classActsExamples_1_1IWriter.html" title="ActsExamples::IWriter" alt="" coords="2011,205,2183,233"/>
+<area shape="rect" id="node4" href="$d5/d52/classActsExamples_1_1SequenceElement.html" title="ActsExamples::SequenceElement" alt="" coords="1275,277,1524,305"/>
+<area shape="rect" id="node6" href="$d6/da8/classActsExamples_1_1DataHandleBase.html" title="ActsExamples::DataHandleBase" alt="" coords="1745,391,1984,419"/>
+<area shape="rect" id="node9" href="$d2/db1/exceptionActsExamples_1_1ReadDataHandle.html" title="ActsExamples::ReadDataHandle\l\&lt; MeasurementContainer \&gt;" alt="" coords="2232,323,2472,367"/>
+<area shape="rect" id="node16" href="$d2/db1/exceptionActsExamples_1_1ReadDataHandle.html" title="ActsExamples::ReadDataHandle\l\&lt; ClusterContainer \&gt;" alt="" coords="2517,376,2757,420"/>
+<area shape="rect" id="node49" href="$d2/db1/exceptionActsExamples_1_1ReadDataHandle.html" title="ActsExamples::ReadDataHandle\l\&lt; SimHitContainer \&gt;" alt="" coords="2517,433,2757,477"/>
+<area shape="rect" id="node50" href="$d2/db1/exceptionActsExamples_1_1ReadDataHandle.html" title="ActsExamples::ReadDataHandle\l\&lt; IndexMultimap\&lt; Index \&gt; \&gt;" alt="" coords="2517,488,2757,532"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="856,543,945,571"/>
+<area shape="rect" id="node27" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="1316,1081,1483,1109"/>
+<area shape="rect" id="node46" href="$d0/d99/structActsExamples_1_1RootMeasurementWriter_1_1Config.html" title="ActsExamples::RootMeasurement\lWriter::Config" alt="" coords="2781,568,3031,612"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="567,535,709,579"/>
+<area shape="rect" id="node11" href="$d4/d3e/classActs_1_1Logger.html" title="class for printing debug output" alt="" coords="1811,76,1919,104"/>
+<area shape="rect" id="node13" href="$d5/d5e/classActs_1_1Logging_1_1OutputFilterPolicy.html" title="abstract base class for filtering debug output" alt="" coords="799,5,1003,49"/>
+<area shape="rect" id="node15" href="$df/dce/classActs_1_1Logging_1_1OutputPrintPolicy.html" title="abstract base class for printing debug output" alt="" coords="800,73,1001,117"/>
+<area shape="rect" id="node18" href="$d7/d33/classActs_1_1GeometryIdentifier.html" title="Acts::GeometryIdentifier" alt="" coords="5,1652,195,1680"/>
+<area shape="rect" id="node20" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="345,1480,517,1508"/>
+<area shape="rect" id="node19" href="$de/d7d/classActs_1_1Surface.html" title="Abstract Base Class for tracking surfaces." alt="" coords="2296,933,2408,961"/>
+<area shape="rect" id="node22" href="$da/d28/classActs_1_1Layer.html" title="Acts::Layer" alt="" coords="1815,1441,1914,1469"/>
+<area shape="rect" id="node28" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="583,1449,693,1477"/>
+<area shape="rect" id="node24" href="$d5/db4/classActs_1_1ApproachDescriptor.html" title="Acts::ApproachDescriptor" alt="" coords="803,1561,998,1589"/>
+<area shape="rect" id="node25" href="$d5/dcc/classActs_1_1BinUtility.html" title="Acts::BinUtility" alt="" coords="1339,1621,1460,1649"/>
+<area shape="rect" id="node39" href="$d6/dae/classActs_1_1AbstractVolume.html" title="Acts::AbstractVolume" alt="" coords="817,1449,984,1477"/>
+<area shape="rect" id="node30" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; entity_t, value_t, DIM \&gt;" alt="" coords="791,885,1010,929"/>
+<area shape="rect" id="node34" href="$d7/dc3/classActs_1_1GlueVolumesDescriptor.html" title="Acts::GlueVolumesDescriptor" alt="" coords="791,1209,1011,1237"/>
+<area shape="rect" id="node37" href="$d5/dd2/classActs_1_1SurfaceArray.html" title="Provides Surface binning in N dimensions." alt="" coords="827,1397,975,1425"/>
+<area shape="rect" id="node40" href="$d7/de6/classActs_1_1DetectorElementBase.html" title="Acts::DetectorElementBase" alt="" coords="1761,907,1968,935"/>
+<area shape="rect" id="node42" href="$d1/dc1/classActs_1_1GeometryHierarchyMap.html" title="Acts::GeometryHierarchyMap\l\&lt; std::unique_ptr\&lt; Digitization\lTree \&gt; \&gt;" alt="" coords="2237,675,2467,735"/>
+<area shape="rect" id="node47" href="$d1/dc1/classActs_1_1GeometryHierarchyMap.html" title="Acts::GeometryHierarchyMap\l\&lt; std::vector\&lt; Acts::BoundIndices \&gt; \&gt;" alt="" coords="2211,595,2493,639"/>
+</map>

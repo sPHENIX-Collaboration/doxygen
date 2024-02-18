@@ -1,0 +1,30 @@
+<map id="testing::internal::PrettyUnitTestResultPrinter::OnTestEnd" name="testing::internal::PrettyUnitTestResultPrinter::OnTestEnd">
+<area shape="rect" id="node2" href="$d0/da7/namespacetesting_1_1internal.html#adef3055706176001364e54eb73a87e31" title="testing::internal::\lColoredPrintf" alt="" coords="300,209,437,253"/>
+<area shape="rect" id="node9" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="587,345,646,373"/>
+<area shape="rect" id="node15" href="$d6/d6e/classtesting_1_1TestResult.html#a582f6383265d0619df812b75499d0616" title="testing::TestResult\l::elapsed_time" alt="" coords="295,481,442,525"/>
+<area shape="rect" id="node16" href="$d6/d6e/classtesting_1_1TestResult.html#abb5d051bf958071c14020132a4d6cc07" title="testing::TestResult\l::Failed" alt="" coords="295,549,442,593"/>
+<area shape="rect" id="node21" href="$df/d65/classtesting_1_1TestInfo.html#ab3d24cad310f0cde29a80b9a83949ff5" title="testing::TestInfo::name" alt="" coords="281,617,457,645"/>
+<area shape="rect" id="node22" href="$d6/d6e/classtesting_1_1TestResult.html#aa46a04342f02ec297357f47288da3ef3" title="testing::TestResult\l::Passed" alt="" coords="295,669,442,713"/>
+<area shape="rect" id="node23" href="$d0/da7/namespacetesting_1_1internal.html#a7a85ebe3b4de93a1edb091f92f1fb393" title="testing::internal::\lPrintFullTestCommentIfPresent" alt="" coords="255,413,483,457"/>
+<area shape="rect" id="node26" href="$d6/d49/classtesting_1_1internal_1_1PrettyUnitTestResultPrinter.html#a5b60a9aed1db02837b11450f6e8d0f71" title="testing::internal::\lPrettyUnitTestResultPrinter\l::PrintTestName" alt="" coords="268,329,469,389"/>
+<area shape="rect" id="node27" href="$df/d65/classtesting_1_1TestInfo.html#addea8766df3b8abe4cc4103218a49a65" title="testing::TestInfo::\lresult" alt="" coords="300,737,437,781"/>
+<area shape="rect" id="node28" href="$d0/da7/namespacetesting_1_1internal.html#aad4beed95d0846e6ffc5da0978ef3bb9" title="testing::internal::\lStreamableToString" alt="" coords="292,805,445,849"/>
+<area shape="rect" id="node29" href="$df/d65/classtesting_1_1TestInfo.html#a26d22556d04b94c9cd15e28d74fef91c" title="testing::TestInfo::\ltest_case_name" alt="" coords="300,873,437,917"/>
+<area shape="rect" id="node3" href="$d0/da7/namespacetesting_1_1internal.html#a4b24c851ab13569b1b15b3d259b60d2e" title="testing::internal::\lAlwaysFalse" alt="" coords="548,5,685,49"/>
+<area shape="rect" id="node6" href="$d0/d81/namespacetesting_1_1internal_1_1posix.html#a3117b067e1f942a2031e666953120ccc" title="testing::internal::\lposix::FileNo" alt="" coords="548,73,685,117"/>
+<area shape="rect" id="node7" href="$d0/da7/namespacetesting_1_1internal.html#a0aefb9deb60e90f19c236559837303d8" title="testing::internal::\lGetAnsiColorCode" alt="" coords="545,141,689,185"/>
+<area shape="rect" id="node8" href="$d0/d81/namespacetesting_1_1internal_1_1posix.html#a16ebe936b3a8ea462a94191635aedc27" title="testing::internal::\lposix::IsATTY" alt="" coords="548,209,685,253"/>
+<area shape="rect" id="node10" href="$d0/da7/namespacetesting_1_1internal.html#ac1db1b4603967a6c4404f31cbbac31a6" title="testing::internal::\lShouldUseColor" alt="" coords="548,277,685,321"/>
+<area shape="rect" id="node4" href="$d0/da7/namespacetesting_1_1internal.html#a922c9da63cd4bf94fc473b9ecac76414" title="testing::internal::\lAlwaysTrue" alt="" coords="795,5,932,49"/>
+<area shape="rect" id="node5" href="$d0/da7/namespacetesting_1_1internal.html#a527b9bcc13669b9a16400c8514266254" title="testing::internal::\lIsTrue" alt="" coords="1030,5,1167,49"/>
+<area shape="rect" id="node11" href="$d2/df8/classtesting_1_1internal_1_1String.html#a116ca435d63306927ba19f90a3596787" title="testing::internal::\lString::CaseInsensitiveCString\lEquals" alt="" coords="751,193,976,253"/>
+<area shape="rect" id="node13" href="$d2/df8/classtesting_1_1internal_1_1String.html#a8bea7b33e7effbd299a0b4a5522ea96e" title="testing::internal::\lString::CStringEquals" alt="" coords="781,277,946,321"/>
+<area shape="rect" id="node14" href="$d0/d81/namespacetesting_1_1internal_1_1posix.html#a1d5e3da5a27eed25986859fa83cafe95" title="testing::internal::\lposix::GetEnv" alt="" coords="795,345,932,389"/>
+<area shape="rect" id="node12" href="$d0/d81/namespacetesting_1_1internal_1_1posix.html#a1ef2385a7f8e4c706054da35967e76bd" title="testing::internal::\lposix::StrCaseCmp" alt="" coords="1024,201,1173,245"/>
+<area shape="rect" id="node17" href="$d9/d98/classtesting_1_1TestPartResult.html#aaf835515fb53eb1aa01c1798b05e61f6" title="testing::TestPartResult\l::failed" alt="" coords="531,533,703,577"/>
+<area shape="rect" id="node18" href="$d6/d6e/classtesting_1_1TestResult.html#a08b680f63d91391db4161f909da2bbcc" title="testing::TestResult\l::GetTestPartResult" alt="" coords="542,601,691,645"/>
+<area shape="rect" id="node20" href="$d6/d6e/classtesting_1_1TestResult.html#ae6a378ec743edfbed55890c955d0adc8" title="testing::TestResult\l::total_part_count" alt="" coords="790,661,937,705"/>
+<area shape="rect" id="node19" href="$d0/d81/namespacetesting_1_1internal_1_1posix.html#a69b8278c59359dd6a6f941b4643db9fb" title="testing::internal::\lposix::Abort" alt="" coords="795,593,932,637"/>
+<area shape="rect" id="node24" href="$df/d65/classtesting_1_1TestInfo.html#af15d5c533a7237ffc183bc4c924dfcf4" title="testing::TestInfo::\ltype_param" alt="" coords="548,397,685,441"/>
+<area shape="rect" id="node25" href="$df/d65/classtesting_1_1TestInfo.html#a9671fbc0effcb32e98803888dc166a66" title="testing::TestInfo::\lvalue_param" alt="" coords="548,465,685,509"/>
+</map>

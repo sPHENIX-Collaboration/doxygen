@@ -1,0 +1,25 @@
+var classRawClusterPositionCorrection =
+[
+    [ "RawClusterPositionCorrection", "df/d75/classRawClusterPositionCorrection.html#a2375bb74bb762fd28f85a78ae5db240d", null ],
+    [ "~RawClusterPositionCorrection", "df/d75/classRawClusterPositionCorrection.html#a5ad4bad76763662a3c6463a56b70b118", null ],
+    [ "CreateNodeTree", "df/d75/classRawClusterPositionCorrection.html#ab6f19674fd474bf96ff20686a77e3b66", null ],
+    [ "End", "df/d75/classRawClusterPositionCorrection.html#a8af7b67e6d50f838417e04368a02e0f1", null ],
+    [ "InitRun", "df/d75/classRawClusterPositionCorrection.html#a35efa97721cbca2ddfc400fa3622c9ba", null ],
+    [ "process_event", "df/d75/classRawClusterPositionCorrection.html#a5769946f9c4ef0e0ed307a1a18f40ab9", null ],
+    [ "set_UseTowerInfo", "df/d75/classRawClusterPositionCorrection.html#a7317c9be7af731f213a4240c229cb68d", null ],
+    [ "_det_name", "df/d75/classRawClusterPositionCorrection.html#adc63c0bc80aba86859603e859981fe11", null ],
+    [ "_recalib_clusters", "df/d75/classRawClusterPositionCorrection.html#a266a1a76d2a5c8f8adc1890bfd6a673d", null ],
+    [ "bins_eta", "df/d75/classRawClusterPositionCorrection.html#a27a97806efa23d659d6d67caed342f47", null ],
+    [ "bins_phi", "df/d75/classRawClusterPositionCorrection.html#a550289e72c43b5de7357bc1fade3655e", null ],
+    [ "calib_constants_north", "df/d75/classRawClusterPositionCorrection.html#a3e72d26dd1739bcd6a5479d77da35e8e", null ],
+    [ "calib_constants_north_ecore", "df/d75/classRawClusterPositionCorrection.html#aff567a002f94f172f3e52735d1fa2ac2", null ],
+    [ "calib_constants_south", "df/d75/classRawClusterPositionCorrection.html#afd40080fb88e3b1b4ea685da1c3527b2", null ],
+    [ "calib_constants_south_ecore", "df/d75/classRawClusterPositionCorrection.html#aaecb3cd820cff0d9c87afd68bcb3109f", null ],
+    [ "cdbHisto", "df/d75/classRawClusterPositionCorrection.html#a276ff15c580c558bea4a0f3d419a8a4f", null ],
+    [ "cdbttree", "df/d75/classRawClusterPositionCorrection.html#a53773dd51c56ef5905f4c7c82f9e3062", null ],
+    [ "h2NorthSector", "df/d75/classRawClusterPositionCorrection.html#a13ee5180dec4a9f4c23dee2f9ad64523", null ],
+    [ "h2SouthSector", "df/d75/classRawClusterPositionCorrection.html#a1a7aa7d4511f69621932c9bdc5f4d849", null ],
+    [ "iEvent", "df/d75/classRawClusterPositionCorrection.html#ac024568b79a8a9c458f7ff8b320c5516", null ],
+    [ "m_UseTowerInfo", "df/d75/classRawClusterPositionCorrection.html#a154d5d78e26bddb98080be7cec765991", null ],
+    [ "pdcCorrFlat", "df/d75/classRawClusterPositionCorrection.html#a12824c2c214973b18f4037c1c23d075a", null ]
+];

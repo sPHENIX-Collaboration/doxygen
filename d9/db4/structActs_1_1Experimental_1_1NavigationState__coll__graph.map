@@ -1,0 +1,25 @@
+<map id="Acts::Experimental::NavigationState" name="Acts::Experimental::NavigationState">
+<area shape="rect" id="node2" href="$d8/d3d/classActs_1_1BoundaryCheck.html" title="Acts::BoundaryCheck" alt="" coords="2423,211,2591,239"/>
+<area shape="rect" id="node49" href="$d7/d65/structActs_1_1Experimental_1_1NavigationState_1_1SurfaceCandidate.html" title="A surface candidate and its intersection." alt="" coords="2908,321,3107,381"/>
+<area shape="rect" id="node3" href="$dc/d36/classActs_1_1Experimental_1_1Detector.html" title="A detector." alt="" coords="3856,997,4005,1041"/>
+<area shape="rect" id="node6" href="$d1/d2d/classActs_1_1Experimental_1_1DetectorVolume.html" title="Define a dummy detector volume." alt="" coords="2933,843,3082,887"/>
+<area shape="rect" id="node9" href="$de/d7d/classActs_1_1Surface.html" title="Abstract Base Class for tracking surfaces." alt="" coords="2037,337,2149,365"/>
+<area shape="rect" id="node50" href="$df/d22/classActs_1_1ObjectIntersection.html" title="Acts::ObjectIntersection\l\&lt; Surface \&gt;" alt="" coords="2415,266,2599,310"/>
+<area shape="rect" id="node10" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="345,227,517,255"/>
+<area shape="rect" id="node13" href="$da/d28/classActs_1_1Layer.html" title="Acts::Layer" alt="" coords="1611,269,1709,297"/>
+<area shape="rect" id="node17" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="653,575,764,603"/>
+<area shape="rect" id="node11" href="$d7/d33/classActs_1_1GeometryIdentifier.html" title="Acts::GeometryIdentifier" alt="" coords="5,681,195,709"/>
+<area shape="rect" id="node15" href="$d5/dcc/classActs_1_1BinUtility.html" title="Acts::BinUtility" alt="" coords="1147,299,1269,327"/>
+<area shape="rect" id="node16" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="1125,391,1291,419"/>
+<area shape="rect" id="node19" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; entity_t, value_t, DIM \&gt;" alt="" coords="599,303,818,347"/>
+<area shape="rect" id="node22" title="STL class." alt="" coords="664,758,753,786"/>
+<area shape="rect" id="node23" title="STL class." alt="" coords="360,754,503,798"/>
+<area shape="rect" id="node27" href="$d7/de6/classActs_1_1DetectorElementBase.html" title="Acts::DetectorElementBase" alt="" coords="1557,445,1763,473"/>
+<area shape="rect" id="node29" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; Portal \&gt; \&gt;" alt="" coords="2394,805,2621,865"/>
+<area shape="rect" id="node32" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; Surface \&gt; \&gt;" alt="" coords="2390,957,2625,1017"/>
+<area shape="rect" id="node35" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; DetectorVolume \&gt; \&gt;" alt="" coords="2361,1141,2653,1201"/>
+<area shape="rect" id="node39" href="$d6/d5a/classActs_1_1Experimental_1_1Portal.html" title="Acts::Experimental\l::Portal" alt="" coords="2019,574,2168,618"/>
+<area shape="rect" id="node42" href="$d4/d32/classOwningDelegate.html" title="OwningDelegate\&lt; typename, H \&gt;" alt="" coords="1083,650,1333,678"/>
+<area shape="rect" id="node43" href="$d4/d32/classOwningDelegate.html" title="OwningDelegate\&lt; void\l(const GeometryContext\l &amp;gctx, NavigationState\l &amp;nState), INavigationDelegate \&gt;" alt="" coords="2383,1041,2631,1117"/>
+<area shape="rect" id="node44" href="$d1/dc1/classActs_1_1GeometryHierarchyMap.html" title="Acts::GeometryHierarchyMap\l\&lt; const Surface * \&gt;" alt="" coords="3343,707,3564,751"/>
+</map>

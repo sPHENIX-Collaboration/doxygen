@@ -1,0 +1,34 @@
+<map id="acts/blob/sPHENIX/Fatras/include/ActsFatras/Physics/ElectroMagnetic/PhotonConversion.hpp" name="acts/blob/sPHENIX/Fatras/include/ActsFatras/Physics/ElectroMagnetic/PhotonConversion.hpp">
+<area shape="rect" id="node2" href="$da/dd2/Algebra_8hpp.html" title="Acts/Definitions/Algebra.hpp" alt="" coords="3149,817,3365,845"/>
+<area shape="rect" id="node5" href="$d8/ddd/Common_8hpp.html" title="Acts/Definitions/Common.hpp" alt="" coords="1797,733,2021,761"/>
+<area shape="rect" id="node7" href="$d0/d47/PdgParticle_8hpp.html" title="Acts/Definitions/PdgParticle.hpp" alt="" coords="1203,565,1440,593"/>
+<area shape="rect" id="node9" href="$df/d6f/Units_8hpp.html" title="Acts/Definitions/Units.hpp" alt="" coords="1565,565,1763,593"/>
+<area shape="rect" id="node10" href="$d0/dd1/MaterialSlab_8hpp.html" title="Acts/Material/MaterialSlab.hpp" alt="" coords="193,565,423,593"/>
+<area shape="rect" id="node15" href="$d0/d5d/UnitVectors_8hpp.html" title="Acts/Utilities/UnitVectors.hpp" alt="" coords="1741,649,1960,677"/>
+<area shape="rect" id="node17" href="$d5/dee/Barcode_8hpp.html" title="ActsFatras/EventData\l/Barcode.hpp" alt="" coords="889,281,1055,325"/>
+<area shape="rect" id="node24" href="$dc/de5/blob_2sPHENIX_2Fatras_2include_2ActsFatras_2EventData_2Particle_8hpp.html" title="ActsFatras/EventData\l/Particle.hpp" alt="" coords="1998,113,2165,157"/>
+<area shape="rect" id="node48" href="$d9/d53/ProcessType_8hpp.html" title="ActsFatras/EventData\l/ProcessType.hpp" alt="" coords="646,373,813,417"/>
+<area shape="rect" id="node11" href="$d0/d70/Material_8hpp.html" title="Acts/Material/Material.hpp" alt="" coords="195,649,395,677"/>
+<area shape="rect" id="node18" href="$d1/d01/MultiIndex_8hpp.html" title="Acts/Utilities/MultiIndex.hpp" alt="" coords="866,565,1078,593"/>
+<area shape="rect" id="node25" href="$d7/d3a/TrackParametrization_8hpp.html" title="Acts/Definitions/TrackParametrization.hpp" alt="" coords="2914,733,3219,761"/>
+<area shape="rect" id="node26" href="$d0/db1/ParticleHypothesis_8hpp.html" title="Acts/EventData/ParticleHypothesis.hpp" alt="" coords="1564,289,1849,317"/>
+<area shape="rect" id="node31" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="2031,205,2305,233"/>
+<area shape="rect" id="node34" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="3077,473,3277,501"/>
+<area shape="rect" id="node37" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="4152,649,4429,677"/>
+<area shape="rect" id="node41" href="$dc/d9c/VectorHelpers_8hpp.html" title="Acts/Utilities/VectorHelpers.hpp" alt="" coords="2642,649,2878,677"/>
+<area shape="rect" id="node27" href="$dc/d33/ParticleData_8hpp.html" title="Acts/Definitions/Particle\lData.hpp" alt="" coords="1386,465,1569,509"/>
+<area shape="rect" id="node29" href="$de/dc3/Charge_8hpp.html" title="Acts/EventData/Charge.hpp" alt="" coords="1695,473,1905,501"/>
+<area shape="rect" id="node30" href="$db/ddb/GenericParticleHypothesis_8hpp.html" title="Acts/EventData/GenericParticle\lHypothesis.hpp" alt="" coords="1283,373,1517,417"/>
+<area shape="rect" id="node32" href="$de/d46/GenericBoundTrackParameters_8hpp.html" title="Acts/EventData/GenericBound\lTrackParameters.hpp" alt="" coords="2264,373,2491,417"/>
+<area shape="rect" id="node46" href="$db/d68/GenericCurvilinearTrackParameters_8hpp.html" title="Acts/EventData/GenericCurvilinear\lTrackParameters.hpp" alt="" coords="2082,281,2339,325"/>
+<area shape="rect" id="node47" href="$d1/d03/GenericFreeTrackParameters_8hpp.html" title="Acts/EventData/GenericFree\lTrackParameters.hpp" alt="" coords="2090,557,2302,601"/>
+<area shape="rect" id="node33" href="$d7/d39/Tolerance_8hpp.html" title="Acts/Definitions/Tolerance.hpp" alt="" coords="2427,565,2655,593"/>
+<area shape="rect" id="node35" href="$dd/dee/Core_2include_2Acts_2Definitions_2Alignment_8hpp.html" title="Acts/Definitions/Alignment.hpp" alt="" coords="3104,649,3336,677"/>
+<area shape="rect" id="node36" href="$dc/d45/DetectorElementBase_8hpp.html" title="Acts/Geometry/DetectorElement\lBase.hpp" alt="" coords="3136,557,3379,601"/>
+<area shape="rect" id="node39" href="$da/de0/GeometryObject_8hpp.html" title="Acts/Geometry/GeometryObject.hpp" alt="" coords="3555,565,3823,593"/>
+<area shape="rect" id="node40" href="$db/d40/Polyhedron_8hpp.html" title="Acts/Geometry/Polyhedron.hpp" alt="" coords="3742,649,3975,677"/>
+<area shape="rect" id="node42" href="$d7/d50/BoundaryCheck_8hpp.html" title="Acts/Surfaces/BoundaryCheck.hpp" alt="" coords="3360,649,3616,677"/>
+<area shape="rect" id="node43" href="$da/ddb/SurfaceBounds_8hpp.html" title="Acts/Surfaces/SurfaceBounds.hpp" alt="" coords="3899,565,4149,593"/>
+<area shape="rect" id="node44" href="$d7/d3a/SurfaceError_8hpp.html" title="Acts/Surfaces/SurfaceError.hpp" alt="" coords="2525,733,2757,761"/>
+<area shape="rect" id="node38" href="$d2/d59/ContextType_8hpp.html" title="Acts/Utilities/detail\l/ContextType.hpp" alt="" coords="4217,725,4365,769"/>
+</map>

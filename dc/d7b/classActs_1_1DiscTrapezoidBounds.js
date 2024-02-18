@@ -1,0 +1,37 @@
+var classActs_1_1DiscTrapezoidBounds =
+[
+    [ "BoundValues", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ab177e1e74a1f1147cf165b27c3e5adb5", [
+      [ "eHalfLengthXminR", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ab177e1e74a1f1147cf165b27c3e5adb5a039f097625c1c5a7704585982619bc58", null ],
+      [ "eHalfLengthXmaxR", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ab177e1e74a1f1147cf165b27c3e5adb5a0a6537d1f99c94d965e0e7787fc91ebe", null ],
+      [ "eMinR", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ab177e1e74a1f1147cf165b27c3e5adb5a092b2d923d583394a2a99bfd866e0ff2", null ],
+      [ "eMaxR", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ab177e1e74a1f1147cf165b27c3e5adb5a4c4116aca40c16c8a2cf5dee1bc58fce", null ],
+      [ "eAveragePhi", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ab177e1e74a1f1147cf165b27c3e5adb5ade21ca56d3403a0787fba92b44f2671f", null ],
+      [ "eStereo", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ab177e1e74a1f1147cf165b27c3e5adb5aa68f3cd71f53e2da0994cd07ceb254b7", null ],
+      [ "eSize", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ab177e1e74a1f1147cf165b27c3e5adb5aa8a21fd7b2e0b10a2b35def04544ac18", null ]
+    ] ],
+    [ "DiscTrapezoidBounds", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#abe7155c3e2b88c5b2fd8edee8d620b58", null ],
+    [ "DiscTrapezoidBounds", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#abe130ac2c0dfb5a277ec09bb7e6329fe", null ],
+    [ "DiscTrapezoidBounds", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ac67a36cf2b1a3cfe8469187795c6af11", null ],
+    [ "~DiscTrapezoidBounds", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a56305e81c6ba6c42aede7b173de8353d", null ],
+    [ "binningValuePhi", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ac8fe7e338cdc1f34ab89d18480ca40b7", null ],
+    [ "binningValueR", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a40a2a3f9e714be272fd9e380909aad77", null ],
+    [ "checkConsistency", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a81f25907561a3ed7c4023a8b783f1a98", null ],
+    [ "coversFullAzimuth", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a56db38ba005a815651f144b79950930a", null ],
+    [ "get", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ab0a0773e1ce4c3ef0312db28cc2785c8", null ],
+    [ "halfLengthY", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#aa3eba232b8e3f5383d23d047b43755c3", null ],
+    [ "halfPhiSector", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a714660aaec14ba2bd694dd2c09fcde95", null ],
+    [ "inside", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#aa4143be438f578b0b415b5a8784d0b68", null ],
+    [ "insideRadialBounds", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#aaa39c76806305a8c81104ab693726abb", null ],
+    [ "jacobianToLocalCartesian", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a48bcae3c343e1ec5f5a7165b4fdaeb9e", null ],
+    [ "rCenter", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a6a8a79f2b4697476c3a788ac60091581", null ],
+    [ "rMax", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a875555a0d0815a603f21855d6dddf736", null ],
+    [ "rMin", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a4ac73f6be79fcb81e38dec936cd4913f", null ],
+    [ "stereo", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a021cba33233f9e30f463fc2f0519f9be", null ],
+    [ "toLocalCartesian", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a2cfab17645e6c3654079f5ca14d90ed0", null ],
+    [ "toStream", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a9e136004b37e3cf14b355a1bab7b6601", null ],
+    [ "type", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a1c1c4194c3ee2d00c8a7c699db19c965", null ],
+    [ "values", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#ad2651b0f20670e913b9a634f17d82f95", null ],
+    [ "vertices", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a1fb6664d391ed4da1b364f1706671c0a", null ],
+    [ "m_values", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a2f303fcbe7b233ee9a6272c8e7954649", null ],
+    [ "m_ymax", "dc/d7b/classActs_1_1DiscTrapezoidBounds.html#a9b1cc8a0462627d9b3320d9be0109898", null ]
+];

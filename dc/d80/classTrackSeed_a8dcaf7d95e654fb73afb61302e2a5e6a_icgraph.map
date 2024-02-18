@@ -1,0 +1,24 @@
+<map id="TrackSeed::get_crossing" name="TrackSeed::get_crossing">
+<area shape="rect" id="node2" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a34dc2d6443cd7564eba77b360ab8c9f8" title="PHSiliconTpcTrackMatching\l::checkCrossingMatches" alt="" coords="257,5,463,49"/>
+<area shape="rect" id="node4" href="$d4/d52/classTrackSeed__v1.html#a5d958ebfe3d2412618b3830ca99edef4" title="TrackSeed_v1::CopyFrom" alt="" coords="264,209,456,237"/>
+<area shape="rect" id="node9" href="$d9/d26/classhelixResiduals.html#a12396199944ca4cd3e1f1d8c8bfb210b" title="helixResiduals::fill\l_residuals" alt="" coords="289,261,431,305"/>
+<area shape="rect" id="node11" href="$dd/de7/classActsAlignmentStates.html#a89b826cc00a083d22bff9fbed88a7924" title="ActsAlignmentStates\l::fillAlignmentStateMap" alt="" coords="270,329,450,373"/>
+<area shape="rect" id="node16" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="793,435,996,463"/>
+<area shape="rect" id="node18" href="$d2/d71/classPHSiliconTpcTrackMatching.html#abd518487716d05be2ffd4faad93b76e8" title="PHSiliconTpcTrackMatching\l::findCrossingGeometrically" alt="" coords="255,73,465,117"/>
+<area shape="rect" id="node19" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a8b0b1734b5e8b4dfa5cbc36f70e27499" title="PHSiliconTpcTrackMatching\l::findEtaPhiMatches" alt="" coords="257,141,463,185"/>
+<area shape="rect" id="node20" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#aae9c82a4df59f8b0932581e1a44ad8f9" title="PHMicromegasTpcTrackMatching\l::process_event" alt="" coords="239,449,481,493"/>
+<area shape="rect" id="node21" href="$dc/dcf/classPHActsGSF.html#a6c3b895a05a59d9e14bbe0a754ac023b" title="PHActsGSF::process\l_event" alt="" coords="283,517,437,561"/>
+<area shape="rect" id="node22" href="$d5/de1/classHelicalFitter.html#a98485e999dddb90f86479a58eb7b53a3" title="HelicalFitter::process\l_event" alt="" coords="279,585,441,629"/>
+<area shape="rect" id="node23" href="$de/d25/classPHGenFitTrkFitter.html#afcdaabc6fd73922bb522d7fa7ef3a775" title="Process Event, called for each event." alt="" coords="287,653,433,697"/>
+<area shape="rect" id="node3" href="$d2/d71/classPHSiliconTpcTrackMatching.html#a2fd45f13ea0c05e51787832d0d8f85fc" title="PHSiliconTpcTrackMatching\l::process_event" alt="" coords="535,21,740,65"/>
+<area shape="rect" id="node5" href="$d1/d86/classTrackSeed__FastSim__v1.html#a609058821b1081324803628ae0c7b48c" title="TrackSeed_FastSim_v1\l::CopyFrom" alt="" coords="551,89,724,133"/>
+<area shape="rect" id="node7" href="$d4/d52/classTrackSeed__v1.html#a5819c802d692f6ed8d238a99ad233aa3" title="Copy constructors." alt="" coords="529,157,745,185"/>
+<area shape="rect" id="node8" href="$d4/d52/classTrackSeed__v1.html#a84301e53ce301c81d1facfd0e9f7a945" title="TrackSeed_v1::operator=" alt="" coords="541,209,733,237"/>
+<area shape="rect" id="node6" href="$d1/d86/classTrackSeed__FastSim__v1.html#a7b293327c5bfa473e4609f878d5c9f56" title="TrackSeed_FastSim_v1\l::TrackSeed_FastSim_v1" alt="" coords="804,89,985,133"/>
+<area shape="rect" id="node10" href="$d9/d26/classhelixResiduals.html#a244bd2dcfa0bbebcca1939aa27013dbc" title="helixResiduals::process\l_event" alt="" coords="548,261,727,305"/>
+<area shape="rect" id="node12" href="$d6/d54/classPHCosmicsTrkFitter.html#ac35f3feaf6ae8561a8a6ae4b3469fa55" title="PHCosmicsTrkFitter\l::getTrackFitResult" alt="" coords="562,329,713,373"/>
+<area shape="rect" id="node15" href="$d1/d49/classPHActsTrkFitter.html#abef281afb12f30e5b3571ec8c512b3da" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="543,397,732,441"/>
+<area shape="rect" id="node13" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="819,329,970,373"/>
+<area shape="rect" id="node14" href="$d6/d54/classPHCosmicsTrkFitter.html#af7f27bd06c1766a397916ed87c1a0c4e" title="Process each event by calling the fitter." alt="" coords="1060,329,1211,373"/>
+<area shape="rect" id="node17" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="1044,427,1227,471"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="daq_end_immediate" name="daq_end_immediate">
+<area shape="rect" id="node2" href="$db/dcc/rcdaq_8cc.html#a7308b917a130b7b6305d0b29f461ba7b" title="daq_end_thread" alt="" coords="212,395,341,423"/>
+<area shape="rect" id="node3" href="$db/dcc/rcdaq_8cc.html#a67adb43e122f86a81948a8a3d5bf69e3" title="daq_end" alt="" coords="389,291,468,319"/>
+<area shape="rect" id="node7" href="$db/dcc/rcdaq_8cc.html#a3d65a1ad11c020dbf20ddf6ade6660eb" title="disable_trigger" alt="" coords="547,523,670,551"/>
+<area shape="rect" id="node4" href="$db/dcc/rcdaq_8cc.html#a329b0b4b6cf370e0097c817deef83d9d" title="daq_generate_json" alt="" coords="1033,57,1183,85"/>
+<area shape="rect" id="node6" href="$db/dcc/rcdaq_8cc.html#aaef09be9b8d91276d6916a71167a0503" title="device_endrun" alt="" coords="549,57,669,85"/>
+<area shape="rect" id="node9" href="$d7/dc7/classElogHandler.html#aa89ca9b411df0cf083df3b75c2222039" title="ElogHandler::EndrunLog" alt="" coords="516,109,701,137"/>
+<area shape="rect" id="node10" href="$db/dcc/rcdaq_8cc.html#ad993c16d886b73a5f82dd5ce757d171a" title="readout" alt="" coords="571,316,646,344"/>
+<area shape="rect" id="node14" href="$db/dcc/rcdaq_8cc.html#a151826d6208bd784a9c77c0a12437174" title="switch_buffer" alt="" coords="802,264,914,292"/>
+<area shape="rect" id="node48" href="$db/dcc/rcdaq_8cc.html#adea2fde4ae83f2efda2d754e30c01048" title="request_mg_update" alt="" coords="531,161,686,189"/>
+<area shape="rect" id="node49" href="$db/dcc/rcdaq_8cc.html#a9b5543bc6c92fc83c0556249e301dfee" title="server_send_close_sequence" alt="" coords="749,472,967,500"/>
+<area shape="rect" id="node50" href="$db/dcc/rcdaq_8cc.html#ace1e52e8c2249c1517a24f6308bb107e" title="server_send_endrun\l_sequence" alt="" coords="1029,488,1187,532"/>
+<area shape="rect" id="node5" href="$db/dd2/online__distribution_2blob_2master_2newbasic_2md5_8cc.html#af926e22dea5f31719375681662188fac" title="md5_finish" alt="" coords="1249,5,1344,33"/>
+<area shape="rect" id="node8" href="$d1/d45/classTriggerHandler.html#acc9d943acf8bd8807ee8f88985e5c60c" title="TriggerHandler::disable" alt="" coords="768,524,948,552"/>
+<area shape="rect" id="node11" href="$df/d47/classdaqBuffer.html#ab8caf06ea320d43d042602d51a1c7361" title="daqBuffer::addSubevent" alt="" coords="764,316,952,344"/>
+<area shape="rect" id="node13" href="$df/d47/classdaqBuffer.html#a3db2659ee01283592bf0c3b8b374ccf2" title="daqBuffer::nextEvent" alt="" coords="775,368,941,396"/>
+<area shape="rect" id="node12" href="$d9/d3f/mongoose_8cc.html#a6dcfd23083a738f06b03dcd935b272eb" title="left" alt="" coords="1275,341,1319,369"/>
+<area shape="rect" id="node15" href="$df/d47/classdaqBuffer.html#ae1fe042ba5680b5d6d8e203565ffa329" title="daqBuffer::addEoB" alt="" coords="1034,109,1182,137"/>
+<area shape="rect" id="node16" href="$df/d47/classdaqBuffer.html#a1aa4a8dabda4b4f688ea5a493c9d6e12" title="daqBuffer::getLength" alt="" coords="1025,161,1191,189"/>
+<area shape="rect" id="node17" href="$dd/ddc/open__file_8C.html#a36cfe9c9595a8f36e6d1ed1718d5310b" title="open_file" alt="" coords="1067,213,1149,241"/>
+<area shape="rect" id="node37" href="$df/d47/classdaqBuffer.html#a026812106c1c519de1672c37aba2bfe1" title="daqBuffer::prepare_next" alt="" coords="1015,265,1201,293"/>
+<area shape="rect" id="node38" href="$db/dcc/rcdaq_8cc.html#a4b8e63f7ddf0847e4727575089088d60" title="server_send_rollover\l_sequence" alt="" coords="1027,420,1189,464"/>
+<area shape="rect" id="node18" href="$d9/d9e/evDisplay_8C.html#ac7bcb6cd8ca3e800a39f7f0063d61044" title="nevents" alt="" coords="1717,5,1793,33"/>
+<area shape="rect" id="node19" href="$d5/da2/mvtxOM_8cc.html#ae7c0d4007c8b8ae235b29b6e3a6fd261" title="OM" alt="" coords="1275,161,1318,189"/>
+<area shape="rect" id="node22" href="$d1/d7e/pmonitor_8cc.html#aacaf796ac23ef93dc5189f1fe4e35e17" title="pfileopen" alt="" coords="1255,213,1339,241"/>
+<area shape="rect" id="node36" href="$d1/d7e/pmonitor_8cc.html#aac5a599f5e664c79f82ecf7cb5f2bb65" title="prun" alt="" coords="1271,289,1323,317"/>
+<area shape="rect" id="node20" href="$d5/da2/mvtxOM_8cc.html#abcdfe3cacf3e79543605d5d472b6e9d2" title="analysis" alt="" coords="1460,109,1536,137"/>
+<area shape="rect" id="node21" href="$dc/df6/200pp__pythia8__CTEQ6L__7GeV__ALL_8cfg__eneg__DSTReader_8root__Draw__HFJetTruth__CrossSection2RAA_8C.html#a4cc7db43c9334bd84ba68c2d66f01742" title="Modified" alt="" coords="1459,161,1537,189"/>
+<area shape="rect" id="node23" href="$dd/dfd/classFROG.html#a32ef7a32ed2c73181a23d8e1de5ff8f8" title="FROG::location" alt="" coords="1437,213,1559,241"/>
+<area shape="rect" id="node34" href="$d4/d7c/classpmonstate.html#a531bef503865718434e7116243d9b7e1" title="pmonstate::setFileOpened" alt="" coords="1399,265,1597,293"/>
+<area shape="rect" id="node35" href="$d4/d7c/classpmonstate.html#a7f17a25e64ad9ae8a55d8a959772bb2f" title="pmonstate::streamOpened" alt="" coords="1397,317,1599,345"/>
+<area shape="rect" id="node24" href="$dd/dfd/classFROG.html#a8602dc55c35f650797f13f3f84b0a960" title="FROG::Verbosity" alt="" coords="1957,197,2089,225"/>
+<area shape="rect" id="node25" href="$dd/dfd/classFROG.html#a0ed2fbc68b5d5d0259c3ac29e532fcef" title="FROG::PGSearch" alt="" coords="1689,213,1822,241"/>
+<area shape="rect" id="node28" href="$dd/dfd/classFROG.html#a6291e84bdd6ab218b667edefad29370a" title="FROG::dCacheSearch" alt="" coords="1673,265,1838,293"/>
+<area shape="rect" id="node29" href="$dd/dfd/classFROG.html#abd23964ffd551d946d405f0924cf788f" title="FROG::XRootDSearch" alt="" coords="1673,161,1837,189"/>
+<area shape="rect" id="node30" href="$dd/dfd/classFROG.html#a48986627563e19b6aeffab4ab90c418e" title="FROG::LustreSearch" alt="" coords="1677,369,1833,397"/>
+<area shape="rect" id="node31" href="$dd/dfd/classFROG.html#a2dbbc54fcf18f41247ed89cc49ce71a4" title="FROG::MinIOSearch" alt="" coords="1679,317,1832,345"/>
+<area shape="rect" id="node32" href="$dd/dfd/classFROG.html#ac1e57e6025d4b703e43105a64cfb61b6" title="FROG::localSearch" alt="" coords="1682,421,1829,449"/>
+<area shape="rect" id="node33" href="$dd/dfd/classFROG.html#a42c17db7edbc46bc46cb5c358c3d68ef" title="FROG::Disconnect" alt="" coords="1683,57,1827,85"/>
+<area shape="rect" id="node26" href="$dd/dfd/classFROG.html#a80b070fa2c7b5394d63bf7e0a63e3908" title="FROG::GetConnection" alt="" coords="1939,317,2107,345"/>
+<area shape="rect" id="node27" href="$df/d98/classodbc_1_1Connection.html#a5f7d42a771ea7d1e25b564ac438d5f35" title="odbc::Connection::create\lStatement" alt="" coords="1927,249,2118,293"/>
+<area shape="rect" id="node39" href="$d8/da5/daqBuffer_8cc.html#a44493f50299f8a8ac1841e2d5856191d" title="readn" alt="" coords="1267,473,1327,501"/>
+<area shape="rect" id="node46" href="$d8/da5/daqBuffer_8cc.html#ac88188500c71b86cbeba8b99140810e9" title="writen" alt="" coords="1265,529,1328,557"/>
+<area shape="rect" id="node40" href="$d4/d6e/namespaceActsExamples_1_1JsonSurfacesReader.html#a1da9addc2bef80c66dc6cbe01cd17342" title="Read the surfaces from the input file." alt="" coords="1392,465,1604,509"/>
+<area shape="rect" id="node41" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a6da11e2e6ad60f32d02a17dc4daca13e" title="The Surface converter from json." alt="" coords="1652,525,1859,569"/>
+<area shape="rect" id="node45" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="1667,473,1843,501"/>
+<area shape="rect" id="node42" href="$d9/d52/HoughTransformSeeder_8cpp.html#a1f2cfb6e3644c66f2bfe3c54f699a72a" title="to_string" alt="" coords="1983,481,2063,509"/>
+<area shape="rect" id="node43" href="$d6/ddc/namespaceActs_1_1Transform3JsonConverter.html#af7cbb5fb620be5abf969d40b79d1dd48" title="The Transform converter from json." alt="" coords="1907,585,2139,629"/>
+<area shape="rect" id="node44" href="$da/d7b/namespaceActs.html#ad074520815baf6763fe0f99399f93624" title="Read config for cylinder/disc module splitter." alt="" coords="2187,564,2312,592"/>
+<area shape="rect" id="node47" href="$d7/d2d/make__fmod__calibrations_8C.html#aac759501cf6c7895a70eecbef0226ae1" title="write" alt="" coords="1471,533,1525,561"/>
+</map>

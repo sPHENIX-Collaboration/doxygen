@@ -1,0 +1,28 @@
+var classclvisc_1_1OpenclBackend =
+[
+    [ "OpenclBackend", "d2/d4e/classclvisc_1_1OpenclBackend.html#adcdc881eef7bf3e8e832487fcb17b5a8", null ],
+    [ "BuildProgram", "d2/d4e/classclvisc_1_1OpenclBackend.html#a40b4c080c2ebe42e06a8f2c594816907", null ],
+    [ "Context", "d2/d4e/classclvisc_1_1OpenclBackend.html#a74a81fe2498ef4dc0a3050ad1d07d46b", null ],
+    [ "CreateBuffer", "d2/d4e/classclvisc_1_1OpenclBackend.html#a90baaea8d74343789e1aafac90eeaf33", null ],
+    [ "CreateBufferByCopyVector", "d2/d4e/classclvisc_1_1OpenclBackend.html#af3789abda00d10be1bd4d948541eeb6f", null ],
+    [ "CreateContext_", "d2/d4e/classclvisc_1_1OpenclBackend.html#adf816d7a5c13363e4740155cdae5a3fe", null ],
+    [ "CreateImage2DByCopyVector", "d2/d4e/classclvisc_1_1OpenclBackend.html#a03c99b0884b3827c602d8889e60cf5cb", null ],
+    [ "CreateKernel", "d2/d4e/classclvisc_1_1OpenclBackend.html#a33b2f8223671d8499b73865f72f2b140", null ],
+    [ "DeviceInfo", "d2/d4e/classclvisc_1_1OpenclBackend.html#aa0dda9f88668195822eae34883de706f", null ],
+    [ "DeviceType", "d2/d4e/classclvisc_1_1OpenclBackend.html#a12e1f4f6857aa9c89bb6edde12e8655c", null ],
+    [ "enqueue_copy", "d2/d4e/classclvisc_1_1OpenclBackend.html#a238aea76ed899c2830153922273438e0", null ],
+    [ "enqueue_copy", "d2/d4e/classclvisc_1_1OpenclBackend.html#a47ec27782cf55f91365651891def8ea5", null ],
+    [ "enqueue_copy", "d2/d4e/classclvisc_1_1OpenclBackend.html#ab37d1e9a5021a7a5214305cab01c1d54", null ],
+    [ "enqueue_run", "d2/d4e/classclvisc_1_1OpenclBackend.html#a1ebed4f76dec073c5e390d2e86a222f4", null ],
+    [ "ExcutionTime", "d2/d4e/classclvisc_1_1OpenclBackend.html#ada59df52c69651573bc12bd63c479a3a", null ],
+    [ "Queue", "d2/d4e/classclvisc_1_1OpenclBackend.html#aa006f1108cae0cc19816b9092e59b105", null ],
+    [ "buffers", "d2/d4e/classclvisc_1_1OpenclBackend.html#a24bdebc30ff707c56ca444e9bf655546", null ],
+    [ "context_", "d2/d4e/classclvisc_1_1OpenclBackend.html#a7ec6f6cb106077a020ab40dac54b2252", null ],
+    [ "device_", "d2/d4e/classclvisc_1_1OpenclBackend.html#a7411c0258bb0d7ed4fd39759e624933d", null ],
+    [ "device_id_", "d2/d4e/classclvisc_1_1OpenclBackend.html#af8b74a01d3eee7dac55b925f6673795e", null ],
+    [ "device_type_", "d2/d4e/classclvisc_1_1OpenclBackend.html#a5b48e8d501a8180f751c4dbb67f889f2", null ],
+    [ "devices_", "d2/d4e/classclvisc_1_1OpenclBackend.html#a28a15c6c3a577da4e4dcf1d5cc390ac8", null ],
+    [ "kernel_funcs", "d2/d4e/classclvisc_1_1OpenclBackend.html#a0a1556aa523dc9b9f54c2c719c259dfb", null ],
+    [ "programs", "d2/d4e/classclvisc_1_1OpenclBackend.html#a7aa54ddfd75372965d86fe384383fae8", null ],
+    [ "queue_", "d2/d4e/classclvisc_1_1OpenclBackend.html#ad9381d2ab35f44bb3960d9a62445d3bb", null ]
+];

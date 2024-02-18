@@ -1,0 +1,26 @@
+<map id="readDigitalCurrents::process_event" name="readDigitalCurrents::process_event">
+<area shape="rect" id="node2" href="$d9/d82/classPHG4TpcCylinderGeom.html#aaddea431c03dfacaedd0c60266a6ab9f" title="PHG4TpcCylinderGeom\l::get_phibins" alt="" coords="241,73,419,117"/>
+<area shape="rect" id="node5" href="$d9/d85/classPHG4CylinderCellGeom.html#a619e05f0264243126360ac83b80f1d89" title="PHG4CylinderCellGeom\l::get_phicenter" alt="" coords="240,345,420,389"/>
+<area shape="rect" id="node8" href="$d9/d82/classPHG4TpcCylinderGeom.html#a4c49ce9c382d1de414fe4e1d5abe2843" title="PHG4TpcCylinderGeom\l::get_phicenter" alt="" coords="241,141,419,185"/>
+<area shape="rect" id="node9" href="$d9/d85/classPHG4CylinderCellGeom.html#a108104cde65d2ca503e306251188e615" title="PHG4CylinderCellGeom\l::get_radius" alt="" coords="240,209,420,253"/>
+<area shape="rect" id="node10" href="$d9/d82/classPHG4TpcCylinderGeom.html#a7209bf17262ac16657974cd025cb98cd" title="PHG4TpcCylinderGeom\l::get_radius" alt="" coords="241,277,419,321"/>
+<area shape="rect" id="node11" href="$d9/d85/classPHG4CylinderCellGeom.html#a3de4ba34c361c7a4da2a2b2162491f7d" title="PHG4CylinderCellGeom\l::get_zcenter" alt="" coords="240,413,420,457"/>
+<area shape="rect" id="node13" href="$d9/d82/classPHG4TpcCylinderGeom.html#a274f6f67502f28268e8aa1c16eebd8df" title="PHG4TpcCylinderGeom\l::get_zcenter" alt="" coords="241,5,419,49"/>
+<area shape="rect" id="node15" href="$da/d9b/classTrkrHit.html#a93dc2db5ac620f6cdf5379e9adeb39f4" title="TrkrHit::getAdc" alt="" coords="269,481,391,509"/>
+<area shape="rect" id="node16" href="$da/d9b/classTrkrHit.html#a596a88f2264c4c5154d6241fe6d53409" title="TrkrHit::getEnergy" alt="" coords="257,533,403,561"/>
+<area shape="rect" id="node17" href="$d5/d76/classTrkrHitSetContainer.html#a0e347bd66bf03e9a34651410a79d5cab" title="return all HitSets matching a given detid" alt="" coords="252,585,408,629"/>
+<area shape="rect" id="node18" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="256,893,404,921"/>
+<area shape="rect" id="node20" href="$d2/ddb/classPHG4CylinderCellGeomContainer.html#aa667a12262dc298b8aec717e6096d09f" title="PHG4CylinderCellGeomContainer\l::GetLayerCellGeom" alt="" coords="207,705,453,749"/>
+<area shape="rect" id="node21" href="$d2/d67/classPHG4TpcCylinderGeomContainer.html#a43bf6b8da6ba9b4ed80e09802de3d2ac" title="PHG4TpcCylinderGeomContainer\l::GetLayerCellGeom" alt="" coords="207,773,453,817"/>
+<area shape="rect" id="node22" href="$d7/db0/namespaceTpcDefs.html#a5009e86d9bf74a453e860b3650aac4d4" title="Get the pad index from hitkey." alt="" coords="264,945,396,973"/>
+<area shape="rect" id="node23" href="$d7/db0/namespaceTpcDefs.html#aafa0c31bf0892588a224d8f0726bff11" title="Get the side from hitsetkey." alt="" coords="261,997,399,1025"/>
+<area shape="rect" id="node24" href="$d7/db0/namespaceTpcDefs.html#a3ec8638cf9427c7955840853dbd96383" title="Get the time bin from hitkey." alt="" coords="261,653,399,681"/>
+<area shape="rect" id="node25" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="257,841,403,869"/>
+<area shape="rect" id="node3" href="$d9/d82/classPHG4TpcCylinderGeom.html#a93177822741be5a34a10ed624c7e8e8e" title="PHG4TpcCylinderGeom\l::check_binning_method_phi" alt="" coords="501,73,715,117"/>
+<area shape="rect" id="node4" href="$d9/d82/classPHG4TpcCylinderGeom.html#ab25c824b1f4070bd7f6b84d2eb74c867" title="PHG4TpcCylinderGeom\l::methodname" alt="" coords="763,40,942,84"/>
+<area shape="rect" id="node6" href="$d9/d85/classPHG4CylinderCellGeom.html#ab28e6403197b245275ba3613cd56ba6c" title="PHG4CylinderCellGeom\l::check_binning_method_phi" alt="" coords="501,345,715,389"/>
+<area shape="rect" id="node7" href="$d9/d85/classPHG4CylinderCellGeom.html#afa26b0daaa55e39e4fcdde530f6a7bb4" title="PHG4CylinderCellGeom\l::methodname" alt="" coords="763,379,943,423"/>
+<area shape="rect" id="node12" href="$d9/d85/classPHG4CylinderCellGeom.html#a68f0276a8f9bdb6059c1e286a0465100" title="PHG4CylinderCellGeom\l::check_binning_method" alt="" coords="515,413,701,457"/>
+<area shape="rect" id="node14" href="$d9/d82/classPHG4TpcCylinderGeom.html#a30b9e3e662c563b350100e8e73db765b" title="PHG4TpcCylinderGeom\l::check_binning_method" alt="" coords="515,5,701,49"/>
+<area shape="rect" id="node19" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="547,893,669,921"/>
+</map>

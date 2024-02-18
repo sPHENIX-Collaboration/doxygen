@@ -1,0 +1,51 @@
+<map id="TrkrDefs::genHitSetKey" name="TrkrDefs::genHitSetKey">
+<area shape="rect" id="node2" href="$d2/ddf/namespaceMicromegasDefs.html#a2909143d348383083b9c12cb810a8c04" title="Generate a hitsetkey for the micromegas." alt="" coords="232,1433,467,1461"/>
+<area shape="rect" id="node27" href="$d7/db0/namespaceTpcDefs.html#a30fc79495c9e8d14327d1026cd7325c7" title="Generate a hitsetkey for the tpc." alt="" coords="260,329,439,357"/>
+<area shape="rect" id="node37" href="$d6/d9e/namespaceInttDefs.html#a12be8558fb8bdb4b0374c28a63e703d3" title="Generate a hitsetkey for the intt." alt="" coords="262,2675,437,2703"/>
+<area shape="rect" id="node43" href="$d8/df1/namespaceMvtxDefs.html#a024ad0bf5de2d32614825f36645eb49e" title="Generate a hitsetkey for the mvtx." alt="" coords="257,2233,442,2261"/>
+<area shape="rect" id="node3" href="$d9/d24/classPHTruthClustering.html#aaec01b2b7b23d1de28de24b0ab3d28b1" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="837,1555,987,1599"/>
+<area shape="rect" id="node4" href="$d4/de4/classSvtxTruthEval.html#a6051f9387f039a6604738f6a451c704b" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="843,1640,981,1684"/>
+<area shape="rect" id="node5" href="$d3/d5f/classCylinderGeomMicromegas.html#a6fee891a8d09adb27417ef21f2d4332e" title="get strip for a give world location and tile" alt="" coords="536,977,736,1037"/>
+<area shape="rect" id="node6" href="$d7/db0/namespaceTpcDefs.html#a0202375ade5010ae596a2e0b7c7f5fd0" title="Generate a cluster key from indeces." alt="" coords="553,1553,719,1581"/>
+<area shape="rect" id="node8" href="$d6/d9e/namespaceInttDefs.html#a5ba0dd67ed80d91514f9136028cc9338" title="Generate a cluster key from indeces." alt="" coords="555,1605,717,1633"/>
+<area shape="rect" id="node9" href="$d8/df1/namespaceMvtxDefs.html#acef315b1153c420f248be5073c2600c1" title="Generate a cluster key from indeces." alt="" coords="550,1657,722,1685"/>
+<area shape="rect" id="node10" href="$d3/d5f/classCylinderGeomMicromegas.html#aac3858ab1b6338b7938e8b3f7e4650ab" title="get local coordinates for a given tile and strip" alt="" coords="536,1061,736,1105"/>
+<area shape="rect" id="node11" href="$d3/d5f/classCylinderGeomMicromegas.html#ae77b8f035814c95e79f07ba6db42e4f9" title="convert world to local position coordinates in (planar) tile reference frame" alt="" coords="536,1129,736,1189"/>
+<area shape="rect" id="node12" href="$d3/d5f/classCylinderGeomMicromegas.html#aa47ef402ea02e01add607dcc92c68e4d" title="convert world to local direction coordinates in (planar) tile reference frame" alt="" coords="531,1213,741,1257"/>
+<area shape="rect" id="node13" href="$d3/d5f/classCylinderGeomMicromegas.html#aa364b6324cfb332fb3233bc0cbb8770b" title="get number of strips" alt="" coords="536,1281,736,1325"/>
+<area shape="rect" id="node14" href="$d3/d5f/classCylinderGeomMicromegas.html#a6d7f21643a605b8ce793eec8f87e1d83" title="get strip length for a given tile" alt="" coords="536,1349,736,1393"/>
+<area shape="rect" id="node15" href="$d3/d5f/classCylinderGeomMicromegas.html#a17bdf578c682c308c3b1ef44dc7faa44" title="convert local to world position coordinates in (planar) tile reference frame" alt="" coords="536,1417,736,1477"/>
+<area shape="rect" id="node16" href="$d3/d5f/classCylinderGeomMicromegas.html#a7187bf0a9ca11deb77016b31794f5ea8" title="convert local to world direction coordinates in (planar) tile reference frame" alt="" coords="531,1761,741,1805"/>
+<area shape="rect" id="node17" href="$d6/d3f/namespaceTrkrDefs.html#a53af1843abe50e467a06d2307f7fe0eb" title="TrkrDefs::getClusKeyHi" alt="" coords="548,1829,724,1857"/>
+<area shape="rect" id="node18" href="$d6/d3f/namespaceTrkrDefs.html#a36fd0eb8c5bb3f21475acfec8965cf3e" title="Get a valid low / hi range for cluskey given tracker id &amp; layer." alt="" coords="547,1881,725,1909"/>
+<area shape="rect" id="node19" href="$d6/d3f/namespaceTrkrDefs.html#adc0b8a9c794036b9adb3ff5567636f02" title="TrkrDefs::getHitSetKeyHi" alt="" coords="542,1933,730,1961"/>
+<area shape="rect" id="node20" href="$d6/d3f/namespaceTrkrDefs.html#a201667d02154da2cdaa4780616ea0c32" title="Get a valid low / hi range for hitsetkey given tracker id &amp; layer." alt="" coords="541,653,731,681"/>
+<area shape="rect" id="node21" href="$d2/d5b/classMvtxPrototype2UnpackPRDF.html#aa377396bd6688ebca4afeada60f4c9ba" title="MvtxPrototype2UnpackPRDF\l::MakeHits" alt="" coords="529,1985,743,2029"/>
+<area shape="rect" id="node23" href="$da/db1/classMakeActsGeometry.html#a703340410b4232c39800ede2f3bb1ff9" title="bind micromegas surfaces to hitset id" alt="" coords="525,705,747,749"/>
+<area shape="rect" id="node24" href="$d0/daa/classMicromegasMapping.html#ace65c58f775be992a1c36b761d84862d" title="constructor" alt="" coords="551,773,721,817"/>
+<area shape="rect" id="node25" href="$d6/d5c/classPHG4MicromegasHitReco.html#af30c57b241621866a33dab76ccbadbaa" title="event processing" alt="" coords="540,841,732,885"/>
+<area shape="rect" id="node26" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#aae9c82a4df59f8b0932581e1a44ad8f9" title="PHMicromegasTpcTrackMatching\l::process_event" alt="" coords="515,909,757,953"/>
+<area shape="rect" id="node7" href="$dd/d60/classTpcPrototypeUnpacker.html#a018feffce2f4cf203fb9efc95d3c701a" title="ClusterData &amp;cluster &#45;&gt; DST / TrkrClusterContainer." alt="" coords="824,900,1000,944"/>
+<area shape="rect" id="node22" href="$d2/d5b/classMvtxPrototype2UnpackPRDF.html#a626563ed1855e37035028310326ae99b" title="MvtxPrototype2UnpackPRDF\l::process_event" alt="" coords="805,2016,1019,2060"/>
+<area shape="rect" id="node28" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="537,381,735,425"/>
+<area shape="rect" id="node29" href="$dd/d60/classTpcPrototypeUnpacker.html#ae1ef5126324a38fcce0e1e39e346ee6a" title="PadPlaneData m_padPlaneData &#45;&gt; DST / TrkrHitSetContainer." alt="" coords="548,449,724,493"/>
+<area shape="rect" id="node30" href="$da/db1/classMakeActsGeometry.html#aadffa77ea1344700447ca41d68bef29c" title="MakeActsGeometry::getTpc\lHitSetKeyFromCoords" alt="" coords="533,517,739,561"/>
+<area shape="rect" id="node31" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a6b7302a27f668ca5ae6fd80dfe5132c0" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="535,585,737,629"/>
+<area shape="rect" id="node32" href="$dc/d6c/classTpcSimpleClusterizer.html#a8df0e97e451c7d395491f49b58e57b7a" title="TpcSimpleClusterizer\l::process_event" alt="" coords="553,5,719,49"/>
+<area shape="rect" id="node33" href="$d2/d1a/classTpcCombinedRawDataUnpacker.html#a8e6a15ecbd82563278cdb842c8426a92" title="TpcCombinedRawDataUnpacker\l::process_event" alt="" coords="515,73,757,117"/>
+<area shape="rect" id="node34" href="$de/d25/classTpcClusterizer.html#ac66fda514e9c1985f3f083ef79934137" title="TpcClusterizer::process\l_event" alt="" coords="546,141,726,185"/>
+<area shape="rect" id="node35" href="$dd/d7c/classtpc__hits.html#abe1285a76afb7a95935cd3f1f7a6739b" title="tpc_hits::process_event" alt="" coords="546,209,726,237"/>
+<area shape="rect" id="node36" href="$d1/ddb/classTpcRawDataDecoder.html#a6e9b91527ebce847f5c2e1b668fab9cd" title="TpcRawDataDecoder::\lprocess_event" alt="" coords="550,261,722,305"/>
+<area shape="rect" id="node38" href="$da/db1/classMakeActsGeometry.html#af74b4bf4b1279e8a92921bfe162a16c3" title="MakeActsGeometry::getIntt\lHitSetKeyFromCoords" alt="" coords="533,2565,739,2609"/>
+<area shape="rect" id="node39" href="$da/db1/classMakeActsGeometry.html#aaa76791eb3537091abf15be6d1eb58dc" title="Get hitsetkey from TGeoNode for each detector geometry." alt="" coords="533,2633,739,2677"/>
+<area shape="rect" id="node40" href="$de/df6/classInttCombinedRawDataDecoder.html#ab65214232c5430a595cfd54344bea4e8" title="InttCombinedRawDataDecoder\l::process_event" alt="" coords="521,2701,751,2745"/>
+<area shape="rect" id="node41" href="$d0/d7e/classInttRawDataDecoder.html#aaa78db7cc145861e13e7d67478510d0e" title="InttRawDataDecoder\l::process_event" alt="" coords="555,2769,717,2813"/>
+<area shape="rect" id="node42" href="$dd/deb/classPHG4InttHitReco.html#a2c07a1ba7e82432a7d5de16339a80099" title="event processing" alt="" coords="539,2837,733,2881"/>
+<area shape="rect" id="node44" href="$de/d4d/classPHG4MvtxHitReco.html#a47ee1b5da3713a14740e0ec0e48ebe2f" title="PHG4MvtxHitReco::cluster\l_truthhits" alt="" coords="537,2361,735,2405"/>
+<area shape="rect" id="node45" href="$de/d4d/classPHG4MvtxHitReco.html#a909a81a9eb5c91d222f0ed65462e4ed7" title="event processing" alt="" coords="810,2263,1014,2307"/>
+<area shape="rect" id="node46" href="$da/db1/classMakeActsGeometry.html#ad1297a652617e697364fc272f4d5a2e6" title="Get subdetector hitsetkey from the local sensor unit coordinates." alt="" coords="528,2225,744,2269"/>
+<area shape="rect" id="node47" href="$da/db1/classMakeActsGeometry.html#a6a0df6f2c9c54155c51979f2a11dc2db" title="MakeActsGeometry::getMvtx\lKeyFromNode" alt="" coords="528,2293,744,2337"/>
+<area shape="rect" id="node48" href="$dd/d50/classMvtxCombinedRawDataDecoder.html#ae2b4ef63c01d56a7c0cd74d89481186b" title="run initialization" alt="" coords="516,2429,756,2473"/>
+<area shape="rect" id="node49" href="$dc/dc4/classMvtxHitPruner.html#a629a539be61749a2db0532b4abb025ca" title="event processing" alt="" coords="547,2497,725,2541"/>
+<area shape="rect" id="node50" href="$dd/d50/classMvtxCombinedRawDataDecoder.html#a5d1daca77ea10f340fc030e46a139ca8" title="event processing" alt="" coords="516,2105,756,2149"/>
+</map>

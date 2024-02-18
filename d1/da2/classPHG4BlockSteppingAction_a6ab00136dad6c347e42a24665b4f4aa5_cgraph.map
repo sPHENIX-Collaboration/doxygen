@@ -1,0 +1,23 @@
+<map id="PHG4BlockSteppingAction::UserSteppingAction" name="PHG4BlockSteppingAction::UserSteppingAction">
+<area shape="rect" id="node2" href="$db/d88/classPHG4Shower.html#a065eda98eebf1d2b83b081188d306df3" title="PHG4Shower::add_g4hit_id" alt="" coords="251,5,455,33"/>
+<area shape="rect" id="node3" href="$d4/d30/classPHG4HitContainer.html#a4df3ca68ecff69c9d7976b84fcc82e93" title="PHG4HitContainer::AddHit" alt="" coords="253,57,452,85"/>
+<area shape="rect" id="node4" href="$d3/d9e/classPHG4Hit.html#acea6b2f3763d899e4de3765b9b5c6e51" title="PHG4Hit::get_hit_id" alt="" coords="503,84,655,112"/>
+<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html#a299edb9d0b140d0456f8bfecdf9cac56" title="PHG4Hit::get_edep" alt="" coords="278,161,427,189"/>
+<area shape="rect" id="node6" href="$d3/d9e/classPHG4Hit.html#ab8db2cb7bc978a58777600b2bd7a22ac" title="PHG4Hit::get_eion" alt="" coords="281,213,425,241"/>
+<area shape="rect" id="node7" href="$dc/d36/classPHG4BlockDetector.html#ae2eac6c0b35c371fe6698adbe4610eb4" title="PHG4BlockDetector::\lget_Layer" alt="" coords="272,265,433,309"/>
+<area shape="rect" id="node8" href="$d3/d9e/classPHG4Hit.html#a5df423db026ef6538eb4b2519044d2ef" title="PHG4Hit::get_x" alt="" coords="291,333,415,361"/>
+<area shape="rect" id="node9" href="$d4/d30/classPHG4HitContainer.html#a5073671e6d35969dc3d421e2278229af" title="PHG4HitContainer::GetID" alt="" coords="257,385,448,413"/>
+<area shape="rect" id="node10" href="$df/d3f/classPHG4SteppingAction.html#a88ff50956245a2b72d459bad2004e1ca" title="PHG4SteppingAction\l::GetName" alt="" coords="272,437,433,481"/>
+<area shape="rect" id="node11" href="$d2/df6/namespacePHG4StepStatusDecode.html#a7544808d00f3fc0ebb9c9369dee9dd71" title="PHG4StepStatusDecode\l::GetStepStatus" alt="" coords="261,505,445,549"/>
+<area shape="rect" id="node12" href="$dc/d36/classPHG4BlockDetector.html#a99a2a0ffcd583efca31eea977ef36d64" title="PHG4BlockDetector::\lIsInBlock" alt="" coords="272,573,433,617"/>
+<area shape="rect" id="node13" href="$d3/d9e/classPHG4Hit.html#abfb89e6996324dc9961cf790c74c7741" title="Clear Event." alt="" coords="290,641,415,669"/>
+<area shape="rect" id="node14" href="$d3/d9e/classPHG4Hit.html#a4eb72c64e474205be82b3c204d866c11" title="PHG4Hit::set_edep" alt="" coords="279,693,427,721"/>
+<area shape="rect" id="node15" href="$d3/d9e/classPHG4Hit.html#aa452d82dfd4d441ee3e288afe1fcdb33" title="PHG4Hit::set_eion" alt="" coords="281,745,424,773"/>
+<area shape="rect" id="node16" href="$d3/d9e/classPHG4Hit.html#a793315fa853eaab854bdf0428f88313c" title="PHG4Hit::set_layer" alt="" coords="278,797,427,825"/>
+<area shape="rect" id="node17" href="$d3/d9e/classPHG4Hit.html#a0e5b38e4f13efc793eb85b006763ede5" title="PHG4Hit::set_shower_id" alt="" coords="262,849,443,877"/>
+<area shape="rect" id="node18" href="$d3/d9e/classPHG4Hit.html#a5a46a621b6b2931937e028dad5a1ead5" title="PHG4Hit::set_t" alt="" coords="293,901,413,929"/>
+<area shape="rect" id="node19" href="$d3/d9e/classPHG4Hit.html#a765310edee693bde31e0fefe92827155" title="PHG4Hit::set_trkid" alt="" coords="281,953,425,981"/>
+<area shape="rect" id="node20" href="$d3/d9e/classPHG4Hit.html#a29c3320afd3e1747132d956632be4754" title="PHG4Hit::set_x" alt="" coords="291,1005,414,1033"/>
+<area shape="rect" id="node21" href="$d3/d9e/classPHG4Hit.html#a977a9146151279a48f59f7ee7e1f8669" title="PHG4Hit::set_y" alt="" coords="291,1057,414,1085"/>
+<area shape="rect" id="node22" href="$d3/d9e/classPHG4Hit.html#a4fdb700121c3f2c3c529d025f72bf93c" title="PHG4Hit::set_z" alt="" coords="292,1109,413,1137"/>
+</map>

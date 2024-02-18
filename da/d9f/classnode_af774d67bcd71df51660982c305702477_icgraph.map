@@ -1,0 +1,49 @@
+<map id="node::opposite" name="node::opposite">
+<area shape="rect" id="node2" href="$da/d70/classbiconnectivity.html#a69ca91409485b57c486b188596080d7a" title="Handler called after the algorithm returns from the subtree starting at n connected to the actual nod..." alt="" coords="184,5,365,49"/>
+<area shape="rect" id="node3" href="$d0/d8e/classplanarity.html#aa691156ebe0066bee3d629a6bdd81231" title="planarity::attachment\l_cycle" alt="" coords="443,608,611,652"/>
+<area shape="rect" id="node5" href="$d0/d8e/classplanarity.html#a0a1949c82648889d188b2e748bc461da" title="planarity::run_on_biconnected" alt="" coords="1171,573,1396,601"/>
+<area shape="rect" id="node7" href="$d2/d61/classbfs.html#a567815d3b63e802420f4b536749a1ad2" title="bfs::bfs_sub" alt="" coords="223,863,326,891"/>
+<area shape="rect" id="node12" href="$d0/d8e/classplanarity.html#a63bfa8c2a4ab5454b71b1e522c2ff41d" title="planarity::case_B" alt="" coords="721,377,857,405"/>
+<area shape="rect" id="node13" href="$d0/d8e/classplanarity.html#a74f765d62afabf54c43c42f3c127c9d9" title="planarity::case_C" alt="" coords="458,125,595,153"/>
+<area shape="rect" id="node14" href="$d0/d8e/classplanarity.html#a0218e3db9d0ff3a27a03a992c22d0562" title="planarity::case_D" alt="" coords="458,177,595,205"/>
+<area shape="rect" id="node15" href="$d0/d8e/classplanarity.html#a0cf0ff94965eb40f5be5c07999e7e1bd" title="planarity::case_E" alt="" coords="459,229,595,257"/>
+<area shape="rect" id="node16" href="$d7/dcc/classplanar__embedding.html#a6462d40327bf7c4c91523b888bb45cb3" title="planar_embedding::check" alt="" coords="176,915,373,943"/>
+<area shape="rect" id="node17" href="$d1/de7/classpathfinder_1_1const__iterator.html#acbaabfa04503076ff34db02d03c2e05e" title="pathfinder::const_iterator\l::const_iterator" alt="" coords="177,967,372,1011"/>
+<area shape="rect" id="node18" href="$d0/d8e/classplanarity.html#abb8f97559c265376a7467d642a331a7a" title="planarity::dfs_bushform" alt="" coords="436,504,617,532"/>
+<area shape="rect" id="node19" href="$df/db3/classpathfinder.html#af88b617cd35f0cc1b85b15c7a755ef00" title="pathfinder::dfs_sub" alt="" coords="199,759,351,787"/>
+<area shape="rect" id="node20" href="$df/db3/classpathfinder.html#ab993d7d1ed52f570054a6512ebfc13ac" title="pathfinder::pathfinder" alt="" coords="441,728,613,756"/>
+<area shape="rect" id="node22" href="$da/db2/classdfs.html#ad10b710339b289a61723aef52fbcb5b4" title="dfs::dfs_sub" alt="" coords="223,811,326,839"/>
+<area shape="rect" id="node38" href="$d0/d8e/classplanarity.html#aadcc35e5b8dbf9d7184efbc6ab845885" title="planarity::extend_embedding" alt="" coords="680,583,899,611"/>
+<area shape="rect" id="node39" href="$d2/dab/classcomponents.html#afcf7a0bee5104bba7986039a9d6bd1ee" title="Handler called when a already marked node n connected to the actual node by e is found during the sea..." alt="" coords="194,1035,355,1079"/>
+<area shape="rect" id="node40" href="$da/d70/classbiconnectivity.html#a92228b87472140374dffea7d9f7ee20d" title="Handler called when a already marked node n connected to the actual node by e is found during the sea..." alt="" coords="199,1103,350,1147"/>
+<area shape="rect" id="node41" href="$d1/de7/classpathfinder_1_1const__iterator.html#acc71bfba7f3318446d97cf058871b015" title="pathfinder::const_iterator\l::operator++" alt="" coords="177,1171,372,1215"/>
+<area shape="rect" id="node42" href="$df/dcf/classpq__leaf.html#a5478f8f28b4661ec404c492a01ac1f34" title="pq_leaf::pq_leaf" alt="" coords="210,1239,339,1267"/>
+<area shape="rect" id="node43" href="$dc/df5/classbid__dijkstra.html#a1d2f36d3977ef90285442a269a03b919" title="Runs shortest path algorithm on G." alt="" coords="209,1291,340,1319"/>
+<area shape="rect" id="node44" href="$da/da9/classdijkstra.html#a7b30f3d8ad42baae27989bc14befe0d0" title="Runs shortest path algorithm on G." alt="" coords="223,1343,326,1371"/>
+<area shape="rect" id="node45" href="$d0/d8e/classplanarity.html#a158282cba0f0ce0abeb4dfdacd358a38" title="planarity::run_through\l_partial" alt="" coords="441,384,613,428"/>
+<area shape="rect" id="node47" href="$d0/d8e/classplanarity.html#a86f10c5faa107a5a672028e0c34b4a08" title="planarity::up_until\l_marked" alt="" coords="203,281,346,325"/>
+<area shape="rect" id="node48" href="$d7/dcc/classplanar__embedding.html#ab2870ca51d0df44f8006ab69c3ee74d4" title="planar_embedding::write_st" alt="" coords="421,556,632,584"/>
+<area shape="rect" id="node4" href="$d0/d8e/classplanarity.html#aafb22067f085cff4e9088e0ca17da8fe" title="planarity::examine\l_obstruction" alt="" coords="961,395,1109,439"/>
+<area shape="rect" id="node6" href="$d0/d8e/classplanarity.html#a93232e765c08dd2a4c00d192bb48b5fc" title="Runs planarity test on G." alt="" coords="1444,756,1556,784"/>
+<area shape="rect" id="node8" href="$d2/d61/classbfs.html#a06ae16bd0f3bb2f8eb6b3e36659ba82e" title="Applies algorithm to graph g." alt="" coords="490,1219,563,1247"/>
+<area shape="rect" id="node9" href="$da/d9f/classnode.html#a76dd179b0b9837b789f4d83aeeb2256c" title="node::excentricity" alt="" coords="718,1219,861,1247"/>
+<area shape="rect" id="node11" href="$d4/de2/my__test3_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="762,1271,817,1299"/>
+<area shape="rect" id="node10" href="$dd/d9b/classgraph.html#a69a41fa7005deee6062f2b8798d3fc74" title="graph::center" alt="" coords="977,1219,1092,1247"/>
+<area shape="rect" id="node21" href="$dc/d65/classst__number.html#a2aad4550b821c52d6998bff35fd8648f" title="Checks whether st&#45;number algorithm can be applied to G." alt="" coords="964,625,1105,653"/>
+<area shape="rect" id="node23" href="$da/db2/classdfs.html#af0863b8974d5fd58cd0375c78ed8163b" title="Applies algorithm to graph g." alt="" coords="490,901,563,929"/>
+<area shape="rect" id="node24" href="$d5/dbe/coresoftware_2blob_2master_2generators_2JETSCAPE_2readerTest_8cc.html#a054154ba03a21a269a8ec3126aec208e" title="AnalyzeGraph" alt="" coords="731,1167,848,1195"/>
+<area shape="rect" id="node26" href="$da/d70/classbiconnectivity.html#a64adab869e0080e3a1f8479e70010317" title="Handler called before the start of DFS." alt="" coords="716,755,863,799"/>
+<area shape="rect" id="node27" href="$dd/d9b/classgraph.html#abab8ba361624ba7ad7f204848553f3b0" title="graph::is_acyclic" alt="" coords="723,823,856,851"/>
+<area shape="rect" id="node28" href="$dd/d9b/classgraph.html#a2a19afec99de7d8655c11b5b7e49dc2c" title="graph::is_connected" alt="" coords="711,875,868,903"/>
+<area shape="rect" id="node34" href="$df/de4/my__test2_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="762,979,817,1007"/>
+<area shape="rect" id="node35" href="$de/d39/classratio__cut__partition.html#a20a50609115998baaa361627a5a1ca79" title="ratio_cut_partition\l::make_connected" alt="" coords="717,687,861,731"/>
+<area shape="rect" id="node36" href="$dd/de6/classJetscape_1_1JetScapeWriterHepMC.html#a98694627acd2525958f8888c811ef0ed" title="Jetscape::JetScapeWriter\lHepMC::Write" alt="" coords="695,1031,884,1075"/>
+<area shape="rect" id="node37" href="$d7/d1e/classJetscape_1_1JetScapeWriterRootHepMC.html#a0e5ee5e2b8a8e52a8c953033e7b36eb9" title="Jetscape::JetScapeWriter\lRootHepMC::Write" alt="" coords="695,1099,884,1143"/>
+<area shape="rect" id="node25" href="$d5/dbe/coresoftware_2blob_2master_2generators_2JETSCAPE_2readerTest_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1007,1167,1062,1195"/>
+<area shape="rect" id="node29" href="$dc/d06/classmin__tree.html#ad87b1bfbc687ad943c07538fa0c3d270" title="Checks whether algorithm can be applied." alt="" coords="970,885,1099,913"/>
+<area shape="rect" id="node30" href="$de/da7/classmaxflow__ff.html#a4d0deee7d70bac4c9dad942341d87e37" title="maxflow_ff::check" alt="" coords="963,729,1107,757"/>
+<area shape="rect" id="node31" href="$d8/d25/classmaxflow__pp.html#a7ea24bd88999718e5e4e28ac028131cd" title="maxflow_pp::check" alt="" coords="959,781,1111,809"/>
+<area shape="rect" id="node32" href="$da/d1a/classmaxflow__sap.html#aa2974bf25fb597677848fdb23c12d338" title="maxflow_sap::check" alt="" coords="955,833,1114,861"/>
+<area shape="rect" id="node33" href="$de/d39/classratio__cut__partition.html#a4ab180ca4cf57c811e3478c3de4c4dc3" title="ratio_cut_partition::run" alt="" coords="947,677,1123,705"/>
+<area shape="rect" id="node46" href="$d0/d8e/classplanarity.html#a6eda46f0aedd2fe3503b0b2829863d50" title="planarity::case_A" alt="" coords="721,325,858,353"/>
+</map>

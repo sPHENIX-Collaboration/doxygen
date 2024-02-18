@@ -1,0 +1,23 @@
+<map id="CylinderGeomMicromegas::find_strip_from_world_coords" name="CylinderGeomMicromegas::find_strip_from_world_coords">
+<area shape="rect" id="node2" href="$d3/d5f/classCylinderGeomMicromegas.html#a6fee891a8d09adb27417ef21f2d4332e" title="get strip for a give world location and tile" alt="" coords="253,161,453,221"/>
+<area shape="rect" id="node20" href="$d3/d5f/classCylinderGeomMicromegas.html#ae77b8f035814c95e79f07ba6db42e4f9" title="convert world to local position coordinates in (planar) tile reference frame" alt="" coords="253,245,453,305"/>
+<area shape="rect" id="node3" href="$d2/ddf/namespaceMicromegasDefs.html#a2909143d348383083b9c12cb810a8c04" title="Generate a hitsetkey for the micromegas." alt="" coords="506,73,741,101"/>
+<area shape="rect" id="node15" href="$d3/d5f/classCylinderGeomMicromegas.html#a64d175a4561692f8a3d308e7f627b453" title="CylinderGeomMicromegas\l::get_layer" alt="" coords="523,125,723,169"/>
+<area shape="rect" id="node16" href="$d3/d5f/classCylinderGeomMicromegas.html#a7f4b63d4944c69d93146b1b1041faa84" title="segmentation type" alt="" coords="523,193,723,237"/>
+<area shape="rect" id="node17" href="$d0/dcd/structActsSurfaceMaps.html#a495aa227eb961abc63783e594fb433b2" title="ActsSurfaceMaps::getMMSurface" alt="" coords="501,261,745,289"/>
+<area shape="rect" id="node18" href="$da/d28/classActs_1_1RectangleBounds.html#acd9e45f5771fe1b4b86657e4498f0a72" title="Access to the half length in X." alt="" coords="534,5,713,49"/>
+<area shape="rect" id="node19" href="$d3/d64/classActsGeometry.html#a5de502147722c0e0e8549b706d5d21a8" title="ActsGeometry::maps" alt="" coords="541,313,705,341"/>
+<area shape="rect" id="node4" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="793,21,972,49"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1023,21,1146,49"/>
+<area shape="rect" id="node6" href="$d2/d51/usm_8C.html#a4fc3d7a8ab8dddafe2295d65165d9cf7" title="tile" alt="" coords="861,125,904,153"/>
+<area shape="rect" id="node7" href="$d2/d51/usm_8C.html#aeb3b442c3eacc3e6c3987fcb2a7d938c" title="csNorm" alt="" coords="1049,229,1121,257"/>
+<area shape="rect" id="node8" href="$dd/d7a/Mat__map__detector__plot_8C.html#ac0d08f0933de5ca6053592441e00dacb" title="Fill the histograms for the detector." alt="" coords="1065,73,1104,101"/>
+<area shape="rect" id="node13" href="$d2/d51/usm_8C.html#a312a11f8998028abc96138b746c948bf" title="fsNorm" alt="" coords="1050,125,1119,153"/>
+<area shape="rect" id="node14" href="$d4/da3/namespacemyAnalysis.html#a9f597e7106ca1fcda16204c112f7f2e0" title="myAnalysis::init" alt="" coords="1020,177,1149,205"/>
+<area shape="rect" id="node9" href="$dd/d7a/Mat__map__detector__plot_8C.html#ab5e879aeac6e72f1a2567331e3716b3b" title="Initialise the histograms for the detector." alt="" coords="1237,44,1347,72"/>
+<area shape="rect" id="node10" href="$d7/d33/classActs_1_1GeometryIdentifier.html#abc1ccf966fe5fc7f517c6775b5d38623" title="Return the volume identifier." alt="" coords="1197,96,1387,140"/>
+<area shape="rect" id="node11" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a5fc08ada52c3da4d9b255e0454739e1d" title="Extract the masked bits from the encoded value." alt="" coords="1435,96,1624,140"/>
+<area shape="rect" id="node12" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ac13065798464cc86b747086eea9020e2" title="Extract the bit shift necessary to access the masked values." alt="" coords="1672,96,1861,140"/>
+<area shape="rect" id="node21" href="$d3/d64/classActsGeometry.html#aef1d7a1753e979a73b28e0ffbe6ab994" title="ActsGeometry::geometry" alt="" coords="527,365,719,393"/>
+<area shape="rect" id="node22" href="$d4/d32/structActsTrackingGeometry.html#a21111b468314bf411c1742355ab7d1f5" title="ActsTrackingGeometry\l::getGeoContext" alt="" coords="536,417,711,461"/>
+</map>

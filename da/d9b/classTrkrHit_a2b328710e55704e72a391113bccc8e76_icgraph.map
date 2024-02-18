@@ -1,0 +1,20 @@
+<map id="TrkrHit::setAdc" name="TrkrHit::setAdc">
+<area shape="rect" id="node2" href="$de/d4d/classPHG4MvtxHitReco.html#a47ee1b5da3713a14740e0ec0e48ebe2f" title="PHG4MvtxHitReco::cluster\l_truthhits" alt="" coords="196,96,395,140"/>
+<area shape="rect" id="node6" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="196,193,395,237"/>
+<area shape="rect" id="node8" href="$dd/da0/classPHG4InttDigitizer.html#a1abd54009150500d799f667169b0b35a" title="PHG4InttDigitizer::\lDigitizeLadderCells" alt="" coords="219,261,371,305"/>
+<area shape="rect" id="node10" href="$d5/d21/classPHG4MvtxDigitizer.html#a0d6851617a0a95e6cfab450d5e8534b2" title="PHG4MvtxDigitizer::\lDigitizeMvtxLadderCells" alt="" coords="203,329,387,373"/>
+<area shape="rect" id="node12" href="$dd/d60/classTpcPrototypeUnpacker.html#ae1ef5126324a38fcce0e1e39e346ee6a" title="PadPlaneData m_padPlaneData &#45;&gt; DST / TrkrHitSetContainer." alt="" coords="207,397,383,441"/>
+<area shape="rect" id="node14" href="$de/df6/classInttCombinedRawDataDecoder.html#ab65214232c5430a595cfd54344bea4e8" title="InttCombinedRawDataDecoder\l::process_event" alt="" coords="180,465,411,509"/>
+<area shape="rect" id="node15" href="$d0/d7e/classInttRawDataDecoder.html#aaa78db7cc145861e13e7d67478510d0e" title="InttRawDataDecoder\l::process_event" alt="" coords="215,533,376,577"/>
+<area shape="rect" id="node16" href="$d0/dc0/classPHG4MicromegasDigitizer.html#a4aa5f53d284e5ffbd447698cd933da52" title="event processing" alt="" coords="197,601,394,645"/>
+<area shape="rect" id="node17" href="$d2/d1a/classTpcCombinedRawDataUnpacker.html#a8e6a15ecbd82563278cdb842c8426a92" title="TpcCombinedRawDataUnpacker\l::process_event" alt="" coords="175,669,416,713"/>
+<area shape="rect" id="node18" href="$d9/d15/classPHG4TpcPadBaselineShift.html#a3bb5562810279bd00fe4e241d8f94d52" title="PHG4TpcPadBaselineShift\l::process_event" alt="" coords="197,737,393,781"/>
+<area shape="rect" id="node19" href="$dc/dc4/classMvtxHitPruner.html#a629a539be61749a2db0532b4abb025ca" title="event processing" alt="" coords="206,805,385,849"/>
+<area shape="rect" id="node3" href="$de/d4d/classPHG4MvtxHitReco.html#a8af47803abd8f17be6b5d7cb15e52e2e" title="PHG4MvtxHitReco::end\l_event_truthcluster" alt="" coords="488,5,665,49"/>
+<area shape="rect" id="node4" href="$de/d4d/classPHG4MvtxHitReco.html#a909a81a9eb5c91d222f0ed65462e4ed7" title="event processing" alt="" coords="737,65,941,109"/>
+<area shape="rect" id="node5" href="$de/d4d/classPHG4MvtxHitReco.html#acded27d87ad75c33578355b8cbdad2ea" title="PHG4MvtxHitReco::truthcheck\l_g4hit" alt="" coords="464,125,689,169"/>
+<area shape="rect" id="node7" href="$d1/dc5/classPHG4TpcDigitizer.html#a6f7cfd373e9a212b5e255e44738ea193" title="event processing" alt="" coords="477,193,677,237"/>
+<area shape="rect" id="node9" href="$dd/da0/classPHG4InttDigitizer.html#aec310cc05309c369b9d87b67ae4e4c6d" title="event processing" alt="" coords="504,261,649,305"/>
+<area shape="rect" id="node11" href="$d5/d21/classPHG4MvtxDigitizer.html#a3ccd8653a6c117fff6d6cddb6adccf53" title="event processing" alt="" coords="499,329,655,373"/>
+<area shape="rect" id="node13" href="$dd/d60/classTpcPrototypeUnpacker.html#a3c458d1bda422672ff79946e5816f197" title="TpcPrototypeUnpacker\l::process_event" alt="" coords="489,397,665,441"/>
+</map>

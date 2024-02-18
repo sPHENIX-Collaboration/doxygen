@@ -1,0 +1,33 @@
+<map id="TSQLResultSet::FindColumn" name="TSQLResultSet::FindColumn">
+<area shape="rect" id="node2" href="$d0/db4/classTSQLResultSet.html#ab591f6fc9faee624727ac77d101acf78" title="TSQLResultSet::GetAsciiStream" alt="" coords="273,5,507,33"/>
+<area shape="rect" id="node3" href="$d0/db4/classTSQLResultSet.html#a62c5adc5d5e5d893c4503518bebe0681" title="TSQLResultSet::GetBinary\lStream" alt="" coords="291,57,489,101"/>
+<area shape="rect" id="node4" href="$d0/db4/classTSQLResultSet.html#a87e7fbbb9a5740aa578ccabde8c67310" title="TSQLResultSet::GetBoolean" alt="" coords="285,125,495,153"/>
+<area shape="rect" id="node5" href="$d0/db4/classTSQLResultSet.html#a9efe39994bf0e25ca9d196bcc7e8be0b" title="TSQLResultSet::GetByte" alt="" coords="297,177,483,205"/>
+<area shape="rect" id="node6" href="$d0/db4/classTSQLResultSet.html#a66737edbe7f318a4f16842d67a099fa8" title="TSQLResultSet::GetBytes" alt="" coords="294,229,486,257"/>
+<area shape="rect" id="node7" href="$d0/db4/classTSQLResultSet.html#a50897f202c4ffe5223240558c593b306" title="TSQLResultSet::GetDate" alt="" coords="297,281,483,309"/>
+<area shape="rect" id="node8" href="$d0/db4/classTSQLResultSet.html#aa5492d3a009655d1e660b185c4f2ec56" title="TSQLResultSet::GetDouble" alt="" coords="289,333,491,361"/>
+<area shape="rect" id="node9" href="$d0/db4/classTSQLResultSet.html#a06647e3594cc456b295b048be28585db" title="TSQLResultSet::GetFloat" alt="" coords="296,385,484,413"/>
+<area shape="rect" id="node10" href="$d0/db4/classTSQLResultSet.html#ae95c8e84c9801579b51592adf9051a82" title="TSQLResultSet::GetInt" alt="" coords="304,437,476,465"/>
+<area shape="rect" id="node11" href="$d0/db4/classTSQLResultSet.html#a234f45b34de85247a0a48f8a9846edfc" title="TSQLResultSet::GetLong" alt="" coords="297,489,483,517"/>
+<area shape="rect" id="node12" href="$d0/db4/classTSQLResultSet.html#a61847297fe1835fc07d5b756c0fd6c2b" title="TSQLResultSet::GetObject" alt="" coords="291,541,489,569"/>
+<area shape="rect" id="node13" href="$d0/db4/classTSQLResultSet.html#a492c3d6ea29500771a6a9f2b683a9301" title="TSQLResultSet::GetShort" alt="" coords="295,593,485,621"/>
+<area shape="rect" id="node14" href="$d0/db4/classTSQLResultSet.html#aa54b36cc66a646d4f0e1acaaadb1eee9" title="TSQLResultSet::GetString" alt="" coords="293,645,487,673"/>
+<area shape="rect" id="node15" href="$d0/db4/classTSQLResultSet.html#a5334f3a63260a52f8a27d79cfa3db732" title="TSQLResultSet::GetTime" alt="" coords="296,697,484,725"/>
+<area shape="rect" id="node16" href="$d0/db4/classTSQLResultSet.html#ac163d7f430b449fd6fa2543c60237803" title="TSQLResultSet::GetTimestamp" alt="" coords="275,749,505,777"/>
+<area shape="rect" id="node17" href="$d0/db4/classTSQLResultSet.html#ad5e6cc4aae7432de8a5a63c0c866ff8f" title="TSQLResultSet::UpdateAscii\lStream" alt="" coords="285,801,495,845"/>
+<area shape="rect" id="node18" href="$d0/db4/classTSQLResultSet.html#a750707ef2b8a9582b01248e53d1229c1" title="TSQLResultSet::UpdateBinary\lStream" alt="" coords="279,869,501,913"/>
+<area shape="rect" id="node19" href="$d0/db4/classTSQLResultSet.html#aa1a2bbb90c51e50bd44b125f5714da0e" title="TSQLResultSet::UpdateBoolean" alt="" coords="273,937,507,965"/>
+<area shape="rect" id="node20" href="$d0/db4/classTSQLResultSet.html#ad2b77e52710912edec820c2ccda2deaf" title="TSQLResultSet::UpdateByte" alt="" coords="285,989,495,1017"/>
+<area shape="rect" id="node21" href="$d0/db4/classTSQLResultSet.html#a1d898a4010ab2dea76f7cfc4b75e014b" title="TSQLResultSet::UpdateBytes" alt="" coords="281,1041,499,1069"/>
+<area shape="rect" id="node22" href="$d0/db4/classTSQLResultSet.html#a19426be019c00d3f42dd5fa1fff3acfd" title="TSQLResultSet::UpdateDate" alt="" coords="285,1093,495,1121"/>
+<area shape="rect" id="node23" href="$d0/db4/classTSQLResultSet.html#ad2986ae9567f0e177e3126a81ac321bc" title="TSQLResultSet::UpdateDouble" alt="" coords="277,1145,503,1173"/>
+<area shape="rect" id="node24" href="$d0/db4/classTSQLResultSet.html#abc15fdbfa028e0cd268c1ea205060508" title="TSQLResultSet::UpdateFloat" alt="" coords="283,1197,497,1225"/>
+<area shape="rect" id="node25" href="$d0/db4/classTSQLResultSet.html#aa3a78390d40bdfc3da4f662fcb818791" title="TSQLResultSet::UpdateInt" alt="" coords="291,1249,489,1277"/>
+<area shape="rect" id="node26" href="$d0/db4/classTSQLResultSet.html#a9c092542e51fb4e352bda0939e936dfc" title="TSQLResultSet::UpdateLong" alt="" coords="284,1301,496,1329"/>
+<area shape="rect" id="node27" href="$d0/db4/classTSQLResultSet.html#a35531775dc1da36682f91ab7771c07e4" title="TSQLResultSet::UpdateNull" alt="" coords="287,1353,493,1381"/>
+<area shape="rect" id="node28" href="$d0/db4/classTSQLResultSet.html#af24885ac84688aa12b8fd545471bea8b" title="TSQLResultSet::UpdateObject" alt="" coords="278,1405,502,1433"/>
+<area shape="rect" id="node29" href="$d0/db4/classTSQLResultSet.html#a488d0c51b58ee9af2c301dffce088f8b" title="TSQLResultSet::UpdateShort" alt="" coords="282,1457,498,1485"/>
+<area shape="rect" id="node30" href="$d0/db4/classTSQLResultSet.html#aac4c36b22736652dc58fdb622a2faf6b" title="TSQLResultSet::UpdateString" alt="" coords="281,1509,499,1537"/>
+<area shape="rect" id="node31" href="$d0/db4/classTSQLResultSet.html#a0c79abe61958956c633910e18b8cdc9d" title="TSQLResultSet::UpdateTime" alt="" coords="284,1561,496,1589"/>
+<area shape="rect" id="node32" href="$d0/db4/classTSQLResultSet.html#a7aec40d55991f5d430ed4dd3099b5498" title="TSQLResultSet::UpdateTimestamp" alt="" coords="263,1613,517,1641"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="pinit" name="pinit">
+<area shape="rect" id="node2" href="$d8/d38/classOnlMonServer.html#a051f5d14c8aee2413bb6f69cb92dc096" title="OnlMonServer::instance" alt="" coords="598,109,781,137"/>
+<area shape="rect" id="node4" href="$d6/dfd/classgroot.html#adb961f4ed3d85b8b66d81d8c2d10aa17" title="groot::instance" alt="" coords="163,84,285,112"/>
+<area shape="rect" id="node8" href="$d8/d38/classOnlMonServer.html#a9baf2dd0a237adf276011c3cb4ad9af0" title="OnlMonServer::registerCommon\lHisto" alt="" coords="105,231,343,275"/>
+<area shape="rect" id="node9" href="$d6/d55/pmonitorInterface_8cc.html#a73fdf82650602ce867f6ab0b93e0a8a6" title="server" alt="" coords="191,341,257,369"/>
+<area shape="rect" id="node30" href="$d8/d38/classOnlMonServer.html#a5308047f57b13d82c6f9faf99bbeb97d" title="OnlMonServer::SetThreadId" alt="" coords="121,393,327,421"/>
+<area shape="rect" id="node3" href="$d8/d38/classOnlMonServer.html#ad2d599c16bdeaf27189535559741c860" title="OnlMonServer::OnlMonServer" alt="" coords="847,109,1069,137"/>
+<area shape="rect" id="node5" href="$d6/dfd/classgroot.html#af205da8d96d655fb6d86dd0065267092" title="groot::groot" alt="" coords="410,57,513,85"/>
+<area shape="rect" id="node6" href="$d9/d9e/evDisplay_8C.html#a493aff38bcceaba17aef8c5257ff963a" title="channel" alt="" coords="652,5,727,33"/>
+<area shape="rect" id="node7" href="$d0/dca/classAZigzag.html#a0c1b026a723d17ca9f1bff1c8250339d" title="AZigzag::ReadCalibration" alt="" coords="593,57,786,85"/>
+<area shape="rect" id="node10" href="$d8/d38/classOnlMonServer.html#a79d6d30c72be6ec296f48ffd26795ad0" title="OnlMonServer::PortNumber" alt="" coords="1118,595,1325,623"/>
+<area shape="rect" id="node11" href="$d6/d55/pmonitorInterface_8cc.html#a00af19a26e07cc766a00845bf06fd618" title="send_message" alt="" coords="629,609,750,637"/>
+<area shape="rect" id="node12" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="660,661,719,689"/>
+<area shape="rect" id="node13" href="$dc/d59/classOnlMonBase.html#af8d515043a9d90e0018082923c2c050a" title="OnlMonBase::Verbosity" alt="" coords="600,161,779,189"/>
+<area shape="rect" id="node14" href="$d6/d55/pmonitorInterface_8cc.html#a3878d599729268140232f06a080d17e6" title="handleconnection" alt="" coords="391,363,532,391"/>
+<area shape="rect" id="node15" href="$d8/d38/classOnlMonServer.html#aa5fcb000df47c2fdca4eed0e0614d120" title="OnlMonServer::WriteHistoFile" alt="" coords="580,213,799,241"/>
+<area shape="rect" id="node19" href="$d8/d38/classOnlMonServer.html#a37abfad98424baeaf4a9b23729e65363" title="OnlMonServer::nHistos" alt="" coords="601,265,777,293"/>
+<area shape="rect" id="node20" href="$d8/d38/classOnlMonServer.html#a04dac15a38380f0cab803b337be5cca2" title="OnlMonServer::monibegin" alt="" coords="591,317,788,345"/>
+<area shape="rect" id="node21" href="$d8/d38/classOnlMonServer.html#a419d46a37ab02b0caaa700083bccec08" title="OnlMonServer::moniend" alt="" coords="597,369,782,397"/>
+<area shape="rect" id="node22" href="$d8/d38/classOnlMonServer.html#a36186ae110cdd51eed481a0e54802155" title="OnlMonServer::getHisto" alt="" coords="598,421,781,449"/>
+<area shape="rect" id="node28" href="$d8/d38/classOnlMonServer.html#aa33ceacfc66794095515a566e0fbb0e8" title="OnlMonServer::monitor\l_vec_begin" alt="" coords="600,473,779,517"/>
+<area shape="rect" id="node29" href="$d8/d38/classOnlMonServer.html#a3fb27030c8414c5b454e84954a059f3a" title="OnlMonServer::monitor\l_vec_end" alt="" coords="600,541,779,585"/>
+<area shape="rect" id="node16" href="$d9/d52/HoughTransformSeeder_8cpp.html#a1f2cfb6e3644c66f2bfe3c54f699a72a" title="to_string" alt="" coords="918,213,998,241"/>
+<area shape="rect" id="node17" href="$d8/d38/classOnlMonServer.html#a03f7545eb981ccbb9f506191026a55ee" title="OnlMonServer::RunNumber" alt="" coords="1375,345,1582,373"/>
+<area shape="rect" id="node18" href="$dc/d59/classOnlMonBase.html#a9366848a572a15238f3ba4f65dfabb50" title="OnlMonBase::Verbosity" alt="" coords="869,349,1047,377"/>
+<area shape="rect" id="node23" href="$d8/d38/classOnlMonServer.html#ae07b798f16859ae5dd79f5404a4bffd5" title="OnlMonServer::send\l_message" alt="" coords="879,408,1037,452"/>
+<area shape="rect" id="node27" href="$d8/d38/classOnlMonServer.html#a55d8d563322ba6252e2430f672601515" title="OnlMonServer::Print" alt="" coords="879,497,1037,525"/>
+<area shape="rect" id="node24" href="$dc/d59/classOnlMonBase.html#a3b7582353a120bef8845ca3f0efa9ed4" title="OnlMonBase::Name" alt="" coords="1144,397,1299,425"/>
+<area shape="rect" id="node25" href="$d8/d38/classOnlMonServer.html#a2ab26bc0f7f17c41ece020fd910e4fec" title="OnlMonServer::WriteLogFile" alt="" coords="1117,449,1325,477"/>
+<area shape="rect" id="node26" href="$d8/d38/classOnlMonServer.html#a7a7108067d0b5aeac3fa14344e235e79" title="OnlMonServer::CurrentTicks" alt="" coords="1373,449,1584,477"/>
+</map>

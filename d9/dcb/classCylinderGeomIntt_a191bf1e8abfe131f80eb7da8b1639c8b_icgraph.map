@@ -1,0 +1,12 @@
+<map id="CylinderGeomIntt::get_strip_phi_tilt" name="CylinderGeomIntt::get_strip_phi_tilt">
+<area shape="rect" id="node2" href="$d6/d17/classSVReco.html#af99925be18cc9afbb2b9936df3a925db" title="Uses the tracking clusters exclusively to make a GFTrack." alt="" coords="225,181,421,209"/>
+<area shape="rect" id="node3" href="$d6/d17/classSVReco.html#a19081506d2161465fdf3f36527aa0e18" title="Initialization, called for initialization at each event." alt="" coords="471,129,612,157"/>
+<area shape="rect" id="node8" href="$d6/d17/classSVReco.html#aed33c3da67bd3f1b7c3c73127b8187ea" title="SVReco::refitTrack" alt="" coords="469,207,613,235"/>
+<area shape="rect" id="node4" href="$df/d9b/classRecoConversionEval.html#ab5e60cc47b4b3d33f9fdb4a83c2ff775" title="RecoConversionEval\l::doNodePointers" alt="" coords="698,5,857,49"/>
+<area shape="rect" id="node6" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="697,73,858,117"/>
+<area shape="rect" id="node7" href="$d2/d6d/classVtxTest.html#ad1a3b9d5e730a3ba75f13a084e21bee5" title="VtxTest::process_event" alt="" coords="688,141,867,169"/>
+<area shape="rect" id="node5" href="$df/d9b/classRecoConversionEval.html#a54bb2ea55f01b0d0dc8752fbee1bc237" title="RecoConversionEval\l::process_event" alt="" coords="941,152,1100,196"/>
+<area shape="rect" id="node9" href="$dc/d41/classConversion.html#a232908ec95e6d7b3bfd8883d19885971" title="Uses the truth vertex and SVReco to improve the fit of reco1 and reco2. Uses." alt="" coords="661,193,893,221"/>
+<area shape="rect" id="node10" href="$dc/d41/classConversion.html#a5a8976da958375a2e66f9c35017fb7be" title="Uses recoVertex and." alt="" coords="689,245,865,273"/>
+<area shape="rect" id="node11" href="$df/d9b/classRecoConversionEval.html#ae0025d84438ba3f29cc99ec09cbb9f5b" title="Uses _vertexer to refit." alt="" coords="698,297,857,341"/>
+</map>

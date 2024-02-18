@@ -1,0 +1,56 @@
+var classTpcTpotEventInfo =
+[
+    [ "PCIeEndPointID", "de/d7d/classTpcTpotEventInfo.html#a6e68664b0fc86265d996eb9e59cf6e9a", [
+      [ "kEndPoint0", "de/d7d/classTpcTpotEventInfo.html#a6e68664b0fc86265d996eb9e59cf6e9aac68e9e9d3a20d65caf0de624740f46cb", null ],
+      [ "kEndPoint1", "de/d7d/classTpcTpotEventInfo.html#a6e68664b0fc86265d996eb9e59cf6e9aa91d0c8614a6c93ee9b21f7672f768718", null ]
+    ] ],
+    [ "SectorID", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916", [
+      [ "kTPCSector0", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a4a8945068a2ef4003280608698bedb11", null ],
+      [ "kTPCSector1", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916aaeea631ccaa6b8835e36358a47fd3960", null ],
+      [ "kTPCSector2", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916aa8046ac4ad3ca9711da5b473c6ed6b27", null ],
+      [ "kTPCSector3", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a33d8b9252f1a195c08c855b2cb8f3416", null ],
+      [ "kTPCSector4", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916af0287e1c18f62868415eefe7b76392bb", null ],
+      [ "kTPCSector5", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a3d7a872ad73ae83e7dd600ce7eaed5ed", null ],
+      [ "kTPCSector6", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a01a4e1606e3dbce1d62b3d2acbccf3a8", null ],
+      [ "kTPCSector7", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a98343c6e2dc01ea4517aae48e4bf64d8", null ],
+      [ "kTPCSector8", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a5397a08e112eb4d55988e175667dcfbc", null ],
+      [ "kTPCSector9", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a0254f376e9f266de2a807c96ff726767", null ],
+      [ "kTPCSector10", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916ad77a5f4c17f0ad62df96e474f4d5234e", null ],
+      [ "kTPCSector11", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a766edd63437ee75f2303292ad21edf8a", null ],
+      [ "kTPCSector12", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a5b38528c22fb399a4d9c259649c6d34c", null ],
+      [ "kTPCSector13", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a42953a23da220e4d66d61b4f08054ed8", null ],
+      [ "kTPCSector14", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916ac53aa7b142fa432b452a22ced44b59f9", null ],
+      [ "kTPCSector15", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a448b9d91fa33f4fd21f483ec2093a0c0", null ],
+      [ "kTPCSector16", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916ae14ac1cf57950eea568d991e780c4eeb", null ],
+      [ "kTPCSector17", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a2293e4a970643fc16c74eaead9841c9e", null ],
+      [ "kTPCSector18", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a362f80a4f16f69e660069586ce690dfe", null ],
+      [ "kTPCSector19", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916af9cb194ab7d0ac7332fed2b59e2a1781", null ],
+      [ "kTPCSector20", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916aee69d5a9669b700950042c6068140ebc", null ],
+      [ "kTPCSector21", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a165c879ad892c5d09349669a00fd1cbd", null ],
+      [ "kTPCSector22", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a09b1e94d300748e88ab2fc708f1db108", null ],
+      [ "kTPCSector23", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a8724410cfaf3966de6f33da65e3687d8", null ],
+      [ "kTPOT", "de/d7d/classTpcTpotEventInfo.html#a33526ed7d22e43e30de342f413da7916a2b64aa43819d83aecad6fb2aefad03f9", null ]
+    ] ],
+    [ "TaggerID", "de/d7d/classTpcTpotEventInfo.html#a807d09ae81b9267562b553fd7f683768", [
+      [ "kLVL1Tagger", "de/d7d/classTpcTpotEventInfo.html#a807d09ae81b9267562b553fd7f683768ac576525c6b4a25b67b00765d1108b7dd", null ],
+      [ "kEnDatTagger", "de/d7d/classTpcTpotEventInfo.html#a807d09ae81b9267562b553fd7f683768a31ec999d1bc31663b0989da25bc75233", null ]
+    ] ],
+    [ "~TpcTpotEventInfo", "de/d7d/classTpcTpotEventInfo.html#a7c53cd88635a365d4fae638d09c290c4", null ],
+    [ "TpcTpotEventInfo", "de/d7d/classTpcTpotEventInfo.html#a58ec6b7336e4fdf9433ef4507d6b22bb", null ],
+    [ "checkIndexes", "de/d7d/classTpcTpotEventInfo.html#a05bfaa20fe4dc68742140b1c7ba0a0b9", null ],
+    [ "CopyFrom", "de/d7d/classTpcTpotEventInfo.html#ad3c453aebf794278568f61d87681faac", null ],
+    [ "CopyFrom", "de/d7d/classTpcTpotEventInfo.html#aead6d509f8e508c9c2314a9cee4f7ca7", null ],
+    [ "getBCO", "de/d7d/classTpcTpotEventInfo.html#a3028bf93d53802dd5b5d1b7336658b77", null ],
+    [ "getEnDatCount", "de/d7d/classTpcTpotEventInfo.html#ab43a9c102425627a196cffa31d4d8cfb", null ],
+    [ "getLastBCO", "de/d7d/classTpcTpotEventInfo.html#a5f80f338c2e8687504627a758ee7bf33", null ],
+    [ "getLevel1Count", "de/d7d/classTpcTpotEventInfo.html#afd6afd1f5850a26fbac03bd1f7230b20", null ],
+    [ "getModebits", "de/d7d/classTpcTpotEventInfo.html#aff3fce23ff422af4f61f2bf590b06a71", null ],
+    [ "identify", "de/d7d/classTpcTpotEventInfo.html#a48f58a5a32dd2df28763785af5d029f7", null ],
+    [ "isValid", "de/d7d/classTpcTpotEventInfo.html#aa0214ddf16e6c974005ce9ad45909aa1", null ],
+    [ "Reset", "de/d7d/classTpcTpotEventInfo.html#ab2168b84a2d051b8ce8b5b1c11be021a", null ],
+    [ "setBCO", "de/d7d/classTpcTpotEventInfo.html#a50df127dba21ef63211f4fc4c24a89d4", null ],
+    [ "setEnDatCount", "de/d7d/classTpcTpotEventInfo.html#a8a126e5ea62d444c924b5aec1728e482", null ],
+    [ "setLastBCO", "de/d7d/classTpcTpotEventInfo.html#a0d3b2f7cd70b5a88619402ddc6d2ff48", null ],
+    [ "setLevel1Count", "de/d7d/classTpcTpotEventInfo.html#ab3ade5265d5d3bc7597417503b091966", null ],
+    [ "setModebits", "de/d7d/classTpcTpotEventInfo.html#a01b764d461006fae8475deb0857a2834", null ]
+];

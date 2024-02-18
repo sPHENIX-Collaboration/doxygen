@@ -1,0 +1,51 @@
+<map id="QAG4SimulationCalorimeterSum::process_event" name="QAG4SimulationCalorimeterSum::process_event">
+<area shape="rect" id="node2" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a9e04210311741cf2ec9005a4ad9c4d9b" title="QAG4SimulationCalorimeter\lSum::flag" alt="" coords="271,5,483,49"/>
+<area shape="rect" id="node3" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a49ca46101e7a59436563ba7486d8627a" title="common prefix for QA histograms" alt="" coords="800,516,1012,560"/>
+<area shape="rect" id="node4" href="$d3/d96/classFun4AllHistoManager.html#ae5401f032b650d41224dfa0e2f12d364" title="Fun4AllHistoManager\l::getHisto" alt="" coords="823,104,989,148"/>
+<area shape="rect" id="node7" href="$d8/db5/namespaceQAHistManagerDef.html#a95764557eee8578107f3f8cac5a640da" title="Get a pointer to the default hist manager for QA modules." alt="" coords="799,172,1013,216"/>
+<area shape="rect" id="node12" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="2123,344,2299,372"/>
+<area shape="rect" id="node14" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a43fbffe92b7442566b030407d181c743" title="QAG4SimulationCalorimeter\lSum::process_event_Cluster" alt="" coords="537,277,751,321"/>
+<area shape="rect" id="node19" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a552be18b8bd8920596f2020f0b49275f" title="QAG4SimulationCalorimeter\lSum::process_event_TrackProj" alt="" coords="265,499,489,543"/>
+<area shape="rect" id="node5" href="$d3/d96/classFun4AllHistoManager.html#a78e6d7a95c28595e45b84db4c1542237" title="Fun4AllHistoManager\l::Print" alt="" coords="1335,63,1500,107"/>
+<area shape="rect" id="node6" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="2134,121,2287,149"/>
+<area shape="rect" id="node8" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="1070,131,1251,159"/>
+<area shape="rect" id="node11" href="$da/d29/classFun4AllServer.html#a377f113767f24ce6413e678752ed7f53" title="Fun4AllServer::registerHisto\lManager" alt="" coords="1864,173,2075,217"/>
+<area shape="rect" id="node13" href="$da/d29/classFun4AllServer.html#af5885837658eb26f98dbc697b58747a7" title="Fun4AllServer::getHistoManager" alt="" coords="1575,237,1816,265"/>
+<area shape="rect" id="node9" href="$da/d29/classFun4AllServer.html#a90e27f05f0b2e8b6fe462387b14bfb92" title="Fun4AllServer::Fun4AllServer" alt="" coords="1308,131,1527,159"/>
+<area shape="rect" id="node10" href="$da/d29/classFun4AllServer.html#aa1939c3e2c3113cce0a6415103b4f5a5" title="Fun4AllServer::InitAll" alt="" coords="1614,131,1777,159"/>
+<area shape="rect" id="node15" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#aa9a293731089968954dc8b5b5166fdbb" title="fetch the truth particle to be analyzed. By default it is the last primary particle in truth containe..." alt="" coords="800,448,1012,492"/>
+<area shape="rect" id="node17" href="$d6/dc7/group__getters.html#gaeb5c6c01b9f2f1d716e9ddaf89f64c91" title="total energy" alt="" coords="815,240,997,268"/>
+<area shape="rect" id="node18" href="$de/dc9/classPHG4Particle.html#ac4a56068140437bf45a67dae571cae48" title="PHG4Particle::get_e" alt="" coords="829,344,983,372"/>
+<area shape="rect" id="node16" href="$da/d6c/classPHG4TruthInfoContainer.html#a648001d19f469993ee0ff7901273c533" title="Get the Particle Map storage." alt="" coords="1068,448,1253,492"/>
+<area shape="rect" id="node20" href="$df/dad/classSvtxTrackEval.html#ab2ddb740e23faee0f77302194255261f" title="SvtxTrackEval::best\l_track_from" alt="" coords="567,1871,721,1915"/>
+<area shape="rect" id="node31" href="$d2/db8/classSvtxTrack.html#a5a3170bdd0ca44ba95aeede1e1e99780" title="SvtxTrack::get_cal\l_energy_3x3" alt="" coords="573,499,715,543"/>
+<area shape="rect" id="node32" href="$d2/db8/classSvtxTrack.html#ad7445e0d6fb1544c171ed50a02079b8c" title="SvtxTrack::get_cal\l_energy_5x5" alt="" coords="573,567,715,611"/>
+<area shape="rect" id="node33" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a2d446f5f510ab16326c0b748163849e1" title="fetch tower around track and histogram energy distributions" alt="" coords="538,1027,750,1071"/>
+<area shape="rect" id="node21" href="$df/dad/classSvtxTrackEval.html#a2cad33eb7f2cc23aa534f06ef5b591e5" title="SvtxTrackEval::has\l_node_pointers" alt="" coords="1087,2037,1235,2081"/>
+<area shape="rect" id="node22" href="$d4/d4e/classPHG4ParticleSvtxMap.html#ad528c3421eaf8eef3dc9d36d3005ebe6" title="PHG4ParticleSvtxMap\l::processed" alt="" coords="1077,1625,1244,1669"/>
+<area shape="rect" id="node23" href="$d4/d4e/classPHG4ParticleSvtxMap.html#a653ad5e4163a460dc189b2fd0b069bae" title="PHG4ParticleSvtxMap::get" alt="" coords="1061,1693,1260,1721"/>
+<area shape="rect" id="node24" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="1061,1881,1260,1909"/>
+<area shape="rect" id="node25" href="$d7/d8b/classSvtxTrackMap.html#a08561d1123c35a7f953038f8d684a6d5" title="SvtxTrackMap::get" alt="" coords="1087,1933,1234,1961"/>
+<area shape="rect" id="node26" href="$d0/d34/tracks_8C.html#ac926d763061c5568ecb5f5e062e9c778" title="tracks" alt="" coords="1129,1985,1192,2013"/>
+<area shape="rect" id="node27" href="$df/dad/classSvtxTrackEval.html#a4397d3a27e4b53b5475e15ec92d43cbb" title="SvtxTrackEval::all\l_tracks_from" alt="" coords="836,1811,976,1855"/>
+<area shape="rect" id="node30" href="$df/dad/classSvtxTrackEval.html#a1dd0fdc1d1776c7b0b0643a9ab7cf25f" title="SvtxTrackEval::get\l_nclusters_contribution" alt="" coords="817,2083,995,2127"/>
+<area shape="rect" id="node28" href="$df/dad/classSvtxTrackEval.html#a785fc87054e02f7a0302036b0e9664e7" title="SvtxTrackEval::get\l_track_ckeys" alt="" coords="1087,1813,1234,1857"/>
+<area shape="rect" id="node29" href="$d1/d1e/classSvtxClusterEval.html#ae2d6f811db24d80dac0f4b247de56bcd" title="SvtxClusterEval::all\l_truth_particles" alt="" coords="1085,1745,1237,1789"/>
+<area shape="rect" id="node34" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="819,1628,993,1656"/>
+<area shape="rect" id="node35" href="$d0/d25/group__cylindrical__calorimeter.html#ga701348b0eafcb36fb9048c96d393e1b5" title="RawTowerGeomContainer\l::get_etabin" alt="" coords="808,584,1004,628"/>
+<area shape="rect" id="node36" href="$d0/d25/group__cylindrical__calorimeter.html#ga3d283957eb2f3bc0b27e3217d37b8dfb" title="RawTowerGeomContainer\l::get_etabins" alt="" coords="808,652,1004,696"/>
+<area shape="rect" id="node37" href="$d0/d25/group__cylindrical__calorimeter.html#gad19d62d7478dce72290d4ecfa9841bef" title="RawTowerGeomContainer\l::get_etabounds" alt="" coords="808,720,1004,764"/>
+<area shape="rect" id="node38" href="$d0/d25/group__cylindrical__calorimeter.html#gae572a4818b1047fdd6848d83dbea760c" title="RawTowerGeomContainer\l::get_etacenter" alt="" coords="808,788,1004,832"/>
+<area shape="rect" id="node39" href="$d0/d25/group__cylindrical__calorimeter.html#ga5023bf127c181d06dd37a954546127b9" title="RawTowerGeomContainer\l::get_phibin" alt="" coords="808,856,1004,900"/>
+<area shape="rect" id="node40" href="$d0/d25/group__cylindrical__calorimeter.html#gab9c3a0fa996fffad8aa107d62d5b26b6" title="RawTowerGeomContainer\l::get_phibins" alt="" coords="808,924,1004,968"/>
+<area shape="rect" id="node41" href="$d0/d25/group__cylindrical__calorimeter.html#gab7bcd3a13b14ed5ddb14a50004f62fd6" title="RawTowerGeomContainer\l::get_phibounds" alt="" coords="808,992,1004,1036"/>
+<area shape="rect" id="node42" href="$d0/d25/group__cylindrical__calorimeter.html#ga6c435a1e5496cde564dda1e6126c51e7" title="RawTowerGeomContainer\l::get_phicenter" alt="" coords="808,1060,1004,1104"/>
+<area shape="rect" id="node43" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="835,1128,977,1156"/>
+<area shape="rect" id="node44" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="835,1180,977,1208"/>
+<area shape="rect" id="node45" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="836,1232,976,1260"/>
+<area shape="rect" id="node46" href="$d2/db8/classSvtxTrack.html#af2317becf2120fcad5cefaa61a01407e" title="SvtxTrack::get_x" alt="" coords="840,1284,972,1312"/>
+<area shape="rect" id="node47" href="$d2/db8/classSvtxTrack.html#aaaa435dd9d41dbe836f0608712ca12db" title="SvtxTrack::get_z" alt="" coords="841,1336,971,1364"/>
+<area shape="rect" id="node48" href="$d3/dc7/classRawTowerContainer.html#a94a3368d6cd85ea4c3f204cd1065da26" title="RawTowerContainer::\lgetTower" alt="" coords="825,1388,987,1432"/>
+<area shape="rect" id="node49" href="$df/d49/classRawTowerGeomContainer.html#abf6de939bc33bcfa72d3b26492a115b6" title="RawTowerGeomContainer\l::identify" alt="" coords="808,1456,1004,1500"/>
+<area shape="rect" id="node50" href="$d2/db8/classSvtxTrack.html#a4f97332cd87028850dfcbcea19b59fc5" title="SvtxTrack::size_states" alt="" coords="821,1524,991,1552"/>
+</map>

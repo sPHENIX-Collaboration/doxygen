@@ -1,0 +1,26 @@
+var classTile =
+[
+    [ "DistToTileFn", "d6/dba/classTile.html#a432cd5cec549df60b2129bd44606e453", null ],
+    [ "TileFnPair", "d6/dba/classTile.html#a2fa06782077ffee9c3c95a15ebf45324", null ],
+    [ "distance_to_bottom", "d6/dba/classTile.html#a1a0a8cd91c79d58e06297a8124888700", null ],
+    [ "distance_to_centre", "d6/dba/classTile.html#a1698b7e24fa015346465b2e6cd2f4586", null ],
+    [ "distance_to_left", "d6/dba/classTile.html#a891abfc26f5d46c6c1da3135cbc08c63", null ],
+    [ "distance_to_left_bottom", "d6/dba/classTile.html#a97aa7052cf679ded850bf4339190d7f6", null ],
+    [ "distance_to_left_top", "d6/dba/classTile.html#a01d3c18d7fd76ac9b2198f4b421ecc3b", null ],
+    [ "distance_to_right", "d6/dba/classTile.html#a7301bc20be1599cb3fe210feb0f15cc5", null ],
+    [ "distance_to_right_bottom", "d6/dba/classTile.html#aa2cd60d5bd91d4adbc54accac9ca97d7", null ],
+    [ "distance_to_right_top", "d6/dba/classTile.html#aabc56b48d79be7881fa5071c2aa19adb", null ],
+    [ "distance_to_top", "d6/dba/classTile.html#a777f229c42135ac9ebf685033a3af918", null ],
+    [ "begin_tiles", "d6/dba/classTile.html#ae84cc387ca2878997788f69203080653", null ],
+    [ "end_tiles", "d6/dba/classTile.html#a329d17e1969ebc71b1b4b5f526c7fbca", null ],
+    [ "eta_max", "d6/dba/classTile.html#ab7a9c841145708a7c56a4ee2bc3f6c29", null ],
+    [ "eta_min", "d6/dba/classTile.html#a213dd764e077f3d80099880eb67dae0d", null ],
+    [ "head", "d6/dba/classTile.html#a7580f851a180f1149b0ea356d01f4ef6", null ],
+    [ "max_NN_dist", "d6/dba/classTile.html#a24050e641756be95bc3056567c369740", null ],
+    [ "phi_max", "d6/dba/classTile.html#a63432d21621459990959f4b5acb52f86", null ],
+    [ "phi_min", "d6/dba/classTile.html#a5ed67a95bf42d52d52f220069ff67e86", null ],
+    [ "RH_tiles", "d6/dba/classTile.html#a8bb3c90e69ebdcf4006a4604a0686e8a", null ],
+    [ "surrounding_tiles", "d6/dba/classTile.html#a00380e1cbb97c3050cba2cd536f8e8ff", null ],
+    [ "tagged", "d6/dba/classTile.html#a813d13f819ffe7a56b6d9b1c3969fd0f", null ],
+    [ "use_periodic_delta_phi", "d6/dba/classTile.html#a8a2e35acd08e0cd6f4ec833476a06046", null ]
+];

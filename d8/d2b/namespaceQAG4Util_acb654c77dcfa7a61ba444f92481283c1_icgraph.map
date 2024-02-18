@@ -1,0 +1,51 @@
+<map id="QAG4Util::square" name="QAG4Util::square">
+<area shape="rect" id="node2" href="$d8/d2b/namespaceQAG4Util.html#a61d46189a0883ae4af122eb5ef596946" title="radius" alt="" coords="191,949,317,977"/>
+<area shape="rect" id="node42" href="$d8/d2b/namespaceQAG4Util.html#a8e4e978b5215faf3a6881c22d4e61143" title="calculate the best average of member function called on all members in collection, extrapolated at a given radius" alt="" coords="404,1761,569,1789"/>
+<area shape="rect" id="node3" href="$de/da9/classTrackEvaluation.html#a149d07f6652b50dc286e44a0b5a5dda1" title="add track information to a cluster" alt="" coords="405,481,569,525"/>
+<area shape="rect" id="node4" href="$de/da9/classTrackEvaluation.html#ad11e4198c73a2c043b15520bffc57d47" title="evaluate tracks" alt="" coords="676,361,873,405"/>
+<area shape="rect" id="node6" href="$de/da9/classTrackEvaluation.html#afb1047a71bdc3c4468512b1d2d003c92" title="add track information to a cluster for the micromegas case" alt="" coords="375,549,598,593"/>
+<area shape="rect" id="node7" href="$de/da9/classTrackEvaluation.html#a56722dcad29b7682d9b4e6c5e6c0a0e7" title="TrackEvaluation::add\l_truth_information" alt="" coords="405,225,569,269"/>
+<area shape="rect" id="node9" href="$de/da9/classTrackEvaluation.html#a551372599608a2a837a1754344432dc5" title="TrackEvaluation::add\l_truth_information_micromegas" alt="" coords="368,293,605,337"/>
+<area shape="rect" id="node10" href="$dc/d38/AnalyzeResiduals_8C.html#ae1620acbc080dc40d2d60a1ceeb16cbb" title="AnalyzeResiduals" alt="" coords="417,617,557,645"/>
+<area shape="rect" id="node11" href="$d3/d5f/classCylinderGeomMicromegas.html#ac736e8b2dff358973cd210ba37f9932d" title="CylinderGeomMicromegas\l::check_radius" alt="" coords="387,669,587,713"/>
+<area shape="rect" id="node12" href="$d9/d5c/classPHG4MicromegasDetector.html#adc9e53e8e33066cc4d281b6abc44b7cf" title="construct" alt="" coords="387,737,587,781"/>
+<area shape="rect" id="node14" href="$de/da9/classTrackEvaluation.html#a37430713fe98b52f626e2fe67c541514" title="create cluster structure from cluster" alt="" coords="396,361,577,405"/>
+<area shape="rect" id="node15" href="$d4/d7b/classQAG4SimulationMvtx.html#a38de1d710b7e38e7aeab1c9c2c70b773" title="evaluate clusters" alt="" coords="404,805,569,849"/>
+<area shape="rect" id="node17" href="$da/d30/classQAG4SimulationIntt.html#ac83764bf62e096e9bea2d4ebbce6ac6c" title="evaluate clusters" alt="" coords="409,873,565,917"/>
+<area shape="rect" id="node19" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="404,941,569,985"/>
+<area shape="rect" id="node21" href="$d7/d38/classDSTEmulator.html#ad5fccb3bb1d9c015921b7efeec2d9704" title="evaluate tracks" alt="" coords="398,1009,575,1053"/>
+<area shape="rect" id="node23" href="$dd/de7/classActsAlignmentStates.html#a89b826cc00a083d22bff9fbed88a7924" title="ActsAlignmentStates\l::fillAlignmentStateMap" alt="" coords="397,1077,577,1121"/>
+<area shape="rect" id="node29" href="$d4/de6/classTpcDirectLaserReconstruction.html#a51fc3cb810bf3270eebc1bd24fc32573" title="get relevant cell for a given hit" alt="" coords="375,1197,599,1241"/>
+<area shape="rect" id="node30" href="$d4/de6/classTpcDirectLaserReconstruction.html#a169967f18f0b50549d769984a4bcd4e9" title="process track" alt="" coords="663,1213,887,1257"/>
+<area shape="rect" id="node33" href="$d3/d27/classTpcSpaceChargeReconstruction.html#a7d2b75357ef787580dc7934c1b3007b3" title="get relevant cell for a given cluster" alt="" coords="368,1317,605,1361"/>
+<area shape="rect" id="node34" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ad95026b08f73d009107d53576d1d729b" title="process track" alt="" coords="656,1295,893,1339"/>
+<area shape="rect" id="node37" href="$d5/d55/classPHTpcResiduals.html#a80be70e4abfe4f592b48eb2cad544339" title="Gets distortion cell for identifying bins in TPC." alt="" coords="395,1437,579,1465"/>
+<area shape="rect" id="node38" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="662,1411,887,1439"/>
+<area shape="rect" id="node41" href="$d4/d42/classPHTpcCentralMembraneMatcher.html#ae65025e8fe99021b7508a270e56f8a82" title="run initialization" alt="" coords="366,1489,607,1533"/>
+<area shape="rect" id="node43" href="$da/db1/classMakeActsGeometry.html#a703340410b4232c39800ede2f3bb1ff9" title="bind micromegas surfaces to hitset id" alt="" coords="375,1557,598,1601"/>
+<area shape="rect" id="node46" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a6b7302a27f668ca5ae6fd80dfe5132c0" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="386,1625,587,1669"/>
+<area shape="rect" id="node47" href="$d0/d15/classQAG4SimulationDistortions.html#a6ca085c14fc2c1f87ccdade934154401" title="QAG4SimulationDistortions\l::process_event" alt="" coords="384,1693,589,1737"/>
+<area shape="rect" id="node48" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#aae9c82a4df59f8b0932581e1a44ad8f9" title="PHMicromegasTpcTrackMatching\l::process_event" alt="" coords="365,5,608,49"/>
+<area shape="rect" id="node49" href="$d4/d42/classPHTpcCentralMembraneMatcher.html#af5fdfc702d46eda274b3dd0e87248950" title="event processing" alt="" coords="366,73,607,117"/>
+<area shape="rect" id="node50" href="$d2/d98/structSColdQcdCorrelatorAnalysis_1_1SCorrelatorUtilities_1_1ClustInfo.html#a882f0866a49cab427a2d599d244897a3" title="SColdQcdCorrelatorAnalysis\l::SCorrelatorUtilities::\lClustInfo::SetInfo" alt="" coords="381,141,592,201"/>
+<area shape="rect" id="node5" href="$de/da9/classTrackEvaluation.html#a60598315f98935b77e48ecf745b87db1" title="event processing" alt="" coords="979,328,1169,372"/>
+<area shape="rect" id="node8" href="$de/da9/classTrackEvaluation.html#ae323be5c8121d432fb44c719600b6d04" title="evaluate clusters" alt="" coords="676,293,873,337"/>
+<area shape="rect" id="node13" href="$d9/d5c/classPHG4MicromegasDetector.html#a645e1aa98c237126c8e53b9e3f028262" title="construct" alt="" coords="675,737,875,781"/>
+<area shape="rect" id="node16" href="$d4/d7b/classQAG4SimulationMvtx.html#a4f30887e18dd6e100394ac11956715b9" title="QAG4SimulationMvtx\l::process_event" alt="" coords="692,805,857,849"/>
+<area shape="rect" id="node18" href="$da/d30/classQAG4SimulationIntt.html#a70d30d63703b19b71e10803a3a055251" title="QAG4SimulationIntt\l::process_event" alt="" coords="697,873,853,917"/>
+<area shape="rect" id="node20" href="$df/db8/classQAG4SimulationTpc.html#aaecb5e12b4083bd235ec7200368c58fc" title="QAG4SimulationTpc::\lprocess_event" alt="" coords="692,941,857,985"/>
+<area shape="rect" id="node22" href="$d7/d38/classDSTEmulator.html#a370eb59a09a213c757a2a83b9f1c06cc" title="event processing" alt="" coords="689,1009,860,1053"/>
+<area shape="rect" id="node24" href="$d6/d54/classPHCosmicsTrkFitter.html#ac35f3feaf6ae8561a8a6ae4b3469fa55" title="PHCosmicsTrkFitter\l::getTrackFitResult" alt="" coords="699,1145,850,1189"/>
+<area shape="rect" id="node27" href="$d1/d49/classPHActsTrkFitter.html#abef281afb12f30e5b3571ec8c512b3da" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="680,1077,869,1121"/>
+<area shape="rect" id="node25" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="999,1145,1149,1189"/>
+<area shape="rect" id="node26" href="$d6/d54/classPHCosmicsTrkFitter.html#af7f27bd06c1766a397916ed87c1a0c4e" title="Process each event by calling the fitter." alt="" coords="1298,1145,1449,1189"/>
+<area shape="rect" id="node28" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="973,1085,1175,1113"/>
+<area shape="rect" id="node31" href="$d4/de6/classTpcDirectLaserReconstruction.html#af5b0d71fa568d200da7955de5b6d97fc" title="process tracks" alt="" coords="962,1213,1186,1257"/>
+<area shape="rect" id="node32" href="$d4/de6/classTpcDirectLaserReconstruction.html#affd9f60b911a988a7e7bbc6cfc2bce1a" title="event processing" alt="" coords="1261,1213,1485,1257"/>
+<area shape="rect" id="node35" href="$d3/d27/classTpcSpaceChargeReconstruction.html#aa411bedddfec511d0943438e271a2234" title="process tracks" alt="" coords="955,1295,1193,1339"/>
+<area shape="rect" id="node36" href="$d3/d27/classTpcSpaceChargeReconstruction.html#ab330b344a3001b0f26e639ee69de07f1" title="event processing" alt="" coords="1255,1295,1492,1339"/>
+<area shape="rect" id="node39" href="$d5/d55/classPHTpcResiduals.html#ac8936c9d7cf8808255c355520b304e95" title="PHTpcResiduals::processTracks" alt="" coords="958,1411,1190,1439"/>
+<area shape="rect" id="node40" href="$d5/d55/classPHTpcResiduals.html#afb9145abb0d5d579afed2c31f700989a" title="PHTpcResiduals::process\l_event" alt="" coords="1279,1403,1468,1447"/>
+<area shape="rect" id="node44" href="$da/db1/classMakeActsGeometry.html#a6c06c33bcf0b960a5848047dfc80e54e" title="MakeActsGeometry::unpack\lVolumes" alt="" coords="669,1557,880,1601"/>
+<area shape="rect" id="node45" href="$da/db1/classMakeActsGeometry.html#ae2585532ed5abdd609836bc8719c546f" title="Function that mimics ActsExamples::GeometryExampleBase." alt="" coords="941,1565,1207,1593"/>
+</map>

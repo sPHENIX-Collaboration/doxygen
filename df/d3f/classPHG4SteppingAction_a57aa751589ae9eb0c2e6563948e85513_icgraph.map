@@ -1,0 +1,22 @@
+<map id="PHG4SteppingAction::GetVisibleEnergyDeposition" name="PHG4SteppingAction::GetVisibleEnergyDeposition">
+<area shape="rect" id="node2" href="$df/d3f/classPHG4SteppingAction.html#a57fef5578f2f19918f0460413162cec1" title="get scintillation photon count. It require a custom set SCINTILLATIONYIELD property to work..." alt="" coords="321,5,483,49"/>
+<area shape="rect" id="node3" href="$df/dec/classPHG4InnerHcalSteppingAction.html#a3d714162cbf7cb128402b268a0d7de39" title="PHG4InnerHcalSteppingAction\l::NoHitSteppingAction" alt="" coords="289,73,515,117"/>
+<area shape="rect" id="node4" href="$df/dec/classPHG4InnerHcalSteppingAction.html#a8e48a0e2268f23222bf8acddd9e7a34e" title="stepping action" alt="" coords="582,104,807,148"/>
+<area shape="rect" id="node5" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a393c60df4b9b06f988b44e5a75728270" title="PHG4OuterHcalSteppingAction\l::NoHitSteppingAction" alt="" coords="287,193,517,237"/>
+<area shape="rect" id="node6" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#a212d3081cbabd0b44034b5467a86a5e2" title="stepping action" alt="" coords="580,224,809,268"/>
+<area shape="rect" id="node7" href="$d6/d5a/classPHG4IHCalSteppingAction.html#ad33b920a8c413fd0d7d63a3bb79e798a" title="PHG4IHCalSteppingAction\l::NoHitSteppingAction" alt="" coords="304,313,500,357"/>
+<area shape="rect" id="node8" href="$d6/d5a/classPHG4IHCalSteppingAction.html#a80b1bb7c5e4fd749c047c1f99fe62e47" title="stepping action" alt="" coords="597,344,793,388"/>
+<area shape="rect" id="node9" href="$de/d05/classPHG4OHCalSteppingAction.html#aa449b3517044f8c610bfc7fb8901fe52" title="PHG4OHCalSteppingAction\l::NoHitSteppingAction" alt="" coords="301,433,503,477"/>
+<area shape="rect" id="node10" href="$de/d05/classPHG4OHCalSteppingAction.html#a144944ad79035e5fdf4ac2e0443a7180" title="stepping action" alt="" coords="593,477,796,521"/>
+<area shape="rect" id="node11" href="$de/dea/classPHG4SpacalSteppingAction.html#a145d3819045bf93814bc1a2352834da2" title="PHG4SpacalSteppingAction\l::NoHitSteppingAction" alt="" coords="299,553,505,597"/>
+<area shape="rect" id="node12" href="$de/dea/classPHG4SpacalSteppingAction.html#ad27b2325877c9d504389c79a338d25fe" title="stepping action" alt="" coords="591,571,798,615"/>
+<area shape="rect" id="node13" href="$d6/d17/classPHG4Prototype2InnerHcalSteppingAction.html#aba6a21f456bff4f39a96db1ff0d6db6b" title="stepping action" alt="" coords="273,673,531,717"/>
+<area shape="rect" id="node14" href="$d5/d5c/classPHG4Prototype2OuterHcalSteppingAction.html#a228d3292d9e982704105b871e6a07733" title="stepping action" alt="" coords="272,741,532,785"/>
+<area shape="rect" id="node15" href="$d2/dbb/classPHG4Prototype3InnerHcalSteppingAction.html#a84a3e05d3e1f69429077136f44721e71" title="stepping action" alt="" coords="273,809,531,853"/>
+<area shape="rect" id="node16" href="$d7/dc2/classPHG4EPDSteppingAction.html#ae1644f36e67123501e351509b3d12843" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="308,877,496,921"/>
+<area shape="rect" id="node17" href="$db/d97/classPHG4HcalSteppingAction.html#a8e7f7455c1bd0131036f960d54fdc973" title="stepping action" alt="" coords="307,945,497,989"/>
+<area shape="rect" id="node18" href="$da/d58/classPHG4CylinderSteppingAction.html#a36deff66c7ba2e6ae97d234ec1efce2d" title="stepping action" alt="" coords="293,1013,511,1057"/>
+<area shape="rect" id="node19" href="$db/d56/classPHG4ZDCSteppingAction.html#a712eac392aabe90efe7f9633c268203c" title="stepping action" alt="" coords="307,1081,497,1125"/>
+<area shape="rect" id="node20" href="$db/d11/classPHG4SpacalPrototype4SteppingAction.html#ad31965a9a92c56e22b26dc74d8f8be0b" title="stepping action" alt="" coords="283,1149,521,1193"/>
+<area shape="rect" id="node21" href="$dd/d86/classPHG4SpacalPrototypeSteppingAction.html#aee932fbbae6fb057c99f6a774104b859" title="stepping action" alt="" coords="288,1217,516,1261"/>
+</map>

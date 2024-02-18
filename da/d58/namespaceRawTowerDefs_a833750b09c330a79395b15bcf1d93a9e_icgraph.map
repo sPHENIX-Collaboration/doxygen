@@ -1,0 +1,41 @@
+<map id="RawTowerDefs::convert_name_to_caloid" name="RawTowerDefs::convert_name_to_caloid">
+<area shape="rect" id="node2" href="$d3/d07/classPHG4OHCalDetector.html#a1b73a2b42250fd6eb7a6fdbd4fdf8ea7" title="PHG4OHCalDetector::\lAddGeometryNode" alt="" coords="289,5,456,49"/>
+<area shape="rect" id="node4" href="$db/d76/classPHG4IHCalDetector.html#aac5ebf109c536d2db04385846d65a881" title="PHG4IHCalDetector::\lAddGeometryNode" alt="" coords="293,73,453,117"/>
+<area shape="rect" id="node6" href="$df/d74/classPHG4OuterHcalDetector.html#a52b9577fb8bb467e25e4cd0538db5466" title="PHG4OuterHcalDetector\l::AddGeometryNode" alt="" coords="280,141,465,185"/>
+<area shape="rect" id="node8" href="$d5/d80/classPHG4InnerHcalDetector.html#a9308f1728ca9cca9a544fa813d9c15de" title="PHG4InnerHcalDetector\l::AddGeometryNode" alt="" coords="281,209,464,253"/>
+<area shape="rect" id="node10" href="$d0/da4/classPHG4SpacalDetector.html#a6adf2ae56b8cfea0ee63c01ec7d5dd2f" title="PHG4SpacalDetector\l::AddTowerGeometryNode" alt="" coords="274,277,471,321"/>
+<area shape="rect" id="node12" href="$d2/d39/classCaloGeomMapping.html#a799637d7b2bdd4ccb69486c20d9d1908" title="Clean up internals after each event." alt="" coords="233,345,512,373"/>
+<area shape="rect" id="node14" href="$d7/d10/classRawTowerBuilder.html#a01f91227474fd72e2e630a577973b67b" title="RawTowerBuilder::CreateNodes" alt="" coords="257,397,489,425"/>
+<area shape="rect" id="node16" href="$d1/df8/classRawTowerBuilderByHitIndex.html#a159063a3188c62eabadfd532db7c63cd" title="RawTowerBuilderByHitIndex\l::CreateNodes" alt="" coords="267,449,478,493"/>
+<area shape="rect" id="node18" href="$d1/dec/classHcalRawTowerBuilder.html#a8d6c6571f527c1be9c24b9e3f35021de" title="HcalRawTowerBuilder\l::CreateNodes" alt="" coords="289,569,456,613"/>
+<area shape="rect" id="node19" href="$d1/dec/classHcalRawTowerBuilder.html#a994bccbb0d39fa5e9d29d3b9c2ed42de" title="HcalRawTowerBuilder\l::InitRun" alt="" coords="582,517,749,561"/>
+<area shape="rect" id="node20" href="$df/d0d/classRawTowerCombiner.html#a9dbc0b9dfed20dcd3a9a5f6dcf53636d" title="RawTowerCombiner::Create\lNodes" alt="" coords="269,637,476,681"/>
+<area shape="rect" id="node22" href="$d1/df8/classRawTowerBuilderByHitIndex.html#a00f3d954fe5b8d73911153304004419c" title="RawTowerBuilderByHitIndex\l::Detector" alt="" coords="267,705,478,749"/>
+<area shape="rect" id="node33" href="$d6/d45/classEpFinderEval.html#af537855512c06847c1021dd83f015031" title="EpFinderEval::fill_tree" alt="" coords="289,773,457,801"/>
+<area shape="rect" id="node35" href="$d4/d3f/classTrackProjectionTools.html#afbf847b5be056b817bdf97ef61aca888" title="TrackProjectionTools\l::getE33Forward" alt="" coords="293,825,452,869"/>
+<area shape="rect" id="node39" href="$d6/d1b/classPrototype2RawTowerBuilder.html#ac5d83bd0e9b8325c27dba83fc67b1111" title="Prototype2RawTowerBuilder\l::InitRun" alt="" coords="267,893,478,937"/>
+<area shape="rect" id="node40" href="$d4/db4/classDeadHotMapLoader.html#a84b8b8f0f4fbb17e326b7cd4d7415644" title="DeadHotMapLoader::InitRun" alt="" coords="267,961,478,989"/>
+<area shape="rect" id="node3" href="$d3/d07/classPHG4OHCalDetector.html#a61b5b2b66294e6016c7e416fd37181aa" title="construct" alt="" coords="582,5,749,49"/>
+<area shape="rect" id="node5" href="$db/d76/classPHG4IHCalDetector.html#a19b454a01a7750863b5f88e5259f0032" title="construct" alt="" coords="585,73,745,117"/>
+<area shape="rect" id="node7" href="$df/d74/classPHG4OuterHcalDetector.html#ae159c3d2a294c687f9c0f4af6dbce281" title="construct" alt="" coords="573,141,758,185"/>
+<area shape="rect" id="node9" href="$d5/d80/classPHG4InnerHcalDetector.html#adcc55f5d190de67371fb9bf28015c68a" title="construct" alt="" coords="574,209,757,253"/>
+<area shape="rect" id="node11" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a4719c5e160407e1b7f02bced47425698" title="PHG4FullProjTiltedSpacal\lDetector::ConstructMe" alt="" coords="571,277,760,321"/>
+<area shape="rect" id="node13" href="$d2/d39/classCaloGeomMapping.html#a062a4db99a2e6645d206d4c2b97058d4" title="CaloGeomMapping::Init" alt="" coords="575,345,756,373"/>
+<area shape="rect" id="node15" href="$d7/d10/classRawTowerBuilder.html#a0de2c995e7f7cc3bd357d65af5d5d987" title="RawTowerBuilder::InitRun" alt="" coords="569,397,761,425"/>
+<area shape="rect" id="node17" href="$d1/df8/classRawTowerBuilderByHitIndex.html#a67774c7870eba29b88c2354f7803e5a3" title="RawTowerBuilderByHitIndex\l::InitRun" alt="" coords="560,449,771,493"/>
+<area shape="rect" id="node21" href="$df/d0d/classRawTowerCombiner.html#a09f1dc91a89b5f30ab1bd5f1965d3cb3" title="RawTowerCombiner::InitRun" alt="" coords="561,585,770,613"/>
+<area shape="rect" id="node23" href="$d1/d38/G4__EEMC_8C.html#a05b9b10b79cc47702702e091692fd060" title="EEMC_Towers" alt="" coords="609,637,721,665"/>
+<area shape="rect" id="node28" href="$d5/dcb/G4__FEMC_8C.html#af68dc9104b4ad645db845e957df9863e" title="FEMC_Towers" alt="" coords="609,689,721,717"/>
+<area shape="rect" id="node31" href="$d8/dc2/G4__FHCAL_8C.html#a5d0a471f02bc3f2081650a15db56784e" title="FHCAL_Towers" alt="" coords="606,741,725,769"/>
+<area shape="rect" id="node32" href="$d9/d37/G4__ZDC_8C.html#a5d5150bbcac159b4e250bb37874ea3d7" title="ZDC_Towers" alt="" coords="614,793,717,821"/>
+<area shape="rect" id="node24" href="$df/dd8/Fun4All__G4__EICDetector__AnaTutorial_8C.html#a598434aca3dac5cdb0ca67ccc548d865" title="Fun4All_G4_EICDetector\l_AnaTutorial" alt="" coords="849,733,1035,777"/>
+<area shape="rect" id="node25" href="$dd/d2a/Fun4All__G4__EICDetector__LQ_8C.html#aaa01242fd6e77ca43a9d49a6d46008e4" title="Fun4All_G4_EICDetector_LQ" alt="" coords="838,561,1046,589"/>
+<area shape="rect" id="node26" href="$d4/df5/Fun4All__G4__EICDetector__LQ__reference_8C.html#a2feefc472f17f90b3cbe74897d049f75" title="Fun4All_G4_EICDetector\l_LQ_reference" alt="" coords="849,613,1035,657"/>
+<area shape="rect" id="node27" href="$d3/d51/Fun4All__G4__EICDetector__RICH_8C.html#a5739502b0a7a1ba782c01069f77e933f" title="Fun4All_G4_EICDetector_RICH" alt="" coords="831,681,1053,709"/>
+<area shape="rect" id="node29" href="$da/d2f/Fun4All__G4__fsPHENIX__FastSim_8C.html#a66fb850cae5fcaadda23b74a25ce4c9c" title="Fun4All_G4_fsPHENIX\l_FastSim" alt="" coords="859,853,1025,897"/>
+<area shape="rect" id="node30" href="$d0/da6/Fun4All__G4__fsPHENIX__pi0_8C.html#a023d91d47b678e5d7f1751834aa517c6" title="Fun4All_G4_fsPHENIX_pi0" alt="" coords="845,801,1039,829"/>
+<area shape="rect" id="node34" href="$d6/d45/classEpFinderEval.html#a2539c184425a5dceabf6a3be79b31e9a" title="EpFinderEval::process\l_event" alt="" coords="580,845,751,889"/>
+<area shape="rect" id="node36" href="$db/db5/classDISKinematicsReco.html#ad801f1794841d3657aa4c0b2da334743" title="DISKinematicsReco::\lInsertCandidateFromCluster" alt="" coords="560,917,771,961"/>
+<area shape="rect" id="node37" href="$db/db5/classDISKinematicsReco.html#a4ea9fa36ccd955fd7cdfa7e7eaf1e534" title="DISKinematicsReco::\lCollectEmCandidatesFromCluster" alt="" coords="819,921,1065,965"/>
+<area shape="rect" id="node38" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="1113,921,1273,965"/>
+</map>

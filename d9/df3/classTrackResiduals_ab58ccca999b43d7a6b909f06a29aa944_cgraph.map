@@ -1,0 +1,36 @@
+<map id="TrackResiduals::fillHitTree" name="TrackResiduals::fillHitTree">
+<area shape="rect" id="node2" href="$d9/dcb/classCylinderGeomIntt.html#a7ed9ab9de910f1e8c0751b972f906a62" title="CylinderGeomIntt::find\l_strip_center_localcoords" alt="" coords="275,5,468,49"/>
+<area shape="rect" id="node4" href="$d3/d64/classActsGeometry.html#a71aae65b1f34f9e167e7f384c2dbe089" title="ActsGeometry::get_drift\l_velocity" alt="" coords="279,73,463,117"/>
+<area shape="rect" id="node5" href="$df/d9b/classCylinderGeom__Mvtx.html#a57c4360f58914dd88fabd4b3001e49b8" title="CylinderGeom_Mvtx::\lget_local_coords_from_pixel" alt="" coords="266,141,477,185"/>
+<area shape="rect" id="node7" href="$d8/df1/namespaceMvtxDefs.html#abfd7b6c5fe579370c360924854579283" title="Get the chip id from hitsetkey." alt="" coords="609,228,767,256"/>
+<area shape="rect" id="node9" href="$d8/df1/namespaceMvtxDefs.html#a1168eb31a2fe1f73988744e3bdedd24f" title="Get the strobe id from the cluskey." alt="" coords="620,317,756,345"/>
+<area shape="rect" id="node10" href="$d6/d9e/namespaceInttDefs.html#a70039b392cd393f5812981f69a73c94b" title="Get the time bucket id from the cluskey." alt="" coords="625,443,751,471"/>
+<area shape="rect" id="node11" href="$d9/dc1/classTrkrHitSet.html#a2a362e326ba49a53a7675dc4c9b39c2a" title="Get all hits." alt="" coords="298,363,445,391"/>
+<area shape="rect" id="node12" href="$d5/d76/classTrkrHitSetContainer.html#a0e347bd66bf03e9a34651410a79d5cab" title="return all HitSets matching a given detid" alt="" coords="293,415,449,459"/>
+<area shape="rect" id="node13" href="$d6/d9e/namespaceInttDefs.html#a28461d6132ff9373b4529e5c0d20c962" title="Get the sensor id from hitsetkey." alt="" coords="595,513,781,541"/>
+<area shape="rect" id="node14" href="$d6/d9e/namespaceInttDefs.html#aeb0f2c2a834c11791925bdffc211526d" title="Get the ladder id from hitsetkey." alt="" coords="601,573,775,601"/>
+<area shape="rect" id="node15" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="614,640,762,668"/>
+<area shape="rect" id="node16" href="$d2/d67/classPHG4TpcCylinderGeomContainer.html#a43bf6b8da6ba9b4ed80e09802de3d2ac" title="PHG4TpcCylinderGeomContainer\l::GetLayerCellGeom" alt="" coords="248,636,495,680"/>
+<area shape="rect" id="node17" href="$d4/de7/classPHG4CylinderGeomContainer.html#a08321019aaff5f57cd416b64d0f536bf" title="PHG4CylinderGeomContainer\l::GetLayerGeom" alt="" coords="261,704,482,748"/>
+<area shape="rect" id="node18" href="$d7/db0/namespaceTpcDefs.html#a5009e86d9bf74a453e860b3650aac4d4" title="Get the pad index from hitkey." alt="" coords="622,700,754,728"/>
+<area shape="rect" id="node19" href="$d8/df1/namespaceMvtxDefs.html#a8c10f1bd18a4e4eb490f2809ed6ad9aa" title="Get the row index from hitkey." alt="" coords="616,752,760,780"/>
+<area shape="rect" id="node20" href="$d6/d9e/namespaceInttDefs.html#af05e3c5a7a065fbbf4c515698cecbfda" title="Get the row index from hitkey." alt="" coords="621,804,755,832"/>
+<area shape="rect" id="node21" href="$d7/db0/namespaceTpcDefs.html#aaee8d42aaa9f7331459a8589f9550086" title="Get the sector id from hitsetkey." alt="" coords="606,856,770,884"/>
+<area shape="rect" id="node22" href="$d2/ddf/namespaceMicromegasDefs.html#a2e8082ed7176d97a6bcba5257738faa2" title="Get the segmentation type from hitsetkey." alt="" coords="543,908,833,936"/>
+<area shape="rect" id="node23" href="$d7/db0/namespaceTpcDefs.html#aafa0c31bf0892588a224d8f0726bff11" title="Get the side from hitsetkey." alt="" coords="619,960,757,988"/>
+<area shape="rect" id="node24" href="$d0/dcd/structActsSurfaceMaps.html#ab3b444e968e650e0184aefebcaeaaad4" title="ActsSurfaceMaps::getSilicon\lSurface" alt="" coords="265,1128,478,1172"/>
+<area shape="rect" id="node25" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="615,1012,761,1040"/>
+<area shape="rect" id="node28" href="$d8/df1/namespaceMvtxDefs.html#a0d6fee920baed2f17bed6f7990bb88c3" title="Get the stave id from hitsetkey." alt="" coords="289,1196,454,1224"/>
+<area shape="rect" id="node29" href="$d2/ddf/namespaceMicromegasDefs.html#a81dd5590f421ec37fe1c1c99f70f084d" title="get strip from hit key" alt="" coords="273,1248,469,1276"/>
+<area shape="rect" id="node30" href="$d8/df1/namespaceMvtxDefs.html#ae43da17a66c57ba42223bd0a01be56ce" title="Get the chip id from hitsetkey." alt="" coords="285,1300,457,1328"/>
+<area shape="rect" id="node31" href="$d7/db0/namespaceTpcDefs.html#a3ec8638cf9427c7955840853dbd96383" title="Get the time bin from hitkey." alt="" coords="302,1352,441,1380"/>
+<area shape="rect" id="node32" href="$d2/ddf/namespaceMicromegasDefs.html#af8d1a3c8b258099fda1e91541ed41728" title="Get the tile id from hitsetkey." alt="" coords="271,1404,471,1432"/>
+<area shape="rect" id="node33" href="$d6/d9e/namespaceInttDefs.html#a94f7ef29a6e0adaaa9d7037661cc67eb" title="Generate a hitkey from a strip id." alt="" coords="273,1456,470,1484"/>
+<area shape="rect" id="node34" href="$d3/d64/classActsGeometry.html#a5de502147722c0e0e8549b706d5d21a8" title="ActsGeometry::maps" alt="" coords="289,1508,453,1536"/>
+<area shape="rect" id="node35" href="$da/de5/ThicknessScan_8m.html#a4ac77180a3cbc0f0c4682cb0fff27a6c" title="surf" alt="" coords="347,1560,395,1588"/>
+<area shape="rect" id="node3" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="654,13,722,41"/>
+<area shape="rect" id="node6" href="$df/d9b/classCylinderGeom__Mvtx.html#acff5517b65e513c7c84c70723c953c02" title="CylinderGeom_Mvtx::\lget_NX" alt="" coords="605,141,771,185"/>
+<area shape="rect" id="node8" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="881,908,1004,936"/>
+<area shape="rect" id="node26" href="$d6/d9e/namespaceInttDefs.html#a7bab06e7aa1e8cbfd063c989a690b8e3" title="Zero the crossing bits in a copy of the hitsetkey." alt="" coords="591,1064,785,1108"/>
+<area shape="rect" id="node27" href="$d8/df1/namespaceMvtxDefs.html#acef48eba67fd28443f939a4594317be6" title="Zero the strobe bits in the hitsetkey." alt="" coords="592,1132,784,1176"/>
+</map>

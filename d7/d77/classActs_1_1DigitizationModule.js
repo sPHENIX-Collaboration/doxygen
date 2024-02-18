@@ -1,0 +1,28 @@
+var classActs_1_1DigitizationModule =
+[
+    [ "DigitizationModule", "d7/d77/classActs_1_1DigitizationModule.html#aef634768774dd4a2152dfc27ffc33854", null ],
+    [ "~DigitizationModule", "d7/d77/classActs_1_1DigitizationModule.html#a95baf369dfea25f9ebfd617d4f26952b", null ],
+    [ "analogue", "d7/d77/classActs_1_1DigitizationModule.html#ab79325f770e272e49c9058274fcf09b6", null ],
+    [ "boundarySurfaces", "d7/d77/classActs_1_1DigitizationModule.html#a2b6d288415ef872ab948bbe3528cbaf6", null ],
+    [ "cell", "d7/d77/classActs_1_1DigitizationModule.html#a1756fb3cdd3ded5a6402168913929dda", null ],
+    [ "digitizationStep", "d7/d77/classActs_1_1DigitizationModule.html#a1a3a8ed33c0e7b1376f019c8cb7a43f6", null ],
+    [ "energyThreshold", "d7/d77/classActs_1_1DigitizationModule.html#a5459cfc99f65115655d06500ee64f74e", null ],
+    [ "halfThickness", "d7/d77/classActs_1_1DigitizationModule.html#ab9bfbcd3a722b58e7fb7bca13aff33d0", null ],
+    [ "lorentzAngle", "d7/d77/classActs_1_1DigitizationModule.html#a24c7db8d15ff8f6fdc8692a3df779792", null ],
+    [ "readoutDirection", "d7/d77/classActs_1_1DigitizationModule.html#a071eca5de08a19b116897d5adf9156a1", null ],
+    [ "segmentation", "d7/d77/classActs_1_1DigitizationModule.html#acca3bf1b8f99689cc47aaf2368a86199", null ],
+    [ "segmentationSurfaces", "d7/d77/classActs_1_1DigitizationModule.html#a973e3fb3151753091dcbd7adee204d13", null ],
+    [ "segmentationSurfacesX", "d7/d77/classActs_1_1DigitizationModule.html#af1ed62bd10c60427f01590c5839c2fec", null ],
+    [ "segmentationSurfacesY", "d7/d77/classActs_1_1DigitizationModule.html#ae65b04c784e844e1b72ee479b5d02640", null ],
+    [ "stepSurfaces", "d7/d77/classActs_1_1DigitizationModule.html#a2d03a86795b06d9110901ad92e6dd1be", null ],
+    [ "m_analogue", "d7/d77/classActs_1_1DigitizationModule.html#a047c0981972fe12d6c0d9a03849b78ef", null ],
+    [ "m_boundarySurfaces", "d7/d77/classActs_1_1DigitizationModule.html#a75f39cbcda3d4747742c0e5808727543", null ],
+    [ "m_energyThreshold", "d7/d77/classActs_1_1DigitizationModule.html#a20b03d2d79d245b288d72c90c5d3cd47", null ],
+    [ "m_halfThickness", "d7/d77/classActs_1_1DigitizationModule.html#ade2bbce990ac8d13657881f374b3c780", null ],
+    [ "m_lorentzAngle", "d7/d77/classActs_1_1DigitizationModule.html#a375c5c8e4f1aabc3a622afd0ffb87830", null ],
+    [ "m_readoutDirection", "d7/d77/classActs_1_1DigitizationModule.html#a1b0ab4b95741234ad699780439d945eb", null ],
+    [ "m_segmentation", "d7/d77/classActs_1_1DigitizationModule.html#a4cd86d5a367e7725aafaf472cd6e8d22", null ],
+    [ "m_segmentationSurfacesX", "d7/d77/classActs_1_1DigitizationModule.html#a514d1e170f72f753612c075913eefe76", null ],
+    [ "m_segmentationSurfacesY", "d7/d77/classActs_1_1DigitizationModule.html#a332f77eaf7a18188b9fbeea86c7a8d95", null ],
+    [ "m_tanLorentzAngle", "d7/d77/classActs_1_1DigitizationModule.html#ad7d8bd995ce3c2dc3c56bae70c8e1802", null ]
+];

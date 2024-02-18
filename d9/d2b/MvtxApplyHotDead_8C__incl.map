@@ -1,0 +1,35 @@
+<map id="prototype/blob/master/offline/packages/MvtxPrototype1/MvtxApplyHotDead.C" name="prototype/blob/master/offline/packages/MvtxPrototype1/MvtxApplyHotDead.C">
+<area shape="rect" id="node2" href="$d4/d03/MvtxApplyHotDead_8h.html" title="MvtxApplyHotDead.h" alt="" coords="3378,205,3542,233"/>
+<area shape="rect" id="node15" href="$d4/dbe/TrkrHitSetContainer_8h.html" title="trackbase/TrkrHitSetContainer.h" alt="" coords="352,289,587,317"/>
+<area shape="rect" id="node19" href="$d9/dd4/TrkrHitSetv1_8h.html" title="Container for storing TrkrHit&#39;s." alt="" coords="575,205,761,233"/>
+<area shape="rect" id="node21" href="$d2/d44/TrkrClusterContainer_8h.html" title="Cluster container base class." alt="" coords="86,289,327,317"/>
+<area shape="rect" id="node22" href="$d5/d6f/TrkrClusterv1_8h.html" title="Version 1 of TrkrCluster." alt="" coords="1781,205,1974,233"/>
+<area shape="rect" id="node26" href="$da/dc1/Fun4AllReturnCodes_8h.html" title="fun4all/Fun4AllReturnCodes.h" alt="" coords="3540,121,3761,149"/>
+<area shape="rect" id="node27" href="$d8/d30/PHCompositeNode_8h.html" title="phool/PHCompositeNode.h" alt="" coords="3567,289,3769,317"/>
+<area shape="rect" id="node30" href="$d3/d79/PHIODataNode_8h.html" title="phool/PHIODataNode.h" alt="" coords="2847,205,3023,233"/>
+<area shape="rect" id="node36" href="$d8/dfd/PHNodeIterator_8h.html" title="PHNodeIterator.h" alt="" coords="3813,373,3949,401"/>
+<area shape="rect" id="node38" href="$dd/dd4/getClass_8h.html" title="phool/getClass.h" alt="" coords="2699,121,2832,149"/>
+<area shape="rect" id="node39" href="$dd/d32/PHG4CellContainer_8h.html" title="g4detectors/PHG4CellContainer.h" alt="" coords="1339,289,1586,317"/>
+<area shape="rect" id="node41" href="$d4/d90/PHG4CylinderCellGeomContainer_8h.html" title="g4detectors/PHG4Cylinder\lCellGeomContainer.h" alt="" coords="787,281,989,325"/>
+<area shape="rect" id="node42" href="$d6/db8/PHG4CylinderGeomContainer_8h.html" title="g4detectors/PHG4Cylinder\lGeomContainer.h" alt="" coords="1013,281,1214,325"/>
+<area shape="rect" id="node43" href="$d9/d44/PHG4CylinderGeom_8h.html" title="g4detectors/PHG4Cylinder\lGeom.h" alt="" coords="2223,281,2425,325"/>
+<area shape="rect" id="node46" href="$df/dff/PHG4Cell_8h.html" title="g4detectors/PHG4Cell.h" alt="" coords="1741,289,1923,317"/>
+<area shape="rect" id="node48" href="$d4/da1/PHG4CylinderCellGeom_8h.html" title="g4detectors/PHG4Cylinder\lCellGeom.h" alt="" coords="1998,281,2199,325"/>
+<area shape="rect" id="node3" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="3377,289,3543,317"/>
+<area shape="rect" id="node7" href="$d9/d36/PHTimeServer_8h.html" title="PHTimer server for accessing external information." alt="" coords="3183,289,3353,317"/>
+<area shape="rect" id="node4" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="3309,373,3425,401"/>
+<area shape="rect" id="node16" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="424,373,515,401"/>
+<area shape="rect" id="node17" href="$df/d32/PHObject_8h.html" title="phool/PHObject.h" alt="" coords="1372,373,1511,401"/>
+<area shape="rect" id="node20" href="$d8/d2e/TrkrHitSet_8h.html" title="Base Class Container for storing TrkrHit&#39;s." alt="" coords="661,289,763,317"/>
+<area shape="rect" id="node23" href="$d1/d4a/TrkrCluster_8h.html" title="Base class for cluster object." alt="" coords="1611,289,1717,317"/>
+<area shape="rect" id="node28" href="$d3/d62/PHNode_8h.html" title="PHNode.h" alt="" coords="2770,373,2857,401"/>
+<area shape="rect" id="node29" href="$db/dd5/PHPointerList_8h.html" title="PHPointerList.h" alt="" coords="3607,449,3729,477"/>
+<area shape="rect" id="node31" href="$dd/d9b/PHDataNode_8h.html" title="PHDataNode.h" alt="" coords="2653,289,2771,317"/>
+<area shape="rect" id="node32" href="$d9/d53/PHIOManager_8h.html" title="PHIOManager.h" alt="" coords="2933,373,3057,401"/>
+<area shape="rect" id="node33" href="$dd/de7/PHNodeIOManager_8h.html" title="PHNodeIOManager.h" alt="" coords="2847,289,3007,317"/>
+<area shape="rect" id="node35" href="$db/d17/PHTypedNodeIterator_8h.html" title="PHTypedNodeIterator.h" alt="" coords="3793,289,3969,317"/>
+<area shape="rect" id="node37" href="$de/da7/phooldefs_8h.html" title="phooldefs.h" alt="" coords="3133,373,3233,401"/>
+<area shape="rect" id="node34" href="$d5/d6f/phool_8h.html" title="phool.h" alt="" coords="2572,373,2644,401"/>
+<area shape="rect" id="node40" href="$d5/d61/PHG4CellDefs_8h.html" title="PHG4CellDefs.h" alt="" coords="1535,373,1662,401"/>
+<area shape="rect" id="node47" href="$d2/d92/PHG4HitDefs_8h.html" title="g4main/PHG4HitDefs.h" alt="" coords="2169,373,2345,401"/>
+</map>

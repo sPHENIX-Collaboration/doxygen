@@ -1,0 +1,34 @@
+<map id="Acts::SolenoidBField::getField" name="Acts::SolenoidBField::getField">
+<area shape="rect" id="node2" href="$dd/d7e/namespaceActs_1_1Test.html#a78755c5f88a0984febd140e9848b7c78" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="219,5,407,49"/>
+<area shape="rect" id="node3" href="$d4/d0e/namespaceActs_1_1IntegrationTest.html#a82343e2e02f2f7baabb9e7ef320fbdad" title="Acts::IntegrationTest\l::BOOST_DATA_TEST_CASE" alt="" coords="212,73,415,117"/>
+<area shape="rect" id="node4" href="$d7/d45/SolenoidFieldBenchmark_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="537,137,591,165"/>
+<area shape="rect" id="node5" href="$da/d7b/namespaceActs.html#ab2fafe4849c7ae7ce1eea8c57280042f" title="Acts::solenoidFieldMap" alt="" coords="225,197,402,225"/>
+<area shape="rect" id="node6" href="$dc/dab/namespaceActs_1_1Python.html#aa26db3685e21e7496527f1beab5c9061" title="Acts::Python::addMagnetic\lField" alt="" coords="463,189,665,233"/>
+<area shape="rect" id="node8" href="$d4/d0e/namespaceActs_1_1IntegrationTest.html#a072177b919ad98143c25c8d331e9d4ff" title="Acts::IntegrationTest\l::makeFieldMap" alt="" coords="483,257,645,301"/>
+<area shape="rect" id="node9" href="$d6/dcc/namespaceActsExamples_1_1Options.html#a076e0666df114f051ff8ee22ee68af6d" title="Read and create the magnetic field from the given user variables." alt="" coords="475,413,653,457"/>
+<area shape="rect" id="node7" href="$d2/d88/ModuleEntry_8cpp.html#a67bb088b1bb5c0fd6de84f6601af1310" title="PYBIND11_MODULE" alt="" coords="772,109,925,137"/>
+<area shape="rect" id="node10" href="$d8/d93/DetectorAlignment_8cpp.html#ae9f08149366c19192f2f7ed43a8265d0" title="runDetectorAlignment" alt="" coords="763,161,935,189"/>
+<area shape="rect" id="node12" href="$dc/da7/MaterialValidationBase_8cpp.html#a86ce9b149a701387800648bfdc9232bc" title="The material validation example, it runs a propagation and then writes out the material information..." alt="" coords="747,213,951,241"/>
+<area shape="rect" id="node14" href="$d3/d32/PropagationExampleBase_8cpp.html#a9c8d2123146804c4ee758a24668ac420" title="propagationExample" alt="" coords="767,265,930,293"/>
+<area shape="rect" id="node16" href="$db/dac/DigitizationExample_8cpp.html#a397ab52c526fc40d22f69377ee914a42" title="runDigitizationExample" alt="" coords="759,317,939,345"/>
+<area shape="rect" id="node18" href="$df/dd4/namespaceActsExamples.html#a9ca5c59f5fe506a6114091346fac6ce1" title="ActsExamples::runGeant4Simulation" alt="" coords="713,369,984,397"/>
+<area shape="rect" id="node19" href="$d0/de0/DD4hepGeant4Simulation_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="821,421,876,449"/>
+<area shape="rect" id="node20" href="$df/dac/Common_2HoughExample_8cpp.html#aff4bad8a17b19cc4713b773b667da9c8" title="runHoughExample" alt="" coords="775,473,922,501"/>
+<area shape="rect" id="node22" href="$df/da6/MeasurementsToSpacepoints_8cpp.html#a3d86e2ea260cf491650dedf294c962d5" title="runMeasurementsToSP" alt="" coords="761,525,936,553"/>
+<area shape="rect" id="node24" href="$df/dea/RecCKFTracks_8cpp.html#a03ff50105bbc6df1abb2c9907aca3b13" title="runRecCKFTracks" alt="" coords="781,577,917,605"/>
+<area shape="rect" id="node26" href="$de/dcb/RecTruthTracks_8cpp.html#a8bb6f3e6d5baf4e143c8e51e5a4f4588" title="runRecTruthTracks" alt="" coords="776,629,921,657"/>
+<area shape="rect" id="node28" href="$d1/dd4/SeedingExample_8cpp.html#a260bf3b76a7b07e210f214a203b02580" title="runSeedingExample" alt="" coords="770,681,927,709"/>
+<area shape="rect" id="node30" href="$da/db1/classMakeActsGeometry.html#ae2585532ed5abdd609836bc8719c546f" title="Function that mimics ActsExamples::GeometryExampleBase." alt="" coords="716,737,981,765"/>
+<area shape="rect" id="node11" href="$d1/dca/ContextualAlignment_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1116,161,1171,189"/>
+<area shape="rect" id="node13" href="$d4/d63/DD4hepMaterialValidation_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main executable" alt="" coords="1116,213,1171,241"/>
+<area shape="rect" id="node15" href="$df/d8a/AlignedPropagationExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main executable" alt="" coords="1116,265,1171,293"/>
+<area shape="rect" id="node17" href="$d6/d68/DD4hepDigitizationExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1116,317,1171,345"/>
+<area shape="rect" id="node21" href="$d7/d58/HoughExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1116,473,1171,501"/>
+<area shape="rect" id="node23" href="$d5/d71/MeasurementsToSPGeneric_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1116,525,1171,553"/>
+<area shape="rect" id="node25" href="$d1/d60/DD4hepRecCKFTracks_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1116,577,1171,605"/>
+<area shape="rect" id="node27" href="$d1/dfc/DD4hepRecTruthTracks_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1116,629,1171,657"/>
+<area shape="rect" id="node29" href="$d4/d3f/DD4hepSeedingExample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1116,681,1171,709"/>
+<area shape="rect" id="node31" href="$da/db1/classMakeActsGeometry.html#a6f8433331336def2c6ea713b281da9ed" title="Silicon layers made by BuildSiliconLayers and its helper functions." alt="" coords="1032,733,1255,777"/>
+<area shape="rect" id="node32" href="$da/db1/classMakeActsGeometry.html#aa809a1c2b47d8c089a0dc4a6a96d1cc8" title="Main function to build all acts geometry for use in the fitting modules." alt="" coords="1303,733,1513,777"/>
+<area shape="rect" id="node33" href="$da/db1/classMakeActsGeometry.html#a5938929f364b98db92fa809a54a635c6" title="MakeActsGeometry::InitRun" alt="" coords="1561,741,1769,769"/>
+</map>

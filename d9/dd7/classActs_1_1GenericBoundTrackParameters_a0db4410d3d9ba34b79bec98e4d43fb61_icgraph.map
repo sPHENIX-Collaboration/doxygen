@@ -1,0 +1,43 @@
+<map id="Acts::GenericBoundTrackParameters::momentum" name="Acts::GenericBoundTrackParameters::momentum">
+<area shape="rect" id="node2" href="$d5/d55/classPHTpcResiduals.html#a5fd3d7d7b7bc56aba28de53dccaab29b" title="fill track state from bound track parameters" alt="" coords="663,40,862,84"/>
+<area shape="rect" id="node6" href="$dd/d7e/namespaceActs_1_1Test.html#a562a9fb4bd42354ee4b7f58b32b2acac" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="373,781,561,825"/>
+<area shape="rect" id="node7" href="$df/db5/classActsTransformations.html#a3bcace6a37bfe804db71834d3ac28bec" title="ActsTransformations\l::calculateDCA" alt="" coords="387,849,547,893"/>
+<area shape="rect" id="node8" href="$df/d60/classActsExamples_1_1PropagationAlgorithm.html#a753255c43101cfdeb8f698800f4777cd" title="ActsExamples::Propagation\lAlgorithm::execute" alt="" coords="364,917,571,961"/>
+<area shape="rect" id="node9" href="$d4/df6/classActsExamples_1_1DuplicationPlotTool.html#ab21f4a18c5b7ac4d1295df5f479c08b9" title="fill duplication rate w.r.t. fitted track parameters" alt="" coords="366,985,569,1029"/>
+<area shape="rect" id="node10" href="$de/d88/classActsExamples_1_1TrackSummaryPlotTool.html#a2a9d3ae7e1be9efb5195001adfc12902" title="fill reco track info w.r.t. fitted track parameters" alt="" coords="354,1053,581,1097"/>
+<area shape="rect" id="node11" href="$de/d9c/classActsExamples_1_1FakeRatePlotTool.html#a5e02a6aa54c28b6b7f4f0c8d6a93a40c" title="fill fake rate w.r.t. fitted track parameters" alt="" coords="361,1121,574,1165"/>
+<area shape="rect" id="node12" href="$de/dfd/classActs_1_1MultiComponentBoundTrackParameters.html#a6b566ef61fba0249fa8df783c9b8304c" title="Momentum three&#45;vector." alt="" coords="357,1189,578,1233"/>
+<area shape="rect" id="node13" href="$d2/dea/classActsPropagator.html#a600fbcb5b8da26bc20d7f0a4dc138257" title="ActsPropagator::printTrack\lParams" alt="" coords="367,176,568,220"/>
+<area shape="rect" id="node23" href="$d6/d54/classPHCosmicsTrkFitter.html#a6ae04df3a3d9aeca06b4a7fb0f1341d4" title="PHCosmicsTrkFitter\l::printTrackSeed" alt="" coords="687,603,838,647"/>
+<area shape="rect" id="node26" href="$d1/d49/classPHActsTrkFitter.html#abb8e70fafb2d82da9d45510c8051a892" title="PHActsTrkFitter::printTrackSeed" alt="" coords="1186,700,1417,728"/>
+<area shape="rect" id="node29" href="$d9/dd7/classActs_1_1GenericBoundTrackParameters.html#a2ec0511590401206ce15f13882b815f5" title="Acts::GenericBoundTrackParameters\l\&lt; ParticleHypothesis \&gt;::referenceFrame" alt="" coords="321,1257,613,1301"/>
+<area shape="rect" id="node30" href="$df/db5/classActsTransformations.html#add677deb854df272fca2481de2473225" title="ActsTransformations\l::rotateActsCovToSvtxTrack" alt="" coords="365,432,570,476"/>
+<area shape="rect" id="node40" href="$d9/d47/classPHActsVertexPropagator.html#aeee6a597aa13b4a1be449713196f5e16" title="PHActsVertexPropagator\l::updateSvtxTrack" alt="" coords="669,671,856,715"/>
+<area shape="rect" id="node3" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="912,13,1137,41"/>
+<area shape="rect" id="node4" href="$d5/d55/classPHTpcResiduals.html#ac8936c9d7cf8808255c355520b304e95" title="PHTpcResiduals::processTracks" alt="" coords="1185,13,1417,41"/>
+<area shape="rect" id="node5" href="$d5/d55/classPHTpcResiduals.html#afb9145abb0d5d579afed2c31f700989a" title="PHTpcResiduals::process\l_event" alt="" coords="1472,5,1661,49"/>
+<area shape="rect" id="node14" href="$d2/dea/classActsPropagator.html#a71f3e36b60641f6f4c119f8df48e76c3" title="ActsPropagator::propagate\lTrack" alt="" coords="661,108,864,152"/>
+<area shape="rect" id="node19" href="$d2/dea/classActsPropagator.html#a6ed597cc5f530317a7bcccb12077972c" title="ActsPropagator::propagate\lTrackFast" alt="" coords="661,176,864,220"/>
+<area shape="rect" id="node15" href="$dd/d9f/classKshortReconstruction.html#a55d4415326e79244a4158838fcb31e7d" title="KshortReconstruction\l::projectTrackToPoint" alt="" coords="942,65,1107,109"/>
+<area shape="rect" id="node17" href="$d2/d47/classPHActsTrackPropagator.html#aba3d1f68f0a15aef9383b5a21c1292a4" title="PHActsTrackPropagator\l::propagateTrack" alt="" coords="935,133,1114,177"/>
+<area shape="rect" id="node16" href="$dd/d9f/classKshortReconstruction.html#aab5d291b84534d87eaf721e4ddb186c3" title="KshortReconstruction\l::process_event" alt="" coords="1219,65,1384,109"/>
+<area shape="rect" id="node18" href="$d2/d47/classPHActsTrackPropagator.html#abd2fae16527525f0b6de0750cd87106f" title="PHActsTrackPropagator\l::process_event" alt="" coords="1212,161,1391,205"/>
+<area shape="rect" id="node20" href="$d9/df7/classPHActsTrackProjection.html#ae6d89b5ae79848b822075f7636535144" title="Propagate the fitted track parameters to a surface with Acts." alt="" coords="940,201,1109,245"/>
+<area shape="rect" id="node21" href="$d9/df7/classPHActsTrackProjection.html#a1c11c7d51acf8de877d9905f7a33f25d" title="PHActsTrackProjection\l::projectTracks" alt="" coords="1217,284,1386,328"/>
+<area shape="rect" id="node22" href="$d9/df7/classPHActsTrackProjection.html#a45c90998784f4018ade1eda66966b026" title="PHActsTrackProjection\l::process_event" alt="" coords="1482,284,1651,328"/>
+<area shape="rect" id="node24" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="1491,508,1642,552"/>
+<area shape="rect" id="node25" href="$d6/d54/classPHCosmicsTrkFitter.html#af7f27bd06c1766a397916ed87c1a0c4e" title="Process each event by calling the fitter." alt="" coords="1732,508,1883,552"/>
+<area shape="rect" id="node27" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="1465,636,1668,664"/>
+<area shape="rect" id="node28" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="1716,628,1899,672"/>
+<area shape="rect" id="node31" href="$d2/d47/classPHActsTrackPropagator.html#ae3c0e226767fcf214c1a6d0a9c7a1c7f" title="PHActsTrackPropagator\l::addTrackState" alt="" coords="673,244,852,288"/>
+<area shape="rect" id="node32" href="$df/db5/classActsTransformations.html#a97dbdb9dc67ec89606ad8ed7bbb0df41" title="ActsTransformations\l::fillSvtxTrackStates" alt="" coords="683,432,843,476"/>
+<area shape="rect" id="node33" href="$dc/dcf/classPHActsGSF.html#ac83b6ccc46fd99ae61a6f5a90e027376" title="PHActsGSF::updateSvtxTrack" alt="" coords="917,423,1133,451"/>
+<area shape="rect" id="node36" href="$d6/d54/classPHCosmicsTrkFitter.html#a1e0c7a6272775f84ddfed67a5a01bc03" title="Convert the acts track fit result to an svtx track." alt="" coords="949,475,1100,519"/>
+<area shape="rect" id="node38" href="$d1/d49/classPHActsTrkFitter.html#a84b45cab5f4f054cb5820c80cc71c639" title="Convert the acts track fit result to an svtx track." alt="" coords="921,543,1129,587"/>
+<area shape="rect" id="node42" href="$d9/df7/classPHActsTrackProjection.html#a7cb379f945a323989d9bcded81831142" title="Update the SvtxTrack object with the track&#45;cluster match." alt="" coords="678,312,847,356"/>
+<area shape="rect" id="node34" href="$dc/dcf/classPHActsGSF.html#aed9fe79ee4641b8641aae92ec46f70b4" title="PHActsGSF::updateTrack" alt="" coords="1208,423,1395,451"/>
+<area shape="rect" id="node35" href="$dc/dcf/classPHActsGSF.html#a6c3b895a05a59d9e14bbe0a754ac023b" title="PHActsGSF::process\l_event" alt="" coords="1489,415,1644,459"/>
+<area shape="rect" id="node37" href="$d6/d54/classPHCosmicsTrkFitter.html#ac35f3feaf6ae8561a8a6ae4b3469fa55" title="PHCosmicsTrkFitter\l::getTrackFitResult" alt="" coords="1226,475,1377,519"/>
+<area shape="rect" id="node39" href="$d1/d49/classPHActsTrkFitter.html#abef281afb12f30e5b3571ec8c512b3da" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="1207,543,1396,587"/>
+<area shape="rect" id="node41" href="$d9/d47/classPHActsVertexPropagator.html#a1da603897c916f8bc513a6b26c91a358" title="PHActsVertexPropagator\l::process_event" alt="" coords="931,671,1118,715"/>
+</map>

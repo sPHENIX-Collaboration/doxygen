@@ -1,0 +1,46 @@
+<map id="RawTowerGeomContainer::get_phibins" name="RawTowerGeomContainer::get_phibins">
+<area shape="rect" id="node2" href="$d3/d07/classPHG4OHCalDetector.html#a1b73a2b42250fd6eb7a6fdbd4fdf8ea7" title="PHG4OHCalDetector::\lAddGeometryNode" alt="" coords="305,5,472,49"/>
+<area shape="rect" id="node4" href="$db/d76/classPHG4IHCalDetector.html#aac5ebf109c536d2db04385846d65a881" title="PHG4IHCalDetector::\lAddGeometryNode" alt="" coords="309,73,469,117"/>
+<area shape="rect" id="node6" href="$df/d74/classPHG4OuterHcalDetector.html#a52b9577fb8bb467e25e4cd0538db5466" title="PHG4OuterHcalDetector\l::AddGeometryNode" alt="" coords="296,141,481,185"/>
+<area shape="rect" id="node8" href="$d5/d80/classPHG4InnerHcalDetector.html#a9308f1728ca9cca9a544fa813d9c15de" title="PHG4InnerHcalDetector\l::AddGeometryNode" alt="" coords="297,209,480,253"/>
+<area shape="rect" id="node10" href="$d0/da4/classPHG4SpacalDetector.html#a6adf2ae56b8cfea0ee63c01ec7d5dd2f" title="PHG4SpacalDetector\l::AddTowerGeometryNode" alt="" coords="290,277,487,321"/>
+<area shape="rect" id="node12" href="$d2/d39/classCaloGeomMapping.html#a799637d7b2bdd4ccb69486c20d9d1908" title="Clean up internals after each event." alt="" coords="249,345,528,373"/>
+<area shape="rect" id="node14" href="$d7/d10/classRawTowerBuilder.html#a01f91227474fd72e2e630a577973b67b" title="RawTowerBuilder::CreateNodes" alt="" coords="273,397,505,425"/>
+<area shape="rect" id="node16" href="$df/d0d/classRawTowerCombiner.html#a9dbc0b9dfed20dcd3a9a5f6dcf53636d" title="RawTowerCombiner::Create\lNodes" alt="" coords="285,449,492,493"/>
+<area shape="rect" id="node18" href="$de/da4/classEMCalCalib.html#a391db11d0f991de20f00c9a485602016" title="EMCalCalib::eval_photon_proj" alt="" coords="278,1625,499,1653"/>
+<area shape="rect" id="node22" href="$db/d4b/classEMCalAna.html#a1158ea15e948f053751b7d169c3cef4d" title="EMCalAna::eval_trk_proj" alt="" coords="297,517,481,545"/>
+<area shape="rect" id="node27" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a2d446f5f510ab16326c0b748163849e1" title="fetch tower around track and histogram energy distributions" alt="" coords="283,621,495,665"/>
+<area shape="rect" id="node30" href="$d4/d3f/classTrackProjectionTools.html#a7c443aeac7561779885dd6ebdae0def8" title="TrackProjectionTools\l::getE33Barrel" alt="" coords="309,689,468,733"/>
+<area shape="rect" id="node31" href="$d9/df7/classPHActsTrackProjection.html#a7ef985848ea6acbe4bad0ca549bfc929" title="Get 3x3 and 5x5 tower sums matched to a track." alt="" coords="290,757,487,801"/>
+<area shape="rect" id="node32" href="$d6/d1b/classPrototype2RawTowerBuilder.html#ac5d83bd0e9b8325c27dba83fc67b1111" title="Prototype2RawTowerBuilder\l::InitRun" alt="" coords="283,825,494,869"/>
+<area shape="rect" id="node33" href="$d1/dec/classHcalRawTowerBuilder.html#a994bccbb0d39fa5e9d29d3b9c2ed42de" title="HcalRawTowerBuilder\l::InitRun" alt="" coords="305,893,472,937"/>
+<area shape="rect" id="node34" href="$d2/d46/classRawClusterBuilderGraph.html#ae19143d2c8d7071e7cde26358e7623f5" title="RawClusterBuilderGraph\l::process_event" alt="" coords="295,961,482,1005"/>
+<area shape="rect" id="node35" href="$d4/d1b/classRawClusterDeadHotMask.html#ace3afa9b2a1ebe6da25a7a04881ace26" title="RawClusterDeadHotMask\l::process_event" alt="" coords="293,1029,485,1073"/>
+<area shape="rect" id="node36" href="$df/d75/classRawClusterPositionCorrection.html#a5769946f9c4ef0e0ed307a1a18f40ab9" title="RawClusterPositionCorrection\l::process_event" alt="" coords="279,1097,498,1141"/>
+<area shape="rect" id="node37" href="$d4/de8/classRawTowerDeadTowerInterp.html#ae2c8cb5dc2d94c6068999e47102b0534" title="RawTowerDeadTowerInterp\l::process_event" alt="" coords="287,1165,490,1209"/>
+<area shape="rect" id="node38" href="$d7/d13/classSubtractTowers.html#a4c116cec7e202346e813b6587dae234e" title="SubtractTowers::process\l_event" alt="" coords="296,1233,481,1277"/>
+<area shape="rect" id="node39" href="$d9/d8f/classCaloTriggerSim.html#a11ddf4c1a6c8b80e55a6820ad9781d52" title="CaloTriggerSim::process\l_event" alt="" coords="297,1301,481,1345"/>
+<area shape="rect" id="node40" href="$d6/d02/classDetermineTowerBackground.html#a2f2c2c1d59dbf0df2debbedb977dfb57" title="DetermineTowerBackground\l::process_event" alt="" coords="283,1369,495,1413"/>
+<area shape="rect" id="node41" href="$db/dc4/classPHGenFitTrackProjection.html#a5567e0a28356b671b5450b73c120aab6" title="PHGenFitTrackProjection\l::process_event" alt="" coords="297,1437,481,1481"/>
+<area shape="rect" id="node42" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a40b24080a67937bdcacae9933f3d4ee3" title="QAG4SimulationCalorimeter\l::process_event_Tower" alt="" coords="283,1505,495,1549"/>
+<area shape="rect" id="node44" href="$db/d4b/classEMCalAna.html#a2dc76e382cb983e3e7765aee0655572e" title="EMCalAna::process_event\l_Tower" alt="" coords="861,561,1057,605"/>
+<area shape="rect" id="node45" href="$de/da4/classEMCalCalib.html#aa0b96923b3a6aa979859ed0628ce6807" title="EMCalCalib::process\l_event_Tower" alt="" coords="881,1561,1038,1605"/>
+<area shape="rect" id="node3" href="$d3/d07/classPHG4OHCalDetector.html#a61b5b2b66294e6016c7e416fd37181aa" title="construct" alt="" coords="605,5,771,49"/>
+<area shape="rect" id="node5" href="$db/d76/classPHG4IHCalDetector.html#a19b454a01a7750863b5f88e5259f0032" title="construct" alt="" coords="608,73,768,117"/>
+<area shape="rect" id="node7" href="$df/d74/classPHG4OuterHcalDetector.html#ae159c3d2a294c687f9c0f4af6dbce281" title="construct" alt="" coords="595,141,781,185"/>
+<area shape="rect" id="node9" href="$d5/d80/classPHG4InnerHcalDetector.html#adcc55f5d190de67371fb9bf28015c68a" title="construct" alt="" coords="597,209,779,253"/>
+<area shape="rect" id="node11" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a4719c5e160407e1b7f02bced47425698" title="PHG4FullProjTiltedSpacal\lDetector::ConstructMe" alt="" coords="593,277,783,321"/>
+<area shape="rect" id="node13" href="$d2/d39/classCaloGeomMapping.html#a062a4db99a2e6645d206d4c2b97058d4" title="CaloGeomMapping::Init" alt="" coords="597,345,779,373"/>
+<area shape="rect" id="node15" href="$d7/d10/classRawTowerBuilder.html#a0de2c995e7f7cc3bd357d65af5d5d987" title="RawTowerBuilder::InitRun" alt="" coords="592,397,784,425"/>
+<area shape="rect" id="node17" href="$df/d0d/classRawTowerCombiner.html#a09f1dc91a89b5f30ab1bd5f1965d3cb3" title="RawTowerCombiner::InitRun" alt="" coords="583,457,793,485"/>
+<area shape="rect" id="node19" href="$de/da4/classEMCalCalib.html#ac80fa52a42070fa6210a5c69f9c10fed" title="project a photon to calorimeters and collect towers around it" alt="" coords="594,1629,782,1657"/>
+<area shape="rect" id="node20" href="$de/da4/classEMCalCalib.html#a8d33bc88a464878c873f29c9230ce7fe" title="EMCalCalib::process\l_event_MCPhoton" alt="" coords="881,1629,1038,1673"/>
+<area shape="rect" id="node21" href="$de/da4/classEMCalCalib.html#aa70da6270813e434e35da37b6ec2a350" title="EMCalCalib::process\l_event" alt="" coords="1138,1595,1295,1639"/>
+<area shape="rect" id="node23" href="$db/d4b/classEMCalAna.html#a058c1f2ec1ef8b8f7786737eb6e3151b" title="EMCalAna::eval_trk" alt="" coords="612,509,764,537"/>
+<area shape="rect" id="node24" href="$db/d4b/classEMCalAna.html#a9647db89feef6823b38bbdeaf7de06c2" title="EMCalAna::process_event\l_UpslisonTrig" alt="" coords="861,441,1057,485"/>
+<area shape="rect" id="node26" href="$db/d4b/classEMCalAna.html#a2e20101b8705ea086e2c7de88e95767d" title="EMCalAna::process_event_Trk" alt="" coords="848,509,1071,537"/>
+<area shape="rect" id="node25" href="$db/d4b/classEMCalAna.html#a3b829b80df0fd8625130f3d9c11f5d3d" title="EMCalAna::process_event" alt="" coords="1119,509,1315,537"/>
+<area shape="rect" id="node28" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a552be18b8bd8920596f2020f0b49275f" title="QAG4SimulationCalorimeter\lSum::process_event_TrackProj" alt="" coords="576,625,800,669"/>
+<area shape="rect" id="node29" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a2104cb16e224c7eb39b9c5aed8aed4f0" title="QAG4SimulationCalorimeter\lSum::process_event" alt="" coords="853,629,1065,673"/>
+<area shape="rect" id="node43" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="582,1505,794,1549"/>
+</map>

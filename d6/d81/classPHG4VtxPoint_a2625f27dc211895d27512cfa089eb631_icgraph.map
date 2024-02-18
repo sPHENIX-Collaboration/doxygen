@@ -1,0 +1,30 @@
+<map id="PHG4VtxPoint::get_t" name="PHG4VtxPoint::get_t">
+<area shape="rect" id="node2" href="$d2/d81/classpythiaEMCalAna.html#a945e571a7336ceb309b7e07a811b980f" title="pythiaEMCalAna::addPrimary\lFromGeant" alt="" coords="217,5,435,49"/>
+<area shape="rect" id="node4" href="$db/d62/classPHG4InEvent.html#ab893e0a611fdd0867f68c2a6d694e7d2" title="PHG4InEvent::AddVtxCommon" alt="" coords="212,73,440,101"/>
+<area shape="rect" id="node5" href="$d0/d71/classPHG4TrackFastSimEval.html#a52a746bdc6e84dc7886b5bae0b608e68" title="PHG4TrackFastSimEval\l::fill_track_tree" alt="" coords="239,125,413,169"/>
+<area shape="rect" id="node7" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a0fd261422264aedc22d0506ef5e897c4" title="dump the evaluator information into ntuple for external analysis" alt="" coords="239,193,413,237"/>
+<area shape="rect" id="node9" href="$d8/d98/classpsTOFTimezeroEval.html#ae9fd1570652089bed4ec7eb81009b318" title="dump the evaluator information into ntuple for external analysis" alt="" coords="245,261,407,305"/>
+<area shape="rect" id="node11" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="232,329,420,373"/>
+<area shape="rect" id="node13" href="$d6/d81/classPHG4VtxPoint.html#a77a792f28bd75c230a9539e0377e6dc5" title="comparison of vertex value only, not on the id, per algorithm requirement in PHG4TruthInfoContainer::..." alt="" coords="225,397,427,425"/>
+<area shape="rect" id="node14" href="$dc/d41/classConversion.html#a2349b2e5589c919110092cc6eda31392" title="Conversion::PHG4VtxPoint\lToSvtxVertex" alt="" coords="226,449,426,493"/>
+<area shape="rect" id="node16" href="$d1/d05/classQAG4SimulationVertex.html#a5d6b9df173a4094d3744572a9e2410d0" title="QAG4SimulationVertex\l::process_event" alt="" coords="238,517,414,561"/>
+<area shape="rect" id="node17" href="$df/d40/classMbdVertexFastSimReco.html#a6d3a7bb4247b56c0c3e4b12705d71582" title="MbdVertexFastSimReco\l::process_event" alt="" coords="237,585,415,629"/>
+<area shape="rect" id="node18" href="$da/d12/classGlobalVertexFastSimReco.html#a85706908e2e6cbddce255d0033ef2eb2" title="GlobalVertexFastSimReco\l::process_event" alt="" coords="229,653,423,697"/>
+<area shape="rect" id="node19" href="$df/d26/classProto4SampleFrac.html#a0233b792645a661433b6874cfd589e96" title="Standard function called at each event." alt="" coords="224,721,428,765"/>
+<area shape="rect" id="node20" href="$d8/d0d/classMBDStudy.html#a91dc51e820ce33b922243c82fb479c3b" title="MBDStudy::process_event" alt="" coords="227,789,425,817"/>
+<area shape="rect" id="node21" href="$df/d93/classMbdDigitization.html#ac057a48a827f031ed90a4b605ed544ed" title="Process Event, called for each event." alt="" coords="232,841,420,885"/>
+<area shape="rect" id="node22" href="$d4/dc9/classPHG4DSTReader.html#a96e049829877207a6bb23548ae552853" title="event processing method" alt="" coords="229,909,423,953"/>
+<area shape="rect" id="node23" href="$d4/db0/classBBCStudy.html#ae8248866dac4059d3cfeed168f9a1f93" title="BBCStudy::process_event" alt="" coords="229,977,423,1005"/>
+<area shape="rect" id="node24" href="$d8/da1/classsinglePhotonClusterAna.html#a832723e813971a2dc78e585e7f73c2f7" title="singlePhotonClusterAna\l::process_event" alt="" coords="235,1029,417,1073"/>
+<area shape="rect" id="node25" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a5b70cca03633b9708a6aea0b57e21272" title="QAG4SimulationCalorimeter\l::process_event_G4Hit" alt="" coords="220,1097,432,1141"/>
+<area shape="rect" id="node27" href="$d9/d03/classTrackClusterEvaluator.html#a66cad1df2e8397a40eefe607cc3a792b" title="TrackClusterEvaluator\l::processRecoTracks" alt="" coords="241,1165,411,1209"/>
+<area shape="rect" id="node29" href="$d9/d03/classTrackClusterEvaluator.html#a9ca3bdf0977a57e152003b989bd2e1ae" title="TrackClusterEvaluator\l::processTruthTracks" alt="" coords="241,1233,411,1277"/>
+<area shape="rect" id="node3" href="$d2/d81/classpythiaEMCalAna.html#af5632c83151d75609b4145827245f616" title="pythiaEMCalAna::process\l_event" alt="" coords="507,5,701,49"/>
+<area shape="rect" id="node6" href="$d0/d71/classPHG4TrackFastSimEval.html#a49d7dacf282d8b17d774ef0f8778a802" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="517,125,691,169"/>
+<area shape="rect" id="node8" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="517,193,691,237"/>
+<area shape="rect" id="node10" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="523,261,685,305"/>
+<area shape="rect" id="node12" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="516,329,692,373"/>
+<area shape="rect" id="node15" href="$dc/d41/classConversion.html#a232908ec95e6d7b3bfd8883d19885971" title="Uses the truth vertex and SVReco to improve the fit of reco1 and reco2. Uses." alt="" coords="488,457,720,485"/>
+<area shape="rect" id="node26" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="498,1097,710,1141"/>
+<area shape="rect" id="node28" href="$d9/d03/classTrackClusterEvaluator.html#aad981fb932ceca8568402877088f2fad" title="TrackClusterEvaluator\l::process_event" alt="" coords="519,1199,689,1243"/>
+</map>

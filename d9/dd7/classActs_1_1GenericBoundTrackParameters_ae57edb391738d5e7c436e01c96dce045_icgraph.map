@@ -1,0 +1,51 @@
+<map id="Acts::GenericBoundTrackParameters::covariance" name="Acts::GenericBoundTrackParameters::covariance">
+<area shape="rect" id="node2" href="$df/dc7/classActs_1_1GaussianTrackDensity.html#a9f2bd34da4fcc98adb2f0ca49438a39b" title="Add a track to the set being considered." alt="" coords="333,5,542,49"/>
+<area shape="rect" id="node3" href="$d1/d44/structActs_1_1detail_1_1GsfActor.html#a6c10a4b186a8b22c4abf09860681c98f" title="Acts::detail::GsfActor\l::applyBetheHeitler" alt="" coords="355,73,520,117"/>
+<area shape="rect" id="node6" href="$de/d5b/ConvertTrackEDM4hepTest_8cpp.html#ade413e00f44afb5b2bd8ebaf413f2c8f" title="BOOST_AUTO_TEST_CASE" alt="" coords="613,145,809,173"/>
+<area shape="rect" id="node7" href="$dd/d7e/namespaceActs_1_1Test.html#a1b7adf7b8453db62a52be720c2624d7b" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="343,277,531,321"/>
+<area shape="rect" id="node8" href="$d1/d78/CurvilinearTrackParametersTests_8cpp.html#a42bb8d8236197f90b31976895c3eafb3" title="BOOST_DATA_TEST_CASE" alt="" coords="341,345,534,373"/>
+<area shape="rect" id="node9" href="$de/d5f/PropagationTests_8hpp.html#a586b4dc5e56bc1035a47ad2509fc846e" title="checkCovarianceConsistency" alt="" coords="328,397,547,425"/>
+<area shape="rect" id="node14" href="$d7/d69/namespaceActs_1_1EDM4hepUtil_1_1detail.html#aebbd22373eb9378b4d0957bca7923c3a" title="Acts::EDM4hepUtil::\ldetail::convertTrackParameters\lToEdm4hep" alt="" coords="321,193,553,253"/>
+<area shape="rect" id="node20" href="$de/dfd/classActs_1_1MultiComponentBoundTrackParameters.html#a276c9ea040466d2ab713abf77ec3352d" title="Optional covariance matrix." alt="" coords="329,449,546,493"/>
+<area shape="rect" id="node21" href="$d7/dc1/classActsExamples_1_1ResPlotTool.html#a2e102f2b3dddebed52e079f133636e8c" title="fill the histograms" alt="" coords="337,517,538,561"/>
+<area shape="rect" id="node22" href="$dd/d7e/namespaceActs_1_1Test.html#a543dbed9171badffe8f45a6a7c8287bf" title="Acts::Test::fillTrackState" alt="" coords="346,585,529,613"/>
+<area shape="rect" id="node23" href="$d8/d1a/classActs_1_1IterativeVertexFinder.html#a6cf7433f25aa16ef4258a5268f2a2489" title="Function that fills vector with tracks compatible with seed vertex." alt="" coords="336,637,539,681"/>
+<area shape="rect" id="node24" href="$dc/d23/classActs_1_1CombinatorialKalmanFilter.html#a48842ad1061c5cc56092f423058f9817" title="Acts::CombinatorialKalman\lFilter::findTracks" alt="" coords="335,705,540,749"/>
+<area shape="rect" id="node25" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#acb4c7f83a37cb29b71e5cb5d52d91fc6" title="Estimates the compatibility of a track to a vertex based on their 3D (if nDim = 3) or 4D (if nDim = 4..." alt="" coords="335,773,540,817"/>
+<area shape="rect" id="node26" href="$d2/d42/classActs_1_1RiddersPropagator.html#ac04a164d4765979e380d86cdd9eb7ac0" title="Propagation method targeting curvilinear parameters." alt="" coords="344,841,531,885"/>
+<area shape="rect" id="node27" href="$df/db5/classActsTransformations.html#add677deb854df272fca2481de2473225" title="ActsTransformations\l::rotateActsCovToSvtxTrack" alt="" coords="335,909,540,953"/>
+<area shape="rect" id="node44" href="$d9/d47/classPHActsVertexPropagator.html#aeee6a597aa13b4a1be449713196f5e16" title="PHActsVertexPropagator\l::updateSvtxTrack" alt="" coords="617,1088,804,1132"/>
+<area shape="rect" id="node49" href="$df/d87/structActs_1_1StraightLineStepper_1_1State.html#a3253df940bbdb50d8d33ce454ad1a0fe" title="Acts::StraightLineStepper\l::State::State" alt="" coords="339,1029,535,1073"/>
+<area shape="rect" id="node50" href="$d0/d11/structActs_1_1EigenStepper_1_1State.html#a8bf8befbbc37bfca03f8f503cef70b41" title="Acts::EigenStepper\l::State::State" alt="" coords="361,1097,513,1141"/>
+<area shape="rect" id="node4" href="$d1/d44/structActs_1_1detail_1_1GsfActor.html#a2428869d9446c0c59e32e86897347395" title="Acts::detail::GsfActor\l::convoluteComponents" alt="" coords="619,73,802,117"/>
+<area shape="rect" id="node5" href="$d1/d44/structActs_1_1detail_1_1GsfActor.html#a8034e7482079d864362f65f442425b7d" title="GSF actor operation." alt="" coords="899,73,1064,117"/>
+<area shape="rect" id="node10" href="$de/d5f/PropagationTests_8hpp.html#a30c6823abd33eca7975d0c9b7cac9d4c" title="runForwardComparisonTest" alt="" coords="607,372,814,400"/>
+<area shape="rect" id="node12" href="$de/d5f/PropagationTests_8hpp.html#a752ad474711641c0cbf067019151a6b5" title="runToSurfaceComparisonTest" alt="" coords="601,424,820,452"/>
+<area shape="rect" id="node11" href="$d3/d00/PropagationAutodiffConstant_8cpp.html#a138a5a5ee19b870fc6099ea016e34419" title="BOOST_DATA_TEST_CASE" alt="" coords="885,372,1078,400"/>
+<area shape="rect" id="node13" href="$d3/d00/PropagationAutodiffConstant_8cpp.html#a9064fdeaa1214dabff1aaec3caea77a9" title="BOOST_DATA_TEST_CASE" alt="" coords="885,424,1078,452"/>
+<area shape="rect" id="node15" href="$d6/d4d/namespaceActs_1_1EDM4hepUtil.html#ae2d5176a99ba6e8cbbe49516d9347d1f" title="Acts::EDM4hepUtil::\lwriteTrack" alt="" coords="633,200,789,244"/>
+<area shape="rect" id="node18" href="$d4/d7c/namespaceActsExamples_1_1EDM4hepUtil.html#acf80fe2e2b50d70a93a74e602e1a5e98" title="ActsExamples::EDM4hepUtil\l::writeTrajectory" alt="" coords="604,268,817,312"/>
+<area shape="rect" id="node16" href="$de/dfd/classActsExamples_1_1EDM4hepTrackWriter.html#a5284e401876d47277f35400e680d39e0" title="Write method called by the base class." alt="" coords="868,200,1095,244"/>
+<area shape="rect" id="node17" href="$de/d5b/ConvertTrackEDM4hepTest_8cpp.html#a96638dccb5650a4675aa267901945995" title="BOOST_AUTO_TEST_CASE" alt="" coords="883,148,1079,176"/>
+<area shape="rect" id="node19" href="$d1/dbd/classActsExamples_1_1EDM4hepMultiTrajectoryWriter.html#a15fad589daa0019dafdf181363b3ae13" title="Write method called by the base class." alt="" coords="870,268,1093,312"/>
+<area shape="rect" id="node28" href="$d2/d47/classPHActsTrackPropagator.html#ae3c0e226767fcf214c1a6d0a9c7a1c7f" title="PHActsTrackPropagator\l::addTrackState" alt="" coords="621,661,800,705"/>
+<area shape="rect" id="node30" href="$d5/d55/classPHTpcResiduals.html#a5fd3d7d7b7bc56aba28de53dccaab29b" title="fill track state from bound track parameters" alt="" coords="611,729,810,773"/>
+<area shape="rect" id="node34" href="$df/db5/classActsTransformations.html#a97dbdb9dc67ec89606ad8ed7bbb0df41" title="ActsTransformations\l::fillSvtxTrackStates" alt="" coords="631,849,791,893"/>
+<area shape="rect" id="node35" href="$dc/dcf/classPHActsGSF.html#ac83b6ccc46fd99ae61a6f5a90e027376" title="PHActsGSF::updateSvtxTrack" alt="" coords="873,808,1089,836"/>
+<area shape="rect" id="node38" href="$d6/d54/classPHCosmicsTrkFitter.html#a1e0c7a6272775f84ddfed67a5a01bc03" title="Convert the acts track fit result to an svtx track." alt="" coords="906,872,1057,916"/>
+<area shape="rect" id="node41" href="$d1/d49/classPHActsTrkFitter.html#a84b45cab5f4f054cb5820c80cc71c639" title="Convert the acts track fit result to an svtx track." alt="" coords="877,949,1085,993"/>
+<area shape="rect" id="node46" href="$d9/df7/classPHActsTrackProjection.html#a7cb379f945a323989d9bcded81831142" title="Update the SvtxTrack object with the track&#45;cluster match." alt="" coords="626,1020,795,1064"/>
+<area shape="rect" id="node29" href="$d2/d47/classPHActsTrackPropagator.html#abd2fae16527525f0b6de0750cd87106f" title="PHActsTrackPropagator\l::process_event" alt="" coords="892,661,1071,705"/>
+<area shape="rect" id="node31" href="$d5/d55/classPHTpcResiduals.html#abe1d80fe32c832f457a28c43e8c2d883" title="PHTpcResiduals::processTrack" alt="" coords="869,737,1094,765"/>
+<area shape="rect" id="node32" href="$d5/d55/classPHTpcResiduals.html#ac8936c9d7cf8808255c355520b304e95" title="PHTpcResiduals::processTracks" alt="" coords="1143,737,1375,765"/>
+<area shape="rect" id="node33" href="$d5/d55/classPHTpcResiduals.html#afb9145abb0d5d579afed2c31f700989a" title="PHTpcResiduals::process\l_event" alt="" coords="1429,729,1619,773"/>
+<area shape="rect" id="node36" href="$dc/dcf/classPHActsGSF.html#aed9fe79ee4641b8641aae92ec46f70b4" title="PHActsGSF::updateTrack" alt="" coords="1165,808,1352,836"/>
+<area shape="rect" id="node37" href="$dc/dcf/classPHActsGSF.html#a6c3b895a05a59d9e14bbe0a754ac023b" title="PHActsGSF::process\l_event" alt="" coords="1447,800,1601,844"/>
+<area shape="rect" id="node39" href="$d6/d54/classPHCosmicsTrkFitter.html#ac35f3feaf6ae8561a8a6ae4b3469fa55" title="PHCosmicsTrkFitter\l::getTrackFitResult" alt="" coords="1183,872,1334,916"/>
+<area shape="rect" id="node40" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="1449,872,1599,916"/>
+<area shape="rect" id="node42" href="$d1/d49/classPHActsTrkFitter.html#abef281afb12f30e5b3571ec8c512b3da" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="1164,949,1353,993"/>
+<area shape="rect" id="node43" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="1423,957,1625,985"/>
+<area shape="rect" id="node45" href="$d9/d47/classPHActsVertexPropagator.html#a1da603897c916f8bc513a6b26c91a358" title="PHActsVertexPropagator\l::process_event" alt="" coords="888,1088,1075,1132"/>
+<area shape="rect" id="node47" href="$d9/df7/classPHActsTrackProjection.html#a1c11c7d51acf8de877d9905f7a33f25d" title="PHActsTrackProjection\l::projectTracks" alt="" coords="897,1020,1066,1064"/>
+<area shape="rect" id="node48" href="$d9/df7/classPHActsTrackProjection.html#a45c90998784f4018ade1eda66966b026" title="PHActsTrackProjection\l::process_event" alt="" coords="1174,1020,1343,1064"/>
+</map>

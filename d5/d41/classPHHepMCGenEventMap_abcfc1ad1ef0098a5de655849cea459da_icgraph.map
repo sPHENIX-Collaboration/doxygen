@@ -1,0 +1,31 @@
+<map id="PHHepMCGenEventMap::identify" name="PHHepMCGenEventMap::identify">
+<area shape="rect" id="node2" href="$da/d73/classExclusiveReco.html#a48d900fd8ad00d0b252204dcbb941bc7" title="ExclusiveReco::AddInvariant\lMassInformation" alt="" coords="245,8,459,52"/>
+<area shape="rect" id="node4" href="$db/db5/classDISKinematicsReco.html#ae000014716c30b27013b7b13313f8498" title="DISKinematicsReco::\lAddTruthEventInformation" alt="" coords="252,76,452,120"/>
+<area shape="rect" id="node6" href="$db/db5/classDISKinematicsReco.html#a304bc882f5517efba6e9584933088d33" title="DISKinematicsReco::\lCollectEmCandidatesFromTruth" alt="" coords="236,144,468,188"/>
+<area shape="rect" id="node7" href="$dd/d2a/classPHHepMCGenHelper.html#a0148635f83f76e3f6cee429a8de49fbd" title="Record the translation,boost,rotation for HepMC frame to lab frame according to collision settings..." alt="" coords="238,212,466,256"/>
+<area shape="rect" id="node20" href="$d5/d41/classPHHepMCGenEventMap.html#ace1292e973fe2429bee746acb6aaddb9" title="insert a event with specific embedding ID" alt="" coords="261,280,443,324"/>
+<area shape="rect" id="node22" href="$da/d9a/classTracksInJets.html#ad1aeb2634a3ad38ac55c5f803c70d6d8" title="TracksInJets::process\l_event" alt="" coords="271,348,433,392"/>
+<area shape="rect" id="node23" href="$da/df3/classQuarkonia2LeptonsMC.html#a0fdfece5204079db0fb1163e8e6e2418" title="Quarkonia2LeptonsMC\l::process_event" alt="" coords="265,416,439,460"/>
+<area shape="rect" id="node24" href="$dc/d64/classHFJetTruthTrigger.html#a285f04a4990696900275fab25aa86106" title="HFJetTruthTrigger::\lprocess_event" alt="" coords="279,484,425,528"/>
+<area shape="rect" id="node25" href="$db/d4c/classBJetModule.html#a93ec29147c2d7aea52780d7370141e74" title="BJetModule::process\l_event" alt="" coords="273,552,431,596"/>
+<area shape="rect" id="node26" href="$dd/dea/classHFMLTriggerHepMCTrigger.html#a27dd9ca3c3a9d443a7be2dc019c4a076" title="HFMLTriggerHepMCTrigger\l::process_event" alt="" coords="253,620,451,664"/>
+<area shape="rect" id="node27" href="$dd/dbd/classDirectPhotonPythia.html#a7e813a6037138c960bd78bd99b66508e" title="DirectPhotonPythia\l::process_event" alt="" coords="277,688,427,732"/>
+<area shape="rect" id="node28" href="$d0/d55/classHFFastSim.html#ae158c7e499689292996251d13ad33a5c" title="HFFastSim::process\l_event" alt="" coords="275,756,429,800"/>
+<area shape="rect" id="node29" href="$d7/d62/classHFMLTriggerInterface.html#a29f338c2563a39e5d0e58b316f4b036f" title="HFMLTriggerInterface\l::process_event" alt="" coords="271,824,433,868"/>
+<area shape="rect" id="node30" href="$dd/d48/classTruthJetTagging.html#ab747be3f11acabfa62626e71f94466ac" title="TruthJetTagging::process\l_event" alt="" coords="258,892,446,936"/>
+<area shape="rect" id="node3" href="$da/d73/classExclusiveReco.html#a026079694f2af119464bf5955c27a01c" title="ExclusiveReco::process\l_event" alt="" coords="554,8,733,52"/>
+<area shape="rect" id="node5" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="563,84,723,128"/>
+<area shape="rect" id="node8" href="$de/d99/classFun4AllHepMCPileupInputManager.html#a9ce1ce8bd07083235c302e7c2c6985e0" title="Fun4AllHepMCPileupInputManager\l::InsertEvent" alt="" coords="516,168,771,212"/>
+<area shape="rect" id="node10" href="$dd/d2a/classPHHepMCGenHelper.html#ab0c755f6e53c0bf57ccd314a0017d227" title="send HepMC::GenEvent to DST tree. This function takes ownership of evt" alt="" coords="539,245,747,289"/>
+<area shape="rect" id="node9" href="$de/d99/classFun4AllHepMCPileupInputManager.html#a0afd07a242a008dab637fe4f6ba997bd" title="Fun4AllHepMCPileupInputManager::run" alt="" coords="819,5,1104,33"/>
+<area shape="rect" id="node11" href="$d5/dfb/classReadSynRadFiles.html#af3b9bf370ff1e93c7a2ddcc4d6c1c816" title="ReadSynRadFiles::process\l_event" alt="" coords="863,57,1060,101"/>
+<area shape="rect" id="node12" href="$dd/da8/classPHPythia6.html#a7a70bdd1c198a83ed143d3e2c4516d0d" title="PHPythia6::process\l_event" alt="" coords="886,125,1037,169"/>
+<area shape="rect" id="node13" href="$d6/d6f/classFun4AllHepMCInputManager.html#abc2abd5f69e96e3fb974376f5f258f80" title="Fun4AllHepMCInputManager::run" alt="" coords="839,193,1083,221"/>
+<area shape="rect" id="node14" href="$db/d1f/classFun4AllOscarInputManager.html#a1537e89c4e652f70747fbbef18ceadc4" title="Fun4AllOscarInputManager\l::ConvertFromOscar" alt="" coords="859,245,1064,289"/>
+<area shape="rect" id="node16" href="$d9/d3a/classPHPythia8.html#a534c21ef917fe92922c6757a75ca84e1" title="PHPythia8::process\l_event" alt="" coords="886,313,1037,357"/>
+<area shape="rect" id="node17" href="$da/df0/classPHSartre.html#aafe9fd92317ab1f7eee67a9354696c4e" title="PHSartre::process_event" alt="" coords="868,381,1055,409"/>
+<area shape="rect" id="node18" href="$df/d98/classsHEPGen.html#af0d88e02a25b1437c784a31f8fa9d93d" title="sHEPGen::process_event" alt="" coords="867,433,1056,461"/>
+<area shape="rect" id="node19" href="$d3/d49/classReadEICFiles.html#a7dd6da2318a9ea07bb3569bc2d5549c6" title="ReadEICFiles::process\l_event" alt="" coords="877,485,1045,529"/>
+<area shape="rect" id="node15" href="$db/d1f/classFun4AllOscarInputManager.html#abd9c677329f73038579c12aff1f8d42a" title="Fun4AllOscarInputManager::run" alt="" coords="1152,253,1387,281"/>
+<area shape="rect" id="node21" href="$d8/d63/classsPHAnalysis.html#a0173ae235b96a81e488fabf4a6849f56" title="sPHAnalysis::process\l_event_hepmc" alt="" coords="561,313,725,357"/>
+</map>

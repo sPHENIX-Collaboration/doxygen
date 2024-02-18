@@ -1,0 +1,51 @@
+<map id="ActsExamples::HepMC3Vertex::processVertex" name="ActsExamples::HepMC3Vertex::processVertex">
+<area shape="rect" id="node2" href="$d6/d43/namespaceActsExamples_1_1HepMC3Particle.html#aff2427a7d40e85e753b1efdb288006b1" title="Returns the end vertex of the particle translated into Acts." alt="" coords="280,1257,512,1301"/>
+<area shape="rect" id="node3" href="$d6/d43/namespaceActsExamples_1_1HepMC3Particle.html#a46eee7112581fab2c6bc65ff2dfb81f8" title="Returns the production vertex of the particle translated into Acts." alt="" coords="280,1325,512,1369"/>
+<area shape="rect" id="node4" href="$d5/da9/namespaceActsExamples_1_1HepMC3Event.html#a0bd8b25628fbd0f18b886f46089d182e" title="Get list of vertices." alt="" coords="285,1393,507,1437"/>
+<area shape="rect" id="node5" href="$d0/de6/structActsFatras_1_1PlanarSurfaceMask.html#ab14737aa3c0bb6fb4466663673900ae3" title="ActsFatras::PlanarSurface\lMask::annulusMask" alt="" coords="603,81,798,125"/>
+<area shape="rect" id="node6" href="$d0/de6/structActsFatras_1_1PlanarSurfaceMask.html#a9116e533f753f565445510aecb6f2f8e" title="ActsFatras::PlanarSurface\lMask::apply" alt="" coords="927,51,1121,95"/>
+<area shape="rect" id="node8" href="$dd/d7e/namespaceActs_1_1Test.html#acb04c526476c12388adcbf90fdf9e2d4" title="Unit tests for Polyderon construction &amp; operator +=." alt="" coords="607,149,795,193"/>
+<area shape="rect" id="node9" href="$d3/ddd/SurfaceSvgConverterTests_8cpp.html#a8de63f9e9b5a93d46630c474af08f394" title="BOOST_AUTO_TEST_CASE" alt="" coords="603,217,799,245"/>
+<area shape="rect" id="node10" href="$dc/d3f/classActs_1_1TrapezoidVolumeBounds.html#a293ca3cbf951933f2f71591ac4377594" title="Acts::TrapezoidVolumeBounds\l::boundingBox" alt="" coords="587,269,814,313"/>
+<area shape="rect" id="node11" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a118a25ac19b198e4d28a0799dc410c04" title="Create a box around o, oriented along u and v with widths ud, vd and depth and return a pointer to th..." alt="" coords="621,949,780,993"/>
+<area shape="rect" id="node13" href="$de/d4a/classKFParticle__eventReconstruction.html#ae9719f37c10bbe1199d7e726e9c60c74" title="Used to reconstruct more complicated decays with up to four intermediate states." alt="" coords="584,337,817,381"/>
+<area shape="rect" id="node15" href="$da/de1/classPHG4EPDDetector.html#a051e690d17c7062d7261993a9b8b1cc2" title="PHG4EPDDetector::construct\l_block" alt="" coords="593,473,809,517"/>
+<area shape="rect" id="node16" href="$d6/de5/classActs_1_1ConvexPolygonBoundsBase.html#a7ed386e2d2faaddbf8787501dad1ab3c" title="Acts::ConvexPolygonBounds\lBase::convex_impl" alt="" coords="593,541,808,585"/>
+<area shape="rect" id="node17" href="$d3/d0f/classActs_1_1ConvexPolygonBounds.html#af6f75e4a43d60c6f4c9b144d248fea58" title="Acts::ConvexPolygonBounds\l::ConvexPolygonBounds" alt="" coords="593,609,808,653"/>
+<area shape="rect" id="node18" href="$d1/d2d/classActs_1_1Experimental_1_1DetectorVolume.html#a04a32b32a9ed7cb5a8a57cec7e81652e" title="Acts::Experimental\l::DetectorVolume::createBoundingBox" alt="" coords="560,677,841,721"/>
+<area shape="rect" id="node19" href="$da/d0a/classActs_1_1CylinderBounds.html#a0a9fd7e5991ddeb9610e70b3e587065a" title="Acts::CylinderBounds\l::createCircles" alt="" coords="617,745,784,789"/>
+<area shape="rect" id="node20" href="$de/df6/structActs_1_1TGeoSurfaceConverter.html#aaf1189b4c2476efb83f4455228ad177c" title="Acts::TGeoSurfaceConverter\l::discComponents" alt="" coords="593,813,808,857"/>
+<area shape="rect" id="node21" href="$d8/d3d/classActs_1_1BoundaryCheck.html#a03125ec8e909fa9e17eb713bdfcdea57" title="Acts::BoundaryCheck\l::distance" alt="" coords="617,881,785,925"/>
+<area shape="rect" id="node22" href="$d5/d0f/exceptionActsExamples_1_1IterativeVertexFinderAlgorithm.html#a1247e2f39ad28c011e8e911ca8abba5f" title="ActsExamples::IterativeVertex\lFinderAlgorithm::execute" alt="" coords="911,1157,1137,1201"/>
+<area shape="rect" id="node23" href="$d3/dac/exceptionActsExamples_1_1AdaptiveMultiVertexFinderAlgorithm.html#a9e5129d79c22073b7a3e4a47ad971818" title="ActsExamples::AdaptiveMulti\lVertexFinderAlgorithm::executeAfter\lSeederChoice" alt="" coords="889,1658,1159,1718"/>
+<area shape="rect" id="node24" href="$dd/d9e/structActs_1_1Polyhedron.html#a1c4a5f6a725234c74230dfa93ced4b05" title="Acts::Polyhedron::extent" alt="" coords="607,1069,795,1097"/>
+<area shape="rect" id="node25" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="607,1121,795,1165"/>
+<area shape="rect" id="node26" href="$d0/d94/classPHG4GDMLWriteSolids.html#a9e0a708dbd9fcbfcc88009caff0d6853" title="PHG4GDMLWriteSolids\l::GenTrapWrite" alt="" coords="614,1189,787,1233"/>
+<area shape="rect" id="node27" href="$dc/d7b/classActs_1_1DiscTrapezoidBounds.html#aa4143be438f578b0b415b5a8784d0b68" title="Acts::DiscTrapezoidBounds\l::inside" alt="" coords="599,1257,803,1301"/>
+<area shape="rect" id="node28" href="$d1/d84/classActs_1_1DiamondBounds.html#a4a908df0acd2f1f074ee0f3a478e3181" title="Acts::DiamondBounds\l::inside" alt="" coords="615,1325,787,1369"/>
+<area shape="rect" id="node29" href="$da/d0a/classActs_1_1CylinderBounds.html#a2daf276f2c60eac8b1cdb76709899c97" title="Acts::CylinderBounds\l::inside" alt="" coords="617,1393,784,1437"/>
+<area shape="rect" id="node30" href="$dd/dfc/classActs_1_1AdaptiveMultiVertexFitter.html#a096f7652da557397ae4fd0670d09137a" title="Tests if vertex is already in list of vertices or not." alt="" coords="603,1461,799,1505"/>
+<area shape="rect" id="node31" href="$d8/d3d/classActs_1_1BoundaryCheck.html#a08b9615995d51b859ccf416bd6c632f3" title="Acts::BoundaryCheck\l::isInside" alt="" coords="617,1529,785,1573"/>
+<area shape="rect" id="node32" href="$db/d38/HepMC3Example_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="673,1597,728,1625"/>
+<area shape="rect" id="node33" href="$d4/d1a/classgenfit_1_1EventDisplay.html#ac2ab478d06ac1b76d0ff6db0fb327e67" title="genfit::EventDisplay\l::makeLines" alt="" coords="621,405,780,449"/>
+<area shape="rect" id="node34" href="$df/dd4/namespaceActsExamples.html#a5ed38dffc1152592bf6d2367f08c6bde" title="ActsExamples::makeProtoVertices" alt="" coords="575,1649,827,1677"/>
+<area shape="rect" id="node35" href="$dd/d9e/structActs_1_1Polyhedron.html#a6ef5cce37808d28cb5d7e06d071b3f0a" title="Acts::Polyhedron::move" alt="" coords="609,1753,792,1781"/>
+<area shape="rect" id="node36" href="$db/dc6/structActsFatras_1_1PlanarSurfaceTestBeds.html#ae5e163dd39f0a2c3cc1da28ee8373091" title="ActsFatras::PlanarSurface\lTestBeds::operator()" alt="" coords="603,1805,798,1849"/>
+<area shape="rect" id="node37" href="$da/d8c/classActs_1_1GenericCuboidVolumeBounds.html#a7b44054640305e141249c22c04d0f90c" title="Acts::GenericCuboidVolume\lBounds::orientedSurfaces" alt="" coords="595,1873,806,1917"/>
+<area shape="rect" id="node38" href="$da/d82/classActs_1_1PerigeeSurface.html#ac63196d82bf7df4ab33895c3bf75916a" title="Acts::PerigeeSurface\l::polyhedronRepresentation" alt="" coords="596,1941,805,1985"/>
+<area shape="rect" id="node39" href="$d0/d1e/classActs_1_1StrawSurface.html#a5dce6ea0b031194131d2c9825b98c0f1" title="Acts::StrawSurface\l::polyhedronRepresentation" alt="" coords="596,2009,805,2053"/>
+<area shape="rect" id="node40" href="$dc/d63/classActs_1_1SurfaceStub.html#a46883786e50b30ba580f81f2724ee216" title="Return a Polyhedron for the surfaces." alt="" coords="601,2077,801,2121"/>
+<area shape="rect" id="node41" href="$d3/db7/classActs_1_1PlaneSurface.html#a687c7cd5356048a7ff6ab0a687426089" title="Acts::PlaneSurface\l::polyhedronRepresentation" alt="" coords="596,2145,805,2189"/>
+<area shape="rect" id="node42" href="$d4/d4f/classActs_1_1ConeSurface.html#a4a5fd046c63b7981c0c792ac619ea3ad" title="Acts::ConeSurface::\lpolyhedronRepresentation" alt="" coords="601,2213,801,2257"/>
+<area shape="rect" id="node43" href="$d6/dd9/classActs_1_1CylinderSurface.html#aed97f0dabdf0c3b1428e8c582fda6693" title="Acts::CylinderSurface\l::polyhedronRepresentation" alt="" coords="596,2281,805,2325"/>
+<area shape="rect" id="node44" href="$d0/d43/classPHActsVertexFinder.html#a9b388d9dd2ae05ab6a153a761d36d0d3" title="PHActsVertexFinder\l::Process" alt="" coords="624,2349,777,2393"/>
+<area shape="rect" id="node45" href="$df/db0/classPHActsInitialVertexFinder.html#a85a8c721f09bcb8342868c2c335c211c" title="PHActsInitialVertexFinder\l::Process" alt="" coords="605,2417,796,2461"/>
+<area shape="rect" id="node46" href="$dd/d7e/namespaceActs_1_1Test.html#a9c62e0f0386eb3fa0c3139d816204e48" title="Acts::Test::readTracksAnd\lVertexCSV" alt="" coords="603,2485,798,2529"/>
+<area shape="rect" id="node47" href="$de/dab/namespaceActs_1_1VolumeView3DTest.html#aad8f49204eb781f873416e1e23a3469f" title="Acts::VolumeView3DTest::run" alt="" coords="591,2553,811,2581"/>
+<area shape="rect" id="node48" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html#a27c100e5209d3b7b5b23953b87eb4fca" title="Acts::AxisAlignedBounding\lBox::transformVertices" alt="" coords="599,2605,803,2649"/>
+<area shape="rect" id="node49" href="$d6/de5/classActs_1_1ConvexPolygonBoundsBase.html#ac3d2eacf733a0dd6b7127100076f9a49" title="Acts::ConvexPolygonBounds\lBase::values" alt="" coords="593,2673,808,2717"/>
+<area shape="rect" id="node50" href="$da/d70/exceptionActsExamples_1_1VertexPerformanceWriter.html#a8b5a0d3d7b3b5dca0fe3c121c6a15b02" title="Write method called by the base class." alt="" coords="573,2741,828,2785"/>
+<area shape="rect" id="node7" href="$da/df8/namespaceActsFatras.html#aa2d2223591b1bea3132041895a5d0349" title="Unit test for testing the Surface mask." alt="" coords="1207,51,1396,95"/>
+<area shape="rect" id="node12" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a294470305559030667e010db718d3f3a" title="Draw an event." alt="" coords="945,802,1103,846"/>
+<area shape="rect" id="node14" href="$de/d4a/classKFParticle__eventReconstruction.html#a8616310d436b8f97085f3c06114e2899" title="KFParticle_eventReconstruction\l::createDecay" alt="" coords="907,337,1141,381"/>
+</map>

@@ -1,0 +1,28 @@
+var classPHGenIntegralv1 =
+[
+    [ "PHGenIntegralv1", "dd/dd1/classPHGenIntegralv1.html#a2bb39389c2c8f4ce82a8efa124ad2493", null ],
+    [ "PHGenIntegralv1", "dd/dd1/classPHGenIntegralv1.html#a5f370f2a318ccdf40da175881013dadc", null ],
+    [ "~PHGenIntegralv1", "dd/dd1/classPHGenIntegralv1.html#a8ea71cfb9d06734021206df039bd04f8", null ],
+    [ "CloneMe", "dd/dd1/classPHGenIntegralv1.html#a26600df460afa427c10d7bf37ab2fc78", null ],
+    [ "CopyFrom", "dd/dd1/classPHGenIntegralv1.html#a72331b55ebd82610ca2dfb1410b207d9", null ],
+    [ "get_Description", "dd/dd1/classPHGenIntegralv1.html#ac1fd2bc492863be4fb9aa92811918401", null ],
+    [ "get_Integrated_Lumi", "dd/dd1/classPHGenIntegralv1.html#add68221f3a83edc18c98748cd63fa326", null ],
+    [ "get_N_Generator_Accepted_Event", "dd/dd1/classPHGenIntegralv1.html#a2bb8280490d0f16e60c01c0522f015d0", null ],
+    [ "get_N_Processed_Event", "dd/dd1/classPHGenIntegralv1.html#ae06e2e8a25c84c93033b38dc7f6d1f15", null ],
+    [ "get_Sum_Of_Weight", "dd/dd1/classPHGenIntegralv1.html#a26d562d3ad673726639a93254b246440", null ],
+    [ "identify", "dd/dd1/classPHGenIntegralv1.html#a14fc00fc76d262f90574e0e1bbcc8566", null ],
+    [ "Integrate", "dd/dd1/classPHGenIntegralv1.html#aaabb815e79c1bcbc54b06e1774456e72", null ],
+    [ "Integrate", "dd/dd1/classPHGenIntegralv1.html#aafbab772806c3e21532a4b7f0f5c0436", null ],
+    [ "isValid", "dd/dd1/classPHGenIntegralv1.html#a0149f3c76e8e040cad1408e14f574711", null ],
+    [ "Reset", "dd/dd1/classPHGenIntegralv1.html#a46375201802007519f6f8a346c916e02", null ],
+    [ "set_Description", "dd/dd1/classPHGenIntegralv1.html#a56867a3310b80a001476a291ee13ac3f", null ],
+    [ "set_Integrated_Lumi", "dd/dd1/classPHGenIntegralv1.html#a73f178ab54f55317a121416d769c4519", null ],
+    [ "set_N_Generator_Accepted_Event", "dd/dd1/classPHGenIntegralv1.html#ab89349216ce14e3a50a2215f3b231a1d", null ],
+    [ "set_N_Processed_Event", "dd/dd1/classPHGenIntegralv1.html#a639b77fa29b23ff6f164d1b08a683fd7", null ],
+    [ "set_Sum_Of_Weight", "dd/dd1/classPHGenIntegralv1.html#aea95fc4cfd431e4fdbc76fe8717cc5f1", null ],
+    [ "m_Description", "dd/dd1/classPHGenIntegralv1.html#ab562bf53be7d89e267d70a18027eb289", null ],
+    [ "m_IntegratedLumi", "dd/dd1/classPHGenIntegralv1.html#a04f07ed9aaa449a75ffb3fa0d9a3f4a9", null ],
+    [ "m_NGeneratorAcceptedEvent", "dd/dd1/classPHGenIntegralv1.html#aab55d088cda324722236fe18f2840d8b", null ],
+    [ "m_NProcessedEvent", "dd/dd1/classPHGenIntegralv1.html#a5aae18a4a50bd874d25aed2160cfbef3", null ],
+    [ "m_SumOfWeight", "dd/dd1/classPHGenIntegralv1.html#abbbc95d1f72efdb25a22fc8e7dfeec61", null ]
+];

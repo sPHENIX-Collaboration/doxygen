@@ -1,0 +1,28 @@
+<map id="AnnularFieldSim::FilterPhiIndex" name="AnnularFieldSim::FilterPhiIndex">
+<area shape="rect" id="node2" href="$de/d64/classAnnularFieldSim.html#a3dbe4c497e36fd3bca32e7e821921178" title="AnnularFieldSim::GetPhiIndex" alt="" coords="249,195,471,223"/>
+<area shape="rect" id="node3" href="$de/d64/classAnnularFieldSim.html#aab5dee891f7302176821ad489549a18f" title="AnnularFieldSim::GetPhiIndex\lAndCheckBounds" alt="" coords="249,247,471,291"/>
+<area shape="rect" id="node18" href="$de/d64/classAnnularFieldSim.html#a23ca76e682fef083886573b2f5473471" title="AnnularFieldSim::interpolated\lFieldIntegral" alt="" coords="248,319,472,363"/>
+<area shape="rect" id="node19" href="$de/d64/classAnnularFieldSim.html#a2bc090942421a5a9f185be13f2689d5a" title="AnnularFieldSim::populate\l_highres_lookup" alt="" coords="259,387,461,431"/>
+<area shape="rect" id="node23" href="$de/d64/classAnnularFieldSim.html#ad135dd5ff342110147544f8032671fb4" title="AnnularFieldSim::sum\l_local_field_at" alt="" coords="275,523,445,567"/>
+<area shape="rect" id="node26" href="$de/d64/classAnnularFieldSim.html#a526ad468319e05b2cdbb37569c496048" title="AnnularFieldSim::sum\l_nonlocal_field_at" alt="" coords="275,591,445,635"/>
+<area shape="rect" id="node27" href="$de/d64/classAnnularFieldSim.html#a4a7d310d527ef4d9b7ba5a986b996317" title="AnnularFieldSim::sum\l_phislice_field_at" alt="" coords="275,455,445,499"/>
+<area shape="rect" id="node4" href="$de/d64/classAnnularFieldSim.html#a6c3d5fee508484e60454ab97ef63eea2" title="AnnularFieldSim::analytic\lFieldIntegral" alt="" coords="534,137,729,181"/>
+<area shape="rect" id="node5" href="$de/d64/classAnnularFieldSim.html#af49cb183b20be9a1ceba70f1a3b5c64e" title="AnnularFieldSim::fieldIntegral" alt="" coords="520,85,743,113"/>
+<area shape="rect" id="node6" href="$de/d64/classAnnularFieldSim.html#ac961e366f82550417663d8604e55aec2" title="AnnularFieldSim::GetStep\lDistortion" alt="" coords="809,163,1005,207"/>
+<area shape="rect" id="node7" href="$de/d64/classAnnularFieldSim.html#a5868eb5808ec182e9299bee9be6f5b0f" title="AnnularFieldSim::swimToIn\lAnalyticSteps" alt="" coords="1072,103,1275,147"/>
+<area shape="rect" id="node9" href="$de/d64/classAnnularFieldSim.html#aae2d9b9913d410d22242028c08c6865a" title="AnnularFieldSim::GetTotal\lDistortion" alt="" coords="1075,247,1271,291"/>
+<area shape="rect" id="node15" href="$de/d64/classAnnularFieldSim.html#afcbd44db4d9cf22a4c80a737c35ef634" title="AnnularFieldSim::GetFieldAt" alt="" coords="525,407,737,435"/>
+<area shape="rect" id="node17" href="$de/d64/classAnnularFieldSim.html#aacf7dde3b9fea13b430836afa2a01ffa" title="AnnularFieldSim::GetBFieldAt" alt="" coords="521,331,742,359"/>
+<area shape="rect" id="node14" href="$d6/dc9/generate__distortion__map_8C.html#a4b0c04912e1ab88eacfe663ac49cd74f" title="TestSpotDistortion" alt="" coords="1101,171,1246,199"/>
+<area shape="rect" id="node8" href="$de/d64/classAnnularFieldSim.html#a9760cf7606953c4fcecb75ba9c5831e7" title="AnnularFieldSim::swimTo" alt="" coords="1575,147,1765,175"/>
+<area shape="rect" id="node10" href="$de/d64/classAnnularFieldSim.html#a61f0b23cecab5b9f7e5feac62a3838e4" title="AnnularFieldSim::swimToIn\lSteps" alt="" coords="1323,171,1526,215"/>
+<area shape="rect" id="node11" href="$de/d64/classAnnularFieldSim.html#ab6b9599145f96645b103f9f1c1c1e397" title="AnnularFieldSim::Generate\lSeparateDistortionMaps" alt="" coords="1323,247,1527,291"/>
+<area shape="rect" id="node13" href="$de/d64/classAnnularFieldSim.html#a69085e0758c28f66750ab848c3d35a8f" title="AnnularFieldSim::Generate\lDistortionMaps" alt="" coords="1323,315,1527,359"/>
+<area shape="rect" id="node12" href="$d6/dc9/generate__distortion__map_8C.html#a97f39213bfa5c82dc096ecaf6acf300b" title="generate_distortion_map" alt="" coords="1575,417,1765,445"/>
+<area shape="rect" id="node16" href="$de/d64/classAnnularFieldSim.html#a4823b727adb1568c6f26c033e059288f" title="AnnularFieldSim::PlotField\lSlices" alt="" coords="809,355,1006,399"/>
+<area shape="rect" id="node20" href="$de/d64/classAnnularFieldSim.html#a2f49f50c2bc4351587ab6cf8e660111e" title="AnnularFieldSim::populate\l_lookup" alt="" coords="531,459,732,503"/>
+<area shape="rect" id="node21" href="$d6/dc9/generate__distortion__map_8C.html#a575d7771536a64024bc2886afc2ee4a8" title="SetupDefaultSphenixTpc" alt="" coords="1079,458,1268,486"/>
+<area shape="rect" id="node22" href="$d6/dc9/generate__distortion__map_8C.html#a75b8cc1dc5c54faed80dfd6d25c2e0de" title="SetupDigitalCurrentSphenixTpc" alt="" coords="791,423,1024,451"/>
+<area shape="rect" id="node24" href="$de/d64/classAnnularFieldSim.html#a7e5bfbb3d32ab1733d1fa653cdacbc1b" title="AnnularFieldSim::sum\l_field_at" alt="" coords="546,527,717,571"/>
+<area shape="rect" id="node25" href="$de/d64/classAnnularFieldSim.html#aa99cdfc4fd947bfc8a90fd606bd78e2d" title="AnnularFieldSim::populate\l_fieldmap" alt="" coords="1324,510,1525,554"/>
+</map>

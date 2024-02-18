@@ -1,0 +1,26 @@
+<map id="RDBCTestInt" name="RDBCTestInt">
+<area shape="rect" id="node2" href="$dd/d85/classTSQLConnection.html#aff0becc9eb1f6481de4f7b9699b318f4" title="TSQLConnection::Close" alt="" coords="491,362,671,390"/>
+<area shape="rect" id="node5" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1049,120,1108,148"/>
+<area shape="rect" id="node8" href="$dd/d85/classTSQLConnection.html#a7bfca405ed849d7fc90270b0fdccfe61" title="TSQLConnection::CreateStatement" alt="" coords="161,518,420,546"/>
+<area shape="rect" id="node9" href="$d2/d58/classTSQLStatement.html#a74c6794fc585a834d31e71bf3fe9d3f3" title="TSQLStatement::ExecuteQuery" alt="" coords="175,206,407,234"/>
+<area shape="rect" id="node15" href="$d2/d58/classTSQLStatement.html#a6eddfc317081f91097f514f4f396eb3c" title="TSQLStatement::ExecuteUpdate" alt="" coords="171,570,411,598"/>
+<area shape="rect" id="node16" href="$d1/df8/classTSQLDriverManager.html#ab9837ad83523524d2bd25829d40f952e" title="TSQLDriverManager::\lGetConnection" alt="" coords="499,466,664,510"/>
+<area shape="rect" id="node22" href="$d0/db4/classTSQLResultSet.html#aa7dab3bd3c3d0a632a9553da8585f2e1" title="TSQLResultSet::GetInt" alt="" coords="205,414,377,442"/>
+<area shape="rect" id="node23" href="$d0/db4/classTSQLResultSet.html#a91d513d9731181f4d01127d59da91522" title="TSQLResultSet::Next" alt="" coords="209,622,372,650"/>
+<area shape="rect" id="node24" href="$dd/d85/classTSQLConnection.html#a829377c1a6b7a4222b15fe07088d9e40" title="TSQLConnection::PrepareStatement" alt="" coords="157,674,424,702"/>
+<area shape="rect" id="node25" href="$d1/dcb/classTSQLPreparedStatement.html#afecbfd07e1ed46c1a97c5d1c70c22633" title="TSQLPreparedStatement\l::SetInt" alt="" coords="196,726,385,770"/>
+<area shape="rect" id="node3" href="$dd/d85/classTSQLConnection.html#a89016b2a42450757a7233a43f28f3ded" title="TSQLConnection::IsClosed" alt="" coords="739,154,937,182"/>
+<area shape="rect" id="node4" href="$dd/d4d/classTSQL.html#a12129fd04a2499449c8d13ed374f007a" title="TSQL::Throw" alt="" coords="784,306,892,334"/>
+<area shape="rect" id="node7" href="$d1/df8/classTSQLDriverManager.html#a47891968c18b3bff6c00ba4b7a88f2d6" title="TSQLDriverManager::\lGetConnections" alt="" coords="755,358,921,402"/>
+<area shape="rect" id="node6" href="$d8/d8f/classTSQLException.html#a395335cef98b7d73b7cb158032dcd7e4" title="TSQLException::Print" alt="" coords="997,306,1161,334"/>
+<area shape="rect" id="node10" href="$dd/d4d/classTSQL.html#a5f3e7a10e954e822f96fee7185b9c46f" title="TSQL::ClearWarnings" alt="" coords="499,206,663,234"/>
+<area shape="rect" id="node11" href="$d0/db4/classTSQLResultSet.html#a26f7c0f5d3f023ced26cd62c6df48ec8" title="TSQLResultSet::Close" alt="" coords="498,258,665,286"/>
+<area shape="rect" id="node12" href="$dd/d85/classTSQLConnection.html#aa75ade25fcebc5a884dae09f1f1cd59b" title="TSQLConnection::GetCatalog" alt="" coords="472,154,691,182"/>
+<area shape="rect" id="node13" href="$dd/d85/classTSQLConnection.html#af4750098d4214bd8390565896e148013" title="TSQLConnection::SetCatalog" alt="" coords="473,102,689,130"/>
+<area shape="rect" id="node14" href="$da/d0b/classMySQLConnectionPrivate.html#a77ac562ef61183382b70e7a04027c209" title="MySQLConnectionPrivate\l::CheckIfServerIsAlive" alt="" coords="486,34,677,78"/>
+<area shape="rect" id="node17" href="$de/d63/TSQLDriverManager_8cxx.html#a6272554846f542535bf6cad71b257aa2" title="InitHandlers" alt="" coords="786,426,890,454"/>
+<area shape="rect" id="node19" href="$dd/d4d/classTSQL.html#a3737a62f70f9859d07b2cfdb95a1ced1" title="TSQL::GetWarnings" alt="" coords="761,478,915,506"/>
+<area shape="rect" id="node20" href="$dd/d85/classTSQLConnection.html#a67f5aea4516b2759ec5dcb0fe0e6cf00" title="TSQLConnection::SetURL" alt="" coords="742,530,934,558"/>
+<area shape="rect" id="node18" href="$de/d63/TSQLDriverManager_8cxx.html#ac941ab2fa068a02690b73de09422638a" title="InitRDBCpath" alt="" coords="1023,426,1134,454"/>
+<area shape="rect" id="node21" href="$de/da5/classTSQLDatabaseMetaData.html#a4a58099a1c291dde74f1accbbf548e8c" title="TSQLDatabaseMetaData\l::SetURL" alt="" coords="985,522,1172,566"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="Acts::MaterialInteractor::operator()" name="Acts::MaterialInteractor::operator()">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a0fb9330028a5f6a2d19ebd1e1c48e0f5" title="Acts::ACTS_VERBOSE" alt="" coords="292,5,457,33"/>
+<area shape="rect" id="node3" href="$d3/dea/structActs_1_1detail_1_1VolumeMaterialInteraction.html#af1fd1de321ad52078775b3bb362aa628" title="This function evaluates the material properties to interact with." alt="" coords="251,57,498,101"/>
+<area shape="rect" id="node4" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#ae34e9a63e62a6c62c2baea2b933fd8f0" title="This function evaluates the material properties to interact with." alt="" coords="251,125,498,169"/>
+<area shape="rect" id="node7" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#af72a38a4955e14f3661b64fc038a5bdc" title="This function evaluate the material effects." alt="" coords="235,193,515,253"/>
+<area shape="rect" id="node16" href="$d0/d33/structActs_1_1MaterialInteractor.html#a8bfe113937d0be869a82816dc8209615" title="This function records the material effect." alt="" coords="284,277,465,321"/>
+<area shape="rect" id="node20" href="$de/d7d/classActs_1_1Surface.html#a923534097ac7a9b86a9ee7946041ddf7" title="Acts::Surface::surfaceMaterial" alt="" coords="262,345,487,373"/>
+<area shape="rect" id="node21" href="$d0/d33/structActs_1_1MaterialInteractor.html#ae634826c38c5ef3cd2ecae01dabc1011" title="This function update the previous material step." alt="" coords="284,397,465,441"/>
+<area shape="rect" id="node22" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#aeb76836f791fdaaa49791ddbf3bed205" title="Update the state." alt="" coords="262,465,487,509"/>
+<area shape="rect" id="node25" href="$dd/dcd/classActs_1_1TrackingVolume.html#a5c7983730f932b09045ebc3ea8e235c8" title="Return the material of the volume." alt="" coords="291,533,458,577"/>
+<area shape="rect" id="node5" href="$de/d7d/classActs_1_1Surface.html#abc1b37b98fdda34da35d19e65ab7c85c" title="Acts::Surface::pathCorrection" alt="" coords="587,37,807,65"/>
+<area shape="rect" id="node6" href="$da/ddf/classActs_1_1MaterialSlab.html#ab8bce015bb67c770f4cd9d749a888f9e" title="Scale the material thickness by the given factor." alt="" coords="625,89,769,133"/>
+<area shape="rect" id="node8" href="$da/d7b/namespaceActs.html#a7969e3bd01832c6be8de5ef2c3e070ef" title="Acts::computeEnergyLossBethe" alt="" coords="579,157,815,185"/>
+<area shape="rect" id="node10" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a852805642b7f5c67392359904233d7c7" title="Evaluates the contributions to the covariance matrix." alt="" coords="563,209,831,253"/>
+<area shape="rect" id="node9" href="$d0/d75/namespacetesting.html#afe42d41d5171234cb9da5da27faeb7e8" title="testing::Ne" alt="" coords="954,124,1049,152"/>
+<area shape="rect" id="node11" href="$da/d7b/namespaceActs.html#a3dabf99c3b7798ef4ea7ec13c13c5795" title="Acts::computeMultipleScattering\lTheta0" alt="" coords="880,176,1123,220"/>
+<area shape="rect" id="node13" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="924,244,1079,288"/>
+<area shape="rect" id="node14" href="$da/d7b/namespaceActs.html#ae16ecda47ec9e373b988bb80f0bd7ef3" title="Acts::computeEnergyLossLandau\lSigmaQOverP" alt="" coords="879,312,1124,356"/>
+<area shape="rect" id="node12" href="$da/d7b/namespaceActs.html#ad340f3a8c5e2c06a6912b8537aa08fb4" title="Convert an anti&#45;particle to its particle and leave particles as&#45;is." alt="" coords="1200,184,1431,212"/>
+<area shape="rect" id="node15" href="$da/d7b/namespaceActs.html#aad4db30b6dc42d8043e312d4936ced86" title="Acts::computeEnergyLossLandauFwhm" alt="" coords="1172,320,1459,348"/>
+<area shape="rect" id="node17" href="$da/ddf/classActs_1_1MaterialSlab.html#a0c47dd9fc5acdbcd6f52d88952483474" title="Return the radiation length fraction." alt="" coords="625,277,769,321"/>
+<area shape="rect" id="node18" href="$da/ddf/classActs_1_1MaterialSlab.html#ab46fd122f5b0253f2ffa952f7216ad07" title="Return the nuclear interaction length fraction." alt="" coords="625,345,769,389"/>
+<area shape="rect" id="node19" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="609,413,785,441"/>
+<area shape="rect" id="node23" href="$df/d93/namespaceautodiff_1_1detail.html#a1002a374a47c67229dd43c66f7ffc449" title="autodiff::detail::copysign" alt="" coords="907,499,1096,527"/>
+<area shape="rect" id="node24" href="$df/de3/structActs_1_1detail_1_1PointwiseMaterialInteraction.html#a3a05a84cb61c00e852e345a09767bdd8" title="Convenience method for better readability." alt="" coords="584,521,809,565"/>
+</map>

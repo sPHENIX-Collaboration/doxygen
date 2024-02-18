@@ -1,0 +1,40 @@
+<map id="PHG4ParticleGun::process_event" name="PHG4ParticleGun::process_event">
+<area shape="rect" id="node2" href="$db/d62/classPHG4InEvent.html#a1ce8225b21358e01f87adfd4b5d46d4b" title="PHG4InEvent::AddParticle" alt="" coords="258,5,453,33"/>
+<area shape="rect" id="node3" href="$db/d62/classPHG4InEvent.html#a3aceec54176f99daca9282e7df169148" title="PHG4InEvent::AddVtx" alt="" coords="271,57,439,85"/>
+<area shape="rect" id="node4" href="$d8/d78/classPHG4ParticleGeneratorBase.html#ac65b77adac8ec73739acd8ffc797a77d" title="PHG4ParticleGeneratorBase\l::get_t0" alt="" coords="251,109,460,153"/>
+<area shape="rect" id="node5" href="$d8/d78/classPHG4ParticleGeneratorBase.html#ab8befe41219bb20320aef409c10cf740" title="PHG4ParticleGeneratorBase\l::get_vtx_x" alt="" coords="251,177,460,221"/>
+<area shape="rect" id="node6" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a20a0618371b0e5b56a0b1ad064db658e" title="PHG4ParticleGeneratorBase\l::get_vtx_y" alt="" coords="251,245,460,289"/>
+<area shape="rect" id="node7" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a6e0abf86688c88a16137438679af750f" title="PHG4ParticleGeneratorBase\l::get_vtx_z" alt="" coords="251,313,460,357"/>
+<area shape="rect" id="node8" href="$db/d62/classPHG4InEvent.html#a94f236e36feaa480baee6340efeb9bae" title="PHG4InEvent::identify" alt="" coords="270,381,441,409"/>
+<area shape="rect" id="node10" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a46cacc543a2ec755938a19cca68b3abf" title="PHG4ParticleGeneratorBase\l::particlelist_begin" alt="" coords="251,433,460,477"/>
+<area shape="rect" id="node11" href="$d8/d78/classPHG4ParticleGeneratorBase.html#ae838778e35ff258be5f97c085fafb23a" title="PHG4ParticleGeneratorBase\l::particlelist_end" alt="" coords="251,501,460,545"/>
+<area shape="rect" id="node12" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a1c8fb7b3cb97ad9c0eb85468be4f0f1b" title="PHG4ParticleGeneratorBase\l::ReuseExistingVertex" alt="" coords="251,569,460,613"/>
+<area shape="rect" id="node31" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="529,953,705,981"/>
+<area shape="rect" id="node32" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a809a8ffdabce2e45789c96023769462e" title="PHG4ParticleGeneratorBase\l::SetParticleId" alt="" coords="251,1159,460,1203"/>
+<area shape="rect" id="node9" href="$d1/def/KFParticleTopoReconstructor_8h.html#af22aacb9abc91086092f70a7ce4d2333" title="Returns constant reference to the vector with short&#45;lived particle candidates." alt="" coords="565,129,668,157"/>
+<area shape="rect" id="node13" href="$d7/d7b/classPHHepMCGenEvent.html#aeb1f4b1ca526d968a3b025a3063c61c4" title="collision vertex position in the Hall coordinate system, use PHENIX units of cm, ns" alt="" coords="524,181,709,225"/>
+<area shape="rect" id="node14" href="$d6/d81/classPHG4VtxPoint.html#a9f885c1b879a2f1d6299b07801210a1d" title="PHG4VtxPoint::get_x" alt="" coords="536,249,697,277"/>
+<area shape="rect" id="node15" href="$d6/d81/classPHG4VtxPoint.html#a2073b3294f78491a2124aea6c436d6a8" title="PHG4VtxPoint::get_y" alt="" coords="536,301,697,329"/>
+<area shape="rect" id="node16" href="$d6/d81/classPHG4VtxPoint.html#ae26c6d111c93795d64e3571b6f306ef9" title="PHG4VtxPoint::get_z" alt="" coords="537,353,697,381"/>
+<area shape="rect" id="node17" href="$db/d62/classPHG4InEvent.html#a21ffc7a40dc313688f69a53efb536e5c" title="PHG4InEvent::GetNVtx" alt="" coords="529,405,705,433"/>
+<area shape="rect" id="node18" href="$da/d6c/classPHG4TruthInfoContainer.html#acf130130dd475251d67c0f04c0e9cc49" title="PHG4TruthInfoContainer\l::GetPrimaryVtx" alt="" coords="524,457,709,501"/>
+<area shape="rect" id="node19" href="$db/d62/classPHG4InEvent.html#a459357d91b697f1a08abee3fc0b0dcce" title="PHG4InEvent::GetVertices" alt="" coords="518,525,715,553"/>
+<area shape="rect" id="node20" href="$d6/d81/classPHG4VtxPoint.html#a430f5aa56f64225757572f53447cd1d4" title="PHG4VtxPoint::identify" alt="" coords="529,577,704,605"/>
+<area shape="rect" id="node21" href="$d7/d7b/classPHHepMCGenEvent.html#aefba90e1138cf40fc9892de617dc3da8" title="PHHepMCGenEvent::identify" alt="" coords="510,629,723,657"/>
+<area shape="rect" id="node24" href="$da/d6c/classPHG4TruthInfoContainer.html#a696b04fd20d5d1ddb53b73b16885e775" title="PHG4TruthInfoContainer\l::identify" alt="" coords="524,681,709,725"/>
+<area shape="rect" id="node28" href="$d5/d41/classPHHepMCGenEventMap.html#a28c156234e9a12ba587b18a1fb70b151" title="iterator from lowest ID to highest, i.e. signal to background" alt="" coords="525,749,708,793"/>
+<area shape="rect" id="node29" href="$d5/d41/classPHHepMCGenEventMap.html#a7970c7bea97397801bfa690433a1025b" title="PHHepMCGenEventMap\l::rend" alt="" coords="525,817,708,861"/>
+<area shape="rect" id="node30" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a45b6073aec5d527acfbb8ecc7db95033" title="PHG4ParticleGeneratorBase\l::set_vtx" alt="" coords="512,885,721,929"/>
+<area shape="rect" id="node22" href="$d7/d7b/classPHHepMCGenEvent.html#a0938cf5d7c7183d1d56642748985fb1e" title="PHHepMCGenEvent::size" alt="" coords="795,577,985,605"/>
+<area shape="rect" id="node23" href="$d7/d7b/classPHHepMCGenEvent.html#a0d1a7a89d4f44f0c78a32af3de38b21d" title="PHHepMCGenEvent::vertexSize" alt="" coords="773,629,1007,657"/>
+<area shape="rect" id="node25" href="$da/d6c/classPHG4TruthInfoContainer.html#a77051a88c6708ed10465eca6b73c2272" title="PHG4TruthInfoContainer\l::GetPrimaryVertexIndex" alt="" coords="797,681,983,725"/>
+<area shape="rect" id="node26" href="$da/d6c/classPHG4TruthInfoContainer.html#a53587ae22361008bcee4c51cc1d8d242" title="PHG4TruthInfoContainer\l::GetPrimaryVtxRange" alt="" coords="1055,647,1240,691"/>
+<area shape="rect" id="node27" href="$da/d6c/classPHG4TruthInfoContainer.html#a434c7528ce4a7f089bb4aaeb613af2ff" title="PHG4TruthInfoContainer\l::isEmbededVtx" alt="" coords="1055,715,1240,759"/>
+<area shape="rect" id="node33" href="$db/d62/classPHG4InEvent.html#ad2c9552e01280a46e3e6fca2ec45b8ed" title="PHG4InEvent::AddEmbedded\lParticle" alt="" coords="508,1005,725,1049"/>
+<area shape="rect" id="node34" href="$de/dc9/classPHG4Particle.html#aaf95cb29207cce8188669625f7287471" title="PHG4Particle::get_name" alt="" coords="525,1073,709,1101"/>
+<area shape="rect" id="node35" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a2b222deb69d82462362adb14bf3222e9" title="PHG4ParticleGeneratorBase\l::get_pdgcode" alt="" coords="512,1125,721,1169"/>
+<area shape="rect" id="node36" href="$d8/d78/classPHG4ParticleGeneratorBase.html#a25a6f091d383055f8712ae5b91d511b2" title="PHG4ParticleGeneratorBase\l::get_pdgname" alt="" coords="512,1193,721,1237"/>
+<area shape="rect" id="node37" href="$de/dc9/classPHG4Particle.html#a474033dbd058eea155c71fc4d17aaf4d" title="PHG4Particle::get_pid" alt="" coords="533,1261,700,1289"/>
+<area shape="rect" id="node38" href="$de/dc9/classPHG4Particle.html#a7c12dd9a108557b0090e243f7f94cd52" title="PHG4Particle::set_name" alt="" coords="525,1313,708,1341"/>
+<area shape="rect" id="node39" href="$de/dc9/classPHG4Particle.html#a86033bab0db8c268852ef7f5dc1b3526" title="PHG4Particle::set_pid" alt="" coords="534,1365,699,1393"/>
+</map>

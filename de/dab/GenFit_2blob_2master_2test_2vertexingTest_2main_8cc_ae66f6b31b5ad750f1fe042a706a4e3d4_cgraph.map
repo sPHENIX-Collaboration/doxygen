@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a273f0f885e02d740befd1d3b18489a16" title="Add new event." alt="" coords="145,5,304,49"/>
+<area shape="rect" id="node3" href="$d0/dbc/pdgidfunc_8h.html#a9f9685e4a65c5e7a2b7e17213ae77cf3" title="charge" alt="" coords="191,73,259,101"/>
+<area shape="rect" id="node6" href="$d6/d8a/classgenfit_1_1Track.html#aee4eab9e952ee6f0e0c1f1d980552759" title="genfit::Track::checkConsistency" alt="" coords="389,1151,624,1179"/>
+<area shape="rect" id="node11" href="$d4/de2/classgenfit_1_1MeasurementCreator.html#ab0eac8acd000d9095c7f09bafc45544c" title="genfit::MeasurementCreator\l::create" alt="" coords="118,224,331,268"/>
+<area shape="rect" id="node15" href="$d0/dea/display_8C.html#a079407b6fbb9d5b7a0928cbb8ff8fdcd" title="display" alt="" coords="190,509,259,537"/>
+<area shape="rect" id="node22" href="$d1/d19/classgenfit_1_1GFRaveVertexFactory.html#a12b2a1abd879414950206ffac162b88e" title="genfit::GFRaveVertexFactory\l::findVertices" alt="" coords="118,771,331,815"/>
+<area shape="rect" id="node26" href="$d8/db3/classgenfit_1_1Exception.html#ae4ae632af33e87093b26682be69078b6" title="Standard error message handling for exceptions. use like &quot;std::cerr &lt;&lt; e.what();&quot;." alt="" coords="417,861,596,889"/>
+<area shape="rect" id="node27" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#afbc015ae03d4862600accaee09f9614f" title="Translates MeasuredStateOnPlane into 6D state vector (x, y, z, p_x, p_y, p_z) and 6x6 covariance..." alt="" coords="147,891,303,935"/>
+<area shape="rect" id="node29" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a15a93d367165ade368e6caec713d0934" title="genfit::MaterialEffects\l::getInstance" alt="" coords="139,959,310,1003"/>
+<area shape="rect" id="node31" href="$d4/d1a/classgenfit_1_1EventDisplay.html#acc398c4fb9fce23fbc106453d5a55718" title="genfit::EventDisplay\l::getInstance" alt="" coords="145,1027,304,1071"/>
+<area shape="rect" id="node33" href="$de/d8e/classgenfit_1_1FieldManager.html#aaf0b56fea4f0deb428de8749febf792d" title="Get singleton instance." alt="" coords="144,1419,305,1463"/>
+<area shape="rect" id="node35" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a47ada7742989e3e294a3cc9f1342fee7" title="Number of tracks the vertex is made of." alt="" coords="142,1215,307,1259"/>
+<area shape="rect" id="node36" href="$db/da0/classgenfit_1_1GFRaveVertex.html#a14875bcfb7c0b9373ec2bb6010c78d8d" title="genfit::GFRaveVertex\l::getParameters" alt="" coords="142,1283,307,1327"/>
+<area shape="rect" id="node37" href="$d8/d8c/classgenfit_1_1GFRaveTrackParameters.html#ad807998e2d8240b24e55a2274fc2b5e2" title="genfit::GFRaveTrackParameters\l::GetUniqueID" alt="" coords="108,1351,341,1395"/>
+<area shape="rect" id="node38" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a9c604002cb66d43e99da8802e3b8918e" title="set the material interface here. Material interface classes must be derived from AbsMaterialInterface..." alt="" coords="139,1555,310,1599"/>
+<area shape="rect" id="node40" href="$de/d8e/classgenfit_1_1FieldManager.html#a0360198b189d2d5acaebfca7a468437e" title="set the magnetic field here. Magnetic field classes must be derived from AbsBField." alt="" coords="144,1487,305,1531"/>
+<area shape="rect" id="node41" href="$d6/d8a/classgenfit_1_1Track.html#a7e61ada0d84db561ede923db92c4ab01" title="Insert TrackPoint BEFORE TrackPoint with position id, if id &gt;= 0." alt="" coords="131,1623,318,1651"/>
+<area shape="rect" id="node45" href="$d0/dba/classgenfit_1_1AbsFitter.html#a03e279c67ca889f5fe6480eb8a1691cf" title="genfit::AbsFitter::\lprocessTrack" alt="" coords="156,1095,293,1139"/>
+<area shape="rect" id="node46" href="$d1/d19/classgenfit_1_1GFRaveVertexFactory.html#a405d099f45ba265292a301c29f27d685" title="genfit::GFRaveVertexFactory\l::setMethod" alt="" coords="118,1675,331,1719"/>
+<area shape="rect" id="node47" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#aa64680a087ba9a9a91b77f80977e19cc" title="Set position, momentum and covariance of state." alt="" coords="147,1743,303,1787"/>
+<area shape="rect" id="node48" href="$d4/de2/classgenfit_1_1MeasurementCreator.html#ac89bf98ffa3ccbd8e78ff698fdd677a5" title="Takes ownership!" alt="" coords="118,1811,331,1855"/>
+<area shape="rect" id="node49" href="$d0/d34/tracks_8C.html#ac926d763061c5568ecb5f5e062e9c778" title="tracks" alt="" coords="193,1879,256,1907"/>
+<area shape="rect" id="node50" href="$d5/da9/namespaceActsExamples_1_1HepMC3Event.html#a0bd8b25628fbd0f18b886f46089d182e" title="Get list of vertices." alt="" coords="113,1931,336,1975"/>
+<area shape="rect" id="node4" href="$d0/dbc/pdgidfunc_8h.html#ad55e056d9b8a30b50cd267eee07381b9" title="is_Qball" alt="" coords="761,48,834,76"/>
+<area shape="rect" id="node5" href="$d0/dbc/pdgidfunc_8h.html#a8001bec28d3655890f2d1324ff0fd42e" title="three_charge" alt="" coords="452,73,561,101"/>
+<area shape="rect" id="node7" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#ab74f13ab4f4f1ac99a29e1fa55b83413" title="genfit::KalmanFitterInfo\l::hasReferenceState" alt="" coords="707,1109,887,1153"/>
+<area shape="rect" id="node8" href="$d3/d03/classgenfit_1_1KalmanFitterInfo.html#a580ecd10b0c09b257533ca04f2ba460b" title="genfit::KalmanFitterInfo\l::getReferenceState" alt="" coords="707,1177,887,1221"/>
+<area shape="rect" id="node9" href="$d2/d6a/classgenfit_1_1ReferenceStateOnPlane.html#abcae7586bd838e27b384e4e001c9b3d3" title="genfit::ReferenceStateOn\lPlane::getForwardSegmentLength" alt="" coords="672,1245,923,1289"/>
+<area shape="rect" id="node10" href="$d6/d8a/classgenfit_1_1Track.html#aae3d3066dbd7ab39d87b56e17db5adf9" title="This is used when streaming TrackPoints." alt="" coords="700,1057,895,1085"/>
+<area shape="rect" id="node12" href="$da/de9/classgenfit_1_1HelixTrackModel.html#a75734a065ef7373b341a8fa8958e1ea9" title="genfit::HelixTrackModel\l::getPosDir" alt="" coords="417,125,596,169"/>
+<area shape="rect" id="node13" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="429,193,584,237"/>
+<area shape="rect" id="node14" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="473,261,541,289"/>
+<area shape="rect" id="node16" href="$d9/d9e/evDisplay_8C.html#a493aff38bcceaba17aef8c5257ff963a" title="channel" alt="" coords="469,313,544,341"/>
+<area shape="rect" id="node17" href="$da/d9c/namespaceTowerInfoDefs.html#ac6148dae05763661a28e4f40856b96ed" title="TowerInfoDefs::decode\l_emcal" alt="" coords="419,365,595,409"/>
+<area shape="rect" id="node18" href="$da/d9c/namespaceTowerInfoDefs.html#a00c72a0d930085024ae2d7c90e9a36f0" title="TowerInfoDefs::encode\l_emcal" alt="" coords="419,433,595,477"/>
+<area shape="rect" id="node19" href="$da/d9c/namespaceTowerInfoDefs.html#acb37f4f1b13f1761640f02c036b4506d" title="TowerInfoDefs::getCaloTower\lEtaBin" alt="" coords="397,501,616,545"/>
+<area shape="rect" id="node20" href="$da/d9c/namespaceTowerInfoDefs.html#af1de44c462a3a6bba5c1790021e6809c" title="TowerInfoDefs::getCaloTower\lPhiBin" alt="" coords="397,569,616,613"/>
+<area shape="rect" id="node21" href="$d9/d52/HoughTransformSeeder_8cpp.html#a1f2cfb6e3644c66f2bfe3c54f699a72a" title="to_string" alt="" coords="467,637,547,665"/>
+<area shape="rect" id="node23" href="$d1/d19/classgenfit_1_1GFRaveVertexFactory.html#a8ead163cdca2540b605aed3419290e50" title="genfit::GFRaveVertexFactory\l::clearMap" alt="" coords="400,689,613,733"/>
+<area shape="rect" id="node24" href="$dc/d22/namespacegenfit.html#ac3030446efb56b3ea060ba26f28b6fd6" title="genfit::RaveToGFVertices" alt="" coords="412,757,601,785"/>
+<area shape="rect" id="node25" href="$dc/d22/namespacegenfit.html#a020e8ea2c49e8e9610cb3b2ded0fdb98" title="genfit::GFTracksToTracks" alt="" coords="413,809,600,837"/>
+<area shape="rect" id="node28" href="$d1/d25/classgenfit_1_1AbsTrackRep.html#ae6f4c4eeb3e4fbadcc930f53e2ca4ad7" title="Translates MeasuredStateOnPlane into 3D position, momentum and 6x6 covariance." alt="" coords="429,913,585,957"/>
+<area shape="rect" id="node30" href="$d1/d34/classgenfit_1_1MaterialEffects.html#a0cab227e2f45bd20ba63cf1b2ad260be" title="genfit::MaterialEffects\l::MaterialEffects" alt="" coords="421,981,592,1025"/>
+<area shape="rect" id="node32" href="$d4/d1a/classgenfit_1_1EventDisplay.html#a3aa96da8f0486f3420b620cebb6b9f00" title="genfit::EventDisplay\l::EventDisplay" alt="" coords="427,1049,586,1093"/>
+<area shape="rect" id="node34" href="$de/d8e/classgenfit_1_1FieldManager.html#a01194f10c4efe8d19286492ba01e104e" title="genfit::FieldManager\l::FieldManager" alt="" coords="426,1419,587,1463"/>
+<area shape="rect" id="node39" href="$d7/dc7/namespacecheck__license.html#a5d6111870e0d2f540b9458f3674194ff" title="check_license.err" alt="" coords="437,1532,576,1560"/>
+<area shape="rect" id="node42" href="$db/d40/classgenfit_1_1TrackPoint.html#a70f6a8e9214edad4fce38eafeeee820e" title="genfit::TrackPoint\l::setTrack" alt="" coords="437,1584,576,1628"/>
+<area shape="rect" id="node43" href="$d6/d8a/classgenfit_1_1Track.html#ad4ead0ee2abc2bcb6b616f8976bc559a" title="genfit::Track::trackHasChanged" alt="" coords="390,1652,623,1680"/>
+<area shape="rect" id="node44" href="$db/d40/classgenfit_1_1TrackPoint.html#ada7b4d8c988a1798e455fb70929f88b7" title="genfit::TrackPoint\l::hasRawMeasurements" alt="" coords="415,1704,598,1748"/>
+</map>

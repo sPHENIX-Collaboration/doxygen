@@ -1,0 +1,51 @@
+<map id="PHG4TruthInfoContainer::GetParticleRange" name="PHG4TruthInfoContainer::GetParticleRange">
+<area shape="rect" id="node2" href="$dd/d9d/classPHG4TruthEventAction.html#a6e21705bda487e9e4110fb8c7910240d" title="PHG4TruthEventAction\l::EndOfEventAction" alt="" coords="265,5,439,49"/>
+<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1089,180,1277,224"/>
+<area shape="rect" id="node5" href="$db/d22/classEventEvaluator.html#ada437671569f41f49d8efe8235d569ab" title="dump the evaluator information into ntuple for external analysis" alt="" coords="253,408,451,452"/>
+<area shape="rect" id="node7" href="$d1/d1e/classSvtxClusterEval.html#a376a1d2e98fc7e63fcb2801ae387bb38" title="SvtxClusterEval::FillReco\lClusterFromG4HitCache" alt="" coords="259,476,445,520"/>
+<area shape="rect" id="node16" href="$d9/d03/classTrackClusterEvaluator.html#a9ca3bdf0977a57e152003b989bd2e1ae" title="TrackClusterEvaluator\l::processTruthTracks" alt="" coords="842,843,1013,887"/>
+<area shape="rect" id="node24" href="$d4/de4/classSvtxTruthEval.html#a2b62c06968f1705c6f8cc2b578746275" title="SvtxTruthEval::FillTruth\lHitsFromParticleCache" alt="" coords="265,596,439,640"/>
+<area shape="rect" id="node26" href="$d3/d93/classSvtxTruthRecoTableEval.html#ad800265db5fe642afd0adeec80350c54" title="SvtxTruthRecoTableEval\l::fillTruthMap" alt="" coords="261,664,443,708"/>
+<area shape="rect" id="node28" href="$d2/d6d/classVtxTest.html#add41529c38573db99ce5b2d7310007e5" title="VtxTest::findChildren" alt="" coords="271,732,433,760"/>
+<area shape="rect" id="node29" href="$d4/d06/classDecayFinder.html#a64a8e34e3785175edd545a3cd5c214a1" title="DecayFinder::findDecay" alt="" coords="836,1584,1019,1612"/>
+<area shape="rect" id="node31" href="$da/d21/classResonanceJetTagging.html#a0b9101de9142db1d9bc59754ab661ddf" title="ResonanceJetTagging\l::findMCTaggedJets" alt="" coords="270,784,434,828"/>
+<area shape="rect" id="node34" href="$d9/d36/classHFTrackEfficiency.html#a0564523c895d646c3901a6ffc4084d8a" title="HFTrackEfficiency::\lfindTracks" alt="" coords="279,904,425,948"/>
+<area shape="rect" id="node36" href="$dd/d59/classCaloEvaluator.html#ae8c514358f2bd77dab390bb3781222db" title="print out the input object information (debugging upstream components)" alt="" coords="244,972,460,1000"/>
+<area shape="rect" id="node38" href="$d5/d85/classPHG4TruthSubsystem.html#af3bbab39b6b31fad762bd270b64e8985" title="event processing" alt="" coords="268,1024,436,1068"/>
+<area shape="rect" id="node39" href="$dc/d38/classPHG4ConsistencyCheck.html#a0f2a0035c9e3302807a1bb99c41781d9" title="event processing" alt="" coords="261,1092,443,1136"/>
+<area shape="rect" id="node40" href="$d0/dab/classTrackingPerformanceCheck.html#a8dafa93c6ddc8928257fec958a45ee6b" title="TrackingPerformanceCheck\l::process_event" alt="" coords="249,1160,455,1204"/>
+<area shape="rect" id="node41" href="$d0/d0c/classQAG4Decayer.html#aa696e43f8b271a9bb04e79109be46adc" title="QAG4Decayer::process\l_event" alt="" coords="263,1228,441,1272"/>
+<area shape="rect" id="node42" href="$d2/df2/classtruthDecayTester.html#a62224a46d48010d0b92d8384b746cd29" title="truthDecayTester::process\l_event" alt="" coords="253,1296,451,1340"/>
+<area shape="rect" id="node43" href="$dc/d79/classQAG4SimulationTruthDecay.html#a5469feeef5882fb98cca6680d159d136" title="QAG4SimulationTruthDecay\l::process_event" alt="" coords="247,1364,457,1408"/>
+<area shape="rect" id="node44" href="$d9/d24/classPHTruthClustering.html#a32f3b05811ac36d8f08ae3c565edcfca" title="PHTruthClustering::\lprocess_event" alt="" coords="277,1432,427,1476"/>
+<area shape="rect" id="node45" href="$d2/d6d/classVtxTest.html#ad1a3b9d5e730a3ba75f13a084e21bee5" title="VtxTest::process_event" alt="" coords="263,1500,441,1528"/>
+<area shape="rect" id="node46" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="271,1552,433,1596"/>
+<area shape="rect" id="node47" href="$d3/d80/classDumpPHG4TruthInfoContainer.html#a960a2bddac101ff9f5955cdaeac5a4ab" title="DumpPHG4TruthInfoContainer\l::process_Node" alt="" coords="239,1620,465,1664"/>
+<area shape="rect" id="node48" href="$d4/d06/classDecayFinder.html#a65a3ed1f215106a4b94653e1a1d566aa" title="DecayFinder::searchGeant4\lRecord" alt="" coords="248,1688,456,1732"/>
+<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="1325,180,1501,224"/>
+<area shape="rect" id="node6" href="$db/d22/classEventEvaluator.html#a5b4dc2c7afd4f3844396f08cc9c555ad" title="EventEvaluator::process\l_event" alt="" coords="547,408,732,452"/>
+<area shape="rect" id="node8" href="$d1/d1e/classSvtxClusterEval.html#a084923c9a81dba1d830b390970ac3c8d" title="SvtxClusterEval::all\l_clusters_from" alt="" coords="563,476,715,520"/>
+<area shape="rect" id="node9" href="$d7/d62/classHFMLTriggerInterface.html#a29f338c2563a39e5d0e58b316f4b036f" title="HFMLTriggerInterface\l::process_event" alt="" coords="846,416,1009,460"/>
+<area shape="rect" id="node10" href="$d8/d98/classpsTOFTimezeroEval.html#a506f1d899507a34d445b7c1bbf514fb0" title="print out the ancestry information for detailed diagnosis" alt="" coords="1102,381,1265,425"/>
+<area shape="rect" id="node12" href="$d8/d98/classpsTOFTimezeroEval.html#ae9fd1570652089bed4ec7eb81009b318" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1102,476,1265,520"/>
+<area shape="rect" id="node13" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a25f5176857128e2009be02655d32dabe" title="print out the ancestry information for detailed diagnosis" alt="" coords="1096,647,1271,691"/>
+<area shape="rect" id="node15" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a0fd261422264aedc22d0506ef5e897c4" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1096,579,1271,623"/>
+<area shape="rect" id="node18" href="$d9/d03/classTrackClusterEvaluator.html#a66cad1df2e8397a40eefe607cc3a792b" title="TrackClusterEvaluator\l::processRecoTracks" alt="" coords="842,707,1013,751"/>
+<area shape="rect" id="node19" href="$d5/df8/classQAG4SimulationMicromegas.html#a7d91700abab98412e6b427f4098895ca" title="evaluate clusters" alt="" coords="820,775,1035,819"/>
+<area shape="rect" id="node20" href="$d1/d05/classQAG4SimulationVertex.html#a5d6b9df173a4094d3744572a9e2410d0" title="QAG4SimulationVertex\l::process_event" alt="" coords="839,176,1015,220"/>
+<area shape="rect" id="node21" href="$d1/d1e/classSvtxClusterEval.html#added2590560c42b75c264ca8cefb838a" title="SvtxClusterEval::reco\l_cluster_from_truth_cluster" alt="" coords="824,244,1031,288"/>
+<area shape="rect" id="node22" href="$d1/d1e/classSvtxClusterEval.html#a9091398a04a3d0bafff1f96be89c84b2" title="SvtxClusterEval::best\l_cluster_from" alt="" coords="844,536,1011,580"/>
+<area shape="rect" id="node23" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="813,312,1041,340"/>
+<area shape="rect" id="node11" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="1332,429,1495,473"/>
+<area shape="rect" id="node14" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="1326,612,1501,656"/>
+<area shape="rect" id="node17" href="$d9/d03/classTrackClusterEvaluator.html#aad981fb932ceca8568402877088f2fad" title="TrackClusterEvaluator\l::process_event" alt="" coords="1098,779,1269,823"/>
+<area shape="rect" id="node25" href="$d4/de4/classSvtxTruthEval.html#a3a24dd3f6c0363248b168715d7467a4f" title="SvtxTruthEval::all\l_truth_hits" alt="" coords="570,596,709,640"/>
+<area shape="rect" id="node27" href="$d3/d93/classSvtxTruthRecoTableEval.html#a6bea6e623c358acf551b8e2ca8ebb042" title="SvtxTruthRecoTableEval\l::process_event" alt="" coords="549,664,730,708"/>
+<area shape="rect" id="node30" href="$d4/d06/classDecayFinder.html#ab81647fd0317041647b6c248ac1069c0" title="DecayFinder::process\l_event" alt="" coords="1101,1576,1266,1620"/>
+<area shape="rect" id="node32" href="$da/d21/classResonanceJetTagging.html#af886827e434723f025ee44a49085362c" title="Methods for grabbing the data." alt="" coords="557,784,721,828"/>
+<area shape="rect" id="node33" href="$da/d21/classResonanceJetTagging.html#ad36b2ec6f3bef6fc7eb9891e901451f5" title="SubsysReco event processing method." alt="" coords="845,911,1009,955"/>
+<area shape="rect" id="node35" href="$d9/d36/classHFTrackEfficiency.html#a3c90b36f97a43aee44042c2a6d89c2a3" title="HFTrackEfficiency::\lprocess_event" alt="" coords="566,904,713,948"/>
+<area shape="rect" id="node37" href="$dd/d59/classCaloEvaluator.html#ab0007637af39a6efee41168c44d5bbdf" title="CaloEvaluator::process\l_event" alt="" coords="551,972,727,1016"/>
+<area shape="rect" id="node49" href="$d4/d06/classDecayFinder.html#aa2ec77fc20af5ba75ee86ffdf85f5026" title="DecayFinder::checkIfCorrect\lGeant4Particle" alt="" coords="534,1688,745,1732"/>
+<area shape="rect" id="node50" href="$d4/d06/classDecayFinder.html#a114085a3133d289121fe3e52ca11fcbe" title="DecayFinder::searchHepMCRecord" alt="" coords="513,1636,765,1664"/>
+</map>

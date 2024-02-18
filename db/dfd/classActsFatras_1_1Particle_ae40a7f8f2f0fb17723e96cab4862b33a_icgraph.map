@@ -1,0 +1,41 @@
+<map id="ActsFatras::Particle::direction" name="ActsFatras::Particle::direction">
+<area shape="rect" id="node2" href="$db/dfd/classActsFatras_1_1Particle.html#a83dbd6329c0fe133d2778eccb84d9048" title="Bound track parameters." alt="" coords="563,58,713,102"/>
+<area shape="rect" id="node4" href="$d5/db5/structActsFatras_1_1BetheHeitler.html#ad80f6b42ea3246faebd369db65b71b66" title="ActsFatras::BetheHeitler\l::bremPhoton" alt="" coords="240,306,427,350"/>
+<area shape="rect" id="node5" href="$d5/db5/structActsFatras_1_1BetheHeitler.html#ae996ddac84611dd9dc18584e865fce0e" title="ActsFatras::BetheHeitler\l::operator()" alt="" coords="545,178,731,222"/>
+<area shape="rect" id="node6" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#ab3844dbcd8f30d60f10ac9a00684c6e0" title="ActsFatras::NuclearInteraction\l::convertParametersToParticles" alt="" coords="523,246,753,290"/>
+<area shape="rect" id="node8" href="$db/dfd/classActsFatras_1_1Particle.html#a46eeea4bd248d063f0ab2a05ce8be1a7" title="ActsFatras::Particle\l::curvilinearParameters" alt="" coords="244,186,423,230"/>
+<area shape="rect" id="node9" href="$d8/d82/classActsExamples_1_1EffPlotTool.html#a8f8f19b6ca24d3a70fa280c096518230" title="fill efficiency plots" alt="" coords="235,544,431,588"/>
+<area shape="rect" id="node10" href="$d4/df6/classActsExamples_1_1DuplicationPlotTool.html#acf0d0758262a76ed3aa090c5f7a45d1b" title="fill number of duplicated tracks for a truth particle seed" alt="" coords="232,612,435,656"/>
+<area shape="rect" id="node11" href="$de/d9c/classActsExamples_1_1FakeRatePlotTool.html#aafc7bf1507ab67f9d842fd20760bfb64" title="fill number of reco/truth&#45;matched/fake tracks for a truth particle seed" alt="" coords="227,680,440,724"/>
+<area shape="rect" id="node12" href="$d7/dc1/classActsExamples_1_1ResPlotTool.html#a2e102f2b3dddebed52e079f133636e8c" title="fill the histograms" alt="" coords="233,748,434,792"/>
+<area shape="rect" id="node13" href="$d7/d1a/classActsFatras_1_1PhotonConversion.html#a1c25713edfd499c4be1c3157b7334c67" title="ActsFatras::PhotonConversion\l::generateChildDirection" alt="" coords="222,816,445,860"/>
+<area shape="rect" id="node15" href="$db/dfd/classActsFatras_1_1Particle.html#aa650a7301d2c8feb76e01085ccacedca" title="Absolute momentum." alt="" coords="258,884,409,928"/>
+<area shape="rect" id="node16" href="$d3/d39/structActsFatras_1_1Casts_1_1Eta.html#ae86a6256b6992918dafe69630b318e23" title="ActsFatras::Casts::\lEta::operator()" alt="" coords="261,952,406,996"/>
+<area shape="rect" id="node17" href="$da/dae/structActsFatras_1_1detail_1_1ScatteringImpl.html#ae2e10f90e4587a90bcbd728e4f98b9dd" title="ActsFatras::detail\l::ScatteringImpl::operator()" alt="" coords="535,314,741,358"/>
+<area shape="rect" id="node18" href="$d6/d08/structActsFatras_1_1Casts_1_1AbsEta.html#a5d590b5d1a2a1c9b88bcbd531ffbd6e0" title="ActsFatras::Casts::\lAbsEta::operator()" alt="" coords="260,1020,407,1064"/>
+<area shape="rect" id="node19" href="$df/d63/structActsFatras_1_1Casts_1_1Pt.html#aae831e02261c2e93289f354c52b6ef1f" title="ActsFatras::Casts::\lPt::operator()" alt="" coords="261,1088,406,1132"/>
+<area shape="rect" id="node20" href="$db/db8/structActsFatras_1_1detail_1_1SimulationActor.html#a2ba3e8aa3395c68dea313a2e49f2c636" title="ActsFatras::detail\l::SimulationActor::operator()" alt="" coords="226,1156,441,1200"/>
+<area shape="rect" id="node21" href="$db/dfd/classActsFatras_1_1Particle.html#aab486e430f2d2b3abb865f056c3acdb5" title="Azimuthal angle." alt="" coords="243,66,423,94"/>
+<area shape="rect" id="node22" href="$da/d5a/classActsExamples_1_1Geant4_1_1HepMC3_1_1PrimaryGeneratorAction.html#ad6037825119728c3ae968485e14270f0" title="Prepare the particle gun with initial parameters." alt="" coords="204,1224,463,1284"/>
+<area shape="rect" id="node24" href="$db/dfd/classActsFatras_1_1Particle.html#a10a601efd010f82417545852ec405c25" title="Set the direction three&#45;vector." alt="" coords="258,476,409,520"/>
+<area shape="rect" id="node40" href="$db/dfd/classActsFatras_1_1Particle.html#adf34536855d3158694e6d6a5917efc6a" title="Polar angle." alt="" coords="258,118,409,162"/>
+<area shape="rect" id="node3" href="$d0/d61/structActsFatras_1_1SingleParticleSimulation.html#aaf219793309e9880e3f16bd5ec120fe8" title="ActsFatras::SingleParticle\lSimulation::simulate" alt="" coords="846,88,1038,132"/>
+<area shape="rect" id="node7" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#ae9a346bdaeff1298cc83d537ff7e5485" title="ActsFatras::NuclearInteraction::run" alt="" coords="813,254,1071,282"/>
+<area shape="rect" id="node14" href="$d7/d1a/classActsFatras_1_1PhotonConversion.html#a7bf4f4f4bc59e91431ff1b7f15412022" title="ActsFatras::PhotonConversion::run" alt="" coords="511,1082,765,1110"/>
+<area shape="rect" id="node23" href="$d5/d74/exceptionActsExamples_1_1EventRecording.html#a8c2d06498f6c8b5338e933c89e677f48" title="ActsExamples::EventRecording\l::execute" alt="" coords="522,1232,754,1276"/>
+<area shape="rect" id="node25" href="$da/d0c/classActsExamples_1_1ParticleTrackingAction.html#ac3d51dbf20142eb5aa272f4a4b03a91a" title="ActsExamples::ParticleTracking\lAction::convert" alt="" coords="522,1014,754,1058"/>
+<area shape="rect" id="node26" href="$da/d66/classActsExamples_1_1ParametricParticleGenerator.html#af47f41bb00193893628297a4e1e2afbd" title="Generate a single primary vertex with the given number of particles." alt="" coords="530,382,746,426"/>
+<area shape="rect" id="node27" href="$df/dbc/classActsExamples_1_1Pythia8Generator.html#af2870a772e5df9a90c3418bbf5afc587" title="Generate particles for a vertex." alt="" coords="515,450,761,494"/>
+<area shape="rect" id="node28" href="$d8/d8c/exceptionActsExamples_1_1CsvParticleReader.html#a3766d2223bcc84bb5cc0dff6fd5eb864" title="Read out data from the input stream." alt="" coords="538,518,738,562"/>
+<area shape="rect" id="node29" href="$d4/d7c/namespaceActsExamples_1_1EDM4hepUtil.html#a66aa8699b424addb5731337834b521b6" title="ActsExamples::EDM4hepUtil\l::readParticle" alt="" coords="531,586,745,630"/>
+<area shape="rect" id="node32" href="$d6/d43/namespaceActsExamples_1_1HepMC3Particle.html#a45ed3aa84bccd52437c7eec3aa44ff6c" title="Returns the particle translated into Acts." alt="" coords="522,654,754,698"/>
+<area shape="rect" id="node34" href="$d1/d93/classActsExamples_1_1RootParticleReader.html#ac8fa6307b155f7721db3dde0904621bd" title="ActsExamples::RootParticle\lReader::read" alt="" coords="535,722,741,766"/>
+<area shape="rect" id="node35" href="$d0/d11/classActsExamples_1_1RootTrajectorySummaryReader.html#af3a5c0ecacaa15c1d14f887d1315838b" title="ActsExamples::RootTrajectory\lSummaryReader::read" alt="" coords="527,790,749,834"/>
+<area shape="rect" id="node36" href="$da/d1a/FatrasSimulationTests_8cpp.html#a70304ef364d933ab863e69dd7e488873" title="BOOST_DATA_TEST_CASE" alt="" coords="541,858,735,886"/>
+<area shape="rect" id="node37" href="$d7/d36/ParticleTests_8cpp.html#aeb287fe4fdb35300d024eee1136aad2f" title="BOOST_AUTO_TEST_CASE" alt="" coords="540,910,736,938"/>
+<area shape="rect" id="node38" href="$db/dd8/namespaceDataset.html#a363393afc6c2e750f484c94ac37d9eeb" title="Dataset::makeParticle" alt="" coords="553,962,723,990"/>
+<area shape="rect" id="node30" href="$d0/d32/exceptionActsExamples_1_1EDM4hepParticleReader.html#a9ec94b38a2d55e5b5502385675799c93" title="Read out data from the input stream." alt="" coords="822,586,1062,630"/>
+<area shape="rect" id="node31" href="$d8/dd0/exceptionActsExamples_1_1EDM4hepSimHitReader.html#abf6359452b48f01a106c2469b0cf1d1d" title="Read out data from the input stream." alt="" coords="834,518,1050,562"/>
+<area shape="rect" id="node33" href="$d3/d18/exceptionActsExamples_1_1HepMCProcessExtractor.html#abda661cbe02d4fdeeff18ac6084a1fec" title="ActsExamples::HepMCProcess\lExtractor::execute" alt="" coords="829,654,1055,698"/>
+<area shape="rect" id="node39" href="$da/db5/BetheBlochTests_8cpp.html#a0ea896c83d0f65433a631030189b7a2f" title="BOOST_DATA_TEST_CASE" alt="" coords="845,962,1039,990"/>
+</map>

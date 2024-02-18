@@ -1,0 +1,48 @@
+<map id="PHTpcClusterMover::process_event" name="PHTpcClusterMover::process_event">
+<area shape="rect" id="node2" href="$d0/d2c/classTrkrClusterContainer.html#a9b2004350d970df2cef8e85c1382c718" title="add a cluster with specific key" alt="" coords="248,5,425,49"/>
+<area shape="rect" id="node3" href="$d7/d8b/classSvtxTrackMap.html#ad2331baa3dff9acb452f5329334e2803" title="SvtxTrackMap::begin" alt="" coords="256,73,417,101"/>
+<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#a59e8bacd45312ca7868bc090c6fefb06" title="SvtxTrack::begin_cluster_keys" alt="" coords="225,125,449,153"/>
+<area shape="rect" id="node5" href="$d5/d7f/classTrackFitUtils.html#a1fc66cec7006835f80cb395bb4731d67" title="TrackFitUtils::circle\l_fit_by_taubin" alt="" coords="567,100,715,144"/>
+<area shape="rect" id="node8" href="$d9/de0/classTrkrClusterv3.html#ad280797703c339b77cf89ee59935eaa6" title="copy content from base class" alt="" coords="547,1103,735,1131"/>
+<area shape="rect" id="node20" href="$d7/d8b/classSvtxTrackMap.html#a0f55635c85de394ace238061dfe38736" title="SvtxTrackMap::end" alt="" coords="262,1267,411,1295"/>
+<area shape="rect" id="node21" href="$d2/db8/classSvtxTrack.html#a73a7625ecced41e34552518eefc13ade" title="SvtxTrack::end_cluster_keys" alt="" coords="231,1319,442,1347"/>
+<area shape="rect" id="node22" href="$d0/d2c/classTrkrClusterContainer.html#a6f26d0655c81919f5539934e0d0fc438" title="find cluster matching given key" alt="" coords="255,1371,418,1415"/>
+<area shape="rect" id="node23" href="$d3/d64/classActsGeometry.html#aef1d7a1753e979a73b28e0ffbe6ab994" title="ActsGeometry::geometry" alt="" coords="838,508,1030,536"/>
+<area shape="rect" id="node24" href="$d5/d78/classPHTpcClusterMover.html#a141a0765609b17bde273242550ba511e" title="PHTpcClusterMover::\lget_circle_circle_intersection" alt="" coords="229,280,444,324"/>
+<area shape="rect" id="node26" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="553,288,729,316"/>
+<area shape="rect" id="node27" href="$d4/df1/classTpcDistortionCorrection.html#a9ab2617166bb8564104a8a87d927cfcd" title="get cluster corrected 3D position using given DistortionCorrectionObject" alt="" coords="550,340,733,384"/>
+<area shape="rect" id="node28" href="$d2/db8/classSvtxTrack.html#a8ffb0c9b9181cc2dedd6e21f4b462129" title="SvtxTrack::get_phi" alt="" coords="264,1439,409,1467"/>
+<area shape="rect" id="node29" href="$d3/d64/classActsGeometry.html#ac5b712e1a96551417fd0c4dbd1d32f22" title="ActsGeometry::get_tpc\l_surface_from_coords" alt="" coords="553,868,729,912"/>
+<area shape="rect" id="node30" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="1409,908,1557,936"/>
+<area shape="rect" id="node34" href="$d4/d32/structActsTrackingGeometry.html#a21111b468314bf411c1742355ab7d1f5" title="ActsTrackingGeometry\l::getGeoContext" alt="" coords="249,1491,424,1535"/>
+<area shape="rect" id="node35" href="$d3/d64/classActsGeometry.html#a74c2c69effa2b19cde731a6b67806fba" title="ActsGeometry::getGlobalPosition" alt="" coords="215,663,459,691"/>
+<area shape="rect" id="node39" href="$d6/d3f/namespaceTrkrDefs.html#aae37fbdb8f0f6f9b7b1e4173f4fcd331" title="Get the upper 32 bits from cluster keys." alt="" coords="1111,1240,1319,1284"/>
+<area shape="rect" id="node42" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="1409,628,1556,656"/>
+<area shape="rect" id="node46" href="$d5/d7f/classTrackFitUtils.html#ab6471f5f4cdcf5bdcaaaca83504ac04e" title="line_fit" alt="" coords="562,168,721,196"/>
+<area shape="rect" id="node47" href="$d7/d8b/classSvtxTrackMap.html#a508e23a620af3b20bfc0be05aa5b4ada" title="SvtxTrackMap::size" alt="" coords="262,1559,411,1587"/>
+<area shape="rect" id="node6" href="$d1/d22/EllipseBounds_8cpp.html#ab14acda17eb07a638824bb5e3873c586" title="square" alt="" coords="901,224,967,252"/>
+<area shape="rect" id="node7" href="$d2/db7/namespacestd_1_1tr1.html#af7e12a0f5b5791b5b7c49a5a17b85359" title="std::tr1::make_tuple" alt="" coords="855,168,1013,196"/>
+<area shape="rect" id="node9" href="$d6/dfa/classTrkrCluster.html#a1de4a1cff88fe1a7076a3ec5aa9e941b" title="copy content from base class" alt="" coords="848,1249,1020,1277"/>
+<area shape="rect" id="node10" href="$d9/de0/classTrkrClusterv3.html#aa640865fbe300dc18445f5cc8b8316be" title="TrkrClusterv3::setLocalX" alt="" coords="841,1301,1027,1329"/>
+<area shape="rect" id="node11" href="$d6/dfa/classTrkrCluster.html#acc835716d1c4f76e9c0da8e5a79e25c1" title="TrkrCluster::getLocalX" alt="" coords="849,819,1019,847"/>
+<area shape="rect" id="node12" href="$d9/de0/classTrkrClusterv3.html#a7d88f9f595dac29341a8dc5f093aa8d3" title="TrkrClusterv3::setLocalY" alt="" coords="841,1129,1027,1157"/>
+<area shape="rect" id="node13" href="$d6/dfa/classTrkrCluster.html#a05e4879520abe27bc6028bc05fc94162" title="TrkrCluster::getLocalY" alt="" coords="849,767,1019,795"/>
+<area shape="rect" id="node14" href="$d9/de0/classTrkrClusterv3.html#abe773a3a3be0ed8170debe321db1e5dd" title="Acts functions, for Acts module use only." alt="" coords="832,1181,1036,1225"/>
+<area shape="rect" id="node15" href="$d6/dfa/classTrkrCluster.html#ac0c392971fc86ab09cfe1eed6cbe6979" title="TrkrCluster::getActsLocal\lError" alt="" coords="839,1353,1029,1397"/>
+<area shape="rect" id="node16" href="$d9/de0/classTrkrClusterv3.html#a612ae32520adf15567fe27fb270f175d" title="TrkrClusterv3::setSubSurfKey" alt="" coords="824,1421,1044,1449"/>
+<area shape="rect" id="node17" href="$d6/dfa/classTrkrCluster.html#a924282f2bc8a157638a88c551e6e0cba" title="TrkrCluster::getSubSurfKey" alt="" coords="1113,912,1317,940"/>
+<area shape="rect" id="node18" href="$d9/de0/classTrkrClusterv3.html#aba9ac4892bebb343bbea2ef59ee7d931" title="TrkrClusterv3::setAdc" alt="" coords="851,1025,1017,1053"/>
+<area shape="rect" id="node19" href="$d6/dfa/classTrkrCluster.html#ac2d21d533c8948fd9c94526b994b74d0" title="TrkrCluster::getAdc" alt="" coords="859,1077,1009,1105"/>
+<area shape="rect" id="node25" href="$d5/d7f/classTrackFitUtils.html#a7a48cefc9f12d1b56c6305e4a91f9b2c" title="TrackFitUtils::circle\l_circle_intersection" alt="" coords="565,220,717,264"/>
+<area shape="rect" id="node32" href="$d3/d64/classActsGeometry.html#a5de502147722c0e0e8549b706d5d21a8" title="ActsGeometry::maps" alt="" coords="852,715,1016,743"/>
+<area shape="rect" id="node33" href="$de/de0/matchedfilter_8C.html#ac662fab4d6569f9ab320da1b95bcd663" title="round" alt="" coords="904,871,964,899"/>
+<area shape="rect" id="node31" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1628,705,1751,733"/>
+<area shape="rect" id="node36" href="$d3/d64/classActsGeometry.html#ac2534e5df04d15932c7edb931994888f" title="ActsGeometry::getGlobalPositionTpc" alt="" coords="507,663,776,691"/>
+<area shape="rect" id="node38" href="$d0/dcd/structActsSurfaceMaps.html#abb92973b5c8f30db082c275b7b5cfc04" title="ActsSurfaceMaps::getSurface" alt="" coords="824,663,1044,691"/>
+<area shape="rect" id="node37" href="$d7/db0/namespaceTpcDefs.html#aafa0c31bf0892588a224d8f0726bff11" title="Get the side from hitsetkey." alt="" coords="1414,543,1551,571"/>
+<area shape="rect" id="node40" href="$d0/dcd/structActsSurfaceMaps.html#a495aa227eb961abc63783e594fb433b2" title="ActsSurfaceMaps::getMMSurface" alt="" coords="1093,713,1337,741"/>
+<area shape="rect" id="node41" href="$d0/dcd/structActsSurfaceMaps.html#ab3b444e968e650e0184aefebcaeaaad4" title="ActsSurfaceMaps::getSilicon\lSurface" alt="" coords="1108,765,1321,809"/>
+<area shape="rect" id="node45" href="$d0/dcd/structActsSurfaceMaps.html#ae3624e0027780ed53abd7335f06b79ed" title="ActsSurfaceMaps::getTpcSurface" alt="" coords="1092,843,1337,871"/>
+<area shape="rect" id="node43" href="$d6/d9e/namespaceInttDefs.html#a7bab06e7aa1e8cbfd063c989a690b8e3" title="Zero the crossing bits in a copy of the hitsetkey." alt="" coords="1385,697,1580,741"/>
+<area shape="rect" id="node44" href="$d8/df1/namespaceMvtxDefs.html#acef48eba67fd28443f939a4594317be6" title="Zero the strobe bits in the hitsetkey." alt="" coords="1387,765,1579,809"/>
+</map>

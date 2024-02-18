@@ -1,0 +1,51 @@
+<map id="Acts::VectorHelpers::phi" name="Acts::VectorHelpers::phi">
+<area shape="rect" id="node2" href="$d0/de6/structActsFatras_1_1PlanarSurfaceMask.html#ab14737aa3c0bb6fb4466663673900ae3" title="ActsFatras::PlanarSurface\lMask::annulusMask" alt="" coords="585,103,779,147"/>
+<area shape="rect" id="node3" href="$d0/de6/structActsFatras_1_1PlanarSurfaceMask.html#a9116e533f753f565445510aecb6f2f8e" title="ActsFatras::PlanarSurface\lMask::apply" alt="" coords="856,74,1051,118"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#a6d954862203d69cf0be9c7ab23ec9c3f" title="Unit tests for Polyderon construction &amp; operator +=." alt="" coords="279,222,467,266"/>
+<area shape="rect" id="node6" href="$da/df8/namespaceActsFatras.html#a3c8e0961f05ca5b36c0dbbad7b3a3242" title="ActsFatras::BOOST_AUTO\l_TEST_CASE" alt="" coords="277,290,469,334"/>
+<area shape="rect" id="node7" href="$d7/db3/classActsExamples_1_1MockupSectorBuilder.html#a004a140088afa9de5f01b90bce64684b" title="ActsExamples::MockupSector\lBuilder::buildSector" alt="" coords="262,358,483,402"/>
+<area shape="rect" id="node9" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a1fb640755e4c0146d289cd5b3f4d33db" title="Acts::VectorHelpers\l::cast" alt="" coords="295,529,450,573"/>
+<area shape="rect" id="node11" href="$de/d21/structActsFatras_1_1Channelizer.html#ad43a94d949eab3eb6ada4c463c75cac0" title="ActsFatras::Channelizer\l::segments" alt="" coords="863,474,1044,518"/>
+<area shape="rect" id="node14" href="$d6/d11/structActsFatras_1_1NuclearInteraction.html#ab3844dbcd8f30d60f10ac9a00684c6e0" title="ActsFatras::NuclearInteraction\l::convertParametersToParticles" alt="" coords="258,597,487,641"/>
+<area shape="rect" id="node15" href="$da/d7b/namespaceActs.html#aa4ebb6c67ef4f470038e4d4b7bae7e9a" title="Acts::dbscanTrackClustering" alt="" coords="267,665,479,693"/>
+<area shape="rect" id="node16" href="$d1/de8/classActs_1_1SpacePointUtility.html#aa7b3676ab6409018c7807601a9be8b5f" title="Calculates (Delta theta)^2 + (Delta phi)^2 between two SourceLinks." alt="" coords="237,717,508,761"/>
+<area shape="rect" id="node17" href="$db/d35/structActs_1_1EventDataView3D.html#aa4d5461a0411d4d99b02e9f35a671730" title="Acts::EventDataView3D\l::drawCovarianceAngular" alt="" coords="276,785,469,829"/>
+<area shape="rect" id="node18" href="$da/d7b/namespaceActs.html#a4dbbb2b570a8109089aa438c02402fc0" title="Acts::estimateTrackParams\lFromSeed" alt="" coords="271,853,475,897"/>
+<area shape="rect" id="node19" href="$da/d44/exceptionActsExamples_1_1ParticleSmearing.html#ab7dc7cfb76756157fcb08d3cc12daf6b" title="ActsExamples::ParticleSmearing\l::execute" alt="" coords="253,921,493,965"/>
+<area shape="rect" id="node20" href="$df/d64/exceptionActsExamples_1_1ParticleSelector.html#a58b09ee9a82f081e0cb7ab564c772fd9" title="ActsExamples::ParticleSelector\l::execute" alt="" coords="257,989,489,1033"/>
+<area shape="rect" id="node21" href="$de/d1b/exceptionActsExamples_1_1TruthSeedSelector.html#a8beefcfbf0f3dcf919a681023ca54b36" title="ActsExamples::TruthSeedSelector\l::execute" alt="" coords="247,1057,498,1101"/>
+<area shape="rect" id="node22" href="$d7/dc1/classActsExamples_1_1ResPlotTool.html#a2e102f2b3dddebed52e079f133636e8c" title="fill the histograms" alt="" coords="272,1125,473,1169"/>
+<area shape="rect" id="node23" href="$d6/dec/structActsExamples_1_1RootMeasurementWriter_1_1DigitizationTree.html#a8c5e405e28ed52b3c287e089b12a0868" title="ActsExamples::RootMeasurement\lWriter::DigitizationTree\l::fillTruthParameters" alt="" coords="248,1193,497,1253"/>
+<area shape="rect" id="node24" href="$dc/d33/classActs_1_1Frustum.html#aa2f135b25992be552fc90742963cf41d" title="Acts::Frustum::Frustum" alt="" coords="283,1277,462,1305"/>
+<area shape="rect" id="node25" href="$da/d7b/namespaceActs.html#aa8f83e5d8e65555b3fd6a58027073d2e" title="return a function that return the coordinate corresponding to type of bin" alt="" coords="270,1329,475,1357"/>
+<area shape="rect" id="node26" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a4fd8641944656794ab0f1c458f487bc2" title="Acts::VectorHelpers\l::incidentAngles" alt="" coords="295,1381,450,1425"/>
+<area shape="rect" id="node27" href="$d2/df7/classActs_1_1AmbiguityTrackClassifier.html#ab73ab55d4893fe1882566a9a8c083be2" title="Acts::AmbiguityTrackClassifier\l::inferScores" alt="" coords="259,1449,486,1493"/>
+<area shape="rect" id="node28" href="$d8/d7e/classActs_1_1EllipseBounds.html#ac6f2995677fdc51ccce94731803a6882" title="Acts::EllipseBounds\l::inside" alt="" coords="295,1517,450,1561"/>
+<area shape="rect" id="node29" href="$d3/d3d/classActs_1_1CutoutCylinderVolumeBounds.html#a09fdb37a98fa3dec100c849c74d51c76" title="Acts::CutoutCylinderVolume\lBounds::inside" alt="" coords="267,1585,479,1629"/>
+<area shape="rect" id="node30" href="$d1/d4e/classActs_1_1ConeVolumeBounds.html#ad47d03669b8653c45e708a1235cff1c8" title="Acts::ConeVolumeBounds\l::inside" alt="" coords="275,1653,471,1697"/>
+<area shape="rect" id="node31" href="$d9/d1e/classActs_1_1CylinderVolumeBounds.html#ade4d67ba88dadf950d5b38f323b71530" title="Acts::CylinderVolumeBounds\l::inside" alt="" coords="264,1721,481,1765"/>
+<area shape="rect" id="node32" href="$d1/d1d/structActs_1_1detail_1_1IntersectionHelper2D.html#ac50c41d9b7337ca0b76ad4119b03c5e7" title="Acts::detail::Intersection\lHelper2D::intersectCircleSegment" alt="" coords="556,474,808,518"/>
+<area shape="rect" id="node33" href="$d4/d4f/classActs_1_1ConeSurface.html#ade2e64ab8ec08bb917f1c077aa7585b3" title="Acts::ConeSurface::\llocalCartesianToBoundLocal\lDerivative" alt="" coords="268,1789,477,1849"/>
+<area shape="rect" id="node34" href="$d6/dd9/classActs_1_1CylinderSurface.html#a04975e8d6f70c60d055202571e9ffd13" title="Acts::CylinderSurface\l::localCartesianToBoundLocal\lDerivative" alt="" coords="263,1873,482,1933"/>
+<area shape="rect" id="node35" href="$d1/d30/classActs_1_1LineSurface.html#af55f2b8d938e32c7f33bb9c750b2199a" title="Acts::LineSurface::\llocalCartesianToBoundLocal\lDerivative" alt="" coords="268,1957,477,2017"/>
+<area shape="rect" id="node36" href="$da/db9/AnnulusBoundsBenchmark_8cpp.html#a2c3f6775325c30275d11c6abee2db6a0" title="main" alt="" coords="345,2041,400,2069"/>
+<area shape="rect" id="node37" href="$de/da2/classActs_1_1ObjectSorterT.html#a9b72c8f0a14d3ce389227f1c83a3c842" title="Acts::ObjectSorterT\l\&lt; Vector3 \&gt;::operator()" alt="" coords="283,2093,463,2137"/>
+<area shape="rect" id="node38" href="$dd/d96/structFatras_1_1Scattering.html#a26c34fd9f5fd20fc99470bad7d67b17b" title="This is the scattering call operator." alt="" coords="303,2161,443,2205"/>
+<area shape="rect" id="node39" href="$d0/d34/structActs_1_1Test_1_1MeasurementsCreator.html#a9936d081a6361348f211345c2fbea10f" title="Operator that is callable by an ActionList. The function collects the surfaces." alt="" coords="275,2229,471,2273"/>
+<area shape="rect" id="node40" href="$de/d6b/classActs_1_1DistanceSorterT.html#a04c262da825c9a535d8673859399abf8" title="Acts::DistanceSorterT\l::operator()" alt="" coords="288,2297,457,2341"/>
+<area shape="rect" id="node41" href="$d8/d87/structActs_1_1Experimental_1_1PathGridSurfacesGenerator.html#ace0b8bfd2b55d44e53e06ad3e3542b9d" title="Acts::Experimental\l::PathGridSurfacesGenerator\l::operator()" alt="" coords="265,2365,481,2425"/>
+<area shape="rect" id="node42" href="$d4/d4f/classActs_1_1ConeSurface.html#aa23a5bbe68a89fb2712370385924c1ea" title="Acts::ConeSurface::\lpathCorrection" alt="" coords="295,2449,450,2493"/>
+<area shape="rect" id="node43" href="$de/dfd/classActs_1_1MultiComponentBoundTrackParameters.html#a0a5dbfbee38a2cf114e57e564694d7d6" title="Phi direction." alt="" coords="265,2517,480,2561"/>
+<area shape="rect" id="node44" href="$db/dfd/classActsFatras_1_1Particle.html#aab486e430f2d2b3abb865f056c3acdb5" title="Azimuthal angle." alt="" coords="283,2585,463,2613"/>
+<area shape="rect" id="node45" href="$dc/db4/classActs_1_1AnnulusBounds.html#a448bfe98e152aba3979b6715646b3c8c" title="Acts::AnnulusBounds\l::stripXYToModulePC" alt="" coords="290,2637,455,2681"/>
+<area shape="rect" id="node46" href="$d9/db0/structActs_1_1Test_1_1CylindricalTrackingGeometry.html#a9651f9e5b1ab7b56f60653d1bb00da05" title="Acts::Test::CylindricalTracking\lGeometry::surfacesCylinder" alt="" coords="261,2705,484,2749"/>
+<area shape="rect" id="node47" href="$dd/ddd/classActs_1_1BinningData.html#aef24f21ca763d405eac3c8b819953538" title="Acts::BinningData::\lvalue" alt="" coords="297,2773,449,2817"/>
+<area shape="rect" id="node48" href="$dc/db4/classActs_1_1AnnulusBounds.html#a5e434ed42aa990332f77fad65b612f9b" title="Acts::AnnulusBounds\l::vertices" alt="" coords="290,154,455,198"/>
+<area shape="rect" id="node49" href="$d3/d62/exceptionActsExamples_1_1RootParticleWriter.html#ab0fc27246a6759731bc01d818e74dd66" title="ActsExamples::RootParticle\lWriter::writeT" alt="" coords="270,2841,475,2885"/>
+<area shape="rect" id="node50" href="$dc/dd2/classActsExamples_1_1CsvMultiTrajectoryWriter.html#a9b5eb23182e38ce4c57ba33ca7fcdabc" title="Write method called by the base class." alt="" coords="247,2909,498,2953"/>
+<area shape="rect" id="node4" href="$da/df8/namespaceActsFatras.html#aa2d2223591b1bea3132041895a5d0349" title="Unit test for testing the Surface mask." alt="" coords="1099,74,1288,118"/>
+<area shape="rect" id="node8" href="$df/ded/TestMockupBuilder_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="655,366,709,394"/>
+<area shape="rect" id="node10" href="$d3/d07/classActs_1_1GeometryObject.html#ad4015bfd90474f441bea8d596c98c6a6" title="Acts::GeometryObject\l::binningPositionValue" alt="" coords="596,542,768,586"/>
+<area shape="rect" id="node12" href="$db/d01/classActs_1_1Extent.html#a2558b60a6b87c579141d0c71c0cb14ad" title="Acts::Extent::extend" alt="" coords="603,610,761,638"/>
+<area shape="rect" id="node13" href="$d9/dc7/classActs_1_1Experimental_1_1MultiLayerSurfacesUpdatorImpl.html#a8dd7e9adbafd597c4510a2e63103fedc" title="Acts::Experimental\l::MultiLayerSurfacesUpdator\lImpl::fillCasts" alt="" coords="575,662,789,722"/>
+</map>

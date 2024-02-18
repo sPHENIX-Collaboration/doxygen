@@ -1,0 +1,28 @@
+var structActs_1_1Navigator_1_1State =
+[
+    [ "navBoundary", "d4/da1/structActs_1_1Navigator_1_1State.html#ab090658a36255658be5147ced8fd867f", null ],
+    [ "navLayer", "d4/da1/structActs_1_1Navigator_1_1State.html#ac0d18d6b549dade6d788fbaa938a1db6", null ],
+    [ "navSurface", "d4/da1/structActs_1_1Navigator_1_1State.html#a67c7c409983a1d59387654af044cdd1d", null ],
+    [ "currentSurface", "d4/da1/structActs_1_1Navigator_1_1State.html#aefa673eab0064b8c62288054818468d5", null ],
+    [ "currentVolume", "d4/da1/structActs_1_1Navigator_1_1State.html#aa664552fae00e3d87df1121c1e7b3edf", null ],
+    [ "externalSurfaces", "d4/da1/structActs_1_1Navigator_1_1State.html#a084873b82a9a817d710b5e1ecd54c2c5", null ],
+    [ "forceIntersectBoundaries", "d4/da1/structActs_1_1Navigator_1_1State.html#aa08946748ce10de210d8e11392b53ef6", null ],
+    [ "lastHierarchySurfaceReached", "d4/da1/structActs_1_1Navigator_1_1State.html#a706956984fdc1e7c0769d183845c45b8", null ],
+    [ "navBoundaries", "d4/da1/structActs_1_1Navigator_1_1State.html#ad96e96c388da1283aadd8564a4bf8121", null ],
+    [ "navBoundaryIndex", "d4/da1/structActs_1_1Navigator_1_1State.html#ab15c1e9bedc6f33d6cf13049bc765613", null ],
+    [ "navigationBreak", "d4/da1/structActs_1_1Navigator_1_1State.html#ae6b3186c9b3def949bca5346f9ee7caf", null ],
+    [ "navigationStage", "d4/da1/structActs_1_1Navigator_1_1State.html#a0c289c2db7904d27ad8d359bcac074e2", null ],
+    [ "navLayerIndex", "d4/da1/structActs_1_1Navigator_1_1State.html#ac5dc666c5a3a7ba452c9eba1e02c02a8", null ],
+    [ "navLayers", "d4/da1/structActs_1_1Navigator_1_1State.html#a1d8bce142cc5b1da401a2f1066bebb86", null ],
+    [ "navSurfaceIndex", "d4/da1/structActs_1_1Navigator_1_1State.html#a09fe26be5aad34078f224d2e55996c28", null ],
+    [ "navSurfaces", "d4/da1/structActs_1_1Navigator_1_1State.html#aa48bb4efe5699e2ba7dd04c83b62d483", null ],
+    [ "startLayer", "d4/da1/structActs_1_1Navigator_1_1State.html#ab60b9f0f8c6248efd957c338531d984b", null ],
+    [ "startLayerResolved", "d4/da1/structActs_1_1Navigator_1_1State.html#a654fe5ce387b834142f309f922e92d17", null ],
+    [ "startSurface", "d4/da1/structActs_1_1Navigator_1_1State.html#ab3293e7a9ef7ee9dc85f3a93a5fce0e8", null ],
+    [ "startVolume", "d4/da1/structActs_1_1Navigator_1_1State.html#aae9ade56747841b1ab9aad67782b516c", null ],
+    [ "targetLayer", "d4/da1/structActs_1_1Navigator_1_1State.html#aff9808460c25f63e980e4e195dbfab57", null ],
+    [ "targetReached", "d4/da1/structActs_1_1Navigator_1_1State.html#ad46f6c8bed6b1fa026e0f420653c9e6f", null ],
+    [ "targetSurface", "d4/da1/structActs_1_1Navigator_1_1State.html#a7822de5ed85a8a6d7ad32b420cb9e062", null ],
+    [ "targetVolume", "d4/da1/structActs_1_1Navigator_1_1State.html#a8309e74b91e86bafa57146f3cb88ec1b", null ],
+    [ "worldVolume", "d4/da1/structActs_1_1Navigator_1_1State.html#a72266150c9c1971dbb1983a6c2bd580c", null ]
+];

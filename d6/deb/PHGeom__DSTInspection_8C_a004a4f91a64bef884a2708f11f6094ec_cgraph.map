@@ -1,0 +1,51 @@
+<map id="PHGeom_DSTInspection" name="PHGeom_DSTInspection">
+<area shape="rect" id="node2" href="$d4/da9/classFun4AllInputManager.html#a8ad787f847a175450ec5beddeaa33ca6" title="Fun4AllInputManager\l::fileopen" alt="" coords="276,61,443,105"/>
+<area shape="rect" id="node3" href="$d2/da1/classPHGeomUtility.html#aa80925b14430021ea70d0b906af8e885" title="Main user interface: DST node &#45;&gt; TGeoManager for downstream use." alt="" coords="236,129,483,157"/>
+<area shape="rect" id="node7" href="$d8/d14/classrecoConsts.html#ae69a5c29a7199ba16d0e537158618802" title="recoConsts::instance" alt="" coords="839,905,1001,933"/>
+<area shape="rect" id="node9" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="1093,388,1275,416"/>
+<area shape="rect" id="node17" href="$da/d29/classFun4AllServer.html#ab2cb490790d15b865ae79eb3094caabe" title="Fun4AllServer::registerInput\lManager" alt="" coords="1326,132,1538,176"/>
+<area shape="rect" id="node20" href="$da/d29/classFun4AllServer.html#a11bbc8b2f53bc06e0b05ee202dd6372a" title="run n events (0 means up to end of file)" alt="" coords="286,932,433,960"/>
+<area shape="rect" id="node31" href="$d1/da8/classPHFlag.html#a3ef5c3f1eff2daaaf18e5129858a9ef8" title="PHFlag::set_IntFlag" alt="" coords="845,1268,995,1296"/>
+<area shape="rect" id="node42" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="1093,233,1275,261"/>
+<area shape="rect" id="node50" href="$d5/dec/classFun4AllBase.html#a05da2261577843028cf78e99171343b9" title="Sets the verbosity of this module (0 by default=quiet)." alt="" coords="271,1319,447,1347"/>
+<area shape="rect" id="node4" href="$d7/d6d/classPHGeomTGeo.html#abdec55181f592bbdd6e63882d83b4c5f" title="isValid returns non zero if object contains vailid data" alt="" coords="555,77,723,105"/>
+<area shape="rect" id="node6" href="$d7/d6d/classPHGeomTGeo.html#a3e111f6229f7ce6392b14a98fdf5bea9" title="PHGeomTGeo::GetGeometry" alt="" coords="531,129,747,157"/>
+<area shape="rect" id="node5" href="$d7/d6d/classPHGeomTGeo.html#af37739b87530fe2bbd5d8d03098c1821" title="PHGeomTGeo::ConsistencyCheck" alt="" coords="796,103,1044,131"/>
+<area shape="rect" id="node8" href="$d8/d14/classrecoConsts.html#ae882d6adc62f783ec78114fe3dee3c24" title="recoConsts::recoConsts" alt="" coords="1094,905,1274,933"/>
+<area shape="rect" id="node10" href="$da/d29/classFun4AllServer.html#a90e27f05f0b2e8b6fe462387b14bfb92" title="Fun4AllServer::Fun4AllServer" alt="" coords="1323,388,1541,416"/>
+<area shape="rect" id="node11" href="$da/d29/classFun4AllServer.html#aa1939c3e2c3113cce0a6415103b4f5a5" title="Fun4AllServer::InitAll" alt="" coords="1639,388,1802,416"/>
+<area shape="rect" id="node12" href="$d5/d4f/classFun4AllMonitoring.html#a4d2dc73220d8300c356f258b8c6283a8" title="Fun4AllMonitoring::\linstance" alt="" coords="1939,312,2091,356"/>
+<area shape="rect" id="node13" href="$d5/d4f/classFun4AllMonitoring.html#aeea0018148441caf4a9a1b5cc448ecfb" title="Fun4AllMonitoring::\lSnapshot" alt="" coords="1939,380,2091,424"/>
+<area shape="rect" id="node14" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="2209,99,2363,127"/>
+<area shape="rect" id="node15" href="$da/d29/classFun4AllServer.html#a377f113767f24ce6413e678752ed7f53" title="Fun4AllServer::registerHisto\lManager" alt="" coords="1910,176,2121,220"/>
+<area shape="rect" id="node16" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="2198,627,2374,655"/>
+<area shape="rect" id="node18" href="$dd/ded/classFun4AllSyncManager.html#a2a284bc4ed777ec7f39d6e5c7090067c" title="Fun4AllSyncManager\l::registerInputManager" alt="" coords="1927,5,2104,49"/>
+<area shape="rect" id="node19" href="$d4/da9/classFun4AllInputManager.html#a5b0cdb689482c4143b7b22ca8a780c51" title="Fun4AllInputManager\l::setSyncManager" alt="" coords="2203,5,2369,49"/>
+<area shape="rect" id="node21" href="$d1/da8/classPHFlag.html#a4b73a422f0076568904d71f40e849da5" title="PHFlag::FlagExist" alt="" coords="851,1009,989,1037"/>
+<area shape="rect" id="node22" href="$d1/da8/classPHFlag.html#a07899067141a5f12333cc37183caddc8" title="PHFlag::get_IntFlag" alt="" coords="844,957,996,985"/>
+<area shape="rect" id="node25" href="$da/d29/classFun4AllServer.html#ab2479a9a3e45d51118e308597acd5228" title="Fun4AllServer::ResetNodeTree" alt="" coords="1903,1216,2128,1244"/>
+<area shape="rect" id="node30" href="$da/d29/classFun4AllServer.html#af1002b9170308da078c0e14a5ac4b514" title="Fun4AllServer::setRun" alt="" coords="553,1061,724,1089"/>
+<area shape="rect" id="node34" href="$da/d29/classFun4AllServer.html#afcfc5583204cac58b4e66a2406187a18" title="Fun4AllServer::BeginRun" alt="" coords="545,600,733,628"/>
+<area shape="rect" id="node45" href="$da/d29/classFun4AllServer.html#a53b1b6b338aa36891f2690a188920980" title="Fun4AllServer::EndRun" alt="" coords="1344,1056,1520,1084"/>
+<area shape="rect" id="node46" href="$da/d29/classFun4AllServer.html#a6a65a944dfb40966ace97d35ab1f7942" title="Fun4AllServer::process\l_event" alt="" coords="1633,795,1809,839"/>
+<area shape="rect" id="node23" href="$d1/da8/classPHFlag.html#a5be3faf4dda955a43deee72b2f8b8bde" title="PHFlag::PrintStackTrace" alt="" coords="1094,1087,1274,1115"/>
+<area shape="rect" id="node24" href="$d1/da8/classPHFlag.html#a7c2615c6c6570b73c005f98d2d7adee2" title="PHFlag::Print" alt="" coords="1130,983,1238,1011"/>
+<area shape="rect" id="node26" href="$d9/d0d/PHG4MvtxHitReco_8cc.html#a13266ea1372c7cc9d0681ec9ed94bd19" title="reset" alt="" coords="2258,1305,2314,1333"/>
+<area shape="rect" id="node27" href="$db/d8e/classPHNodeOperation.html#a641fdf1094ec15063171e199a4066a0d" title="PHNodeOperation::Verbosity" alt="" coords="2179,1125,2393,1153"/>
+<area shape="rect" id="node28" href="$d5/d07/classPHNodeIterator.html#a63d6c37796624455366e84ee121bb251" title="PHNodeIterator::cd" alt="" coords="2211,1177,2361,1205"/>
+<area shape="rect" id="node29" href="$d5/d07/classPHNodeIterator.html#afeaefab44bf0ab15a439926205924f19" title="PHNodeIterator::forEach" alt="" coords="2194,1253,2378,1281"/>
+<area shape="rect" id="node32" href="$d1/da8/classPHFlag.html#a733d8e142fd24cf8e7ce1ba497c8ffcd" title="PHFlag::set_uint64Flag" alt="" coords="832,1061,1008,1089"/>
+<area shape="rect" id="node33" href="$d1/da8/classPHFlag.html#a9912bec8f445c81b296cee7355cdb063" title="PHFlag::get_uint64Flag" alt="" coords="831,1113,1009,1141"/>
+<area shape="rect" id="node35" href="$d7/d96/classFun4AllMemoryTracker.html#a8b53144fdababa4ca9bd29efef891c05" title="Fun4AllMemoryTracker\l::Snapshot" alt="" coords="1927,739,2103,783"/>
+<area shape="rect" id="node36" href="$da/dc2/classPHTimeStamp.html#a4ef1bd9d8bfb3a8263aa9ceafb80bb34" title="PHTimeStamp::print" alt="" coords="841,443,999,471"/>
+<area shape="rect" id="node37" href="$da/d29/classFun4AllServer.html#a3a4e3f448388cb2e68b085e9038feaf8" title="Fun4AllServer::unregister\lSubsystemsNow" alt="" coords="1918,244,2113,288"/>
+<area shape="rect" id="node38" href="$da/d29/classFun4AllServer.html#a04acbb1e2c50b32a997d2516f97697c1" title="Fun4AllServer::BeginRunSubsystem" alt="" coords="1589,551,1852,579"/>
+<area shape="rect" id="node41" href="$da/d29/classFun4AllServer.html#a0a9947db0ede1e55622001eb7515f8c0" title="Fun4AllServer::registerSubsystem" alt="" coords="795,495,1045,523"/>
+<area shape="rect" id="node43" href="$da/d29/classFun4AllServer.html#a9d3cdd0e26d8849bfd4652f20587e2df" title="Fun4AllServer::Print" alt="" coords="1354,904,1510,932"/>
+<area shape="rect" id="node39" href="$d7/d96/classFun4AllMemoryTracker.html#a3841cc0bc6c4047da2b4868ba39dbb8c" title="Fun4AllMemoryTracker\l::Start" alt="" coords="1927,551,2103,595"/>
+<area shape="rect" id="node40" href="$d7/d96/classFun4AllMemoryTracker.html#a766ac66dd36ffa4e3fbe6e622923565f" title="Fun4AllMemoryTracker\l::Stop" alt="" coords="1927,619,2103,663"/>
+<area shape="rect" id="node44" href="$d5/d07/classPHNodeIterator.html#aec2fbc1e56be7e1a0b064ecde48edee5" title="PHNodeIterator::print" alt="" coords="1933,1055,2098,1083"/>
+<area shape="rect" id="node47" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="1921,1003,2109,1031"/>
+<area shape="rect" id="node48" href="$da/d29/classFun4AllServer.html#a6f3f13c3a8b5c29457e694ba910296aa" title="Fun4AllServer::CountOutNodes" alt="" coords="1900,859,2131,887"/>
+<area shape="rect" id="node49" href="$da/d29/classFun4AllServer.html#a92c6fe0e0c19c48d2b1f9d0f63c12bbe" title="Fun4AllServer::MakeNodes\lTransient" alt="" coords="1914,911,2117,955"/>
+</map>

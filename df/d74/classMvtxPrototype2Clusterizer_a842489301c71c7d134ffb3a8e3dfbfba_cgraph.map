@@ -1,0 +1,37 @@
+<map id="MvtxPrototype2Clusterizer::ClusterMvtx" name="MvtxPrototype2Clusterizer::ClusterMvtx">
+<area shape="rect" id="node2" href="$d7/d4f/classTrkrClusterHitAssoc.html#a0314201abed284e81c000137451628cc" title="Add association between cluster and hit." alt="" coords="277,5,430,49"/>
+<area shape="rect" id="node3" href="$df/d74/classMvtxPrototype2Clusterizer.html#aec2e00b3d7053d80f5850bb5b136aea9" title="MvtxPrototype2Clusterizer\l::are_adjacent" alt="" coords="253,125,453,169"/>
+<area shape="rect" id="node4" href="$d8/df1/namespaceMvtxDefs.html#a1168eb31a2fe1f73988744e3bdedd24f" title="Get the strobe id from the cluskey." alt="" coords="551,112,687,140"/>
+<area shape="rect" id="node6" href="$d8/df1/namespaceMvtxDefs.html#a8c10f1bd18a4e4eb490f2809ed6ad9aa" title="Get the row index from hitkey." alt="" coords="547,164,691,192"/>
+<area shape="rect" id="node7" href="$d8/df1/namespaceMvtxDefs.html#acef315b1153c420f248be5073c2600c1" title="Generate a cluster key from indeces." alt="" coords="267,245,439,273"/>
+<area shape="rect" id="node20" href="$d9/dc1/classTrkrHitSet.html#a2a362e326ba49a53a7675dc4c9b39c2a" title="Get all hits." alt="" coords="280,297,427,325"/>
+<area shape="rect" id="node21" href="$d9/dc1/classTrkrHitSet.html#acffcc2223e9568b469109de4790fd734" title="Get the key for this object." alt="" coords="260,349,447,377"/>
+<area shape="rect" id="node22" href="$d5/d76/classTrkrHitSetContainer.html#a0e347bd66bf03e9a34651410a79d5cab" title="return all HitSets matching a given detid" alt="" coords="275,401,431,445"/>
+<area shape="rect" id="node23" href="$d9/d24/classPHObject.html#a83a7b0e5681a0f4f92814692f1bf3375" title="PHObject::identify" alt="" coords="281,469,425,497"/>
+<area shape="rect" id="node24" href="$d9/dc1/classTrkrHitSet.html#acfd901e60a6d01d3c38a997d269517e7" title="TObject functions." alt="" coords="279,521,428,549"/>
+<area shape="rect" id="node25" href="$dd/df2/classMvtxPrototype2Geom.html#a2aa58860eaeb87a286e6f2d6335c5a2c" title="MvtxPrototype2Geom\l::Instance" alt="" coords="269,573,437,617"/>
+<area shape="rect" id="node36" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="265,641,441,669"/>
+<area shape="rect" id="node5" href="$dd/d7e/namespaceActs_1_1Test.html#a88f0887efddd644c8defc1e91456c3c9" title="Acts::Test::tmp" alt="" coords="1033,216,1156,244"/>
+<area shape="rect" id="node8" href="$d2/ddf/namespaceMicromegasDefs.html#a2909143d348383083b9c12cb810a8c04" title="Generate a hitsetkey for the micromegas." alt="" coords="501,309,736,337"/>
+<area shape="rect" id="node19" href="$d6/d3f/namespaceTrkrDefs.html#a5cc3b1fa8e62e3fc5fb698fe1991cfae" title="generate cluster key from hitset key and cluster index" alt="" coords="790,216,957,244"/>
+<area shape="rect" id="node9" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="784,320,963,348"/>
+<area shape="rect" id="node10" href="$d2/d51/usm_8C.html#a4fc3d7a8ab8dddafe2295d65165d9cf7" title="tile" alt="" coords="852,372,895,400"/>
+<area shape="rect" id="node11" href="$d2/d51/usm_8C.html#aeb3b442c3eacc3e6c3987fcb2a7d938c" title="csNorm" alt="" coords="1059,293,1131,321"/>
+<area shape="rect" id="node12" href="$dd/d7a/Mat__map__detector__plot_8C.html#ac0d08f0933de5ca6053592441e00dacb" title="Fill the histograms for the detector." alt="" coords="1075,345,1114,373"/>
+<area shape="rect" id="node17" href="$d2/d51/usm_8C.html#a312a11f8998028abc96138b746c948bf" title="fsNorm" alt="" coords="1060,397,1129,425"/>
+<area shape="rect" id="node18" href="$d4/da3/namespacemyAnalysis.html#a9f597e7106ca1fcda16204c112f7f2e0" title="myAnalysis::init" alt="" coords="1030,449,1159,477"/>
+<area shape="rect" id="node13" href="$dd/d7a/Mat__map__detector__plot_8C.html#ab5e879aeac6e72f1a2567331e3716b3b" title="Initialise the histograms for the detector." alt="" coords="1266,376,1377,404"/>
+<area shape="rect" id="node14" href="$d7/d33/classActs_1_1GeometryIdentifier.html#abc1ccf966fe5fc7f517c6775b5d38623" title="Return the volume identifier." alt="" coords="1227,308,1416,352"/>
+<area shape="rect" id="node15" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a5fc08ada52c3da4d9b255e0454739e1d" title="Extract the masked bits from the encoded value." alt="" coords="1467,308,1657,352"/>
+<area shape="rect" id="node16" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ac13065798464cc86b747086eea9020e2" title="Extract the bit shift necessary to access the masked values." alt="" coords="1708,308,1897,352"/>
+<area shape="rect" id="node26" href="$dd/df2/classMvtxPrototype2Geom.html#a3abe68d5964d61fbcbcc118a1d14faf3" title="MvtxPrototype2Geom\l::MvtxPrototype2Geom" alt="" coords="531,573,707,617"/>
+<area shape="rect" id="node27" href="$dd/df2/classMvtxPrototype2Geom.html#a0459603b65ca43be8077b0f061c8150a" title="MvtxPrototype2Geom\l::Build" alt="" coords="789,573,957,617"/>
+<area shape="rect" id="node28" href="$dd/df2/classMvtxPrototype2Geom.html#a324634cda792e5353e71d0b6265abd5b" title="MvtxPrototype2Geom\l::isBuilt" alt="" coords="1011,641,1179,685"/>
+<area shape="rect" id="node29" href="$dd/df2/classMvtxPrototype2Geom.html#a91ce05b3195a750dfabab96ac30261ea" title="MvtxPrototype2Geom\l::setSize" alt="" coords="1011,505,1179,549"/>
+<area shape="rect" id="node30" href="$dd/df2/classMvtxPrototype2Geom.html#ae8b60bdb2f15ecaa03c3e72bf6d2ee73" title="MvtxPrototype2Geom\l::fillMatrixCache" alt="" coords="1011,573,1179,617"/>
+<area shape="rect" id="node31" href="$de/dce/classMatrixCache.html#ae5f8a033ea0061b66e72e05e32e45b57" title="set size of matrix cache" alt="" coords="1240,633,1403,661"/>
+<area shape="rect" id="node32" href="$dd/df2/classMvtxPrototype2Geom.html#a41285fc8d148398466ab2fc6bb2cfc76" title="MvtxPrototype2Geom\l::extractMatrixSensor" alt="" coords="1237,513,1405,557"/>
+<area shape="rect" id="node35" href="$de/dce/classMatrixCache.html#a0bc22e7771ac06891b71866c2a3df4cc" title="assign matrix to a slot" alt="" coords="1233,581,1410,609"/>
+<area shape="rect" id="node33" href="$dd/df2/classMvtxPrototype2Geom.html#aed725c67564d17b441662a149dad58d5" title="MvtxPrototype2Geom\l::getNumberOfChipsInLay" alt="" coords="1464,548,1660,592"/>
+<area shape="rect" id="node34" href="$dd/df2/classMvtxPrototype2Geom.html#ad4297014ed0d2bd9c63914ce82e7c6f4" title="MvtxPrototype2Geom\l::Verbose" alt="" coords="1478,480,1646,524"/>
+</map>

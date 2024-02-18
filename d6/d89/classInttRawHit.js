@@ -1,0 +1,27 @@
+var classInttRawHit =
+[
+    [ "InttRawHit", "d6/d89/classInttRawHit.html#a785af9635ee67679931badde9c979b6f", null ],
+    [ "~InttRawHit", "d6/d89/classInttRawHit.html#a4a123046a6432aa80bbed3c327b8eba2", null ],
+    [ "get_adc", "d6/d89/classInttRawHit.html#a80022a6a8947af01920dc6ffcf6ccf17", null ],
+    [ "get_amplitude", "d6/d89/classInttRawHit.html#ac88d60ec94475eb9666115c721ff89e0", null ],
+    [ "get_bco", "d6/d89/classInttRawHit.html#a43c7786757d35b7133360096299f587d", null ],
+    [ "get_channel_id", "d6/d89/classInttRawHit.html#abbeeba4de3ff0f46911518615b371ccd", null ],
+    [ "get_chip_id", "d6/d89/classInttRawHit.html#ad37a20043c35edd2484bb46120c8ae8f", null ],
+    [ "get_fee", "d6/d89/classInttRawHit.html#aa4dceeefed90e8056767b26c0fc42f95", null ],
+    [ "get_FPHX_BCO", "d6/d89/classInttRawHit.html#a023b065715023c5493116d82330d284b", null ],
+    [ "get_full_FPHX", "d6/d89/classInttRawHit.html#a2280b98da19e19e87dd4b1c7a4a2f4a7", null ],
+    [ "get_full_ROC", "d6/d89/classInttRawHit.html#a97fe8da18e424a2c0f8658e31573498c", null ],
+    [ "get_packetid", "d6/d89/classInttRawHit.html#a1662c69d5572e741aa0ea723419cca73", null ],
+    [ "get_word", "d6/d89/classInttRawHit.html#aa198da51b2953cd2e0639a7c95931a5d", null ],
+    [ "set_adc", "d6/d89/classInttRawHit.html#af8168314fe83761f69430a3bd70f0ec0", null ],
+    [ "set_amplitude", "d6/d89/classInttRawHit.html#a7c17ffe0c9ed0458d6c108d7f0f938f9", null ],
+    [ "set_bco", "d6/d89/classInttRawHit.html#ae15878eff32ca37ebe94f78bd50d4ae5", null ],
+    [ "set_channel_id", "d6/d89/classInttRawHit.html#a4a7ec4196eef63a87e16a2bf1ef7e6ca", null ],
+    [ "set_chip_id", "d6/d89/classInttRawHit.html#a134435996dbf200d636c23616e874f42", null ],
+    [ "set_fee", "d6/d89/classInttRawHit.html#a7391d256d077f527abccb7e429317982", null ],
+    [ "set_FPHX_BCO", "d6/d89/classInttRawHit.html#a55f8967b7e8e1b110eaa76e5893d0a6e", null ],
+    [ "set_full_FPHX", "d6/d89/classInttRawHit.html#a5f1ae6299e0d7ceb74cc08ca18f349a4", null ],
+    [ "set_full_ROC", "d6/d89/classInttRawHit.html#aa6ceac085b816753d68eb36e5e92ad83", null ],
+    [ "set_packetid", "d6/d89/classInttRawHit.html#a29ea97e8d8eaca17b41f5f0434d55501", null ],
+    [ "set_word", "d6/d89/classInttRawHit.html#a3743735be826c9ac5b4f5b903627e00f", null ]
+];

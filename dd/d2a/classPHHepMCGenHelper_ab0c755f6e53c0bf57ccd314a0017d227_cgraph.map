@@ -1,0 +1,51 @@
+<map id="PHHepMCGenHelper::insert_event" name="PHHepMCGenHelper::insert_event">
+<area shape="rect" id="node2" href="$d7/d7b/classPHHepMCGenEvent.html#a34a8f753178a4d74085b90e3a5264907" title="host an HepMC event" alt="" coords="262,624,490,652"/>
+<area shape="rect" id="node3" href="$d3/dd5/jewel-2_82_80_8f.html#aeb24fa7919aa21c652e9c8f2ec45cb91" title="genevent" alt="" coords="333,676,419,704"/>
+<area shape="rect" id="node30" href="$dd/d2a/classPHHepMCGenHelper.html#ad450c47d85c3b8b1fe8b2e32124d5785" title="choice of reference version of the PHHepMCGenEvent" alt="" coords="261,1141,491,1185"/>
+<area shape="rect" id="node31" href="$dd/d2a/classPHHepMCGenHelper.html#a0148635f83f76e3f6cee429a8de49fbd" title="Record the translation,boost,rotation for HepMC frame to lab frame according to collision settings..." alt="" coords="262,1656,490,1700"/>
+<area shape="rect" id="node49" href="$d5/d41/classPHHepMCGenEventMap.html#ace1292e973fe2429bee746acb6aaddb9" title="insert a event with specific embedding ID" alt="" coords="285,2185,467,2229"/>
+<area shape="rect" id="node4" href="$de/d56/classFatras_1_1Test_1_1Particle.html#a13975fe3d3caeb017d7837bbc7d8d048" title="Access methods: beta." alt="" coords="575,93,731,137"/>
+<area shape="rect" id="node5" href="$d9/d9e/evDisplay_8C.html#a493aff38bcceaba17aef8c5257ff963a" title="channel" alt="" coords="901,5,975,33"/>
+<area shape="rect" id="node6" href="$d3/dc7/classRawTowerContainer.html#a555d52b05fc064faf6c8bc2145814412" title="RawTowerContainer::\lcompress" alt="" coords="857,265,1019,309"/>
+<area shape="rect" id="node8" href="$d3/dd5/jewel-2_82_80_8f.html#ac81138f304bda7ec1fd2c2fafd517ef9" title="converttohepmc" alt="" coords="587,213,719,241"/>
+<area shape="rect" id="node13" href="$d3/dd5/jewel-2_82_80_8f.html#a5de87273c33caeed2d04b5b02a09cb6a" title="isdiquark" alt="" coords="1187,356,1271,384"/>
+<area shape="rect" id="node14" href="$d2/d18/medium-simple_8f.html#a58e0410e81664819969cd2981fd7cd27" title="npart" alt="" coords="909,333,967,361"/>
+<area shape="rect" id="node15" href="$d0/d83/classActsFatras_1_1LandauDistribution.html#a692e73569c82329696eadc0fe9ff5bdf" title="Return the currently configured distribution parameters." alt="" coords="823,476,1053,520"/>
+<area shape="rect" id="node16" href="$d2/d18/medium-simple_8f.html#a37c7f4eb1ac3cabcac15da535b1c78d7" title="getltimemax" alt="" coords="600,469,707,497"/>
+<area shape="rect" id="node17" href="$d3/dd5/jewel-2_82_80_8f.html#a6a7de1452a015a48823a6f8e9233de63" title="getmass" alt="" coords="614,573,693,601"/>
+<area shape="rect" id="node18" href="$d4/d3e/classActs_1_1Logger.html#a2e009357e8b3be1d10f072a71074ba58" title="log a debug message" alt="" coords="870,883,1006,911"/>
+<area shape="rect" id="node19" href="$d6/dcf/pythia6425mod_8f.html#ac28b7ef95cee2881a46f71d3a88d05ac" title="pyr" alt="" coords="916,831,960,859"/>
+<area shape="rect" id="node20" href="$d1/d08/structActs_1_1MultiEigenStepperLoop_1_1ComponentProxyBase.html#ad7d2b751fd58f99c3eb54a7af086727b" title="Acts::MultiEigenStepperLoop\l::ComponentProxyBase::weight" alt="" coords="821,592,1055,636"/>
+<area shape="rect" id="node21" href="$d3/dd5/jewel-2_82_80_8f.html#ae4babd1fd98f3de7eb1da1c259c99065" title="makecascade" alt="" coords="597,521,710,549"/>
+<area shape="rect" id="node22" href="$d3/dd5/jewel-2_82_80_8f.html#af2a855ea607d8089b0254268b557100b" title="makestrings" alt="" coords="601,779,705,807"/>
+<area shape="rect" id="node23" href="$da/d72/structActs_1_1detail_1_1PhiBoundParameterLimits.html#a04ea1c8ef7fa6ef9596ffec9da84eae1" title="Acts::detail::PhiBoundParameter\lLimits::max" alt="" coords="1108,1003,1349,1047"/>
+<area shape="rect" id="node24" href="$d2/d18/medium-simple_8f.html#a4cb6e969ad6295a9ec499dd59e4fefa1" title="mednextevt" alt="" coords="601,831,705,859"/>
+<area shape="rect" id="node25" href="$d2/d18/medium-simple_8f.html#a64062e3dc7ddcfa521f1c731eb9e810f" title="pickvtx" alt="" coords="618,883,689,911"/>
+<area shape="rect" id="node26" href="$d6/dcf/pythia6425mod_8f.html#ac81fa418f8cd77b0873b2de2a4140933" title="pyevnt" alt="" coords="619,935,688,963"/>
+<area shape="rect" id="node27" href="$d6/dcf/pythia6425mod_8f.html#a018da81d5f23cd9c6d55f5151fb0f541" title="pyexec" alt="" coords="903,1037,973,1065"/>
+<area shape="rect" id="node28" href="$d6/dcf/pythia6425mod_8f.html#a6cee1eea51c820d9e90932c9eca205b7" title="pyp" alt="" coords="630,1089,677,1117"/>
+<area shape="rect" id="node29" href="$d6/dcf/pythia6425mod_8f.html#a98ffa3df00dbe1c8a9944e3453e44580" title="pyrobo" alt="" coords="619,1141,687,1169"/>
+<area shape="rect" id="node7" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="1142,273,1315,301"/>
+<area shape="rect" id="node9" href="$d5/d89/classValueGen1.html#a072deb230ac8bf0f6742e0484e030c52" title="ValueGen1::i2" alt="" coords="879,57,997,85"/>
+<area shape="rect" id="node10" href="$d5/d89/classValueGen1.html#a0a32cfdf50e9bb9c84580912795b1e41" title="ValueGen1::i3" alt="" coords="879,109,997,137"/>
+<area shape="rect" id="node11" href="$d3/dd5/jewel-2_82_80_8f.html#a5f82b2fc3ff62fca6b9d65ce59e02c1c" title="ishadron" alt="" coords="898,161,978,189"/>
+<area shape="rect" id="node12" href="$d3/dd5/jewel-2_82_80_8f.html#ab6496ca6cba6a43f6f584e9b3272ffe6" title="isparton" alt="" coords="900,213,976,241"/>
+<area shape="rect" id="node32" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a0b01658483cf4ddd01b347c72e075a5b" title="Calculates column&#45;wise cross products of a matrix and a vector and stores the result column&#45;wise in a..." alt="" coords="576,1193,731,1237"/>
+<area shape="rect" id="node33" href="$dd/d2a/classPHHepMCGenHelper.html#a350f922d85af7d370dc014a8413eab8d" title="PHHepMCGenHelper::generate\l_vertx_with_bunch_interaction" alt="" coords="539,1313,768,1357"/>
+<area shape="rect" id="node34" href="$dd/d2a/classPHHepMCGenHelper.html#a77c96bfce9372292996edd3a99961b77" title="function to convert spherical coordinate to Hep3Vector in x&#45;y&#45;z" alt="" coords="819,1284,1057,1328"/>
+<area shape="rect" id="node35" href="$dd/d2a/classPHHepMCGenHelper.html#a030e43db2086d86155f32e8c6cf5958b" title="PHHepMCGenHelper::smear" alt="" coords="832,1381,1044,1409"/>
+<area shape="rect" id="node36" href="$d5/d41/classPHHepMCGenEventMap.html#aeee51cbc5dbbd18af41e66c03e955319" title="fetch event" alt="" coords="546,1433,761,1461"/>
+<area shape="rect" id="node37" href="$d7/d7b/classPHHepMCGenEvent.html#a5f1b4c60d96b186b12ab5cca2d1e4135" title="boost beta vector for Lorentz Transform, part of composition of a LorentzRotation to translate from h..." alt="" coords="561,1485,746,1529"/>
+<area shape="rect" id="node38" href="$d7/d7b/classPHHepMCGenEvent.html#aeb1f4b1ca526d968a3b025a3063c61c4" title="collision vertex position in the Hall coordinate system, use PHENIX units of cm, ns" alt="" coords="561,1553,746,1597"/>
+<area shape="rect" id="node39" href="$d7/d7b/classPHHepMCGenEvent.html#a7786330d4bf792093bdddf80f1dbd90a" title="rotation angle, part of composition of a LorentzRotation to translate from hepmc event frame to lab f..." alt="" coords="561,1621,746,1665"/>
+<area shape="rect" id="node40" href="$d7/d7b/classPHHepMCGenEvent.html#a102ed80a0615d888d28d0260165a33a2" title="rotation axis vector, part of composition of a LorentzRotation to translate from hepmc event frame to..." alt="" coords="561,1689,746,1733"/>
+<area shape="rect" id="node41" href="$d7/d7b/classPHHepMCGenEvent.html#aefba90e1138cf40fc9892de617dc3da8" title="PHHepMCGenEvent::identify" alt="" coords="547,1757,760,1785"/>
+<area shape="rect" id="node42" href="$d5/d41/classPHHepMCGenEventMap.html#abcfc1ad1ef0098a5de655849cea459da" title="PHHepMCGenEventMap\l::identify" alt="" coords="562,2185,745,2229"/>
+<area shape="rect" id="node43" href="$dd/d2a/classPHHepMCGenHelper.html#af1c2525b75067fcdd4c28de6007c5963" title="move vertex in translation according to vertex settings" alt="" coords="550,1809,757,1853"/>
+<area shape="rect" id="node44" href="$d7/d7b/classPHHepMCGenEvent.html#a4cd34cc37b99ec3a4a1301dfed8eab6c" title="move the collision vertex position in the Hall coordinate system, use PHENIX units of cm..." alt="" coords="816,1847,1060,1875"/>
+<area shape="rect" id="node45" href="$dd/d2a/classPHHepMCGenHelper.html#a58ad41ea13c1a97011b3f6f21db7f1f7" title="PHHepMCGenHelper::Print" alt="" coords="553,1929,753,1957"/>
+<area shape="rect" id="node46" href="$d7/d7b/classPHHepMCGenEvent.html#a6e939135c1143e3c418ea7e3888f50ab" title="boost beta vector for Lorentz Transform, part of composition of a LorentzRotation to translate from h..." alt="" coords="561,1981,745,2025"/>
+<area shape="rect" id="node47" href="$d7/d7b/classPHHepMCGenEvent.html#a64203cb7fc8fabe4914ca1d6625574bf" title="rotation angle, part of composition of a LorentzRotation to translate from hepmc event frame to lab f..." alt="" coords="561,2049,745,2093"/>
+<area shape="rect" id="node48" href="$d7/d7b/classPHHepMCGenEvent.html#a61dba901b939024a50fed12b1d0c114a" title="rotation axis vector, part of composition of a LorentzRotation to translate from hepmc event frame to..." alt="" coords="561,2117,745,2161"/>
+<area shape="rect" id="node50" href="$d7/d7b/classPHHepMCGenEvent.html#a03da97991279b9b2598f0c5956400329" title="PHHepMCGenEvent::set\l_embedding_id" alt="" coords="561,2253,745,2297"/>
+</map>

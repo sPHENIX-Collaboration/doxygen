@@ -1,0 +1,28 @@
+<map id="PHG4Prototype2OuterHcalSteppingAction::UserSteppingAction" name="PHG4Prototype2OuterHcalSteppingAction::UserSteppingAction">
+<area shape="rect" id="node2" href="$db/d88/classPHG4Shower.html#a065eda98eebf1d2b83b081188d306df3" title="PHG4Shower::add_g4hit_id" alt="" coords="341,5,545,33"/>
+<area shape="rect" id="node3" href="$d4/d30/classPHG4HitContainer.html#a4df3ca68ecff69c9d7976b84fcc82e93" title="PHG4HitContainer::AddHit" alt="" coords="344,57,543,85"/>
+<area shape="rect" id="node4" href="$d3/d9e/classPHG4Hit.html#acea6b2f3763d899e4de3765b9b5c6e51" title="PHG4Hit::get_hit_id" alt="" coords="621,84,773,112"/>
+<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html#a299edb9d0b140d0456f8bfecdf9cac56" title="PHG4Hit::get_edep" alt="" coords="369,161,518,189"/>
+<area shape="rect" id="node6" href="$d3/d9e/classPHG4Hit.html#ab8db2cb7bc978a58777600b2bd7a22ac" title="PHG4Hit::get_eion" alt="" coords="371,213,515,241"/>
+<area shape="rect" id="node7" href="$dd/d15/classPHG4Prototype2OuterHcalDetector.html#aeefb876006092cb180d6eb397dcdddfb" title="PHG4Prototype2OuterHcalDetector\l::get_Layer" alt="" coords="314,265,573,309"/>
+<area shape="rect" id="node8" href="$d3/d9e/classPHG4Hit.html#a58aae50a4a38ecbc38878e98bb71a1c7" title="PHG4Hit::get_light\l_yield" alt="" coords="370,333,517,377"/>
+<area shape="rect" id="node9" href="$dd/d15/classPHG4Prototype2OuterHcalDetector.html#a583c85ff345482670e3dd9837d77294f" title="PHG4Prototype2OuterHcalDetector\l::get_scinti_row_id" alt="" coords="314,401,573,445"/>
+<area shape="rect" id="node10" href="$dd/d15/classPHG4Prototype2OuterHcalDetector.html#a427e248c0242f55ef5051e014ad49d5c" title="PHG4Prototype2OuterHcalDetector\l::get_steel_plate_id" alt="" coords="314,469,573,513"/>
+<area shape="rect" id="node11" href="$d4/d30/classPHG4HitContainer.html#a5073671e6d35969dc3d421e2278229af" title="PHG4HitContainer::GetID" alt="" coords="348,537,539,565"/>
+<area shape="rect" id="node12" href="$d5/d5c/classPHG4Prototype2OuterHcalSteppingAction.html#afa79d071be6cb02bab072ca9002f7b09" title="PHG4Prototype2OuterHcalStepping\lAction::GetLightCorrection" alt="" coords="313,589,573,633"/>
+<area shape="rect" id="node13" href="$df/d3f/classPHG4SteppingAction.html#a57aa751589ae9eb0c2e6563948e85513" title="get amount of energy that can make scintillation light, in Unit of GeV." alt="" coords="334,657,553,701"/>
+<area shape="rect" id="node14" href="$dd/d15/classPHG4Prototype2OuterHcalDetector.html#a57460726ed1b24e7bb03f0810b0f2106" title="PHG4Prototype2OuterHcalDetector\l::IsInPrototype2OuterHcal" alt="" coords="314,725,573,769"/>
+<area shape="rect" id="node15" href="$d3/d9e/classPHG4Hit.html#abfb89e6996324dc9961cf790c74c7741" title="Clear Event." alt="" coords="381,793,506,821"/>
+<area shape="rect" id="node16" href="$d3/d9e/classPHG4Hit.html#a4eb72c64e474205be82b3c204d866c11" title="PHG4Hit::set_edep" alt="" coords="369,845,517,873"/>
+<area shape="rect" id="node17" href="$d3/d9e/classPHG4Hit.html#aa452d82dfd4d441ee3e288afe1fcdb33" title="PHG4Hit::set_eion" alt="" coords="372,897,515,925"/>
+<area shape="rect" id="node18" href="$d3/d9e/classPHG4Hit.html#ac80549336f03eac80360224252535684" title="PHG4Hit::set_hit_type" alt="" coords="359,949,527,977"/>
+<area shape="rect" id="node19" href="$d3/d9e/classPHG4Hit.html#ac5cfeeb1e4cdd3e8ea41c54bad5f2d9c" title="PHG4Hit::set_light\l_yield" alt="" coords="371,1001,516,1045"/>
+<area shape="rect" id="node20" href="$d3/d9e/classPHG4Hit.html#af7133a966e5568690cd2d4fbc897116b" title="PHG4Hit::set_row" alt="" coords="374,1069,513,1097"/>
+<area shape="rect" id="node21" href="$d3/d9e/classPHG4Hit.html#a441a2957f667747ef14eccd4eac91f82" title="PHG4Hit::set_scint_id" alt="" coords="361,1121,526,1149"/>
+<area shape="rect" id="node22" href="$d3/d9e/classPHG4Hit.html#a0e5b38e4f13efc793eb85b006763ede5" title="PHG4Hit::set_shower_id" alt="" coords="353,1173,534,1201"/>
+<area shape="rect" id="node23" href="$d3/d9e/classPHG4Hit.html#a5a46a621b6b2931937e028dad5a1ead5" title="PHG4Hit::set_t" alt="" coords="383,1225,503,1253"/>
+<area shape="rect" id="node24" href="$d3/d9e/classPHG4Hit.html#a765310edee693bde31e0fefe92827155" title="PHG4Hit::set_trkid" alt="" coords="371,1277,515,1305"/>
+<area shape="rect" id="node25" href="$d3/d9e/classPHG4Hit.html#a29c3320afd3e1747132d956632be4754" title="PHG4Hit::set_x" alt="" coords="382,1329,505,1357"/>
+<area shape="rect" id="node26" href="$d3/d9e/classPHG4Hit.html#a977a9146151279a48f59f7ee7e1f8669" title="PHG4Hit::set_y" alt="" coords="382,1381,505,1409"/>
+<area shape="rect" id="node27" href="$d3/d9e/classPHG4Hit.html#a4fdb700121c3f2c3c529d025f72bf93c" title="PHG4Hit::set_z" alt="" coords="383,1433,504,1461"/>
+</map>

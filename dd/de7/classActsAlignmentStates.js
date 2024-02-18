@@ -1,0 +1,28 @@
+var classActsAlignmentStates =
+[
+    [ "Trajectory", "dd/de7/classActsAlignmentStates.html#a29998248ebdf523c9dd22a8951589f95", null ],
+    [ "ActsAlignmentStates", "dd/de7/classActsAlignmentStates.html#ac0ba93952f2d1499da2ddb69d470608b", null ],
+    [ "~ActsAlignmentStates", "dd/de7/classActsAlignmentStates.html#adad4742077fad4e49b50596b0f7126f0", null ],
+    [ "actsGeometry", "dd/de7/classActsAlignmentStates.html#a0d5be5b6ed0c4cafb791d32b0de07388", null ],
+    [ "clusters", "dd/de7/classActsAlignmentStates.html#a39e045ba43602e43ef7c165de10113a1", null ],
+    [ "distortionContainers", "dd/de7/classActsAlignmentStates.html#a5a62133ae9169e478239defb443a03e6", null ],
+    [ "fieldMap", "dd/de7/classActsAlignmentStates.html#a34314b576a49254b2a6853f4592a763a", null ],
+    [ "fillAlignmentStateMap", "dd/de7/classActsAlignmentStates.html#a89b826cc00a083d22bff9fbed88a7924", null ],
+    [ "get_projectionXY", "dd/de7/classActsAlignmentStates.html#a12cf5f7031a2c0637f4a4e2d13582b86", null ],
+    [ "makeGlobalDerivatives", "dd/de7/classActsAlignmentStates.html#a8d7cb69e4c38227eae8483aa9f5466cd", null ],
+    [ "makeTpcGlobalCorrections", "dd/de7/classActsAlignmentStates.html#a30b0c23410cf201c83a7e75a623589d2", null ],
+    [ "stateMap", "dd/de7/classActsAlignmentStates.html#afb99639c0dbb92fbcdcfd2945f6f020e", null ],
+    [ "verbosity", "dd/de7/classActsAlignmentStates.html#a7e4979edbf00d98a865e0f9223df3f0c", null ],
+    [ "m_alignmentStateMap", "dd/de7/classActsAlignmentStates.html#a78d961c37ab4357e0f7e5aac42a63603", null ],
+    [ "m_clusErrPara", "dd/de7/classActsAlignmentStates.html#a77a5b2b3bcdb30e6a157f74406471bca", null ],
+    [ "m_clusterCrossingCorrection", "dd/de7/classActsAlignmentStates.html#ab4e3a0dccb6f19af080ecd367bb35676", null ],
+    [ "m_clusterMap", "dd/de7/classActsAlignmentStates.html#a9239132f0d203fcd387f48a6d61363ef", null ],
+    [ "m_dcc_average", "dd/de7/classActsAlignmentStates.html#a48eb4e32280c1402c56a22b18cfbbfb9", null ],
+    [ "m_dcc_fluctuation", "dd/de7/classActsAlignmentStates.html#a04434221e3191da97db3255989f9a438", null ],
+    [ "m_dcc_static", "dd/de7/classActsAlignmentStates.html#a7a7a695696a01414bb826b8f3134fa5f", null ],
+    [ "m_distortionCorrection", "dd/de7/classActsAlignmentStates.html#a508772e852506952add3f3280816186c", null ],
+    [ "m_fieldMap", "dd/de7/classActsAlignmentStates.html#a679fda3185094eba61f3408daac182f8", null ],
+    [ "m_tGeometry", "dd/de7/classActsAlignmentStates.html#ab2ff7c4f54e58caa114b2c62c3905fac", null ],
+    [ "m_verbosity", "dd/de7/classActsAlignmentStates.html#aa97993e70e197853fb4aacd875ea36c6", null ],
+    [ "sensorAngles", "dd/de7/classActsAlignmentStates.html#ae9dfaa53d4cc38af58a51657a82c969c", null ]
+];

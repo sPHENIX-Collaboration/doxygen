@@ -1,0 +1,25 @@
+<map id="PgPostBankBackupManager::getTotalRowCount" name="PgPostBankBackupManager::getTotalRowCount">
+<area shape="rect" id="node2" href="$dd/d85/classTSQLConnection.html#a7bfca405ed849d7fc90270b0fdccfe61" title="TSQLConnection::CreateStatement" alt="" coords="263,152,521,180"/>
+<area shape="rect" id="node3" href="$d2/d58/classTSQLStatement.html#a74c6794fc585a834d31e71bf3fe9d3f3" title="TSQLStatement::ExecuteQuery" alt="" coords="276,204,508,232"/>
+<area shape="rect" id="node13" href="$d4/dac/classPgPostApplication.html#a2fead151fe51e2164f13fdb86c4f0d9c" title="PgPostApplication::\lgetConnection" alt="" coords="317,384,467,428"/>
+<area shape="rect" id="node22" href="$d0/db4/classTSQLResultSet.html#aa7dab3bd3c3d0a632a9553da8585f2e1" title="TSQLResultSet::GetInt" alt="" coords="306,332,478,360"/>
+<area shape="rect" id="node23" href="$d4/dac/classPgPostApplication.html#a22f846e80275144e8ceb1a58febd97c0" title="PgPostApplication::\linstance" alt="" coords="317,452,467,496"/>
+<area shape="rect" id="node24" href="$d0/db4/classTSQLResultSet.html#a91d513d9731181f4d01127d59da91522" title="TSQLResultSet::Next" alt="" coords="311,520,473,548"/>
+<area shape="rect" id="node4" href="$dd/d4d/classTSQL.html#a5f3e7a10e954e822f96fee7185b9c46f" title="TSQL::ClearWarnings" alt="" coords="597,177,761,205"/>
+<area shape="rect" id="node5" href="$d0/db4/classTSQLResultSet.html#a26f7c0f5d3f023ced26cd62c6df48ec8" title="TSQLResultSet::Close" alt="" coords="595,229,762,257"/>
+<area shape="rect" id="node6" href="$dd/d85/classTSQLConnection.html#aa75ade25fcebc5a884dae09f1f1cd59b" title="TSQLConnection::GetCatalog" alt="" coords="569,125,788,153"/>
+<area shape="rect" id="node8" href="$dd/d4d/classTSQL.html#a12129fd04a2499449c8d13ed374f007a" title="TSQL::Throw" alt="" coords="881,281,989,309"/>
+<area shape="rect" id="node11" href="$dd/d85/classTSQLConnection.html#af4750098d4214bd8390565896e148013" title="TSQLConnection::SetCatalog" alt="" coords="571,5,787,33"/>
+<area shape="rect" id="node12" href="$da/d0b/classMySQLConnectionPrivate.html#a77ac562ef61183382b70e7a04027c209" title="MySQLConnectionPrivate\l::CheckIfServerIsAlive" alt="" coords="583,57,774,101"/>
+<area shape="rect" id="node7" href="$dd/d85/classTSQLConnection.html#a89016b2a42450757a7233a43f28f3ded" title="TSQLConnection::IsClosed" alt="" coords="836,65,1035,93"/>
+<area shape="rect" id="node9" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1147,256,1205,284"/>
+<area shape="rect" id="node10" href="$d8/d8f/classTSQLException.html#a395335cef98b7d73b7cb158032dcd7e4" title="TSQLException::Print" alt="" coords="1094,308,1258,336"/>
+<area shape="rect" id="node14" href="$d1/df8/classTSQLDriverManager.html#ab9837ad83523524d2bd25829d40f952e" title="TSQLDriverManager::\lGetConnection" alt="" coords="596,452,761,496"/>
+<area shape="rect" id="node21" href="$d4/dac/classPgPostApplication.html#a5b90a9f31d1f91f5d22e959daf2ba7b4" title="PgPostApplication::\lRegister" alt="" coords="603,384,754,428"/>
+<area shape="rect" id="node15" href="$de/d63/TSQLDriverManager_8cxx.html#a6272554846f542535bf6cad71b257aa2" title="InitHandlers" alt="" coords="883,485,987,513"/>
+<area shape="rect" id="node17" href="$dd/d4d/classTSQL.html#a3737a62f70f9859d07b2cfdb95a1ced1" title="TSQL::GetWarnings" alt="" coords="859,537,1012,565"/>
+<area shape="rect" id="node18" href="$d1/df8/classTSQLDriverManager.html#a47891968c18b3bff6c00ba4b7a88f2d6" title="TSQLDriverManager::\lGetConnections" alt="" coords="853,365,1018,409"/>
+<area shape="rect" id="node19" href="$dd/d85/classTSQLConnection.html#a67f5aea4516b2759ec5dcb0fe0e6cf00" title="TSQLConnection::SetURL" alt="" coords="839,433,1031,461"/>
+<area shape="rect" id="node16" href="$de/d63/TSQLDriverManager_8cxx.html#ac941ab2fa068a02690b73de09422638a" title="InitRDBCpath" alt="" coords="1121,489,1231,517"/>
+<area shape="rect" id="node20" href="$de/da5/classTSQLDatabaseMetaData.html#a4a58099a1c291dde74f1accbbf548e8c" title="TSQLDatabaseMetaData\l::SetURL" alt="" coords="1083,421,1269,465"/>
+</map>

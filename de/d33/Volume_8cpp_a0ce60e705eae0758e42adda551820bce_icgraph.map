@@ -1,0 +1,51 @@
+<map id="m_transform" name="m_transform">
+<area shape="rect" id="node2" href="$de/d7d/classActs_1_1Surface.html#a44604fa05382ea7e7a6663a9a89a2bf1" title="Acts::Surface::assignDetector\lElement" alt="" coords="167,5,390,49"/>
+<area shape="rect" id="node3" href="$d2/d65/classActs_1_1Volume.html#a75252b8f45f36534dbbe7153c8b244c2" title="Acts::Volume::boundingBox" alt="" coords="174,73,383,101"/>
+<area shape="rect" id="node4" href="$dc/d00/classExternalsBuilder.html#a7217ffe2143d50ac2b9381c8d9ba5ef7" title="ExternalsBuilder::construct" alt="" coords="176,125,381,153"/>
+<area shape="rect" id="node5" href="$dd/d8f/classCylindricalVolumeBuilder.html#abd96d7d2c07210882d1a8968ab1074fc" title="CylindricalVolumeBuilder\l::construct" alt="" coords="183,177,375,221"/>
+<area shape="rect" id="node6" href="$d2/d87/classInternalSurfaceBuilder.html#a2f2652f8095a99077653d663b415b9a3" title="InternalSurfaceBuilder\l::construct" alt="" coords="192,245,365,289"/>
+<area shape="rect" id="node7" href="$d2/d17/classInternalVolumeBuilder.html#af7c030c21992164cf472143c7017dd39" title="InternalVolumeBuilder\l::construct" alt="" coords="193,313,365,357"/>
+<area shape="rect" id="node8" href="$d6/dae/classActs_1_1AbstractVolume.html#a5a5f4e35333c2f9ab12066e87318ed92" title="Private method to create BoundarySurfaces." alt="" coords="180,381,377,425"/>
+<area shape="rect" id="node9" href="$dd/dcd/classActs_1_1TrackingVolume.html#a922c701f0f1b437d7d8dc871e884f8c5" title="Create Boundary Surface." alt="" coords="180,449,377,493"/>
+<area shape="rect" id="node11" href="$d9/dc7/classActs_1_1DiscLayer.html#aed95b1b86d4c1e3a1c551398531cec15" title="Acts::DiscLayer::DiscLayer" alt="" coords="178,517,379,545"/>
+<area shape="rect" id="node12" href="$de/d80/classMultivariateNormalDistribution.html#ab8867551c9011e806863240b9fbb2daa" title="MultivariateNormalDistribution\l::MultivariateNormalDistribution" alt="" coords="160,569,397,613"/>
+<area shape="rect" id="node13" href="$de/d80/classMultivariateNormalDistribution.html#ade88076fecb9b31f09e2db5f7f86a74d" title="MultivariateNormalDistribution\l::operator()" alt="" coords="165,637,393,681"/>
+<area shape="rect" id="node14" href="$d2/d65/classActs_1_1Volume.html#a5b0f9bbc11412aa546d28c16e853a171" title="Acts::Volume::operator=" alt="" coords="185,705,373,733"/>
+<area shape="rect" id="node15" href="$de/d7d/classActs_1_1Surface.html#a91ca2a753ae471ed1d45a7d05e6844f6" title="Acts::Surface::operator=" alt="" coords="184,757,373,785"/>
+<area shape="rect" id="node22" href="$de/d7d/classActs_1_1Surface.html#a7f658ccc34e6a1f0047cedf33d47bb68" title="Acts::Surface::operator==" alt="" coords="179,809,379,837"/>
+<area shape="rect" id="node23" href="$de/d7d/classActs_1_1Surface.html#a094d716342a3f36de3219927986c9a66" title="Acts::Surface::transform" alt="" coords="185,1335,372,1363"/>
+<area shape="rect" id="node47" href="$d1/d2d/classActs_1_1Experimental_1_1DetectorVolume.html#a9152c13318b31137f7064636f73f7903" title="Acts::Experimental\l::DetectorVolume::transform" alt="" coords="172,1939,385,1983"/>
+<area shape="rect" id="node10" href="$dd/dcd/classActs_1_1TrackingVolume.html#a866746fed80d4f5b1d4175b57a575119" title="Acts::TrackingVolume\l::TrackingVolume" alt="" coords="484,449,651,493"/>
+<area shape="rect" id="node16" href="$d4/d4f/classActs_1_1ConeSurface.html#a0ffcc296e43a0bf934700dad7d80bd3a" title="Acts::ConeSurface::\loperator=" alt="" coords="490,579,645,623"/>
+<area shape="rect" id="node17" href="$d6/dd9/classActs_1_1CylinderSurface.html#a264f16c719e96debe88320f61dd2b8fc" title="Acts::CylinderSurface\l::operator=" alt="" coords="483,647,651,691"/>
+<area shape="rect" id="node18" href="$d1/d30/classActs_1_1LineSurface.html#a5e0c34975be45e853b94bf8f3f68fc1b" title="Acts::LineSurface::\loperator=" alt="" coords="493,715,641,759"/>
+<area shape="rect" id="node21" href="$d3/db7/classActs_1_1PlaneSurface.html#a53041803f4eac24085e4ab228e87f94c" title="Acts::PlaneSurface\l::operator=" alt="" coords="493,783,641,827"/>
+<area shape="rect" id="node19" href="$da/d82/classActs_1_1PerigeeSurface.html#a2ad2c938dd62cfc96e9a26d65ba7b389" title="Acts::PerigeeSurface\l::operator=" alt="" coords="771,681,934,725"/>
+<area shape="rect" id="node20" href="$d0/d1e/classActs_1_1StrawSurface.html#a07f44faa2cee26ab8519ebb77f2156ae" title="Acts::StrawSurface\l::operator=" alt="" coords="778,749,927,793"/>
+<area shape="rect" id="node24" href="$da/d7b/namespaceActs.html#a6f6d3818fb0f55adf102134c40bdd840" title="adjust the BinUtility bu to a surface" alt="" coords="485,851,649,879"/>
+<area shape="rect" id="node25" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#acb4c7f83a37cb29b71e5cb5d52d91fc6" title="Estimates the compatibility of a track to a vertex based on their 3D (if nDim = 3) or 4D (if nDim = 4..." alt="" coords="465,903,670,947"/>
+<area shape="rect" id="node26" href="$d4/dc6/namespaceActs_1_1Experimental_1_1detail_1_1PortalHelper.html#af98cfcd1d53e1f5e7d699edc96ebe807" title="Create and attach the multi link updator, the portal will get a volume updator attached, that points to the different sub volumes depending on the global position and binning &#45; single assignment case." alt="" coords="445,971,689,1031"/>
+<area shape="rect" id="node29" href="$d4/d12/classActs_1_1LayerArrayCreator.html#acefef63c738cce2b27e75db01a0263ee" title="Acts::LayerArrayCreator\l::createNavigationSurface" alt="" coords="469,1055,666,1099"/>
+<area shape="rect" id="node31" href="$d9/d2f/classActs_1_1PlaneLayer.html#aad9a11701bda98dae6bb9d1d32b064a9" title="private helper method to build approach surfaces" alt="" coords="447,1123,688,1167"/>
+<area shape="rect" id="node33" href="$dc/d89/classActsExamples_1_1TGeoITkModuleSplitter.html#a26fc4e48d7b597bd2e98afb043e988cc" title="If applicable, returns a split detector element." alt="" coords="452,1191,683,1235"/>
+<area shape="rect" id="node35" href="$dc/d89/classActsExamples_1_1TGeoITkModuleSplitter.html#a85e62756fff86f8c51aefbd595187449" title="If applicable, returns a split detector element." alt="" coords="452,1259,683,1303"/>
+<area shape="rect" id="node36" href="$dc/d27/structActsFatras_1_1PlanarSurfaceDrift.html#ac93cf8ed5dd33e9f94ce5d9dc9283181" title="ActsFatras::PlanarSurface\lDrift::toReadout" alt="" coords="470,1327,665,1371"/>
+<area shape="rect" id="node38" href="$da/d00/namespaceActs_1_1Svg_1_1PortalConverter.html#aecbd158bf2b3dc0ecb4b684a4ce62c7b" title="Acts::Svg::PortalConverter\l::convert" alt="" coords="467,1395,668,1439"/>
+<area shape="rect" id="node40" href="$d1/de9/namespaceActs_1_1PortalJsonConverter.html#a9fd7f0452186e70f09e80846e56fb65b" title="Convert to json format &#45; dedicated Detray function." alt="" coords="470,1871,665,1915"/>
+<area shape="rect" id="node41" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a9ef9925a437841f9c97b7a1fde912ed3" title="Acts::SurfaceJsonConverter\l::toJson" alt="" coords="464,1463,671,1507"/>
+<area shape="rect" id="node42" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a061759e23fca8e3af2794ff923edb788" title="Acts::SurfaceJsonConverter\l::toJsonDetray" alt="" coords="464,1531,671,1575"/>
+<area shape="rect" id="node43" href="$d1/dc1/namespaceActs_1_1PodioUtil.html#add79bf9338bf85ffa109758c138fc63c" title="Acts::PodioUtil::convert\lSurfaceToPodio" alt="" coords="477,1599,657,1643"/>
+<area shape="rect" id="node44" href="$dd/d7e/namespaceActs_1_1Test.html#adc0071c076c89425cc6a06c969328fc0" title="Unit test for testing Surface properties." alt="" coords="473,1667,661,1711"/>
+<area shape="rect" id="node45" href="$d3/df2/namespaceDD4hepTestsHelper.html#a52f6166bc09dd705e7a8604ed88f3c5e" title="Helper method to convert a Surface into XML." alt="" coords="486,1735,649,1779"/>
+<area shape="rect" id="node46" href="$dd/de7/classActsAlignmentStates.html#a12cf5f7031a2c0637f4a4e2d13582b86" title="ActsAlignmentStates\l::get_projectionXY" alt="" coords="485,1803,649,1847"/>
+<area shape="rect" id="node27" href="$d1/de9/namespaceActs_1_1PortalJsonConverter.html#ad0006de0c65e9be3594e8882711bbd64" title="convert from json format" alt="" coords="755,927,950,971"/>
+<area shape="rect" id="node28" href="$d6/dd7/PortalJsonConverterTests_8cpp.html#ad250bc2720d7b7d533c7f8e3b6c9064b" title="BOOST_AUTO_TEST_CASE" alt="" coords="755,995,951,1023"/>
+<area shape="rect" id="node30" href="$d4/d12/classActs_1_1LayerArrayCreator.html#adbcf99ad8a103ce4442ae13ebd5276de" title="Acts::LayerArrayCreator\l::layerArray" alt="" coords="761,1055,945,1099"/>
+<area shape="rect" id="node32" href="$d9/d2f/classActs_1_1PlaneLayer.html#aac8563e1174c5a92f786e791a5e42103" title="Acts::PlaneLayer::PlaneLayer" alt="" coords="743,1131,962,1159"/>
+<area shape="rect" id="node34" href="$dc/d89/classActsExamples_1_1TGeoITkModuleSplitter.html#a01364c2071483b632156182b93c5b874" title="If applicable, returns a split detector element." alt="" coords="737,1224,968,1268"/>
+<area shape="rect" id="node37" href="$da/df8/namespaceActsFatras.html#a190769d9aaaa42c0d1dfd0bece1687ea" title="ActsFatras::BOOST_AUTO\l_TEST_CASE" alt="" coords="757,1327,949,1371"/>
+<area shape="rect" id="node39" href="$da/d66/PortalSvgConverterTests_8cpp.html#ad345422e9d69984f7101ef39150865f7" title="BOOST_AUTO_TEST_CASE" alt="" coords="755,1403,951,1431"/>
+<area shape="rect" id="node48" href="$d2/d82/namespaceActs_1_1Svg_1_1DetectorVolumeConverter.html#aee1e4b134574402847976dc1be740dee" title="Acts::Svg::DetectorVolume\lConverter::convert" alt="" coords="466,1939,669,1983"/>
+<area shape="rect" id="node49" href="$d3/db9/namespaceActs_1_1DetectorVolumeJsonConverter.html#a0456a07b300023b78266ce5827f67106" title="Convert to json format." alt="" coords="469,2007,665,2051"/>
+<area shape="rect" id="node50" href="$d3/db9/namespaceActs_1_1DetectorVolumeJsonConverter.html#a125f00f67ec8791bdeec5eb7720f9072" title="Convert to json detray format." alt="" coords="469,2075,665,2119"/>
+</map>

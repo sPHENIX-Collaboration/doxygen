@@ -1,0 +1,42 @@
+<map id="Acts::Surface::transform" name="Acts::Surface::transform">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#a6f6d3818fb0f55adf102134c40bdd840" title="adjust the BinUtility bu to a surface" alt="" coords="280,5,444,33"/>
+<area shape="rect" id="node3" href="$d4/dc6/namespaceActs_1_1Experimental_1_1detail_1_1PortalHelper.html#af98cfcd1d53e1f5e7d699edc96ebe807" title="Create and attach the multi link updator, the portal will get a volume updator attached, that points to the different sub volumes depending on the global position and binning &#45; single assignment case." alt="" coords="240,57,484,117"/>
+<area shape="rect" id="node7" href="$dd/d7e/namespaceActs_1_1Test.html#adc0071c076c89425cc6a06c969328fc0" title="Unit test for testing Surface properties." alt="" coords="268,141,456,185"/>
+<area shape="rect" id="node8" href="$d9/d2f/classActs_1_1PlaneLayer.html#aad9a11701bda98dae6bb9d1d32b064a9" title="private helper method to build approach surfaces" alt="" coords="241,209,483,253"/>
+<area shape="rect" id="node10" href="$da/d00/namespaceActs_1_1Svg_1_1PortalConverter.html#aecbd158bf2b3dc0ecb4b684a4ce62c7b" title="Acts::Svg::PortalConverter\l::convert" alt="" coords="261,277,463,321"/>
+<area shape="rect" id="node12" href="$d1/dc1/namespaceActs_1_1PodioUtil.html#add79bf9338bf85ffa109758c138fc63c" title="Acts::PodioUtil::convert\lSurfaceToPodio" alt="" coords="272,345,452,389"/>
+<area shape="rect" id="node16" href="$d4/d12/classActs_1_1LayerArrayCreator.html#acefef63c738cce2b27e75db01a0263ee" title="Acts::LayerArrayCreator\l::createNavigationSurface" alt="" coords="263,413,461,457"/>
+<area shape="rect" id="node21" href="$dd/de7/classActsAlignmentStates.html#a12cf5f7031a2c0637f4a4e2d13582b86" title="ActsAlignmentStates\l::get_projectionXY" alt="" coords="280,481,444,525"/>
+<area shape="rect" id="node29" href="$d4/db7/classActs_1_1ImpactPointEstimator.html#acb4c7f83a37cb29b71e5cb5d52d91fc6" title="Estimates the compatibility of a track to a vertex based on their 3D (if nDim = 3) or 4D (if nDim = 4..." alt="" coords="259,549,465,593"/>
+<area shape="rect" id="node30" href="$dc/d89/classActsExamples_1_1TGeoITkModuleSplitter.html#a26fc4e48d7b597bd2e98afb043e988cc" title="If applicable, returns a split detector element." alt="" coords="247,617,477,661"/>
+<area shape="rect" id="node32" href="$dc/d89/classActsExamples_1_1TGeoITkModuleSplitter.html#a85e62756fff86f8c51aefbd595187449" title="If applicable, returns a split detector element." alt="" coords="247,685,477,729"/>
+<area shape="rect" id="node33" href="$d3/df2/namespaceDD4hepTestsHelper.html#a52f6166bc09dd705e7a8604ed88f3c5e" title="Helper method to convert a Surface into XML." alt="" coords="281,753,443,797"/>
+<area shape="rect" id="node35" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a9ef9925a437841f9c97b7a1fde912ed3" title="Acts::SurfaceJsonConverter\l::toJson" alt="" coords="259,821,465,865"/>
+<area shape="rect" id="node37" href="$d1/de9/namespaceActs_1_1PortalJsonConverter.html#a9fd7f0452186e70f09e80846e56fb65b" title="Convert to json format &#45; dedicated Detray function." alt="" coords="265,889,459,933"/>
+<area shape="rect" id="node38" href="$dc/d80/namespaceActs_1_1SurfaceJsonConverter.html#a061759e23fca8e3af2794ff923edb788" title="Acts::SurfaceJsonConverter\l::toJsonDetray" alt="" coords="259,957,465,1001"/>
+<area shape="rect" id="node40" href="$dc/d27/structActsFatras_1_1PlanarSurfaceDrift.html#ac93cf8ed5dd33e9f94ce5d9dc9283181" title="ActsFatras::PlanarSurface\lDrift::toReadout" alt="" coords="265,1025,459,1069"/>
+<area shape="rect" id="node4" href="$d1/de9/namespaceActs_1_1PortalJsonConverter.html#ad0006de0c65e9be3594e8882711bbd64" title="convert from json format" alt="" coords="571,29,765,73"/>
+<area shape="rect" id="node6" href="$d6/dd7/PortalJsonConverterTests_8cpp.html#ad250bc2720d7b7d533c7f8e3b6c9064b" title="BOOST_AUTO_TEST_CASE" alt="" coords="570,97,766,125"/>
+<area shape="rect" id="node5" href="$d6/dd7/PortalJsonConverterTests_8cpp.html#a4cb0d4b1daa7fd6b412ab8835d78c49a" title="BOOST_AUTO_TEST_CASE" alt="" coords="857,37,1053,65"/>
+<area shape="rect" id="node9" href="$d9/d2f/classActs_1_1PlaneLayer.html#aac8563e1174c5a92f786e791a5e42103" title="Acts::PlaneLayer::PlaneLayer" alt="" coords="559,173,777,201"/>
+<area shape="rect" id="node11" href="$da/d66/PortalSvgConverterTests_8cpp.html#ad345422e9d69984f7101ef39150865f7" title="BOOST_AUTO_TEST_CASE" alt="" coords="570,225,766,253"/>
+<area shape="rect" id="node13" href="$db/de3/classActs_1_1MutablePodioTrackContainer.html#a1e89c06d3fcfe06324855abec559d0bc" title="Acts::MutablePodioTrackContainer\l::setReferenceSurface_impl" alt="" coords="541,277,795,321"/>
+<area shape="rect" id="node14" href="$d9/da2/exceptionActs_1_1MutablePodioTrackStateContainer.html#ac02bc689ca30db3677a5582e70b417ff" title="Acts::MutablePodioTrackState\lContainer::setReferenceSurface_impl" alt="" coords="532,345,804,389"/>
+<area shape="rect" id="node15" href="$dc/df5/ConvertTrackPodioTest_8cpp.html#a063cec0a43481ea6944c7af195aa7adc" title="BOOST_AUTO_TEST_CASE" alt="" coords="570,413,766,441"/>
+<area shape="rect" id="node17" href="$d4/d12/classActs_1_1LayerArrayCreator.html#adbcf99ad8a103ce4442ae13ebd5276de" title="Acts::LayerArrayCreator\l::layerArray" alt="" coords="576,465,760,509"/>
+<area shape="rect" id="node18" href="$d1/d48/classActs_1_1CuboidVolumeBuilder.html#a91c773c6fb868e14c760eb440f1f6e88" title="This function creates a TrackingVolume with a configurable number of layers and surfaces. Each surface gets a detector element attached if the template parameter is non&#45;void." alt="" coords="852,397,1059,441"/>
+<area shape="rect" id="node20" href="$d3/d58/structActs_1_1Test_1_1CubicTrackingGeometry.html#aa6fe8224c9e10cbad7323afcbb4082be" title="Call operator to build the standard cubic tracking geometry." alt="" coords="861,465,1050,509"/>
+<area shape="rect" id="node19" href="$dd/d7e/namespaceActs_1_1Test.html#a29f38d090533d86121814e1c234950f3" title="Acts::Test::BOOST_AUTO\l_TEST_CASE" alt="" coords="1114,397,1302,441"/>
+<area shape="rect" id="node22" href="$dd/de7/classActsAlignmentStates.html#a89b826cc00a083d22bff9fbed88a7924" title="ActsAlignmentStates\l::fillAlignmentStateMap" alt="" coords="578,533,758,577"/>
+<area shape="rect" id="node23" href="$d6/d54/classPHCosmicsTrkFitter.html#ac35f3feaf6ae8561a8a6ae4b3469fa55" title="PHCosmicsTrkFitter\l::getTrackFitResult" alt="" coords="880,533,1031,577"/>
+<area shape="rect" id="node26" href="$d1/d49/classPHActsTrkFitter.html#abef281afb12f30e5b3571ec8c512b3da" title="PHActsTrkFitter::getTrack\lFitResult" alt="" coords="861,601,1050,645"/>
+<area shape="rect" id="node24" href="$d6/d54/classPHCosmicsTrkFitter.html#a10ea8f2ecd048a4699b3eeae58bc5934" title="PHCosmicsTrkFitter\l::loopTracks" alt="" coords="1133,533,1283,577"/>
+<area shape="rect" id="node25" href="$d6/d54/classPHCosmicsTrkFitter.html#af7f27bd06c1766a397916ed87c1a0c4e" title="Process each event by calling the fitter." alt="" coords="1373,533,1524,577"/>
+<area shape="rect" id="node27" href="$d1/d49/classPHActsTrkFitter.html#a73e603071673ca6e71dffe11dd7a7770" title="PHActsTrkFitter::loopTracks" alt="" coords="1107,609,1309,637"/>
+<area shape="rect" id="node28" href="$d1/d49/classPHActsTrkFitter.html#ac9f58d3a56f2ef578fd0dd38b1fdaec0" title="Process each event by calling the fitter." alt="" coords="1357,601,1540,645"/>
+<area shape="rect" id="node31" href="$dc/d89/classActsExamples_1_1TGeoITkModuleSplitter.html#a01364c2071483b632156182b93c5b874" title="If applicable, returns a split detector element." alt="" coords="553,651,783,695"/>
+<area shape="rect" id="node34" href="$d5/d9c/DD4hepCylinderLayerStructureTests_8cpp.html#ac2ef124e83381fd6cb33cafe9a0c6068" title="BOOST_AUTO_TEST_CASE" alt="" coords="570,761,766,789"/>
+<area shape="rect" id="node36" href="$d2/d6b/SurfaceJsonConverterTests_8cpp.html#a1ad34a06e2b4bf87dcfa85e064ee4841" title="BOOST_AUTO_TEST_CASE" alt="" coords="570,829,766,857"/>
+<area shape="rect" id="node39" href="$d2/d6b/SurfaceJsonConverterTests_8cpp.html#a1c9d7fd28364df2ec928987206ba0249" title="BOOST_AUTO_TEST_CASE" alt="" coords="570,965,766,993"/>
+<area shape="rect" id="node41" href="$da/df8/namespaceActsFatras.html#a190769d9aaaa42c0d1dfd0bece1687ea" title="ActsFatras::BOOST_AUTO\l_TEST_CASE" alt="" coords="572,1025,764,1069"/>
+</map>

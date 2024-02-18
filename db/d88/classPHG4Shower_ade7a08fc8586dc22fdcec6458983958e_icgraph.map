@@ -1,0 +1,51 @@
+<map id="PHG4Shower::get_parent_shower_id" name="PHG4Shower::get_parent_shower_id">
+<area shape="rect" id="node2" href="$dc/d23/classBaseTruthEval.html#a443a09b6f15a320ff923ef5d930f44c4" title="which secondary showers are inside this shower?" alt="" coords="263,407,425,451"/>
+<area shape="rect" id="node3" href="$dc/d23/classBaseTruthEval.html#a33511b72aa6663af766391a6da4f7663" title="what was the primary shower for this possibly secondary shower?" alt="" coords="515,432,664,476"/>
+<area shape="rect" id="node26" href="$dc/d23/classBaseTruthEval.html#a98bebdc989a84ce46fff6fa958476041" title="is this a primary shower?" alt="" coords="245,527,443,555"/>
+<area shape="rect" id="node50" href="$d1/dc0/PHG4Shower_8h.html#a43e0301c0971cc46e6c47fcbdf2c59df" title="operator==" alt="" coords="293,579,395,607"/>
+<area shape="rect" id="node4" href="$d7/d3c/classCaloTruthEval.html#a4d2ab62ada677f474c71eaf2222bb3e8" title="what was the primary shower associated with the shower object?" alt="" coords="752,388,899,432"/>
+<area shape="rect" id="node5" href="$da/d7e/classCaloRawClusterEval.html#a238c2f6f0ae23af51fcc56d1dd968eb4" title="what clusters did this primary truth shower contribute energy to?" alt="" coords="989,515,1143,559"/>
+<area shape="rect" id="node8" href="$da/d7e/classCaloRawClusterEval.html#aadd6df22b452d89c41139c157fe9d14e" title="which cluster did this primary truth shower contribute the most energy to?" alt="" coords="1254,395,1409,439"/>
+<area shape="rect" id="node10" href="$dd/d59/classCaloEvaluator.html#a5298ee9646d361a4960fc0e20f83c880" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1517,331,1705,375"/>
+<area shape="rect" id="node15" href="$de/d0b/classCaloRawTowerEval.html#aa4fd291619249c3c6ea981b35578db0b" title="what towers did this primary truth particle contribute energy to?" alt="" coords="980,703,1152,747"/>
+<area shape="rect" id="node16" href="$d3/d22/classJetTruthEval.html#abfb6a77aa0c6490d5c48ac50ce84a2cf" title="which showers were left by particles contributing to this truth jet?" alt="" coords="983,71,1149,115"/>
+<area shape="rect" id="node17" href="$de/d0b/classCaloRawTowerEval.html#a8fa1befd5a2ebd1ffb575ce4f59090b8" title="which tower did the primary truth particle contribute the most energy to?" alt="" coords="1238,651,1425,695"/>
+<area shape="rect" id="node18" href="$da/d7e/classCaloRawClusterEval.html#a1df87a8403be2e5146a922554953c4e7" title="how much energy did this primary truth shower contribute to this cluster" alt="" coords="969,191,1163,235"/>
+<area shape="rect" id="node22" href="$de/d0b/classCaloRawTowerEval.html#a1ca5279dd155a148f0a7cdfcb601f15c" title="how much energy did this primary truth particle contribute to this tower?" alt="" coords="977,379,1155,423"/>
+<area shape="rect" id="node23" href="$d7/d3c/classCaloTruthEval.html#aa63bfd50d5ead2b598e13442220de852" title="what was the electron/hadron radio of energy deposits inside the calo colume?" alt="" coords="993,259,1139,303"/>
+<area shape="rect" id="node24" href="$d7/d3c/classCaloTruthEval.html#a282bab9b4231f9160e7c2b012186558e" title="how much energy did this primary and its shower deposit in the calo volume?" alt="" coords="971,447,1161,491"/>
+<area shape="rect" id="node25" href="$d7/d3c/classCaloTruthEval.html#a8260fa304986f488654c5a3f58bbb9be" title="what truth hits are the result of this primary particle and its shower" alt="" coords="963,771,1169,815"/>
+<area shape="rect" id="node6" href="$d2/d81/classpythiaEMCalAna.html#a945e571a7336ceb309b7e07a811b980f" title="pythiaEMCalAna::addPrimary\lFromGeant" alt="" coords="1222,583,1441,627"/>
+<area shape="rect" id="node7" href="$da/d7e/classCaloRawClusterEval.html#af15ece01456a660bd38b305c50ab9699" title="what clusters did this primary truth particle contribute energy to?" alt="" coords="1254,815,1409,859"/>
+<area shape="rect" id="node14" href="$dd/d59/classCaloEvaluator.html#ab7e09466d57c5b93274f09f61c0f321e" title="print out the ancestry information for detailed diagnosis" alt="" coords="1217,531,1445,559"/>
+<area shape="rect" id="node9" href="$da/d7e/classCaloRawClusterEval.html#a88fec8e70a64c5cb4986bcc4ad519470" title="which cluster did this primary truth particle contribute the most energy to?" alt="" coords="1534,1188,1689,1232"/>
+<area shape="rect" id="node12" href="$d7/ded/classSTACalorimeterCharacterization.html#aebaae010ab7828d310691192de7d16fe" title="STACalorimeterCharacterization\l::process_event" alt="" coords="1493,707,1729,751"/>
+<area shape="rect" id="node13" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a208fd8c361982115126f11b88541e071" title="QAG4SimulationCalorimeter\l::process_event_Cluster" alt="" coords="1505,399,1717,443"/>
+<area shape="rect" id="node11" href="$dd/d59/classCaloEvaluator.html#ab0007637af39a6efee41168c44d5bbdf" title="CaloEvaluator::process\l_event" alt="" coords="1777,400,1953,444"/>
+<area shape="rect" id="node19" href="$da/d7e/classCaloRawClusterEval.html#a7a286115cba7a692a7a6da4cdfaf1fca" title="how much energy did this primary truth particle contribute to this cluster" alt="" coords="1234,463,1429,507"/>
+<area shape="rect" id="node20" href="$dd/d75/classJetRecoEval.html#af6356d19d3ff0ee9c9849348466e7d0e" title="what was the energy contribution to this reconstructed jet from this truth jet?" alt="" coords="1238,140,1425,184"/>
+<area shape="rect" id="node21" href="$da/d7e/classCaloRawClusterEval.html#ac0e58d7e3a9311943294ce4a7ac4d290" title="which primary shower contributed the most energy to this cluster?" alt="" coords="1252,208,1411,268"/>
+<area shape="rect" id="node27" href="$dc/d23/classBaseTruthEval.html#a7def33b4d1e4fe19922faa02ea287a5c" title="what was the primary particle that is associated with this particle?" alt="" coords="515,1007,664,1051"/>
+<area shape="rect" id="node44" href="$dc/d23/classBaseTruthEval.html#a6f415bfe15e689b3fbb6426fd80f9e2b" title="is this a primary particle?" alt="" coords="491,500,688,528"/>
+<area shape="rect" id="node45" href="$d4/de4/classSvtxTruthEval.html#af3301c0ffc7ae211a2a964e5efba970f" title="SvtxTruthEval::is_primary" alt="" coords="969,1283,1163,1311"/>
+<area shape="rect" id="node46" href="$d7/d3c/classCaloTruthEval.html#af490b912237dbd18f10b41c2396f3e61" title="is this a primary shower?" alt="" coords="493,552,686,580"/>
+<area shape="rect" id="node28" href="$dc/d23/classBaseTruthEval.html#a4283b2f124d147df8499373f59372773" title="what was the embed flag set for this particle?" alt="" coords="751,972,900,1016"/>
+<area shape="rect" id="node38" href="$d4/de4/classSvtxTruthEval.html#a6c3c1df82c4d5b954d71cb9288071171" title="SvtxTruthEval::get\l_primary_particle" alt="" coords="752,1108,899,1152"/>
+<area shape="rect" id="node39" href="$dc/d23/classBaseTruthEval.html#adc3cb5b39ad856e0b0cb19a09a04e0df" title="what was the primary particle that is associated with this shower?" alt="" coords="751,1176,900,1220"/>
+<area shape="rect" id="node40" href="$d7/d3c/classCaloTruthEval.html#a8cf23ffd62bf8e3fe09775bf807b64bc" title="what was the primary particle associated with the shower object?" alt="" coords="752,891,899,935"/>
+<area shape="rect" id="node43" href="$dc/d23/classBaseTruthEval.html#a1fbb3b7ea61e2d734fb56448565d5518" title="what was the primary shower that is associated with this particle?" alt="" coords="751,1040,900,1084"/>
+<area shape="rect" id="node29" href="$d4/de4/classSvtxTruthEval.html#acba57da6300f3a718d9547ec1c96bb73" title="SvtxTruthEval::get\l_embed" alt="" coords="993,1215,1139,1259"/>
+<area shape="rect" id="node37" href="$d7/d3c/classCaloTruthEval.html#acc021440691d410ba3b017ce742be69b" title="what was the embed flag passed with this particle?" alt="" coords="993,1011,1139,1055"/>
+<area shape="rect" id="node30" href="$d8/d98/classpsTOFTimezeroEval.html#ae9fd1570652089bed4ec7eb81009b318" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1250,1347,1413,1391"/>
+<area shape="rect" id="node31" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a0fd261422264aedc22d0506ef5e897c4" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1244,1415,1419,1459"/>
+<area shape="rect" id="node32" href="$d9/d03/classTrackClusterEvaluator.html#a9ca3bdf0977a57e152003b989bd2e1ae" title="TrackClusterEvaluator\l::processTruthTracks" alt="" coords="1246,1007,1417,1051"/>
+<area shape="rect" id="node33" href="$d9/d03/classTrackClusterEvaluator.html#a66cad1df2e8397a40eefe607cc3a792b" title="TrackClusterEvaluator\l::processRecoTracks" alt="" coords="1246,1075,1417,1119"/>
+<area shape="rect" id="node34" href="$d5/df8/classQAG4SimulationMicromegas.html#a7d91700abab98412e6b427f4098895ca" title="evaluate clusters" alt="" coords="1224,1143,1439,1187"/>
+<area shape="rect" id="node35" href="$df/db8/classQAG4SimulationTpc.html#aec3889f1254e0eec8b2b6f354e1375bd" title="evaluate clusters" alt="" coords="1249,1211,1414,1255"/>
+<area shape="rect" id="node36" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="1237,1279,1425,1323"/>
+<area shape="rect" id="node41" href="$da/d7e/classCaloRawClusterEval.html#a7eb3923a9351902ac451910b71068d19" title="what particles contributed energy to this cluster?" alt="" coords="989,1131,1143,1191"/>
+<area shape="rect" id="node42" href="$de/d0b/classCaloRawTowerEval.html#a3cd0ac230f085c40d0d2a025deadf01d" title="what particles contributed energy to this tower?" alt="" coords="973,891,1159,935"/>
+<area shape="rect" id="node47" href="$de/d0b/classCaloRawTowerEval.html#a0bff574b0c0d761f9e255d35bf1c2b8d" title="what towers did this primary shower contribute energy to?" alt="" coords="739,635,911,679"/>
+<area shape="rect" id="node48" href="$de/d0b/classCaloRawTowerEval.html#a6e75471eb8324a36c82758e37f764fa1" title="which tower did this primary shower contribute the most energy to?" alt="" coords="973,635,1159,679"/>
+<area shape="rect" id="node49" href="$de/d0b/classCaloRawTowerEval.html#a3f58f1e7d58a40bc361dcc9443c29465" title="how much energy did this primary shower contribute to this tower?" alt="" coords="736,212,915,256"/>
+</map>

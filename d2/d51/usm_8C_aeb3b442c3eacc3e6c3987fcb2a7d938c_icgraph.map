@@ -1,0 +1,51 @@
+<map id="csNorm" name="csNorm">
+<area shape="rect" id="node2" href="$d2/d51/usm_8C.html#a4fc3d7a8ab8dddafe2295d65165d9cf7" title="tile" alt="" coords="125,2015,168,2043"/>
+<area shape="rect" id="node3" href="$d3/d5f/classCylinderGeomMicromegas.html#af1d47a5c02dd10ac4bdbc7e8e1c8b917" title="get tile for a given world location assuming tiles are portion of cylinder centered around tile cente..." alt="" coords="237,375,437,419"/>
+<area shape="rect" id="node5" href="$d4/d6a/classMicromegasCombinedDataDecoder.html#aa05e5cbee2a1e33f005515927de080f8" title="event processing" alt="" coords="507,1533,768,1577"/>
+<area shape="rect" id="node6" href="$d2/ddf/namespaceMicromegasDefs.html#a2909143d348383083b9c12cb810a8c04" title="Generate a hitsetkey for the micromegas." alt="" coords="220,735,455,763"/>
+<area shape="rect" id="node17" href="$d9/d24/classPHTruthClustering.html#aaec01b2b7b23d1de28de24b0ab3d28b1" title="PHTruthClustering::\lall_truth_clusters" alt="" coords="816,675,967,719"/>
+<area shape="rect" id="node18" href="$d4/de4/classSvtxTruthEval.html#a6051f9387f039a6604738f6a451c704b" title="SvtxTruthEval::all\l_truth_clusters" alt="" coords="822,779,961,823"/>
+<area shape="rect" id="node28" href="$da/d60/classMicromegasHotChannelMapData.html#a3dedd6aed6778bd8e758d5b83b12dafb" title="returns true if channel is hot" alt="" coords="216,1584,459,1628"/>
+<area shape="rect" id="node29" href="$d3/d32/namespaceAlignmentDefs.html#a1ce9a623b7a4b125deb7c8af7c079c42" title="AlignmentDefs::getLabelBase" alt="" coords="226,1652,449,1680"/>
+<area shape="rect" id="node34" href="$d9/d5c/classPHG4MicromegasDetector.html#adc9e53e8e33066cc4d281b6abc44b7cf" title="construct" alt="" coords="237,1704,437,1748"/>
+<area shape="rect" id="node35" href="$d3/d25/classClusterSequence.html#ab91e151bf380c019839d0be23ced525f" title="ClusterSequence::_bj\l_remove_from_tiles" alt="" coords="255,1772,419,1816"/>
+<area shape="rect" id="node36" href="$d3/d25/classClusterSequence.html#a39b4bf2b32a61f1fb9ec2eb3cb185607" title="ClusterSequence::_initialise\l_tiles" alt="" coords="233,1840,441,1884"/>
+<area shape="rect" id="node37" href="$d3/d25/classClusterSequence.html#ae8a1b127109fdc4a54480d254c8a792c" title="ClusterSequence::_tj\l_set_jetinfo" alt="" coords="257,1908,417,1952"/>
+<area shape="rect" id="node38" href="$d3/d25/classClusterSequence.html#aabdd5fe392e8b0c25992b1df6a37a579" title="ClusterSequence::_print\l_tiles" alt="" coords="245,1976,429,2020"/>
+<area shape="rect" id="node39" href="$d3/d25/classClusterSequence.html#a7584abc54015400ecdeac7c7657c8f1d" title="ClusterSequence::_tiled\l_N2_cluster" alt="" coords="547,2053,728,2097"/>
+<area shape="rect" id="node40" href="$d3/d25/classClusterSequence.html#a628d047f8486d71baa9903bd6df94161" title="ClusterSequence::_faster\l_tiled_N2_cluster" alt="" coords="541,2129,733,2173"/>
+<area shape="rect" id="node41" href="$d3/d25/classClusterSequence.html#a6075bd007f85fd34e770b39ccdca5446" title="ClusterSequence::_minheap\l_faster_tiled_N2_cluster" alt="" coords="532,2203,743,2247"/>
+<area shape="rect" id="node42" href="$d8/dbe/classLazyTiling25.html#a3177ddbdd51ae44c26edeafa52235dbb" title="LazyTiling25::_initialise\l_tiles" alt="" coords="248,2267,427,2311"/>
+<area shape="rect" id="node43" href="$d8/dbe/classLazyTiling25.html#a572321e5bc4d10c1e6878fa9945e7fe6" title="LazyTiling25::_tj_set\l_jetinfo" alt="" coords="258,2387,417,2431"/>
+<area shape="rect" id="node44" href="$d8/dbe/classLazyTiling25.html#af45e2f504bb02eae6f5dffb162aa4bb9" title="LazyTiling25::run" alt="" coords="569,2428,706,2456"/>
+<area shape="rect" id="node45" href="$d8/dbe/classLazyTiling25.html#a6d7fcc1aceaa7f412dca1c00cad34ef0" title="LazyTiling25::_bj_remove\l_from_tiles" alt="" coords="241,2455,433,2499"/>
+<area shape="rect" id="node46" href="$d8/dbe/classLazyTiling25.html#a485be1034d6f274cac52bdf48e18f668" title="LazyTiling25::_print\l_tiles" alt="" coords="260,2623,415,2667"/>
+<area shape="rect" id="node47" href="$d8/dbe/classLazyTiling25.html#a20736b2fbcaec9bac875c743d46a089c" title="LazyTiling25::_add\l_untagged_neighbours\l_to_tile_union_using\l_max_info" alt="" coords="249,2523,426,2599"/>
+<area shape="rect" id="node48" href="$d6/d0c/classLazyTiling9.html#a0e8c176445183a4f9e03ba8ac6b40131" title="LazyTiling9::_initialise\l_tiles" alt="" coords="253,2096,422,2140"/>
+<area shape="rect" id="node49" href="$d6/d0c/classLazyTiling9.html#a59d38f77750b9265c6f182157130b1cf" title="LazyTiling9::run" alt="" coords="273,2691,402,2719"/>
+<area shape="rect" id="node50" href="$d9/dae/classLazyTiling9Alt.html#ac84f56586f04bf876590c60b0b015806" title="LazyTiling9Alt::run" alt="" coords="264,2743,411,2771"/>
+<area shape="rect" id="node4" href="$da/db1/classMakeActsGeometry.html#a703340410b4232c39800ede2f3bb1ff9" title="bind micromegas surfaces to hitset id" alt="" coords="526,83,749,127"/>
+<area shape="rect" id="node7" href="$d3/d5f/classCylinderGeomMicromegas.html#ae77b8f035814c95e79f07ba6db42e4f9" title="convert world to local position coordinates in (planar) tile reference frame" alt="" coords="537,1043,737,1103"/>
+<area shape="rect" id="node8" href="$d3/d5f/classCylinderGeomMicromegas.html#aa47ef402ea02e01add607dcc92c68e4d" title="convert world to local direction coordinates in (planar) tile reference frame" alt="" coords="533,1127,742,1171"/>
+<area shape="rect" id="node9" href="$d3/d5f/classCylinderGeomMicromegas.html#a17bdf578c682c308c3b1ef44dc7faa44" title="convert local to world position coordinates in (planar) tile reference frame" alt="" coords="537,1195,737,1255"/>
+<area shape="rect" id="node10" href="$d3/d5f/classCylinderGeomMicromegas.html#a7187bf0a9ca11deb77016b31794f5ea8" title="convert local to world direction coordinates in (planar) tile reference frame" alt="" coords="533,1279,742,1323"/>
+<area shape="rect" id="node11" href="$d3/d5f/classCylinderGeomMicromegas.html#a6fee891a8d09adb27417ef21f2d4332e" title="get strip for a give world location and tile" alt="" coords="537,1347,737,1407"/>
+<area shape="rect" id="node12" href="$d3/d5f/classCylinderGeomMicromegas.html#a6d7f21643a605b8ce793eec8f87e1d83" title="get strip length for a given tile" alt="" coords="537,151,737,195"/>
+<area shape="rect" id="node13" href="$d3/d5f/classCylinderGeomMicromegas.html#aa364b6324cfb332fb3233bc0cbb8770b" title="get number of strips" alt="" coords="537,219,737,263"/>
+<area shape="rect" id="node14" href="$d3/d5f/classCylinderGeomMicromegas.html#aac3858ab1b6338b7938e8b3f7e4650ab" title="get local coordinates for a given tile and strip" alt="" coords="537,287,737,331"/>
+<area shape="rect" id="node15" href="$d0/daa/classMicromegasMapping.html#ace65c58f775be992a1c36b761d84862d" title="constructor" alt="" coords="553,355,722,399"/>
+<area shape="rect" id="node16" href="$d6/d9e/namespaceInttDefs.html#a5ba0dd67ed80d91514f9136028cc9338" title="Generate a cluster key from indeces." alt="" coords="556,683,719,711"/>
+<area shape="rect" id="node19" href="$d8/df1/namespaceMvtxDefs.html#acef315b1153c420f248be5073c2600c1" title="Generate a cluster key from indeces." alt="" coords="551,787,723,815"/>
+<area shape="rect" id="node20" href="$d7/db0/namespaceTpcDefs.html#a0202375ade5010ae596a2e0b7c7f5fd0" title="Generate a cluster key from indeces." alt="" coords="555,735,720,763"/>
+<area shape="rect" id="node21" href="$d6/d3f/namespaceTrkrDefs.html#a201667d02154da2cdaa4780616ea0c32" title="Get a valid low / hi range for hitsetkey given tracker id &amp; layer." alt="" coords="542,475,733,503"/>
+<area shape="rect" id="node22" href="$d6/d3f/namespaceTrkrDefs.html#adc0b8a9c794036b9adb3ff5567636f02" title="TrkrDefs::getHitSetKeyHi" alt="" coords="543,527,731,555"/>
+<area shape="rect" id="node23" href="$d6/d3f/namespaceTrkrDefs.html#a36fd0eb8c5bb3f21475acfec8965cf3e" title="Get a valid low / hi range for cluskey given tracker id &amp; layer." alt="" coords="549,579,726,607"/>
+<area shape="rect" id="node24" href="$d6/d3f/namespaceTrkrDefs.html#a53af1843abe50e467a06d2307f7fe0eb" title="TrkrDefs::getClusKeyHi" alt="" coords="549,631,725,659"/>
+<area shape="rect" id="node25" href="$db/d8d/classPHMicromegasTpcTrackMatching.html#aae9c82a4df59f8b0932581e1a44ad8f9" title="PHMicromegasTpcTrackMatching\l::process_event" alt="" coords="516,839,759,883"/>
+<area shape="rect" id="node26" href="$d6/d5c/classPHG4MicromegasHitReco.html#af30c57b241621866a33dab76ccbadbaa" title="event processing" alt="" coords="541,907,733,951"/>
+<area shape="rect" id="node27" href="$d2/d5b/classMvtxPrototype2UnpackPRDF.html#aa377396bd6688ebca4afeada60f4c9ba" title="MvtxPrototype2UnpackPRDF\l::MakeHits" alt="" coords="531,975,744,1019"/>
+<area shape="rect" id="node30" href="$d3/d32/namespaceAlignmentDefs.html#a7cc5490bed472cd7b4f0fb13f475f2de" title="AlignmentDefs::getMvtxGlobal\lLabels" alt="" coords="523,1805,752,1849"/>
+<area shape="rect" id="node31" href="$d3/d32/namespaceAlignmentDefs.html#ad03c186f0dd977d0ea4029c5b82d2071" title="AlignmentDefs::getInttGlobal\lLabels" alt="" coords="527,1601,747,1645"/>
+<area shape="rect" id="node32" href="$d3/d32/namespaceAlignmentDefs.html#a7449012a60aacfc9264759cd456f3d78" title="AlignmentDefs::getTpcGlobal\lLabels" alt="" coords="527,1669,748,1713"/>
+<area shape="rect" id="node33" href="$d3/d32/namespaceAlignmentDefs.html#a397af50aa06c91f414653312ddbb90e6" title="AlignmentDefs::getMMGlobal\lLabels" alt="" coords="527,1737,747,1781"/>
+</map>

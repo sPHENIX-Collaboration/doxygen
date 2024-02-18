@@ -1,0 +1,23 @@
+<map id="RDBCfirst" name="RDBCfirst">
+<area shape="rect" id="node2" href="$dd/d85/classTSQLConnection.html#aff0becc9eb1f6481de4f7b9699b318f4" title="TSQLConnection::Close" alt="" coords="179,248,359,276"/>
+<area shape="rect" id="node5" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="757,63,816,91"/>
+<area shape="rect" id="node8" href="$dd/d85/classTSQLConnection.html#a7bfca405ed849d7fc90270b0fdccfe61" title="TSQLConnection::CreateStatement" alt="" coords="140,368,399,396"/>
+<area shape="rect" id="node9" href="$d2/d58/classTSQLStatement.html#a23c9aaa44d078d595b5bf0f5eb25ae5e" title="TSQLStatement::Execute" alt="" coords="174,420,365,448"/>
+<area shape="rect" id="node10" href="$d1/df8/classTSQLDriverManager.html#ab9837ad83523524d2bd25829d40f952e" title="TSQLDriverManager::\lGetConnection" alt="" coords="187,300,352,344"/>
+<area shape="rect" id="node16" href="$d0/db4/classTSQLResultSet.html#aa7dab3bd3c3d0a632a9553da8585f2e1" title="TSQLResultSet::GetInt" alt="" coords="183,196,355,224"/>
+<area shape="rect" id="node17" href="$d0/db4/classTSQLResultSet.html#ad3bb8ec7bd666ff3bacfd73ac52e70c4" title="TSQLResultSet::GetLong" alt="" coords="176,92,363,120"/>
+<area shape="rect" id="node18" href="$d2/d58/classTSQLStatement.html#ad95789da19f94cc1c8990bdc90e0d13d" title="TSQLStatement::GetResultSet" alt="" coords="157,472,382,500"/>
+<area shape="rect" id="node19" href="$d0/db4/classTSQLResultSet.html#a43772f9b242b2779437df9a2ecf69599" title="TSQLResultSet::GetString" alt="" coords="172,144,367,172"/>
+<area shape="rect" id="node20" href="$d0/db4/classTSQLResultSet.html#a91d513d9731181f4d01127d59da91522" title="TSQLResultSet::Next" alt="" coords="188,524,351,552"/>
+<area shape="rect" id="node21" href="$dd/d4d/classTSQL.html#a20def31a795253a756ad40f8b3213b20" title="TSQL::SetHandler" alt="" coords="198,576,341,604"/>
+<area shape="rect" id="node3" href="$dd/d85/classTSQLConnection.html#a89016b2a42450757a7233a43f28f3ded" title="TSQLConnection::IsClosed" alt="" coords="447,192,645,220"/>
+<area shape="rect" id="node4" href="$dd/d4d/classTSQL.html#a12129fd04a2499449c8d13ed374f007a" title="TSQL::Throw" alt="" coords="492,140,600,168"/>
+<area shape="rect" id="node7" href="$d1/df8/classTSQLDriverManager.html#a47891968c18b3bff6c00ba4b7a88f2d6" title="TSQLDriverManager::\lGetConnections" alt="" coords="463,244,629,288"/>
+<area shape="rect" id="node6" href="$d8/d8f/classTSQLException.html#a395335cef98b7d73b7cb158032dcd7e4" title="TSQLException::Print" alt="" coords="705,140,869,168"/>
+<area shape="rect" id="node11" href="$de/d63/TSQLDriverManager_8cxx.html#a6272554846f542535bf6cad71b257aa2" title="InitHandlers" alt="" coords="494,364,598,392"/>
+<area shape="rect" id="node13" href="$dd/d4d/classTSQL.html#a3737a62f70f9859d07b2cfdb95a1ced1" title="TSQL::GetWarnings" alt="" coords="469,416,623,444"/>
+<area shape="rect" id="node14" href="$dd/d85/classTSQLConnection.html#a67f5aea4516b2759ec5dcb0fe0e6cf00" title="TSQLConnection::SetURL" alt="" coords="450,312,642,340"/>
+<area shape="rect" id="node12" href="$de/d63/TSQLDriverManager_8cxx.html#ac941ab2fa068a02690b73de09422638a" title="InitRDBCpath" alt="" coords="731,368,842,396"/>
+<area shape="rect" id="node15" href="$de/da5/classTSQLDatabaseMetaData.html#a4a58099a1c291dde74f1accbbf548e8c" title="TSQLDatabaseMetaData\l::SetURL" alt="" coords="693,300,880,344"/>
+<area shape="rect" id="node22" href="$dd/d4d/classTSQL.html#ab910f41919821db729e0a24f0374c661" title="TSQL::UnsetHandler" alt="" coords="466,576,626,604"/>
+</map>

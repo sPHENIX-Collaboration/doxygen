@@ -1,0 +1,24 @@
+<map id="Acts::Experimental::SingleDetectorVolumeImpl" name="Acts::Experimental::SingleDetectorVolumeImpl">
+<area shape="rect" id="node2" href="$d0/db0/classActs_1_1Experimental_1_1INavigationDelegate.html" title="Acts::Experimental\l::INavigationDelegate" alt="" coords="2865,290,3033,334"/>
+<area shape="rect" id="node3" href="$d1/d2d/classActs_1_1Experimental_1_1DetectorVolume.html" title="Define a dummy detector volume." alt="" coords="2875,525,3024,569"/>
+<area shape="rect" id="node5" href="$dc/d36/classActs_1_1Experimental_1_1Detector.html" title="A detector." alt="" coords="3727,211,3876,255"/>
+<area shape="rect" id="node8" href="$d1/dc1/classActs_1_1GeometryHierarchyMap.html" title="Acts::GeometryHierarchyMap\l\&lt; const Surface * \&gt;" alt="" coords="3277,181,3499,225"/>
+<area shape="rect" id="node13" title="STL class." alt="" coords="664,155,753,183"/>
+<area shape="rect" id="node27" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="1125,606,1291,634"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="360,147,503,191"/>
+<area shape="rect" id="node15" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; DetectorVolume \&gt; \&gt;" alt="" coords="2311,215,2603,275"/>
+<area shape="rect" id="node18" href="$d4/d32/classOwningDelegate.html" title="OwningDelegate\&lt; void\l(const GeometryContext\l &amp;gctx, NavigationState\l &amp;nState), INavigationDelegate \&gt;" alt="" coords="2333,299,2581,375"/>
+<area shape="rect" id="node20" href="$de/d7d/classActs_1_1Surface.html" title="Abstract Base Class for tracking surfaces." alt="" coords="2037,603,2149,631"/>
+<area shape="rect" id="node21" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="345,806,517,834"/>
+<area shape="rect" id="node24" href="$da/d28/classActs_1_1Layer.html" title="Acts::Layer" alt="" coords="1611,526,1709,554"/>
+<area shape="rect" id="node28" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="653,739,764,767"/>
+<area shape="rect" id="node22" href="$d7/d33/classActs_1_1GeometryIdentifier.html" title="Acts::GeometryIdentifier" alt="" coords="5,871,195,899"/>
+<area shape="rect" id="node26" href="$d5/dcc/classActs_1_1BinUtility.html" title="Acts::BinUtility" alt="" coords="1147,378,1269,406"/>
+<area shape="rect" id="node30" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; entity_t, value_t, DIM \&gt;" alt="" coords="599,347,818,391"/>
+<area shape="rect" id="node34" href="$d7/dc3/classActs_1_1GlueVolumesDescriptor.html" title="Acts::GlueVolumesDescriptor" alt="" coords="599,619,819,647"/>
+<area shape="rect" id="node38" href="$d7/de6/classActs_1_1DetectorElementBase.html" title="Acts::DetectorElementBase" alt="" coords="1557,474,1763,502"/>
+<area shape="rect" id="node40" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; Portal \&gt; \&gt;" alt="" coords="2343,1021,2570,1081"/>
+<area shape="rect" id="node43" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; Surface \&gt; \&gt;" alt="" coords="2339,467,2574,527"/>
+<area shape="rect" id="node47" href="$d6/d5a/classActs_1_1Experimental_1_1Portal.html" title="Acts::Experimental\l::Portal" alt="" coords="2019,945,2168,989"/>
+<area shape="rect" id="node50" href="$d4/d32/classOwningDelegate.html" title="OwningDelegate\&lt; typename, H \&gt;" alt="" coords="1083,1021,1333,1049"/>
+</map>

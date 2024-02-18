@@ -1,0 +1,18 @@
+<map id="KFParticle_Tools::makeParticle" name="KFParticle_Tools::makeParticle">
+<area shape="rect" id="node2" href="$d0/d49/classKFParticle.html#a9005df3f6603347793ad12192892fa5a" title="Returns Chi2 of the fit." alt="" coords="299,5,426,33"/>
+<area shape="rect" id="node3" href="$d0/d49/classKFParticle.html#a688e43bc457ac9cc866e7e4a86c64bed" title="KFParticle::Create" alt="" coords="292,57,433,85"/>
+<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#ab6a08270648338e6acee123ddbeea833" title="SvtxTrack::get_charge" alt="" coords="277,109,448,137"/>
+<area shape="rect" id="node6" href="$d2/db8/classSvtxTrack.html#ab0dfef96ff528427922596ca5b2fb3c7" title="SvtxTrack::get_chisq" alt="" coords="283,161,442,189"/>
+<area shape="rect" id="node7" href="$d2/db8/classSvtxTrack.html#a6596a62b7cc2abda9868355a052f17bd" title="SvtxTrack::get_error" alt="" coords="284,213,441,241"/>
+<area shape="rect" id="node8" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="295,265,431,293"/>
+<area shape="rect" id="node9" href="$d2/db8/classSvtxTrack.html#a65bd7f7464194995552b517c05183067" title="SvtxTrack::get_ndf" alt="" coords="289,317,436,345"/>
+<area shape="rect" id="node10" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="292,369,433,397"/>
+<area shape="rect" id="node11" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="292,421,433,449"/>
+<area shape="rect" id="node12" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="293,473,433,501"/>
+<area shape="rect" id="node13" href="$d2/db8/classSvtxTrack.html#af2317becf2120fcad5cefaa61a01407e" title="SvtxTrack::get_x" alt="" coords="297,525,429,553"/>
+<area shape="rect" id="node14" href="$d2/db8/classSvtxTrack.html#ac4bf3bd4ecaeff1ca06c48942a8b9236" title="SvtxTrack::get_y" alt="" coords="297,577,429,605"/>
+<area shape="rect" id="node15" href="$d2/db8/classSvtxTrack.html#aaaa435dd9d41dbe836f0608712ca12db" title="SvtxTrack::get_z" alt="" coords="297,629,428,657"/>
+<area shape="rect" id="node16" href="$d0/d49/classKFParticle.html#ad82b13a8214920f2a15c1334e41c4776" title="Returns number of decrease of freedom." alt="" coords="301,681,425,709"/>
+<area shape="rect" id="node17" href="$d5/d41/classKFParticleBase.html#ad223c0ea998d4c27a768291b6288c0c2" title="Sets the Id of the particle. After the construction of a particle should be set by user..." alt="" coords="281,733,445,761"/>
+<area shape="rect" id="node4" href="$d5/d41/classKFParticleBase.html#a2957ab78bcb45b327959f331125e7e4a" title="KFParticleBase::Initialize" alt="" coords="496,57,683,85"/>
+</map>

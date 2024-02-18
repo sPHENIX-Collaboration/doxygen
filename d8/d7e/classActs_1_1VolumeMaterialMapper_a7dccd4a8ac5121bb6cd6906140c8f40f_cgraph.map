@@ -1,0 +1,20 @@
+<map id="Acts::VolumeMaterialMapper::checkAndInsert" name="Acts::VolumeMaterialMapper::checkAndInsert">
+<area shape="rect" id="node2" href="$da/d7b/namespaceActs.html#ac0bbb0487936e0d5a6b40d22fe003cd3" title="adjust the BinUtility bu to the dimensions of radial bounds" alt="" coords="292,213,456,241"/>
+<area shape="rect" id="node5" href="$da/d7b/namespaceActs.html#a1870bcc92d30596f681652cbd851912f" title="Create a 2DGrid using a BinUtility. Also determine the corresponding global to local transform and gr..." alt="" coords="299,161,449,189"/>
+<area shape="rect" id="node13" href="$da/d7b/namespaceActs.html#ab3f75e84a1d5b2668d9e990ed8cdb2d6" title="Create a 3DGrid using a BinUtility. Also determine the corresponding global to local transform and gr..." alt="" coords="299,109,449,137"/>
+<area shape="rect" id="node14" href="$d5/dcc/classActs_1_1BinUtility.html#a62f8782c5f0d57957dd9192f9e86791a" title="Acts::BinUtility::dimensions" alt="" coords="271,265,477,293"/>
+<area shape="rect" id="node15" href="$d3/d07/classActs_1_1GeometryObject.html#abc805e37f184d25c4d25b5f99330125c" title="Acts::GeometryObject\l::geometryId" alt="" coords="288,317,460,361"/>
+<area shape="rect" id="node16" href="$d7/d33/classActs_1_1GeometryIdentifier.html#abc1ccf966fe5fc7f517c6775b5d38623" title="Return the volume identifier." alt="" coords="279,385,469,429"/>
+<area shape="rect" id="node19" href="$dd/dcd/classActs_1_1TrackingVolume.html#a5c7983730f932b09045ebc3ea8e235c8" title="Return the material of the volume." alt="" coords="291,453,457,497"/>
+<area shape="rect" id="node3" href="$d5/dcc/classActs_1_1BinUtility.html#a32c9c639c2752e8620a9fa6c11e3d51b" title="Return the binning data vector." alt="" coords="525,213,737,241"/>
+<area shape="rect" id="node4" href="$d0/d1a/classActs_1_1RadialBounds.html#ae0d474c5caf4f64c20cecf74d4b57ebc" title="Acts::RadialBounds::get" alt="" coords="539,265,723,293"/>
+<area shape="rect" id="node6" href="$da/d7b/namespaceActs.html#af606ddd30facee2106770ebbeca88cd8" title="Helper method that creates the cache grid for the mapping. This grid allows the collection of materia..." alt="" coords="566,57,697,85"/>
+<area shape="rect" id="node9" href="$da/d7b/namespaceActs.html#aa8f83e5d8e65555b3fd6a58027073d2e" title="return a function that return the coordinate corresponding to type of bin" alt="" coords="529,109,734,137"/>
+<area shape="rect" id="node12" href="$d5/dcc/classActs_1_1BinUtility.html#a997fa242d921ca8adb4cde4a03cb09cf" title="Acts::BinUtility::transform" alt="" coords="533,161,729,189"/>
+<area shape="rect" id="node7" href="$d2/db7/namespacestd_1_1tr1.html#af7e12a0f5b5791b5b7c49a5a17b85359" title="std::tr1::make_tuple" alt="" coords="801,57,959,85"/>
+<area shape="rect" id="node8" href="$d0/da7/namespacetesting_1_1internal.html#a0f6d06bf8c3093b9c22bb08723db201e" title="testing::internal::move" alt="" coords="792,5,968,33"/>
+<area shape="rect" id="node10" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a9d0d7e35444d5f4a0ae7accb0a2c70db" title="Acts::VectorHelpers\l::perp" alt="" coords="803,161,957,205"/>
+<area shape="rect" id="node11" href="$df/da1/namespaceActs_1_1VectorHelpers.html#a397d5e8143b34171258deef4f9cca9ad" title="Acts::VectorHelpers::phi" alt="" coords="788,109,972,137"/>
+<area shape="rect" id="node17" href="$d7/d33/classActs_1_1GeometryIdentifier.html#a5fc08ada52c3da4d9b255e0454739e1d" title="Extract the masked bits from the encoded value." alt="" coords="537,385,726,429"/>
+<area shape="rect" id="node18" href="$d7/d33/classActs_1_1GeometryIdentifier.html#ac13065798464cc86b747086eea9020e2" title="Extract the bit shift necessary to access the masked values." alt="" coords="785,385,975,429"/>
+</map>

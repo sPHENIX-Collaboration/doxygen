@@ -1,0 +1,28 @@
+var classPHG4Detector =
+[
+    [ "PHG4Detector", "d3/de7/classPHG4Detector.html#a94330199fbd1c3d8d4b90f126c2b41a7", null ],
+    [ "PHG4Detector", "d3/de7/classPHG4Detector.html#a6a13e9dfafc4b5b0976694bbe3e7d34a", null ],
+    [ "~PHG4Detector", "d3/de7/classPHG4Detector.html#a41bdc94bf4dad716580a7ea124c7cd32", null ],
+    [ "Construct", "d3/de7/classPHG4Detector.html#ab6b6eba8cf9c56ed03ad852326f0a5bb", null ],
+    [ "ConstructMe", "d3/de7/classPHG4Detector.html#a5d8fc5994b57855b6d8b36a030579134", null ],
+    [ "DisplayVolume", "d3/de7/classPHG4Detector.html#a02a35f200e91f5eb16ee16c537b5f61f", null ],
+    [ "DisplayVolume", "d3/de7/classPHG4Detector.html#ade1e94cf77dc060dfcd1ee9f99473fc8", null ],
+    [ "GetDetectorElement", "d3/de7/classPHG4Detector.html#add003365195588814fe19322adef8c75", null ],
+    [ "GetDetectorMaterial", "d3/de7/classPHG4Detector.html#a8e548682ab05493f7cdbd391bc4f67be", null ],
+    [ "GetMySubsystem", "d3/de7/classPHG4Detector.html#a5f7650922e846c686ed03252a4735653", null ],
+    [ "GetName", "d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f", null ],
+    [ "GetSteppingAction", "d3/de7/classPHG4Detector.html#a8b1ff83769489b130661342b53997000", null ],
+    [ "OverlapCheck", "d3/de7/classPHG4Detector.html#a1a914e84447dd5ab89745cb9fcd1942e", null ],
+    [ "OverlapCheck", "d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251", null ],
+    [ "PostConstruction", "d3/de7/classPHG4Detector.html#a32fded6ef2d3e1640e7bea696e71e448", null ],
+    [ "Print", "d3/de7/classPHG4Detector.html#a8c4d4aa85360faf3f1a17bce9900a1b1", null ],
+    [ "topNode", "d3/de7/classPHG4Detector.html#a3524241bcf8984af140ba78a3e6925a6", null ],
+    [ "Verbosity", "d3/de7/classPHG4Detector.html#a0c0c0aaaa92b69fcca54ffad216c75b1", null ],
+    [ "Verbosity", "d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c", null ],
+    [ "m_ColorIndex", "d3/de7/classPHG4Detector.html#ac29ac920c7a4ff1ccf913587f40f1bb8", null ],
+    [ "m_MySubsystem", "d3/de7/classPHG4Detector.html#ae649940bcdd767aa799afa795753f1b3", null ],
+    [ "m_Name", "d3/de7/classPHG4Detector.html#af17053af88ac772ccc5bf9f4633aac3e", null ],
+    [ "m_OverlapCheck", "d3/de7/classPHG4Detector.html#aab9208c66b7fd4ad6acbc16a355e2126", null ],
+    [ "m_topNode", "d3/de7/classPHG4Detector.html#ae543b33b9d7854f276dad876b0d7fa17", null ],
+    [ "m_Verbosity", "d3/de7/classPHG4Detector.html#a359089dc6dc9d0b9075de3f19f884694", null ]
+];

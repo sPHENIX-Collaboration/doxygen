@@ -1,0 +1,25 @@
+var classtrento_1_1Collider =
+[
+    [ "Collider", "da/dc2/classtrento_1_1Collider.html#a050869975a324144cf5ea5a71d07266d", null ],
+    [ "~Collider", "da/dc2/classtrento_1_1Collider.html#a49328379f24b80c34bdbc291614a6cb5", null ],
+    [ "all_records", "da/dc2/classtrento_1_1Collider.html#a198c503b4233cd6f6c0cff7019aadbc9", null ],
+    [ "expose_event", "da/dc2/classtrento_1_1Collider.html#a396f5368aed5ea8dc8a3781f15bde1eb", null ],
+    [ "run_events", "da/dc2/classtrento_1_1Collider.html#a79cd2d9fa759f68c115d194826216c06", null ],
+    [ "sample_impact_param", "da/dc2/classtrento_1_1Collider.html#ad74bf7749f3ed5b4518ff10a472757ce", null ],
+    [ "all_records_", "da/dc2/classtrento_1_1Collider.html#a4d65b1cd2bcb655a31b13ca14fb035cb", null ],
+    [ "asymmetry_", "da/dc2/classtrento_1_1Collider.html#a6041d1d1dcb82bd69fb2000d57d94801", null ],
+    [ "bmax_", "da/dc2/classtrento_1_1Collider.html#ac1ee75c3c0249d1310789aaec918340b", null ],
+    [ "bmin_", "da/dc2/classtrento_1_1Collider.html#aa223737ede95eba0198a7d1a76314706", null ],
+    [ "event_", "da/dc2/classtrento_1_1Collider.html#a70c0bd36fce7565cbda456f0b34ab390", null ],
+    [ "nevents_", "da/dc2/classtrento_1_1Collider.html#a638570e852c914f2acdd813fdd2adec4", null ],
+    [ "npartmax_", "da/dc2/classtrento_1_1Collider.html#aa9417042b2d79126320c6c0c911e11f3", null ],
+    [ "npartmin_", "da/dc2/classtrento_1_1Collider.html#a5e89cc06f7c9338b0f06ed782761287a", null ],
+    [ "ntrys_", "da/dc2/classtrento_1_1Collider.html#a839dbee07ddced3bcb50db60dc150111", null ],
+    [ "nucleon_profile_", "da/dc2/classtrento_1_1Collider.html#a24558f8c5b2f48432b80c5a8041cb538", null ],
+    [ "nucleusA_", "da/dc2/classtrento_1_1Collider.html#aeb3b7a2ceb96ad3d512cda6180f21616", null ],
+    [ "nucleusB_", "da/dc2/classtrento_1_1Collider.html#adaf8c112c1451d0166bae8cb3c33da11", null ],
+    [ "output_", "da/dc2/classtrento_1_1Collider.html#af902c4c57e020770e1f52e9cb24ca91b", null ],
+    [ "stotmax_", "da/dc2/classtrento_1_1Collider.html#ade6d51cdc6ba957484f55c32953aaec5", null ],
+    [ "stotmin_", "da/dc2/classtrento_1_1Collider.html#acb3213d4e3010fd4e511959fd46df58a", null ],
+    [ "with_ncoll_", "da/dc2/classtrento_1_1Collider.html#ab01853639ec389e75d02f4ba1309044f", null ]
+];

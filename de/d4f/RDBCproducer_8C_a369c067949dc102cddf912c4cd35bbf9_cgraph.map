@@ -1,0 +1,27 @@
+<map id="oproducer" name="oproducer">
+<area shape="rect" id="node2" href="$dd/d85/classTSQLConnection.html#aff0becc9eb1f6481de4f7b9699b318f4" title="TSQLConnection::Close" alt="" coords="486,64,666,92"/>
+<area shape="rect" id="node8" href="$dd/d85/classTSQLConnection.html#a222144aafca16760cd03057912fa863a" title="TSQLConnection::Commit" alt="" coords="478,12,674,40"/>
+<area shape="rect" id="node9" href="$d4/d40/RDBCp_8C.html#aa604a01f2b931411604a655ee77ffa0c" title="CreateStuff" alt="" coords="220,288,319,316"/>
+<area shape="rect" id="node16" href="$d1/df8/classTSQLDriverManager.html#ab9837ad83523524d2bd25829d40f952e" title="TSQLDriverManager::\lGetConnection" alt="" coords="493,168,659,212"/>
+<area shape="rect" id="node22" href="$dd/d85/classTSQLConnection.html#a6087f8b56f68d652ba4da540a78664ec" title="TSQLConnection::GetMetaData" alt="" coords="153,340,385,368"/>
+<area shape="rect" id="node23" href="$dd/d85/classTSQLConnection.html#a4973269d51f39210e04f8c5e95d867ad" title="TSQLConnection::SetAutoCommit" alt="" coords="144,136,395,164"/>
+<area shape="rect" id="node24" href="$dd/d4d/classTSQL.html#a20def31a795253a756ad40f8b3213b20" title="TSQL::SetHandler" alt="" coords="198,444,341,472"/>
+<area shape="rect" id="node25" href="$dd/d4d/classTSQL.html#ab910f41919821db729e0a24f0374c661" title="TSQL::UnsetHandler" alt="" coords="496,580,656,608"/>
+<area shape="rect" id="node26" href="$de/da5/classTSQLDatabaseMetaData.html#a0f2c9056a623a6ca518e12cd8d851805" title="TSQLDatabaseMetaData\l::SupportsTransactions" alt="" coords="176,496,363,540"/>
+<area shape="rect" id="node3" href="$dd/d85/classTSQLConnection.html#a89016b2a42450757a7233a43f28f3ded" title="TSQLConnection::IsClosed" alt="" coords="757,12,956,40"/>
+<area shape="rect" id="node4" href="$dd/d4d/classTSQL.html#a12129fd04a2499449c8d13ed374f007a" title="TSQL::Throw" alt="" coords="803,64,911,92"/>
+<area shape="rect" id="node7" href="$d1/df8/classTSQLDriverManager.html#a47891968c18b3bff6c00ba4b7a88f2d6" title="TSQLDriverManager::\lGetConnections" alt="" coords="774,116,939,160"/>
+<area shape="rect" id="node5" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="1068,120,1127,148"/>
+<area shape="rect" id="node6" href="$d8/d8f/classTSQLException.html#a395335cef98b7d73b7cb158032dcd7e4" title="TSQLException::Print" alt="" coords="1015,64,1179,92"/>
+<area shape="rect" id="node10" href="$dd/d85/classTSQLConnection.html#a7bfca405ed849d7fc90270b0fdccfe61" title="TSQLConnection::CreateStatement" alt="" coords="447,528,705,556"/>
+<area shape="rect" id="node11" href="$d2/d58/classTSQLStatement.html#a6eddfc317081f91097f514f4f396eb3c" title="TSQLStatement::ExecuteUpdate" alt="" coords="456,236,696,264"/>
+<area shape="rect" id="node12" href="$dd/d85/classTSQLConnection.html#a829377c1a6b7a4222b15fe07088d9e40" title="TSQLConnection::PrepareStatement" alt="" coords="443,288,709,316"/>
+<area shape="rect" id="node13" href="$d1/dcb/classTSQLPreparedStatement.html#a54076cd3a4d1a41e2380925e364295b2" title="TSQLPreparedStatement\l::SetObject" alt="" coords="481,460,671,504"/>
+<area shape="rect" id="node15" href="$d1/dcb/classTSQLPreparedStatement.html#a4b48e99f26fdcc1d09bfeded2c955f7f" title="TSQLPreparedStatement\l::SetString" alt="" coords="481,392,671,436"/>
+<area shape="rect" id="node14" href="$d1/dcb/classTSQLPreparedStatement.html#ae7da146b85b1bfd8a22fd72bf671caa6" title="TSQLPreparedStatement\l::SetBinaryStream" alt="" coords="762,460,951,504"/>
+<area shape="rect" id="node17" href="$de/d63/TSQLDriverManager_8cxx.html#a6272554846f542535bf6cad71b257aa2" title="InitHandlers" alt="" coords="805,392,909,420"/>
+<area shape="rect" id="node19" href="$dd/d4d/classTSQL.html#a3737a62f70f9859d07b2cfdb95a1ced1" title="TSQL::GetWarnings" alt="" coords="780,236,933,264"/>
+<area shape="rect" id="node20" href="$dd/d85/classTSQLConnection.html#a67f5aea4516b2759ec5dcb0fe0e6cf00" title="TSQLConnection::SetURL" alt="" coords="761,184,953,212"/>
+<area shape="rect" id="node18" href="$de/d63/TSQLDriverManager_8cxx.html#ac941ab2fa068a02690b73de09422638a" title="InitRDBCpath" alt="" coords="1042,392,1153,420"/>
+<area shape="rect" id="node21" href="$de/da5/classTSQLDatabaseMetaData.html#a4a58099a1c291dde74f1accbbf548e8c" title="TSQLDatabaseMetaData\l::SetURL" alt="" coords="1004,176,1191,220"/>
+</map>

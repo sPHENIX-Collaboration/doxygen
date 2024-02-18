@@ -1,0 +1,33 @@
+<map id="acts/blob/sPHENIX/Fatras/include/ActsFatras/Physics/StandardInteractions.hpp" name="acts/blob/sPHENIX/Fatras/include/ActsFatras/Physics/StandardInteractions.hpp">
+<area shape="rect" id="node2" href="$d0/d47/PdgParticle_8hpp.html" title="Acts/Definitions/PdgParticle.hpp" alt="" coords="367,589,604,617"/>
+<area shape="rect" id="node4" href="$d9/dc3/ContinuousProcess_8hpp.html" title="ActsFatras/Kernel/Continuous\lProcess.hpp" alt="" coords="2025,213,2245,257"/>
+<area shape="rect" id="node35" href="$da/da4/InteractionList_8hpp.html" title="ActsFatras/Kernel/Interaction\lList.hpp" alt="" coords="3363,213,3579,257"/>
+<area shape="rect" id="node37" href="$dd/d9e/blob_2sPHENIX_2Fatras_2include_2ActsFatras_2Physics_2ElectroMagnetic_2BetheBloch_8hpp.html" title="ActsFatras/Physics\l/ElectroMagnetic/BetheBloch.hpp" alt="" coords="1184,113,1432,157"/>
+<area shape="rect" id="node41" href="$d0/dc9/blob_2sPHENIX_2Fatras_2include_2ActsFatras_2Physics_2ElectroMagnetic_2BetheHeitler_8hpp.html" title="ActsFatras/Physics\l/ElectroMagnetic/BetheHeitler.hpp" alt="" coords="1307,213,1560,257"/>
+<area shape="rect" id="node43" href="$dc/dad/blob_2sPHENIX_2Fatras_2include_2ActsFatras_2Physics_2ElectroMagnetic_2Scattering_8hpp.html" title="ActsFatras/Physics\l/ElectroMagnetic/Scattering.hpp" alt="" coords="731,113,971,157"/>
+<area shape="rect" id="node47" href="$d0/dd0/blob_2sPHENIX_2Fatras_2include_2ActsFatras_2Selectors_2KinematicCasts_8hpp.html" title="ActsFatras/Selectors\l/KinematicCasts.hpp" alt="" coords="1686,213,1847,257"/>
+<area shape="rect" id="node48" href="$d1/d6d/ParticleSelectors_8hpp.html" title="ActsFatras/Selectors\l/ParticleSelectors.hpp" alt="" coords="1062,213,1231,257"/>
+<area shape="rect" id="node49" href="$da/d85/blob_2sPHENIX_2Fatras_2include_2ActsFatras_2Selectors_2SelectorHelpers_8hpp.html" title="ActsFatras/Selectors\l/SelectorHelpers.hpp" alt="" coords="2269,213,2433,257"/>
+<area shape="rect" id="node5" href="$d0/dd1/MaterialSlab_8hpp.html" title="Acts/Material/MaterialSlab.hpp" alt="" coords="2656,413,2885,441"/>
+<area shape="rect" id="node14" href="$dc/de5/blob_2sPHENIX_2Fatras_2include_2ActsFatras_2EventData_2Particle_8hpp.html" title="ActsFatras/EventData\l/Particle.hpp" alt="" coords="1577,313,1743,357"/>
+<area shape="rect" id="node6" href="$da/dd2/Algebra_8hpp.html" title="Acts/Definitions/Algebra.hpp" alt="" coords="2108,589,2324,617"/>
+<area shape="rect" id="node9" href="$d0/d70/Material_8hpp.html" title="Acts/Material/Material.hpp" alt="" coords="2803,505,3003,533"/>
+<area shape="rect" id="node15" href="$d8/ddd/Common_8hpp.html" title="Acts/Definitions/Common.hpp" alt="" coords="1568,505,1792,533"/>
+<area shape="rect" id="node16" href="$d7/d3a/TrackParametrization_8hpp.html" title="Acts/Definitions/TrackParametrization.hpp" alt="" coords="1918,505,2223,533"/>
+<area shape="rect" id="node18" href="$d0/db1/ParticleHypothesis_8hpp.html" title="Acts/EventData/ParticleHypothesis.hpp" alt="" coords="764,505,1049,533"/>
+<area shape="rect" id="node20" href="$d8/d81/TrackParameters_8hpp.html" title="Acts/EventData/TrackParameters.hpp" alt="" coords="865,413,1138,441"/>
+<area shape="rect" id="node21" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="2400,505,2677,533"/>
+<area shape="rect" id="node22" href="$d8/ddd/Surface_8hpp.html" title="Acts/Surfaces/Surface.hpp" alt="" coords="2331,413,2531,441"/>
+<area shape="rect" id="node27" href="$dc/d9c/VectorHelpers_8hpp.html" title="Acts/Utilities/VectorHelpers.hpp" alt="" coords="1919,413,2155,441"/>
+<area shape="rect" id="node30" href="$d5/dee/Barcode_8hpp.html" title="ActsFatras/EventData\l/Barcode.hpp" alt="" coords="1577,405,1743,449"/>
+<area shape="rect" id="node31" href="$d9/d53/ProcessType_8hpp.html" title="ActsFatras/EventData\l/ProcessType.hpp" alt="" coords="1073,497,1239,541"/>
+<area shape="rect" id="node19" href="$df/d6f/Units_8hpp.html" title="Acts/Definitions/Units.hpp" alt="" coords="719,589,916,617"/>
+<area shape="rect" id="node28" href="$d0/d81/TypeTraits_8hpp.html" title="Acts/Utilities/TypeTraits.hpp" alt="" coords="3128,505,3336,533"/>
+<area shape="rect" id="node38" href="$d2/de7/Interactions_8hpp.html" title="Acts/Material/Interactions.hpp" alt="" coords="221,321,446,349"/>
+<area shape="rect" id="node39" href="$d5/d21/LandauDistribution_8hpp.html" title="ActsFatras/Utilities\l/LandauDistribution.hpp" alt="" coords="800,213,987,257"/>
+<area shape="rect" id="node42" href="$d0/d5d/UnitVectors_8hpp.html" title="Acts/Utilities/UnitVectors.hpp" alt="" coords="771,321,989,349"/>
+<area shape="rect" id="node44" href="$d4/d6c/blob_2sPHENIX_2Fatras_2include_2ActsFatras_2Physics_2ElectroMagnetic_2detail_2GaussianMixture_8hpp.html" title="ActsFatras/Physics\l/ElectroMagnetic/detail\l/GaussianMixture.hpp" alt="" coords="497,205,674,265"/>
+<area shape="rect" id="node45" href="$df/d2c/blob_2sPHENIX_2Fatras_2include_2ActsFatras_2Physics_2ElectroMagnetic_2detail_2GeneralMixture_8hpp.html" title="ActsFatras/Physics\l/ElectroMagnetic/detail\l/GeneralMixture.hpp" alt="" coords="94,205,271,265"/>
+<area shape="rect" id="node46" href="$de/d2a/blob_2sPHENIX_2Fatras_2include_2ActsFatras_2Physics_2ElectroMagnetic_2detail_2Highland_8hpp.html" title="ActsFatras/Physics\l/ElectroMagnetic/detail\l/Highland.hpp" alt="" coords="295,205,473,265"/>
+<area shape="rect" id="node50" href="$dd/d26/combine__selectors_8hpp.html" title="ActsFatras/Selectors\l/detail/combine_selectors.hpp" alt="" coords="3634,405,3859,449"/>
+</map>

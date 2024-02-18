@@ -1,0 +1,51 @@
+<map id="acts/blob/sPHENIX/Core/include/Acts/MagneticField/MagneticFieldProvider.hpp" name="acts/blob/sPHENIX/Core/include/Acts/MagneticField/MagneticFieldProvider.hpp">
+<area shape="rect" id="node2" href="$de/d07/ConstantBField_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/MagneticField\l/ConstantBField.hpp" alt="" coords="1329,121,1536,181"/>
+<area shape="rect" id="node4" href="$d4/d48/MagneticField_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/MagneticField\l/include/ActsExamples/MagneticField\l/MagneticField.hpp" alt="" coords="1901,237,2173,313"/>
+<area shape="rect" id="node5" href="$d6/d54/MagneticField_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Python/src/MagneticField.cpp" alt="" coords="1137,377,1361,421"/>
+<area shape="rect" id="node6" href="$d8/dbb/MagneticFieldOptions_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/include/ActsExamples\l/Options/MagneticFieldOptions.hpp" alt="" coords="1901,369,2172,429"/>
+<area shape="rect" id="node7" href="$d6/db4/MagneticFieldOptions_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Common/src/MagneticFieldOptions.cpp" alt="" coords="477,493,799,537"/>
+<area shape="rect" id="node8" href="$d0/d8a/Geant4Common_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/Geant4/Common/src/Geant4Common.cpp" alt="" coords="5,493,345,537"/>
+<area shape="rect" id="node9" href="$d2/d9c/BFieldAccessExample_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Run/MagneticField/BFieldAccess\lExample.cpp" alt="" coords="2934,485,3177,545"/>
+<area shape="rect" id="node10" href="$d8/d6f/MagneticFieldInterfaceConsistencyTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/MagneticField\l/MagneticFieldInterfaceConsistencyTests.cpp" alt="" coords="1552,245,1876,305"/>
+<area shape="rect" id="node11" href="$d6/d9d/AtlasStepperTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/Propagator\l/AtlasStepperTests.cpp" alt="" coords="105,245,307,305"/>
+<area shape="rect" id="node12" href="$d4/d63/EigenStepperTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/Propagator\l/EigenStepperTests.cpp" alt="" coords="3261,245,3463,305"/>
+<area shape="rect" id="node13" href="$d3/d45/ImpactPointEstimatorTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/Vertexing\l/ImpactPointEstimatorTests.cpp" alt="" coords="3434,369,3669,429"/>
+<area shape="rect" id="node14" href="$db/db7/PHTpcResiduals_8cc.html" title="coresoftware/blob/master\l/offline/packages/tpccalib\l/PHTpcResiduals.cc" alt="" coords="2248,245,2444,305"/>
+<area shape="rect" id="node15" href="$d6/de7/ActsPropagator_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/ActsPropagator.cc" alt="" coords="777,245,982,305"/>
+<area shape="rect" id="node16" href="$d5/dfe/PHActsTrackProjection_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/PHActsTrackProjection.cc" alt="" coords="1006,245,1211,305"/>
+<area shape="rect" id="node17" href="$d5/d5a/InterpolatedBFieldMap_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/MagneticField\l/InterpolatedBFieldMap.hpp" alt="" coords="2475,121,2684,181"/>
+<area shape="rect" id="node18" href="$d4/d25/CsvBFieldWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Csv/include/ActsExamples\l/Io/Csv/CsvBFieldWriter.hpp" alt="" coords="2469,245,2690,305"/>
+<area shape="rect" id="node19" href="$d4/dfb/InterpolatedBFieldMapTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/MagneticField\l/InterpolatedBFieldMapTests.cpp" alt="" coords="2715,245,2956,305"/>
+<area shape="rect" id="node20" href="$d9/dbd/PHSimpleKFProp_8cc.html" title="kalman filter based propagator" alt="" coords="2981,245,3186,305"/>
+<area shape="rect" id="node21" href="$df/d7f/NullBField_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/MagneticField\l/NullBField.hpp" alt="" coords="3477,121,3684,181"/>
+<area shape="rect" id="node22" href="$d4/d08/HelicalTrackLinearizer_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/Vertexing\l/HelicalTrackLinearizer.hpp" alt="" coords="4219,245,4423,305"/>
+<area shape="rect" id="node23" href="$db/dfb/AdaptiveMultiVertexFinderAlgorithm_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Vertexing/include\l/ActsExamples/Vertexing/AdaptiveMulti\lVertexFinderAlgorithm.hpp" alt="" coords="4116,361,4403,437"/>
+<area shape="rect" id="node24" href="$d3/d12/IterativeVertexFinderAlgorithm_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Vertexing/include\l/ActsExamples/Vertexing/IterativeVertex\lFinderAlgorithm.hpp" alt="" coords="4479,361,4773,437"/>
+<area shape="rect" id="node25" href="$d4/d02/VertexFitterAlgorithm_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Vertexing/include\l/ActsExamples/Vertexing/VertexFitter\lAlgorithm.hpp" alt="" coords="4797,361,5071,437"/>
+<area shape="rect" id="node26" href="$d3/d0f/VertexFitterAlgorithm_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Vertexing/src\l/VertexFitterAlgorithm.cpp" alt="" coords="4827,485,5041,545"/>
+<area shape="rect" id="node27" href="$d1/dd6/ImpactPointEstimator_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/Vertexing\l/ImpactPointEstimator.hpp" alt="" coords="3589,245,3791,305"/>
+<area shape="rect" id="node28" href="$d5/d2f/NumericalTrackLinearizer_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/Vertexing\l/NumericalTrackLinearizer.hpp" alt="" coords="3815,245,4042,305"/>
+<area shape="rect" id="node29" href="$d0/dba/SolenoidBField_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/MagneticField\l/SolenoidBField.hpp" alt="" coords="533,121,740,181"/>
+<area shape="rect" id="node30" href="$d8/d30/BFieldMapUtils_8cpp.html" title="acts/blob/sPHENIX/Core\l/src/MagneticField/BFieldMap\lUtils.cpp" alt="" coords="382,245,601,305"/>
+<area shape="rect" id="node31" href="$dc/d0a/AtlasStepper_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/Propagator\l/AtlasStepper.hpp" alt="" coords="105,121,293,181"/>
+<area shape="rect" id="node32" href="$dd/d18/EigenStepper_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/Propagator\l/EigenStepper.hpp" alt="" coords="4219,121,4407,181"/>
+<area shape="rect" id="node33" href="$df/d3f/MultiEigenStepperLoop_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/Propagator\l/MultiEigenStepperLoop.hpp" alt="" coords="5853,245,6066,305"/>
+<area shape="rect" id="node34" href="$d2/dd1/TrackFitterFunction_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/TrackFitting\l/include/ActsExamples/TrackFitting\l/TrackFitterFunction.hpp" alt="" coords="5903,361,6159,437"/>
+<area shape="rect" id="node35" href="$d2/ddd/TrackFindingFromPrototrackAlgorithm_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/TrackFindingExaTrkX\l/include/ActsExamples/TrackFindingExaTrk\lX/TrackFindingFromPrototrackAlgorithm.hpp" alt="" coords="4650,237,4967,313"/>
+<area shape="rect" id="node36" href="$d9/db8/GsfActor_8hpp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/TrackFitting\l/detail/GsfActor.hpp" alt="" coords="4635,121,4825,181"/>
+<area shape="rect" id="node37" href="$da/d8b/MagneticFieldWrapper_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Geant4/src/Magnetic\lFieldWrapper.cpp" alt="" coords="4849,121,5093,181"/>
+<area shape="rect" id="node38" href="$d5/d97/TrackParamsEstimationAlgorithm_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/TrackFinding\l/src/TrackParamsEstimationAlgorithm.cpp" alt="" coords="5117,121,5420,181"/>
+<area shape="rect" id="node39" href="$df/d1b/PrototracksToParameters_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/TrackFindingExaTrkX\l/include/ActsExamples/TrackFindingExaTrk\lX/PrototracksToParameters.hpp" alt="" coords="5445,113,5754,189"/>
+<area shape="rect" id="node40" href="$d0/d2e/TutorialVertexFinderAlgorithm_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Algorithms/Vertexing/include\l/ActsExamples/Vertexing/TutorialVertex\lFinderAlgorithm.hpp" alt="" coords="5778,113,6066,189"/>
+<area shape="rect" id="node41" href="$dc/d88/ScalableBField_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Detectors/MagneticField\l/include/ActsExamples/MagneticField\l/ScalableBField.hpp" alt="" coords="1850,113,2122,189"/>
+<area shape="rect" id="node42" href="$d0/d7a/VertexPerformanceWriter_8hpp.html" title="acts/blob/sPHENIX/Examples\l/Io/Performance/ActsExamples\l/Io/Performance/VertexPerformanceWriter.hpp" alt="" coords="6141,121,6473,181"/>
+<area shape="rect" id="node43" href="$d0/d9f/Geant4Component_8cpp.html" title="acts/blob/sPHENIX/Examples\l/Python/src/Geant4Component.cpp" alt="" coords="6497,129,6757,173"/>
+<area shape="rect" id="node44" href="$dc/d4b/MagneticFieldProviderTests_8cpp.html" title="acts/blob/sPHENIX/Tests\l/UnitTests/Core/MagneticField\l/MagneticFieldProviderTests.cpp" alt="" coords="6781,121,7020,181"/>
+<area shape="rect" id="node45" href="$d4/d6a/ActsTrackingGeometry_8h.html" title="coresoftware/blob/master\l/offline/packages/trackbase\l/ActsTrackingGeometry.h" alt="" coords="7044,121,7253,181"/>
+<area shape="rect" id="node46" href="$df/da1/MakeActsGeometry_8h.html" title="Make Acts geometry from sPHENIX TGeometry." alt="" coords="7278,121,7483,181"/>
+<area shape="rect" id="node47" href="$da/d0e/PHActsTrackPropagator_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/PHActsTrackPropagator.cc" alt="" coords="7507,121,7713,181"/>
+<area shape="rect" id="node48" href="$d0/d31/PHActsVertexPropagator_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/PHActsVertexPropagator.cc" alt="" coords="7737,121,7945,181"/>
+<area shape="rect" id="node49" href="$db/d76/PHSimpleKFProp_8h.html" title="kalman filter based propagator" alt="" coords="2930,121,3135,181"/>
+<area shape="rect" id="node50" href="$d3/d2b/SecondaryVertexFinder_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/SecondaryVertexFinder.cc" alt="" coords="8019,121,8225,181"/>
+<area shape="rect" id="node3" href="$db/d26/FullBilloirVertexFitter_8ipp.html" title="acts/blob/sPHENIX/Core\l/include/Acts/Vertexing\l/FullBilloirVertexFitter.ipp" alt="" coords="1337,245,1528,305"/>
+</map>

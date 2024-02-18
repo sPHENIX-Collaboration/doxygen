@@ -1,0 +1,15 @@
+<map id="TrkrHit::getAdc" name="TrkrHit::getAdc">
+<area shape="rect" id="node2" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="176,5,375,49"/>
+<area shape="rect" id="node4" href="$dd/da0/classPHG4InttDigitizer.html#a1abd54009150500d799f667169b0b35a" title="PHG4InttDigitizer::\lDigitizeLadderCells" alt="" coords="199,73,351,117"/>
+<area shape="rect" id="node6" href="$d2/d93/classTrkrNtuplizer.html#a3ba752b46d320848413bf7ea09ee5dd5" title="dump the evaluator information into ntuple for external analysis" alt="" coords="185,141,366,185"/>
+<area shape="rect" id="node8" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="181,209,369,253"/>
+<area shape="rect" id="node10" href="$d9/d9e/classTrackerEventDisplay.html#a90051311d4eb3be0c76af199d88a4b5c" title="TrackerEventDisplay\l::makeJsonFile" alt="" coords="195,277,355,321"/>
+<area shape="rect" id="node12" href="$d2/df0/classSynRadAna.html#a6c0e398679d70c47b26fec84aa644673" title="SynRadAna::process\l_event" alt="" coords="195,345,355,389"/>
+<area shape="rect" id="node13" href="$df/d22/classreadDigitalCurrents.html#a6a62faef5b06dd4f4ced98dda98a17bd" title="readDigitalCurrents\l::process_event" alt="" coords="199,413,352,457"/>
+<area shape="rect" id="node14" href="$da/d35/classDumpTrkrHitSetContainer.html#a509b2816e46e11ea2f8fa1d02300a95b" title="DumpTrkrHitSetContainer\l::process_Node" alt="" coords="178,481,373,525"/>
+<area shape="rect" id="node3" href="$d1/dc5/classPHG4TpcDigitizer.html#a6f7cfd373e9a212b5e255e44738ea193" title="event processing" alt="" coords="423,5,623,49"/>
+<area shape="rect" id="node5" href="$dd/da0/classPHG4InttDigitizer.html#aec310cc05309c369b9d87b67ae4e4c6d" title="event processing" alt="" coords="450,73,595,117"/>
+<area shape="rect" id="node7" href="$d2/d93/classTrkrNtuplizer.html#a399e3058749ac563592644df77083a33" title="TrkrNtuplizer::process\l_event" alt="" coords="438,141,607,185"/>
+<area shape="rect" id="node9" href="$d6/d11/classSvtxEvaluator.html#a1eb230f92b6f2cabb175f1349697200d" title="SvtxEvaluator::process\l_event" alt="" coords="435,209,611,253"/>
+<area shape="rect" id="node11" href="$d9/d9e/classTrackerEventDisplay.html#a236865d40e283a8f2e268ae78b7cc282" title="TrackerEventDisplay\l::process_event" alt="" coords="443,277,603,321"/>
+</map>

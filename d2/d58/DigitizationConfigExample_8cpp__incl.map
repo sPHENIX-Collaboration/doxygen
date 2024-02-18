@@ -1,0 +1,37 @@
+<map id="acts/blob/sPHENIX/Examples/Run/Digitization/Common/DigitizationConfigExample.cpp" name="acts/blob/sPHENIX/Examples/Run/Digitization/Common/DigitizationConfigExample.cpp">
+<area shape="rect" id="node2" href="$d9/ddf/GeometryHierarchyMap_8hpp.html" title="Acts/Geometry/GeometryHierarchy\lMap.hpp" alt="" coords="4488,389,4748,433"/>
+<area shape="rect" id="node11" href="$dd/d24/TrackingGeometry_8hpp.html" title="Acts/Geometry/TrackingGeometry.hpp" alt="" coords="1357,397,1636,425"/>
+<area shape="rect" id="node21" href="$d6/dfa/IBaseDetector_8hpp.html" title="ActsExamples/Detector\l/IBaseDetector.hpp" alt="" coords="162,481,342,525"/>
+<area shape="rect" id="node23" href="$d6/d26/DigitizationConfigurator_8hpp.html" title="ActsExamples/Digitization\l/DigitizationConfigurator.hpp" alt="" coords="3644,113,3861,157"/>
+<area shape="rect" id="node37" href="$dd/d38/CommonGeometry_8hpp.html" title="ActsExamples/Geometry\l/CommonGeometry.hpp" alt="" coords="250,389,439,433"/>
+<area shape="rect" id="node38" href="$db/d01/JsonDigitizationConfig_8hpp.html" title="ActsExamples/Io/Json\l/JsonDigitizationConfig.hpp" alt="" coords="5787,205,5992,249"/>
+<area shape="rect" id="node42" href="$d7/d2b/CommonOptions_8hpp.html" title="ActsExamples/Options\l/CommonOptions.hpp" alt="" coords="2522,389,2695,433"/>
+<area shape="rect" id="node46" href="$d7/d9e/DigitizationOptions_8hpp.html" title="ActsExamples/Options\l/DigitizationOptions.hpp" alt="" coords="2246,113,2432,157"/>
+<area shape="rect" id="node47" href="$da/d67/Options_8hpp.html" title="ActsExamples/Utilities\l/Options.hpp" alt="" coords="2924,389,3096,433"/>
+<area shape="rect" id="node48" href="$dc/dad/Paths_8hpp.html" title="ActsExamples/Utilities\l/Paths.hpp" alt="" coords="2122,481,2294,525"/>
+<area shape="rect" id="node50" href="$d6/d5b/DigitizationInput_8hpp.html" title="DigitizationInput.hpp" alt="" coords="1958,305,2120,333"/>
+<area shape="rect" id="node3" href="$d5/d67/GeometryIdentifier_8hpp.html" title="Acts/Geometry/GeometryIdentifier.hpp" alt="" coords="820,581,1104,609"/>
+<area shape="rect" id="node12" href="$da/dd2/Algebra_8hpp.html" title="Acts/Definitions/Algebra.hpp" alt="" coords="4216,665,4432,693"/>
+<area shape="rect" id="node13" href="$d1/db8/GeometryContext_8hpp.html" title="Acts/Geometry/GeometryContext.hpp" alt="" coords="1179,581,1456,609"/>
+<area shape="rect" id="node14" href="$d7/db7/SurfaceVisitorConcept_8hpp.html" title="Acts/Geometry/SurfaceVisitor\lConcept.hpp" alt="" coords="1530,573,1753,617"/>
+<area shape="rect" id="node15" href="$df/d37/TrackingVolume_8hpp.html" title="Acts/Geometry/TrackingVolume.hpp" alt="" coords="1732,489,1996,517"/>
+<area shape="rect" id="node16" href="$d3/d84/Concepts_8hpp.html" title="Acts/Utilities/Concepts.hpp" alt="" coords="2132,581,2336,609"/>
+<area shape="rect" id="node17" href="$d9/d11/Logger_8hpp.html" title="Acts/Utilities/Logger.hpp" alt="" coords="2766,581,2952,609"/>
+<area shape="rect" id="node22" href="$d5/d78/OptionsFwd_8hpp.html" title="ActsExamples/Utilities\l/OptionsFwd.hpp" alt="" coords="61,573,233,617"/>
+<area shape="rect" id="node24" href="$dc/db5/AnnulusBounds_8hpp.html" title="Acts/Surfaces/AnnulusBounds.hpp" alt="" coords="4638,489,4893,517"/>
+<area shape="rect" id="node25" href="$da/ddb/SurfaceBounds_8hpp.html" title="Acts/Surfaces/SurfaceBounds.hpp" alt="" coords="4806,581,5056,609"/>
+<area shape="rect" id="node26" href="$d2/d7a/DiscTrapezoidBounds_8hpp.html" title="Acts/Surfaces/DiscTrapezoid\lBounds.hpp" alt="" coords="5546,481,5758,525"/>
+<area shape="rect" id="node27" href="$d5/dfa/RadialBounds_8hpp.html" title="Acts/Surfaces/RadialBounds.hpp" alt="" coords="4373,489,4614,517"/>
+<area shape="rect" id="node28" href="$dc/d7d/RectangleBounds_8hpp.html" title="Acts/Surfaces/RectangleBounds.hpp" alt="" coords="5019,489,5286,517"/>
+<area shape="rect" id="node29" href="$da/d29/TrapezoidBounds_8hpp.html" title="Acts/Surfaces/TrapezoidBounds.hpp" alt="" coords="5020,397,5284,425"/>
+<area shape="rect" id="node30" href="$d2/d0a/BinUtility_8hpp.html" title="Acts/Utilities/BinUtility.hpp" alt="" coords="3872,397,4073,425"/>
+<area shape="rect" id="node31" href="$d3/d5e/BinningData_8hpp.html" title="Acts/Utilities/BinningData.hpp" alt="" coords="3470,489,3696,517"/>
+<area shape="rect" id="node32" href="$d6/df6/DigitizationAlgorithm_8hpp.html" title="ActsExamples/Digitization\l/DigitizationAlgorithm.hpp" alt="" coords="2786,205,2986,249"/>
+<area shape="rect" id="node33" href="$d2/d00/DigitizationConfig_8hpp.html" title="ActsExamples/Digitization\l/DigitizationConfig.hpp" alt="" coords="3515,297,3712,341"/>
+<area shape="rect" id="node34" href="$d4/de6/SmearingConfig_8hpp.html" title="ActsExamples/Digitization\l/SmearingConfig.hpp" alt="" coords="3222,389,3419,433"/>
+<area shape="rect" id="node35" href="$d8/d1b/RandomNumbers_8hpp.html" title="ActsExamples/Framework\l/RandomNumbers.hpp" alt="" coords="3048,481,3244,525"/>
+<area shape="rect" id="node39" href="$d6/dd9/ActsJson_8hpp.html" title="Acts/Plugins/Json/ActsJson.hpp" alt="" coords="6188,397,6416,425"/>
+<area shape="rect" id="node41" href="$d7/d8d/GeometryHierarchyMapJsonConverter_8hpp.html" title="Acts/Plugins/Json/Geometry\lHierarchyMapJsonConverter.hpp" alt="" coords="6028,297,6266,341"/>
+<area shape="rect" id="node43" href="$da/d48/EnumBitwiseOperators_8hpp.html" title="Acts/Utilities/EnumBitwise\lOperators.hpp" alt="" coords="1409,481,1608,525"/>
+<area shape="rect" id="node44" href="$d7/d32/Sequencer_8hpp.html" title="ActsExamples/Framework\l/Sequencer.hpp" alt="" coords="2472,481,2668,525"/>
+</map>

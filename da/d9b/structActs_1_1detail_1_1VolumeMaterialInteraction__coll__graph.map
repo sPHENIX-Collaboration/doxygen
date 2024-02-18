@@ -1,0 +1,26 @@
+<map id="Acts::detail::VolumeMaterialInteraction" name="Acts::detail::VolumeMaterialInteraction">
+<area shape="rect" id="node2" href="$da/ddf/classActs_1_1MaterialSlab.html" title="Acts::MaterialSlab" alt="" coords="4120,358,4264,386"/>
+<area shape="rect" id="node3" href="$dd/d14/classActs_1_1Material.html" title="Acts::Material" alt="" coords="3696,358,3811,386"/>
+<area shape="rect" id="node4" href="$db/d5d/structActs_1_1InteractionVolume.html" title="The Material interaction volume struct It acts as a switch between detctor and tracking volume as lon..." alt="" coords="4100,306,4284,334"/>
+<area shape="rect" id="node5" href="$d1/d2d/classActs_1_1Experimental_1_1DetectorVolume.html" title="Define a dummy detector volume." alt="" coords="3679,645,3828,689"/>
+<area shape="rect" id="node7" href="$dc/d36/classActs_1_1Experimental_1_1Detector.html" title="A detector." alt="" coords="4562,933,4711,977"/>
+<area shape="rect" id="node10" href="$d1/dc1/classActs_1_1GeometryHierarchyMap.html" title="Acts::GeometryHierarchyMap\l\&lt; const Surface * \&gt;" alt="" coords="4081,1030,4303,1074"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="1565,722,1655,750"/>
+<area shape="rect" id="node26" href="$dd/dcd/classActs_1_1TrackingVolume.html" title="Acts::TrackingVolume" alt="" coords="1984,329,2151,357"/>
+<area shape="rect" id="node15" title="STL class." alt="" coords="1117,714,1259,758"/>
+<area shape="rect" id="node16" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; DetectorVolume \&gt; \&gt;" alt="" coords="3115,841,3407,901"/>
+<area shape="rect" id="node19" href="$d4/d32/classOwningDelegate.html" title="OwningDelegate\&lt; void\l(const GeometryContext\l &amp;gctx, NavigationState\l &amp;nState), INavigationDelegate \&gt;" alt="" coords="3137,925,3385,1001"/>
+<area shape="rect" id="node21" href="$de/d7d/classActs_1_1Surface.html" title="Abstract Base Class for tracking surfaces." alt="" coords="2799,501,2911,529"/>
+<area shape="rect" id="node22" href="$d3/d07/classActs_1_1GeometryObject.html" title="Acts::GeometryObject" alt="" coords="345,483,517,511"/>
+<area shape="rect" id="node25" href="$da/d28/classActs_1_1Layer.html" title="Acts::Layer" alt="" coords="2418,490,2517,518"/>
+<area shape="rect" id="node27" href="$d2/d65/classActs_1_1Volume.html" title="Acts::Volume" alt="" coords="683,435,794,463"/>
+<area shape="rect" id="node23" href="$d7/d33/classActs_1_1GeometryIdentifier.html" title="Acts::GeometryIdentifier" alt="" coords="5,585,195,613"/>
+<area shape="rect" id="node28" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; Volume, ActsScalar, 3 \&gt;" alt="" coords="1077,367,1299,411"/>
+<area shape="rect" id="node29" href="$d4/d2a/classActs_1_1AxisAlignedBoundingBox.html" title="Acts::AxisAlignedBounding\lBox\&lt; entity_t, value_t, DIM \&gt;" alt="" coords="629,115,848,159"/>
+<area shape="rect" id="node37" href="$d7/dc3/classActs_1_1GlueVolumesDescriptor.html" title="Acts::GlueVolumesDescriptor" alt="" coords="1500,299,1720,327"/>
+<area shape="rect" id="node41" href="$d5/d80/classActs_1_1BinnedArray.html" title="Acts::BinnedArray\&lt; T \&gt;" alt="" coords="1097,315,1279,343"/>
+<area shape="rect" id="node42" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; Portal \&gt; \&gt;" alt="" coords="3147,755,3374,815"/>
+<area shape="rect" id="node45" href="$d0/da2/structActs_1_1Experimental_1_1DetectorVolume_1_1ObjectStore.html" title="Acts::Experimental\l::DetectorVolume::ObjectStore\l\&lt; std::shared_ptr\&lt; Surface \&gt; \&gt;" alt="" coords="3143,357,3378,417"/>
+<area shape="rect" id="node49" href="$d6/d5a/classActs_1_1Experimental_1_1Portal.html" title="Acts::Experimental\l::Portal" alt="" coords="2780,433,2929,477"/>
+<area shape="rect" id="node50" href="$d3/d8d/exceptionActs_1_1Direction.html" title="Acts::Direction" alt="" coords="4132,254,4252,282"/>
+</map>

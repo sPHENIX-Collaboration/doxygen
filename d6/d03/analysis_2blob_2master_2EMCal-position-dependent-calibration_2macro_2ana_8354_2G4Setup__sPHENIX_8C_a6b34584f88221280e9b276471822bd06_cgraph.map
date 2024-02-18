@@ -1,0 +1,51 @@
+<map id="G4Setup" name="G4Setup">
+<area shape="rect" id="node2" href="$dd/de1/G4__Bbc_8C.html#a3f797c9790308f1f89bbf3de05059739" title="Bbc" alt="" coords="235,516,282,544"/>
+<area shape="rect" id="node3" href="$d7/dca/G4__BeamLine_8C.html#a2086c9624e710d69ea64af4f89f43166" title="BeamLineDefineBeamPipe" alt="" coords="432,369,632,397"/>
+<area shape="rect" id="node15" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="686,1029,913,1057"/>
+<area shape="rect" id="node18" href="$d7/dca/G4__BeamLine_8C.html#a03446ed88c0cbe3207f3714afe8f24e9" title="BeamLineDefineMagnets" alt="" coords="437,421,627,449"/>
+<area shape="rect" id="node23" href="$d4/dcd/G4__BlackHole_8C.html#a92bea2631f85d21edb1b7b8df67d0963" title="BlackHole" alt="" coords="488,525,576,553"/>
+<area shape="rect" id="node24" href="$dc/dc5/analysis_2blob_2master_2EICAnalysis_2macros_2leptoquarks__fun4all_2G4__CEmc__Spacal_8C.html#a643b7748ae63dfed5f748e4707bbf1d3" title="EMCal main setup macro." alt="" coords="229,993,289,1021"/>
+<area shape="rect" id="node27" href="$d2/d85/G4__CEmc__Albedo_8C.html#a2d499662fb2f579d26127be451b42853" title="CEmcAlbedo" alt="" coords="479,785,585,813"/>
+<area shape="rect" id="node28" href="$d0/d78/classPHG4Reco.html#a2092ef471fbc079b3a00c48bef30596e" title="PHG4Reco::CustomizeEvtGen\lDecay" alt="" coords="149,873,369,917"/>
+<area shape="rect" id="node29" href="$d7/dba/G4__EPD_8C.html#a730c3415321ea2246c56f9ddc1f6f856" title="EPD" alt="" coords="508,993,556,1021"/>
+<area shape="rect" id="node30" href="$df/da3/analysis_2blob_2master_2EICAnalysis_2macros_2leptoquarks__fun4all_2G4__HcalIn__ref_8C.html#a3d57117b35676ff1a0c5eb9efed9f101" title="HCalInner" alt="" coords="214,1148,303,1176"/>
+<area shape="rect" id="node33" href="$de/ddd/analysis_2blob_2master_2EICAnalysis_2macros_2leptoquarks__fun4all_2G4__HcalOut__ref_8C.html#a577e7fca33252e2679529c03012ed0db" title="HCalOuter" alt="" coords="486,1200,578,1228"/>
+<area shape="rect" id="node34" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="709,1611,890,1639"/>
+<area shape="rect" id="node35" href="$df/d89/G4__TrkrSimulation_8C.html#ac639c916e2ac501f6148387ae99431a4" title="Intt" alt="" coords="509,1508,555,1536"/>
+<area shape="rect" id="node36" href="$d0/dd7/analysis_2blob_2master_2EIC-IR_2macros__fun4all_2G4__Magnet_8C.html#a69bf7334e75e61a59af0ef76c418b36a" title="Magnet" alt="" coords="495,837,569,865"/>
+<area shape="rect" id="node37" href="$df/d89/G4__TrkrSimulation_8C.html#a0c11d8363678405862a99a241a83c873" title="Micromegas" alt="" coords="207,1303,310,1331"/>
+<area shape="rect" id="node38" href="$df/d89/G4__TrkrSimulation_8C.html#abc850998cc6a347d7a1be113e3637bf6" title="Mvtx" alt="" coords="505,1456,559,1484"/>
+<area shape="rect" id="node39" href="$d6/d7f/analysis_2blob_2master_2EIC-IR_2macros__fun4all_2G4__Pipe_8C.html#a3288b3cd0aeeda385414ee0cd9a39635" title="Pipe" alt="" coords="507,889,557,917"/>
+<area shape="rect" id="node40" href="$d1/d56/G4__PlugDoor_8C.html#aa59bf2cdaabcdb80a472f7a8e1adc8fe" title="PlugDoor" alt="" coords="490,629,574,657"/>
+<area shape="rect" id="node41" href="$da/d29/classFun4AllServer.html#a0a9947db0ede1e55622001eb7515f8c0" title="Fun4AllServer::registerSubsystem" alt="" coords="133,1972,384,2000"/>
+<area shape="rect" id="node42" href="$d0/d78/classPHG4Reco.html#af7a3ea8186b3f700913d0f0ab4a64535" title="set default magnetic field strength with a constant magnetic field. Only valid if set_field_map() is ..." alt="" coords="181,1508,337,1536"/>
+<area shape="rect" id="node43" href="$d0/d78/classPHG4Reco.html#a2b127807e9bccb2480da1e0493cc2bd1" title="PHG4Reco::set_field_map" alt="" coords="161,1560,356,1588"/>
+<area shape="rect" id="node44" href="$d0/d78/classPHG4Reco.html#a29cc7f3d84eb82b13e8425bc77e200e3" title="set default scaling factor for input magnetic field map. If available, Field map setting on DST take ..." alt="" coords="181,1612,337,1656"/>
+<area shape="rect" id="node45" href="$d0/d78/classPHG4Reco.html#a79765f3051dffcab10f2dd08c18e5f89" title="PHG4Reco::set_force\l_decay" alt="" coords="178,1680,339,1724"/>
+<area shape="rect" id="node46" href="$d0/d78/classPHG4Reco.html#a7f706bdb1798a3fb60c6cdfcca81600b" title="PHG4Reco::set_rapidity\l_coverage" alt="" coords="169,1748,349,1792"/>
+<area shape="rect" id="node47" href="$d1/dd8/G4__User_8C.html#a2cd25e21209f9ec3a852772c1b4725b5" title="UserDetector" alt="" coords="203,1816,314,1844"/>
+<area shape="rect" id="node48" href="$d0/d40/G4__World_8C.html#aed74d88aca1521f12fd30916dbf7b686" title="WorldInit" alt="" coords="217,1868,300,1896"/>
+<area shape="rect" id="node49" href="$d0/d40/G4__World_8C.html#a06884d6c2d974776c4210d8c95ec8550" title="WorldSize" alt="" coords="215,1920,303,1948"/>
+<area shape="rect" id="node50" href="$d9/d37/G4__ZDC_8C.html#a8b2006749f61e81139b8d52008f9e282" title="ZDCSetup" alt="" coords="487,577,577,605"/>
+<area shape="rect" id="node4" href="$d5/d29/classPHG4DetectorSubsystem.html#a59a7a51adb7ebe0fdbc9d41e97ac8fd6" title="PHG4DetectorSubsystem\l::BlackHole" alt="" coords="703,553,895,597"/>
+<area shape="rect" id="node5" href="$db/dc5/classPHG4CylinderSubsystem.html#a720cfcefbc8548018e28bbad59acaab3" title="PHG4CylinderSubsystem\l::set_color" alt="" coords="705,177,894,221"/>
+<area shape="rect" id="node6" href="$d5/d29/classPHG4DetectorSubsystem.html#a48e75fd1738dab9d0d66b174053ead8f" title="PHG4DetectorSubsystem\l::set_double_param" alt="" coords="703,689,895,733"/>
+<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="703,757,895,801"/>
+<area shape="rect" id="node8" href="$d7/dca/G4__BeamLine_8C.html#a778da027d5859ef58f34011bb15df6a3" title="PosFlip" alt="" coords="765,125,833,153"/>
+<area shape="rect" id="node9" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="703,825,895,869"/>
+<area shape="rect" id="node10" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="703,893,895,937"/>
+<area shape="rect" id="node11" href="$db/df7/classPHG4Subsystem.html#ac78574e8db50df21c354ebb23c779dab" title="PHG4Subsystem::SetMother\lSubsystem" alt="" coords="693,245,905,289"/>
+<area shape="rect" id="node12" href="$df/d7a/namespaceG4BEAMLINE.html#ae1211eb6ccf9848e54443fc46988d29d" title="G4BEAMLINE::ForwardBeamLine\lEnclosure" alt="" coords="680,417,919,461"/>
+<area shape="rect" id="node13" href="$df/d7a/namespaceG4BEAMLINE.html#a57daf882a46eb7f79a77cd7b867f05c0" title="G4BEAMLINE::BackwardBeam\lLineEnclosure" alt="" coords="688,485,911,529"/>
+<area shape="rect" id="node14" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="703,621,895,665"/>
+<area shape="rect" id="node16" href="$d9/d52/HoughTransformSeeder_8cpp.html#a1f2cfb6e3644c66f2bfe3c54f699a72a" title="to_string" alt="" coords="759,5,839,33"/>
+<area shape="rect" id="node17" href="$d8/d6e/classPHG4ConeSubsystem.html#a6f061e2e796475c47c4fb68b4fb631e4" title="PHG4ConeSubsystem::\lset_color" alt="" coords="711,57,887,101"/>
+<area shape="rect" id="node19" href="$d5/dec/classFun4AllBase.html#a05da2261577843028cf78e99171343b9" title="Sets the verbosity of this module (0 by default=quiet)." alt="" coords="711,1289,887,1317"/>
+<area shape="rect" id="node20" href="$d7/dca/G4__BeamLine_8C.html#a6c2ab2a9389d8d82f5a1a23984564db9" title="MagFieldFlip" alt="" coords="747,313,852,341"/>
+<area shape="rect" id="node21" href="$d7/dca/G4__BeamLine_8C.html#a840e5c09ec31e0b45644355c49c4bb98" title="AngleFlip" alt="" coords="757,365,842,393"/>
+<area shape="rect" id="node22" href="$d5/d29/classPHG4DetectorSubsystem.html#adf60f69cc9a72740cf39329f91a96451" title="PHG4DetectorSubsystem\l::SetAbsorberActive" alt="" coords="703,961,895,1005"/>
+<area shape="rect" id="node25" href="$dc/dc5/analysis_2blob_2master_2EICAnalysis_2macros_2leptoquarks__fun4all_2G4__CEmc__Spacal_8C.html#a5a524f976392ac304e84c872e8d435d1" title="EMCal setup macro &#45; 1D azimuthal projective SPACAL." alt="" coords="434,733,630,761"/>
+<area shape="rect" id="node26" href="$dc/dc5/analysis_2blob_2master_2EICAnalysis_2macros_2leptoquarks__fun4all_2G4__CEmc__Spacal_8C.html#a034d8a445c397fdcb3c0be0b80d91cfb" title="2D full projective SPACAL" alt="" coords="434,1045,630,1073"/>
+<area shape="rect" id="node31" href="$d5/d29/classPHG4DetectorSubsystem.html#ac1432a8cbba08919cd979a2ab8c0b6c9" title="PHG4DetectorSubsystem\l::get_double_param" alt="" coords="703,1359,895,1403"/>
+<area shape="rect" id="node32" href="$df/da3/analysis_2blob_2master_2EICAnalysis_2macros_2leptoquarks__fun4all_2G4__HcalIn__ref_8C.html#a3b4780d0c8bf98a2dab85016a8181973" title="A rough version of the inner HCal support ring, from Richie&#39;s CAD drawing. &#45; Jin." alt="" coords="443,941,621,969"/>
+</map>

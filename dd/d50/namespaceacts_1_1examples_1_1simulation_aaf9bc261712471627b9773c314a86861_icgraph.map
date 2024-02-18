@@ -1,0 +1,30 @@
+<map id="acts.examples.simulation.addParticleGun" name="acts.examples.simulation.addParticleGun">
+<area shape="rect" id="node2" href="$d6/df1/namespacephysmon__ckf__tracking.html#a09c80c06e3155bcaa33125995eb54e78" title="physmon_ckf_tracking.run\l_ckf_tracking" alt="" coords="283,5,481,49"/>
+<area shape="rect" id="node3" href="$de/dcc/namespacephysmon__vertexing.html#a3424fb6a47b8fd45f5ac1b9d8fbaffe6" title="physmon_vertexing.run\l_vertexing" alt="" coords="291,73,473,117"/>
+<area shape="rect" id="node4" href="$df/d03/namespaceckf__tracks.html#a159f3a94c1760c94b823221b840e8b91" title="ckf_tracks.runCKFTracks" alt="" coords="290,141,474,169"/>
+<area shape="rect" id="node5" href="$d6/dee/namespaceckf.html#a9a298793b63ccd35f6072390fdd43739" title="ckf.runCKFTracks" alt="" coords="315,193,449,221"/>
+<area shape="rect" id="node9" href="$d7/d00/namespacedigitization.html#a4b94883526ad66140786b3068e074a68" title="digitization.runDigitization" alt="" coords="282,245,482,273"/>
+<area shape="rect" id="node12" href="$d1/d68/namespacefatras.html#aa7b63f75061e20ed9c8266b2104506a3" title="fatras.runFatras" alt="" coords="318,297,446,325"/>
+<area shape="rect" id="node13" href="$d1/d29/namespacegeant4.html#afee4ebad8bbf8c6600e64d4b7799d6f9" title="geant4.runGeant4" alt="" coords="309,349,455,377"/>
+<area shape="rect" id="node14" href="$df/d84/namespacegeant4__parallel.html#ac0d1be1172d83e3ca60b97c314489237" title="geant4_parallel.runGeant4\lEventRange" alt="" coords="281,401,483,445"/>
+<area shape="rect" id="node15" href="$de/d2c/namespaceparticle__gun.html#a2e85b19c2bf736c3014c19f4b9b86844" title="particle_gun.runParticleGun" alt="" coords="277,469,487,497"/>
+<area shape="rect" id="node17" href="$d2/d9c/namespaceseeding.html#a5b44e5338092e650d3428b85ac063360" title="seeding.runSeeding" alt="" coords="304,521,460,549"/>
+<area shape="rect" id="node19" href="$dd/def/namespacetruth__tracking__gsf.html#a13125a1bf46c518c624a188fa9380cce" title="truth_tracking_gsf.runTruth\lTrackingGsf" alt="" coords="281,573,483,617"/>
+<area shape="rect" id="node21" href="$d8/d58/namespacetruth__tracking__gx2f.html#a0d38068873b654abd9c9d8fdd9e8698c" title="truth_tracking_gx2f.runTruth\lTrackingGx2f" alt="" coords="276,641,488,685"/>
+<area shape="rect" id="node22" href="$df/d8c/namespacetruth__tracking__kalman.html#a31cc3150631df8303ea92e4321a308e4" title="truth_tracking_kalman.run\lTruthTrackingKalman" alt="" coords="283,709,481,753"/>
+<area shape="rect" id="node29" href="$de/dce/namespacetest__examples.html#ab1b320af29e131e411488f9209afa5d1" title="test_examples.test\l_itk_seeding" alt="" coords="307,777,457,821"/>
+<area shape="rect" id="node6" href="$de/dce/namespacetest__examples.html#acfaba0d590456535fd3e62d1c728d15b" title="test_examples.test\l_ckf_tracks_example" alt="" coords="561,125,723,169"/>
+<area shape="rect" id="node8" href="$d6/dee/namespaceckf.html#ab6746216451f0dcf01d58b3a7ddef1d0" title="ckf.getArgumentParser" alt="" coords="554,193,730,221"/>
+<area shape="rect" id="node7" href="$de/dce/namespacetest__examples.html#aed18dbc35d217291b73180ca8bdb9828" title="test_examples.test\l_digitization_config\l_example" alt="" coords="805,117,957,177"/>
+<area shape="rect" id="node10" href="$de/dce/namespacetest__examples.html#aec538bc0a4c6f77d223c31bc6749f1cf" title="test_examples.test\l_digitization_example" alt="" coords="796,268,965,312"/>
+<area shape="rect" id="node11" href="$de/dce/namespacetest__examples.html#afe48c513b6dc4f75fc30ca6697432ca3" title="test_examples.test\l_digitization_example_input" alt="" coords="536,297,748,341"/>
+<area shape="rect" id="node16" href="$de/dce/namespacetest__examples.html#a4e09b4aae37895685d1b7be1d6e548eb" title="test_examples.test\l_particle_gun" alt="" coords="567,437,717,481"/>
+<area shape="rect" id="node18" href="$de/de3/classseeding_1_1EnumAction.html#a986c875aaceadecf97c797e505df9b30" title="seeding.EnumAction.\l__call__" alt="" coords="560,505,724,549"/>
+<area shape="rect" id="node20" href="$de/dce/namespacetest__examples.html#a74c8e9ec7f0a916bc5c881bf866d4a8b" title="test_examples.test\l_truth_tracking_gsf" alt="" coords="566,573,718,617"/>
+<area shape="rect" id="node23" href="$de/dce/namespacetest__examples.html#a18cc137e3d7c8dd73f2099370c9ac131" title="test_examples.test\l_truth_tracking_kalman" alt="" coords="552,641,732,685"/>
+<area shape="rect" id="node25" href="$da/d2a/namespacetest__reader.html#a2b39f97d060f7ff464e3dbe303e18f3b" title="test_reader.test_edm4hep\l_tracks_reader" alt="" coords="543,709,741,753"/>
+<area shape="rect" id="node26" href="$d0/df7/namespacetest__writer.html#aa32576b96bfd1c47183eb7eac774ce6a" title="test_writer.test_csv\l_multitrajectory_writer" alt="" coords="554,777,730,821"/>
+<area shape="rect" id="node27" href="$d0/df7/namespacetest__writer.html#ad7b9cea5f59bb15b496a9c3d0b139a2e" title="test_writer.test_edm4hep\l_multitrajectory_writer" alt="" coords="546,845,738,889"/>
+<area shape="rect" id="node28" href="$d0/df7/namespacetest__writer.html#a2ef59a8133b5b16b42d23aa1923ba8b6" title="test_writer.test_edm4hep\l_tracks_writer" alt="" coords="546,913,738,957"/>
+<area shape="rect" id="node24" href="$de/dce/namespacetest__examples.html#acca710d8ef8edecfe63f7f978c089ef9" title="test_examples.test\l_event_recording" alt="" coords="806,641,955,685"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="PHG4SteppingAction::SetInterfacePointers" name="PHG4SteppingAction::SetInterfacePointers">
+<area shape="rect" id="node2" href="$d2/d10/classPHG4EPDSubsystem.html#af21a287ef327f20b6734de36efeeca78" title="PHG4EPDSubsystem::process\l_event" alt="" coords="247,5,468,49"/>
+<area shape="rect" id="node3" href="$d1/d66/classPHG4ZDCSubsystem.html#a3e4369fb3289e6851896fcbdaaed15d3" title="PHG4ZDCSubsystem::process\l_event" alt="" coords="246,73,469,117"/>
+<area shape="rect" id="node4" href="$d0/df4/classPHG4OHCalSubsystem.html#aa5827de0b0de201ec45304d7cda2c022" title="event processing" alt="" coords="269,141,445,185"/>
+<area shape="rect" id="node5" href="$da/d01/classPHG4OuterHcalSubsystem.html#a16e985d7250b31764e4976f5f30d855b" title="event processing" alt="" coords="257,209,458,253"/>
+<area shape="rect" id="node6" href="$d3/d62/classPHG4InnerHcalSubsystem.html#accc8683d5bc4574ec5a9e7124482b168" title="event processing" alt="" coords="259,277,456,321"/>
+<area shape="rect" id="node7" href="$df/d6e/classPHG4IHCalSubsystem.html#ae92a29c7ef58bc0aecc579962a0e68fb" title="event processing" alt="" coords="273,345,442,389"/>
+<area shape="rect" id="node8" href="$dc/d99/classPHG4SpacalPrototype4Subsystem.html#ac19f4ebe5e9cfc3143894f134a2159e0" title="event processing" alt="" coords="231,413,483,457"/>
+<area shape="rect" id="node9" href="$de/de0/classPHG4Prototype3InnerHcalSubsystem.html#a8923fb8e220bd9d35950a97300deaeca" title="event processing" alt="" coords="222,481,493,525"/>
+<area shape="rect" id="node10" href="$d7/d0d/classPHG4TpcSubsystem.html#a648b1e21b919b1bdf2c679cba3b7da57" title="event processing" alt="" coords="248,549,467,593"/>
+<area shape="rect" id="node11" href="$d3/d07/classPHG4Prototype2InnerHcalSubsystem.html#aced5ed05697f90f24845b5f723257f4c" title="event processing" alt="" coords="222,617,493,661"/>
+<area shape="rect" id="node12" href="$d2/d00/classPHG4Prototype2OuterHcalSubsystem.html#a8669b743f5ca6500f7bff12b66a4d68a" title="event processing" alt="" coords="220,685,495,729"/>
+<area shape="rect" id="node13" href="$dd/d2a/classBeamLineMagnetSubsystem.html#a70857a9fa1a31a217eea39916099ac89" title="event processing" alt="" coords="251,753,464,797"/>
+<area shape="rect" id="node14" href="$d4/d00/classPHG4SpacalPrototypeSubsystem.html#a94a80bc90f4bbf9776a7df56de846670" title="event processing" alt="" coords="236,821,479,865"/>
+<area shape="rect" id="node15" href="$db/dc5/classPHG4CylinderSubsystem.html#a9af531165cae6d92235732735ada6d21" title="event processing" alt="" coords="263,889,452,933"/>
+<area shape="rect" id="node16" href="$d8/d6e/classPHG4ConeSubsystem.html#a286e9b2b482b5c2e981a33e27ab986a4" title="event processing" alt="" coords="269,957,445,1001"/>
+<area shape="rect" id="node17" href="$df/d14/classPHG4BlockSubsystem.html#ac4ee03f0b8dbbcec077b71f545d6f1a9" title="event processing" alt="" coords="273,1025,442,1069"/>
+<area shape="rect" id="node18" href="$da/dca/classPHG4SectorSubsystem.html#aaea7dd8e80ce34d72b88f4f61de7d47c" title="event processing" alt="" coords="269,1093,445,1137"/>
+<area shape="rect" id="node19" href="$d9/dbf/classPHG4MvtxSubsystem.html#a303c4186842a984fbcd9788e9236246a" title="event processing" alt="" coords="270,1161,445,1205"/>
+<area shape="rect" id="node20" href="$d3/d9f/classPHG4EICMvtxSubsystem.html#a1ae6d87757ffcba4189d0de4d5202daa" title="event processing" alt="" coords="263,1229,451,1273"/>
+<area shape="rect" id="node21" href="$d6/d09/classPHG4InttSubsystem.html#a75caeb7d63e497d06d108523e2efd9a2" title="event processing" alt="" coords="275,1297,439,1341"/>
+<area shape="rect" id="node22" href="$d5/d22/classPHG4TpcEndCapSubsystem.html#a4772e5e75d5b2c2c1fd183e1838cb80b" title="event processing" alt="" coords="253,1365,462,1409"/>
+<area shape="rect" id="node23" href="$d6/d2d/classG4Example02Subsystem.html#ac0d993f86652614c291f1f1d93d1886a" title="event processing" alt="" coords="262,1433,453,1477"/>
+<area shape="rect" id="node24" href="$d5/dc7/classG4Example01Subsystem.html#abe80000d8af3c69a6fcec1d98165402e" title="event processing" alt="" coords="262,1501,453,1545"/>
+<area shape="rect" id="node25" href="$dc/df8/classPHG4MicromegasSubsystem.html#a2d64d9b8279fa2e47d6f6b1d04181d75" title="event processing" alt="" coords="250,1569,465,1613"/>
+<area shape="rect" id="node26" href="$d3/d75/classG4Example03Subsystem.html#a8090ce09b7bf49d440d90ad303385d89" title="event processing" alt="" coords="262,1637,453,1681"/>
+<area shape="rect" id="node27" href="$d4/dd0/classPHG4BbcSubsystem.html#a190721d39b2ac5b7500521f48c96448a" title="event processing" alt="" coords="247,1705,467,1749"/>
+<area shape="rect" id="node28" href="$dd/d21/classPHG4PSTOFSubsystem.html#a3eb42767953a90c384935749d5f992d1" title="event processing" alt="" coords="269,1773,445,1817"/>
+</map>

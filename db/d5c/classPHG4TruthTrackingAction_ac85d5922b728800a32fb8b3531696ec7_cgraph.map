@@ -1,0 +1,34 @@
+<map id="PHG4TruthTrackingAction::AddParticle" name="PHG4TruthTrackingAction::AddParticle">
+<area shape="rect" id="node2" href="$da/d6c/classPHG4TruthInfoContainer.html#a2d296833e72596ba63cc1ec8bae8618e" title="Add a particle that the user has created." alt="" coords="259,153,445,197"/>
+<area shape="rect" id="node9" href="$db/d5c/classPHG4TruthTrackingAction.html#ae25df27d1c130d1f987ae66ed02604be" title="PHG4TruthTrackingAction\l::AddVertex" alt="" coords="257,385,447,429"/>
+<area shape="rect" id="node19" href="$d6/d81/classPHG4VtxPoint.html#abd6cd30899c23d90bad06005d977b2f9" title="PHG4VtxPoint::get_id" alt="" coords="270,453,434,481"/>
+<area shape="rect" id="node20" href="$da/d6c/classPHG4TruthInfoContainer.html#a3ba073aa005881ef4086c836432a25a8" title="PHG4TruthInfoContainer\l::maxtrkindex" alt="" coords="259,505,445,549"/>
+<area shape="rect" id="node21" href="$da/d6c/classPHG4TruthInfoContainer.html#a43a1eff1c88f960af83397783f6ee04a" title="PHG4TruthInfoContainer\l::mintrkindex" alt="" coords="259,573,445,617"/>
+<area shape="rect" id="node22" href="$de/dc9/classPHG4Particle.html#aa267a51c2ee08e5e7751e70ae7772c8c" title="PHG4Particle::set_A" alt="" coords="275,641,429,669"/>
+<area shape="rect" id="node23" href="$de/dc9/classPHG4Particle.html#af06d110ff6c950a3f1e372fcd8ed5a7e" title="PHG4Particle::set_e" alt="" coords="275,693,429,721"/>
+<area shape="rect" id="node24" href="$de/dc9/classPHG4Particle.html#a7c12dd9a108557b0090e243f7f94cd52" title="PHG4Particle::set_name" alt="" coords="261,745,443,773"/>
+<area shape="rect" id="node25" href="$de/dc9/classPHG4Particle.html#ae5cd12d8d9a8c7bbf53abf9ee11ee4bc" title="PHG4Particle::set_parent_id" alt="" coords="248,797,456,825"/>
+<area shape="rect" id="node26" href="$de/dc9/classPHG4Particle.html#a86033bab0db8c268852ef7f5dc1b3526" title="PHG4Particle::set_pid" alt="" coords="269,849,435,877"/>
+<area shape="rect" id="node27" href="$de/dc9/classPHG4Particle.html#a494545fca4c4656d717dd9837aaed1ed" title="PHG4Particle::set_primary_id" alt="" coords="244,901,460,929"/>
+<area shape="rect" id="node28" href="$de/dc9/classPHG4Particle.html#af700885c965fc60e76918dfdd338c1a4" title="PHG4Particle::set_px" alt="" coords="271,953,433,981"/>
+<area shape="rect" id="node29" href="$de/dc9/classPHG4Particle.html#aa5ed831e682e7b8509008d945415608b" title="PHG4Particle::set_py" alt="" coords="271,1005,433,1033"/>
+<area shape="rect" id="node30" href="$de/dc9/classPHG4Particle.html#a73df9a86d94e7222b804f69791deb323" title="PHG4Particle::set_pz" alt="" coords="272,1057,432,1085"/>
+<area shape="rect" id="node31" href="$de/dc9/classPHG4Particle.html#aafb62ebbdbcf345f7bb3f6b70ddd979c" title="PHG4Particle::set_track_id" alt="" coords="253,1109,451,1137"/>
+<area shape="rect" id="node32" href="$de/dc9/classPHG4Particle.html#a06657cc303b4afb682088f5c812d22bc" title="PHG4Particle::set_vtx_id" alt="" coords="260,1161,444,1189"/>
+<area shape="rect" id="node33" href="$de/dc9/classPHG4Particle.html#afe1940cff2abd39688647eef26fe1bd7" title="PHG4Particle::set_Z" alt="" coords="275,1213,429,1241"/>
+<area shape="rect" id="node3" href="$de/dc9/classPHG4Particle.html#aaf95cb29207cce8188669625f7287471" title="PHG4Particle::get_name" alt="" coords="521,5,705,33"/>
+<area shape="rect" id="node4" href="$de/dc9/classPHG4Particle.html#aefb22aefc07d013f8ec9bee4f02fb7b2" title="PHG4Particle::get_parent_id" alt="" coords="508,57,717,85"/>
+<area shape="rect" id="node5" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="531,109,694,137"/>
+<area shape="rect" id="node6" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="531,161,694,189"/>
+<area shape="rect" id="node7" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="531,213,694,241"/>
+<area shape="rect" id="node8" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="513,265,712,293"/>
+<area shape="rect" id="node10" href="$da/d6c/classPHG4TruthInfoContainer.html#a5aff515e206cb2cd82ddcb705ab81af0" title="PHG4TruthInfoContainer\l::maxvtxindex" alt="" coords="520,317,705,361"/>
+<area shape="rect" id="node11" href="$da/d6c/classPHG4TruthInfoContainer.html#a808b5f4866d1bf7a14e5e1cae1c559ad" title="PHG4TruthInfoContainer\l::minvtxindex" alt="" coords="520,385,705,429"/>
+<area shape="rect" id="node12" href="$da/d6c/classPHG4TruthInfoContainer.html#a5a5215f9cda7ff36532be7470780f8d5" title="Get the Vertex Map storage." alt="" coords="520,453,705,497"/>
+<area shape="rect" id="node13" href="$da/d6c/classPHG4TruthInfoContainer.html#ac3800b9c5d96062db80120f2dfcfb44a" title="Add a vertex and return an iterator to the user." alt="" coords="520,521,705,565"/>
+<area shape="rect" id="node14" href="$da/d6c/classPHG4TruthInfoContainer.html#a696b04fd20d5d1ddb53b73b16885e775" title="PHG4TruthInfoContainer\l::identify" alt="" coords="765,491,951,535"/>
+<area shape="rect" id="node18" href="$d6/d81/classPHG4VtxPoint.html#a4d37c5414acb21cf6bfb451bcb30b385" title="PHG4VtxPoint::set_id" alt="" coords="777,559,939,587"/>
+<area shape="rect" id="node15" href="$da/d6c/classPHG4TruthInfoContainer.html#a77051a88c6708ed10465eca6b73c2272" title="PHG4TruthInfoContainer\l::GetPrimaryVertexIndex" alt="" coords="999,491,1185,535"/>
+<area shape="rect" id="node16" href="$da/d6c/classPHG4TruthInfoContainer.html#a53587ae22361008bcee4c51cc1d8d242" title="PHG4TruthInfoContainer\l::GetPrimaryVtxRange" alt="" coords="1233,456,1419,500"/>
+<area shape="rect" id="node17" href="$da/d6c/classPHG4TruthInfoContainer.html#a434c7528ce4a7f089bb4aaeb613af2ff" title="PHG4TruthInfoContainer\l::isEmbededVtx" alt="" coords="1233,524,1419,568"/>
+</map>

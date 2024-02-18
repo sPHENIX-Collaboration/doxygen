@@ -1,0 +1,28 @@
+var classJetscape_1_1JetScapeEventHeader =
+[
+    [ "JetScapeEventHeader", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a94d0d728b742a814f354e7de38892004", null ],
+    [ "GetEventPlaneAngle", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a4b82fd298576b07c27e5b83b665afa4a", null ],
+    [ "GetEventWeight", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a99caaa79a77cda58c75c244df9ed5ea4", null ],
+    [ "GetNcoll", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a5197e66f6a7ed27f63f916709218ca75", null ],
+    [ "GetNpart", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a9ec0af46801f7735824a4a823f620dca", null ],
+    [ "GetPtHat", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a90c4ee32da583aed90b3c903cbc706b8", null ],
+    [ "GetSigmaErr", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#af56326f86f46969fda623694cf23a6c2", null ],
+    [ "GetSigmaGen", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a84afb802f506227cb9677a0ff16f8dd1", null ],
+    [ "GetTotalEntropy", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#acb93545c97e140d5b36e8a836645816a", null ],
+    [ "SetEventPlaneAngle", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#aaabae54bdc4003728cba37a56b10c095", null ],
+    [ "SetEventWeight", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#afd63746f507e8a4b693c0fdfa4c13ba6", null ],
+    [ "SetNcoll", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a6853659fc3e361183bb346df5f76f1da", null ],
+    [ "SetNpart", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a9b6f2b42a807b56b8514d870a33f10ff", null ],
+    [ "SetPtHat", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a680f9172a356025f96d9842c6ef3fe2b", null ],
+    [ "SetSigmaErr", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a46c775d08be37f049bdd3f6bc14257fc", null ],
+    [ "SetSigmaGen", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a581d6ecddf848b22a4f8bf676f3732e3", null ],
+    [ "SetTotalEntropy", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#ab58738c9bbf315e7034b0b1c4a8ef8b8", null ],
+    [ "EventPlaneAngle", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#ab386a65079ff54f9a9a184c7bd25271d", null ],
+    [ "EventWeight", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#affc124fc2ecf51c107dd3031a2c0b2a7", null ],
+    [ "Ncoll", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#afe8a1c4c1342dd2a2e5ae3b6bd95e077", null ],
+    [ "Npart", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a7cf1fad47ff110bacb0aa7a5751afb85", null ],
+    [ "PtHat", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a35569c4faf5f14493dae306b7c1734d8", null ],
+    [ "SigmaErr", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a253290e33538db100274ccbc8ce13753", null ],
+    [ "SigmaGen", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a9d12dc6978fe5783876c83625ca32e76", null ],
+    [ "TotalEntropy", "d7/db8/classJetscape_1_1JetScapeEventHeader.html#a30e58564c165647afcd7008420cf17c6", null ]
+];

@@ -1,0 +1,26 @@
+var structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume =
+[
+    [ "barrelMap", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#af4e025e33ebb2e6610ac5a04c75531df", null ],
+    [ "binning0", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a83a60a5f2fc0cf14abe391d7b89da164", null ],
+    [ "binning1", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#ad61d6d548e3e9ca1876313c74d9ad826", null ],
+    [ "binTolerancePhi", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#aca7a5d664f7babef5127bedb0a8a6e53", null ],
+    [ "binToleranceR", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a08056145baddbd81a8ae2dfa57dc63ab", null ],
+    [ "binToleranceZ", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#ac5d67c90320da714614c94248cdc4615", null ],
+    [ "cylinderDiscSplit", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#ab60874408c691e49ff36d39bc5cd23f0", null ],
+    [ "cylinderNPhiSegments", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#abdbd30cf6dbe68f8e7b8dce0ced9936d", null ],
+    [ "cylinderNZSegments", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a98d697792cb1bd8f57cb481bea0c9295", null ],
+    [ "discMap", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a8429e9f296105259a04d10ec0419c63f", null ],
+    [ "discNPhiSegments", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#aac6e5898d9210b29e43bb63c600d8bf0", null ],
+    [ "discNRSegments", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#ae5d269ffec77c928a5cdc13d4658568b", null ],
+    [ "itkModuleSplit", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a9da4560a4bf5955afc41165835ba7d71", null ],
+    [ "layers", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a09bb6ebdb31b19a419ee438f02c8d036", null ],
+    [ "name", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a60aa4270705ad628ac0aed3dd80ee0ce", null ],
+    [ "rRange", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#ab48a0ba559d5598e0b5ec28dff3d7cf8", null ],
+    [ "sensitiveAxes", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#ab535fe0d25dd176917d4128b6304b2d2", null ],
+    [ "sensitiveNames", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a3bd35d5d5d6893cba081e5679df0eac2", null ],
+    [ "splitPatterns", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#acac9b7c7e34bc1f17cced010946c4892", null ],
+    [ "splitTolR", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a229b389fcf7d615ea738c18b15d3381a", null ],
+    [ "splitTolZ", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a9ce99dc6d3fbc50f57b6c33507561108", null ],
+    [ "subVolumeName", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a14e62769623d2f1ce6887b04a0076cf4", null ],
+    [ "zRange", "d2/df0/structActsExamples_1_1TGeoDetector_1_1Config_1_1Volume.html#a3df02131e7794715b090aa9379df0612", null ]
+];
